@@ -1,0 +1,224 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,IVX Enterprise Cloud
+,Hermes File Protect Subscriptions,,,,IVX,IVX Enterprise Cloud
+NWEFX-T,File Security (Enterprise)(T),,,,IVX-BP,IVX Enterprise Cloud -Banded Submission Pack
+,Hermes On-Prem File Protect Hardware Deployment Options,,,,,Hermes IVX Investigator Subscriptions (Formerly AX)
+NWFX6600-T,File Protect 6600 Appliance(T),,,,NFEAX-T,IVX Investigator (Formerly AX)(T)
+,IVX File Share Connector Virtual Appliance Deployment Options,,,,,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX)
+NWFX-VA-T,IVX File Share Connector(Formerly FX-VA)(T),,,,NFAX5600-T,IVX Investigator 5600 Appliance  (Formerly AX)(T)
+,IVX Enterprise On-Prem - Hardware Appliances,,,,,IVX Enterprise - Virtual Appliances
+5600IVX-T,5600 IVX Enterprise Appliance(T),,,,IVX-VM300,Trellix Intelligent Virtual Execution VM 300 - 16 Core
+5600IVX-S-T,5600 IVX Enterprise SW and DTI - Subscription(T),,,,IVX-VM300-32,Trellix Intelligent Virtual Execution VM 300 - 32 Core
+12600IVX-T,12600 IVX Enterprise Appliance(T),,,,IVX-VM300-48,Trellix Intelligent Virtual Execution VM 300 - 48 Core
+12600IVX-S-T,12600 IVX Enterprise SW and DTI - Subscription(T),,,,IVX-VM300-64,Trellix Intelligent Virtual Execution VM 300 - 64 Core
+,,,,,,Central Management Virtual Appliance Deployment Options - IVX/ATD
+,,,,,CM-VA-IVX,Central Management - Virtual Appliance - IVX
+,,,,,CM-VA-DTI-IVX,CM Virtual Appliance - Dynamic Threat Intelligence - IVX
+Trellix IVX,,,,,,
+,Hermes File Protect Subscriptions,,,,,
+NWEFX-T,"File Security (Enterprise)(T)
+LICENSE: Per Appliance
+Content: File Security",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security 2W 1:1TE(T),NWFX2WECE-AA,142332.9,NWFX2WECE-AA-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security 1W 1:1TE(T),NWFX1WECE-AA,156566.19,NWFX1WECE-AA-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security OF 1:1TE(T),NWFXOFECE-AA,170799.48,NWFXOFECE-AA-AA,
+,Hermes On-Prem File Protect Hardware Deployment Options,,,,,
+NWFX6600-T,"File Protect 6600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes File Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,File Protect 6600 Appliance(T),NWFX-6600-T,133557.49,NWFX-6600-TA,
+,IVX File Share Connector Virtual Appliance Deployment Options,,,,,
+NWFX-VA-T,"IVX File Share Connector(Formerly FX-VA)(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with IVX Cloud, IVX Virtual, or IVX On-Prem subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,File Share Connector SW PERP LIC(T),VNWFXCXE-AT,0.0,VNWFXCXE-AT-AA,
+,IVX Enterprise On-Prem - Hardware Appliances,,,,,
+5600IVX-T,"5600 IVX Enterprise Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance Subscription License option as required for the SW activation code, DTI subscription and Support options for the appliance.
+NOTES: The Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 IVX Enterprise S Appl (T),IVX-5600-T,46025.96,IVX-5600-TA,FCS Date 04/14/2025
+5600IVX-S-T,"5600 IVX Enterprise SW and DTI - Subscription(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation and Content Key
+CONTENT: Software, Support and DTI Subscription for 5600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTE: This Classic License option is  NOT applicable for a base Hermes subscription related HW Deployment Option. It provides an all-in offering that combines the Software, Support and DTI Content for an appliance as a combined annual Subscription",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl SW&DTI 2W 1:1TE(T),IVX56002WECE-AT,101921.16,IVX56002WECE-AT-AA,FCS Date 04/14/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl SW&DTI 1W 1:1TE(T),IVX56001WECE-AT,120452.28,IVX56001WECE-AT-AA,FCS Date 04/14/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl SW&DTI OF 1:1TE(T),IVX5600OFECE-AT,129717.84,IVX5600OFECE-AT-AA,FCS Date 04/14/2025
+12600IVX-T,"12600 IVX Enterprise Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance Subscription License option as required for the SW activation code, DTI subscription and Support options for the appliance.
+NOTES: The Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,12600 IVX Enterprise S Appl(T),IVX-12600-T,165260.53,IVX-12600-TA,FCS Date 04/14/2025
+12600IVX-S-T,"12600 IVX Enterprise SW and DTI - Subscription(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation and Content Key
+CONTENT: Software, Support and DTI Subscription for 12600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTE: The Classic License option is  NOT applicable for a base Hermes subscription related HW Deployment Option. It provides an all-in offering that combines the Software, Support and DTI Content for an appliance as a combined annual Subscription",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl SW&DTI 2W 1:1TE(T),IVX126002ECE-AT,361356.84,IVX126002ECE-AT-AA,FCS Date 04/14/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl SW&DTI 1W 1:1TE(T),IVX126001ECE-AT,426215.76,IVX126001ECE-AT-AA,FCS Date 04/14/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl SW&DTI OF 1:1TE(T),IVX12600OECE-AT,435481.32,IVX12600OECE-AT-AA,FCS Date 04/14/2025
+,IVX Enterprise Cloud,,,,,
+IVX,"IVX Enterprise Cloud
+LICENSE: Per User
+DELIVERABLE: IVX Enterprise Cloud
+REQUIREMENTS: Minimum New Sale Order Quantity is 250 Users
+NOTE:  Trellix-M IAM hosted only
+Customer purchasing on a Per-User basis may use the Product for up to twenty (20) submissions per User per month of the Product Term, aggregated across all of Customer’s Users. ""Submissions"" are files or other artefacts submitted to the Product by Customer for processing.  User’s here refers to the employee count of the organization.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,IVX Enterprise Cloud 1:1TE,IVXECE-AA,74.48,IVXECE-AA-AA,
+B,251-1000,IVX Enterprise Cloud 1:1TE,IVXECE-AA,69.34,IVXECE-AA-BA,
+C,1001-2000,IVX Enterprise Cloud 1:1TE,IVXECE-AA,64.21,IVXECE-AA-CA,
+D,2001-5000,IVX Enterprise Cloud 1:1TE,IVXECE-AA,61.63,IVXECE-AA-DA,
+E,5001-10000,IVX Enterprise Cloud 1:1TE,IVXECE-AA,59.08,IVXECE-AA-EA,
+F,10001-+,IVX Enterprise Cloud 1:1TE,IVXECE-AA,56.5,IVXECE-AA-FA,
+IVX-BP,"IVX Enterprise Cloud -Banded Submission Pack
+LICENSE: Submission Pack
+DELIVERABLE: IVX Enterprise Cloud
+NOTE:  Trellix-M IAM hosted. Equally divided monthly quota of submission enforced over 10000 quantity (use it or lose it)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,10000-10000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,1.85,IVXPECE-AAAA,
+B,10001-30000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,1.48,IVXPECE-AABA,
+C,30001-60000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,1.33,IVXPECE-AACA,
+D,60001-120000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,1.2,IVXPECE-AADA,
+E,120001-240000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,1.08,IVXPECE-AAEA,
+F,240001-600000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,0.96,IVXPECE-AAFA,
+G,600001-1200000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,0.86,IVXPECE-AAGA,
+H,1200001-2400000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,0.8,IVXPECE-AAHA,
+I,2400001-6000000,IVX Enterprise Cloud (Yrl Sub Pk) 1:1TE,IVXPECE-AA,0.71,IVXPECE-AAIA,
+,Hermes IVX Investigator Subscriptions (Formerly AX),,,,,
+NFEAX-T,"IVX Investigator (Formerly AX)(T)
+LICENSE: Per Appliance
+CONTENT: IVX Investigator",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator 2W 1:1TE(T),NFAX2WECE-AT,104876.87,NFAX2WECE-AT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator 1W 1:1TE(T),NFAX1WECE-AT,120608.4,NFAX1WECE-AT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator OF 1:1TE(T),NFAXOFECE-AT,125852.25,NFAXOFECE-AT-AA,
+,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX),,,,,
+NFAX5600-T,"IVX Investigator 5600 Appliance  (Formerly AX)(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes IVX Investigator subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX Investigator 5600 Appliance(T),NFAX-5600-T,47943.71,NFAX-5600-TA,
+,IVX Enterprise - Virtual Appliances,,,,,
+IVX-VM300,"Trellix Intelligent Virtual Execution VM 300 - 16 Core
+LICENSE: Per Virtual Instance
+DELIVERABLE: Includes 16 core VM Appliance, Support and DTI License
+CONTENT: Subscription for IVX-VM300 16 core Virtual Appliance
+REQUIREMENTS:  Must download software for installation in customer's VMware environment (VMware license and hardware not included)",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-16 Inc 2W DTI 1:1 TE,IVX3002WECE-AB,70418.26,IVX3002WECE-AB-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-16 Inc 1W DTI 1:1 TE,IVX3001WECE-AB,73790.92,IVX3001WECE-AB-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-16 Inc OF DTI 1:1 TE,IVX300OFECE-AB,74912.05,IVX300OFECE-AB-AA,
+IVX-VM300-32,"Trellix Intelligent Virtual Execution VM 300 - 32 Core
+LICENSE: Per Virtual Instance
+DELIVERABLE: Includes 32 core Appliance, Support and DTI License
+CONTENT: Subscription for IVX-VM300 32 core Virtual Appliance
+REQUIREMENTS:  Must download software for installation in customer's VMware environment (VMware license and hardware not included)",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-32 Inc 2W DTI 1:1 TE,IVX3322WECE-AB,140836.51,IVX3322WECE-AB-AA,FCS Date 04/30/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-32 Inc 1W DTI 1:1 TE,IVX3321WECE-AB,147581.84,IVX3321WECE-AB-AA,FCS Date 04/30/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-32 Inc OF DTI 1:1 TE,IVX332OFECE-AB,149824.11,IVX332OFECE-AB-AA,FCS Date 04/30/2025
+IVX-VM300-48,"Trellix Intelligent Virtual Execution VM 300 - 48 Core
+LICENSE: Per Virtual Instance
+DELIVERABLE: Includes 48 core Appliance, Support and DTI License
+CONTENT: Subscription for IVX-VM300 48 core Virtual Appliance
+REQUIREMENTS:  Must download software for installation in customer's VMware environment (VMware license and hardware not included)",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-48 Inc 2W DTI 1:1 TE,IVX3482WECE-AB,211254.77,IVX3482WECE-AB-AA,FCS Date 04/30/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-48 Inc 1W DTI 1:1 TE,IVX3481WECE-AB,221372.76,IVX3481WECE-AB-AA,FCS Date 04/30/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-48 Inc OF DTI 1:1 TE,IVX348OFECE-AB,224736.16,IVX348OFECE-AB-AA,FCS Date 04/30/2025
+IVX-VM300-64,"Trellix Intelligent Virtual Execution VM 300 - 64 Core
+LICENSE: Per Virtual Instance
+DELIVERABLE: Includes 64 core Appliance, Support and DTI License
+CONTENT: Subscription for IVX-VM300 64 core Virtual Appliance
+REQUIREMENTS:  Must download software for installation in customer's VMware environment (VMware license and hardware not included)",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-64 Inc 2W DTI 1:1 TE,IVX3642WECE-AB,281673.02,IVX3642WECE-AB-AA,FCS Date 04/30/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-64 Inc 1W DTI 1:1 TE,IVX3641WECE-AB,295163.68,IVX3641WECE-AB-AA,FCS Date 04/30/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Sandbox VM300-64 Inc OF DTI 1:1 TE,IVX364OFECE-AB,299648.21,IVX364OFECE-AB-AA,FCS Date 04/30/2025
+,Central Management Virtual Appliance Deployment Options - IVX/ATD,,,,,
+CM-VA-IVX,"Central Management - Virtual Appliance - IVX
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a $0 VM deployment option for IVX customers with 2 or more appliances. The charged options will, otherwise, apply.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,CM Virt Appl IVX SW PERP LIC,VCMIVX-AT,0.0,VCMIVX-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl IVX SW 1Yr TE(T),VCMIVXYCM-AT,0.0,VCMIVXYCM-AT-AA,
+CM-VA-DTI-IVX,"CM Virtual Appliance - Dynamic Threat Intelligence - IVX
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key. CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl DTI IVX 2W 1:1TE,VCM2WECE-AT,0.0,VCM2WECE-AT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl DTI IVX 1W 1:1TE,VCM1WECE-AT,0.0,VCM1WECE-AT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl DTI IVX OF 1:1TE,VCMOFECE-AT,0.0,VCMOFECE-AT-AA,

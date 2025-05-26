@@ -1,0 +1,198 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Hermes Email Virtual Appliance Deployment Options
+,Email Security,,,,EM-VA-T,Email Security Sensor Virtual(T)
+EMCL,Email Security Cloud Edition,,,,EM2500-VA-T,Email Security Virtual 16 Core Appliance(T)
+EMCA,Email Security Cloud AntiVirus/AntiSpam Edition,,,,EM2500-VA-32-T,Email Security Virtual 32 Core Appliance(T)
+EMCAU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade,,,,EM2500-VA-48-T,Email Security Virtual 48 Core Appliance(T)
+TPS,Trellix Phishing Simulator,,,,EM2500-VA-64-T,Email Security Virtual 64 Core Appliance(T)
+EMCLVX,Email Security for Office 365,,,,EM7700-BM-VA-T,Email Security 7700 BareMetal Virtual Appliance(T)
+,Hermes Email Subscriptions,,,,,Hermes Email Hardware Appliance Deployment Options
+EMUSE-T,Email Security Server Edition(T),,,,EM3600-T,EM 3600 Appliance(T)
+,,,,,EM5600-T,EM 5600 Appliance(T)
+,,,,,EM8600-T,EM 8600 Appliance(T)
+Trellix Email Security,,,,,,
+,Email Security,,,,,
+EMCL,"Email Security Cloud Edition
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud without AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld Ed 1:1TE,EMCLECE-AA,107.87,EMCLECE-AAAA,
+B,251-1000,Email Sec Cld Ed 1:1TE,EMCLECE-AA,76.41,EMCLECE-AABA,
+C,1001-2000,Email Sec Cld Ed 1:1TE,EMCLECE-AA,62.93,EMCLECE-AACA,
+D,2001-5000,Email Sec Cld Ed 1:1TE,EMCLECE-AA,58.43,EMCLECE-AADA,
+E,5001-10000,Email Sec Cld Ed 1:1TE,EMCLECE-AA,56.18,EMCLECE-AAEA,
+F,10001-+,Email Sec Cld Ed 1:1TE,EMCLECE-AA,47.19,EMCLECE-AAFA,
+EMCA,"Email Security Cloud AntiVirus/AntiSpam Edition
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,158.6,EMCAECE-AAAA,
+B,251-1000,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,112.33,EMCAECE-AABA,
+C,1001-2000,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,92.5,EMCAECE-AACA,
+D,2001-5000,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,73.04,EMCAECE-AADA,
+E,5001-10000,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,70.25,EMCAECE-AAEA,
+F,10001-+,Email Sec Cld AVAS Ed 1:1TE,EMCAECE-AA,58.99,EMCAECE-AAFA,
+EMCAU,"Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,158.6,EMCAECE-DAAA,
+B,251-1000,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,112.33,EMCAECE-DABA,
+C,1001-2000,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,92.5,EMCAECE-DACA,
+D,2001-5000,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,73.04,EMCAECE-DADA,
+E,5001-10000,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,70.25,EMCAECE-DAEA,
+F,10001-+,Email Sec Cld AVAS Ed UPGD 1:1TE,EMCAECE-DA,58.99,EMCAECE-DAFA,
+TPS,"Trellix Phishing Simulator
+LICENSE: Per User
+DELIVERABLE: SaaS with Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam
+CONTENT: Trellix Phishing Simulator add-on for Email Security Cloud (EMCL) or Email Security Cloud AntiVirus/AntiSpam (EMCA). The datacenter for this SKU will match the customer’s Email Security Cloud instance.
+MANAGEMENT: From within Email Security Cloud console
+RESTRICTIONS: Order Quantity must match base Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam SKU
+NOTE:  Trellix-M IAM hosted only
+REQUIREMENTS: Add-on Feature for customers with EMCL Email Securty Cloud Edition or EMCA Email Security Cloud Antivirus/AntiSpam.
+NOTE: EMCLVX Email Security for Office 365 already includes this feature in its bundle.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Phishing Sim 1:1TE,TPSECE-AA,33.36,TPSECE-AA-AA,FCS Date 05/07/2025
+B,251-1000,Trellix Phishing Sim 1:1TE,TPSECE-AA,28.35,TPSECE-AA-BA,FCS Date 05/07/2025
+C,1001-2000,Trellix Phishing Sim 1:1TE,TPSECE-AA,24.11,TPSECE-AA-CA,FCS Date 05/07/2025
+D,2001-5000,Trellix Phishing Sim 1:1TE,TPSECE-AA,21.68,TPSECE-AA-DA,FCS Date 05/07/2025
+E,5001-10000,Trellix Phishing Sim 1:1TE,TPSECE-AA,19.52,TPSECE-AA-EA,FCS Date 05/07/2025
+F,10001-+,Trellix Phishing Sim 1:1TE,TPSECE-AA,17.57,TPSECE-AA-FA,FCS Date 05/07/2025
+EMCLVX,"Email Security for Office 365
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud with AntiVirus/AntiSpam functionality, IVX Enterprise Cloud and Trellix Phishing Simulator
+MANAGEMENT: Both Email Cloud and IVX Enterprise Cloud have own console
+RESTRICTIONS: Minimum New Sale Order Quantity is 250 Users
+NOTE: Trellix-M IAM hosted only. Customers purchasing on a Per-User basis may use the Product for up to twenty (20) submissions per User per month of the Product Term, aggregated across all of Customer’s Users. ""Submissions"" are files or other artefacts submitted to the Product by Customer for processing. Users here refers to the employee count of the organization.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec for Office 365 1:1TE,EMCVECE-AA,Call For Quote,EMCVECE-AAAA,
+B,251-1000,Email Sec for Office 365 1:1TE,EMCVECE-AA,127.14,EMCVECE-AABA,
+C,1001-2000,Email Sec for Office 365 1:1TE,EMCVECE-AA,127.14,EMCVECE-AACA,
+D,2001-5000,Email Sec for Office 365 1:1TE,EMCVECE-AA,115.26,EMCVECE-AADA,
+E,5001-10000,Email Sec for Office 365 1:1TE,EMCVECE-AA,115.26,EMCVECE-AAEA,
+F,10001-+,Email Sec for Office 365 1:1TE,EMCVECE-AA,103.7,EMCVECE-AAFA,
+,Hermes Email Subscriptions,,,,,
+EMUSE-T,"Email Security Server Edition(T)
+LICENSE: Per User
+DELIVERABLE: Activation email
+CONTENT:  Hermes base Subscription. Activation keys for Agents, DTI Content and Support for Email On-prem.
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys. ",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,107.87,EMSE2WECE-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,76.41,EMSE2WECE-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,62.93,EMSE2WECE-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,58.43,EMSE2WECE-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,56.18,EMSE2WECE-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) 2W 1:1TE(T),EMSE2WECE-AA,47.19,EMSE2WECE-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,124.07,EMSE1WECE-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,87.87,EMSE1WECE-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,72.36,EMSE1WECE-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,67.19,EMSE1WECE-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,64.6,EMSE1WECE-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) 1W 1:1TE(T),EMSE1WECE-AA,54.3,EMSE1WECE-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,129.46,EMSEOFECE-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,91.7,EMSEOFECE-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,75.51,EMSEOFECE-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,70.12,EMSEOFECE-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,67.42,EMSEOFECE-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) OF 1:1TE(T),EMSEOFECE-AA,56.64,EMSEOFECE-AA-FA,
+,Hermes Email Virtual Appliance Deployment Options,,,,,
+EM-VA-T,"Email Security Sensor Virtual(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+CONTENT: Performance up to 1250 unique attachments per hour
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE: Sensor requires VX (virtual execution) in any form factor.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM Virt Appl Sensor SW PERP LIC(T),VEMSCXE-AT,0,VEMSCXE-ATAA,
+EM2500-VA-T,"Email Security Virtual 16 Core Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image, which runs on VMWare Hypervisor. Virtual appliance image contains activation code.
+CONTENT: Performance up to 350 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE:  Virtual appliance is an integrated appliance like any physical appliance. No separate IVX (intelligent virtual execution) is needed.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 2500 Virt 16 Appl SW PERP LIC(T),VEM2500CXE-AT,11118.67,VEM2500CXE-AT-AA,
+EM2500-VA-32-T,"Email Security Virtual 32 Core Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image, which runs on VMWare Hypervisor. Virtual appliance image contains activation code.
+CONTENT: Performance up to 700 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE:  Virtual appliance is an integrated appliance like any physical appliance. No separate IVX (intelligent virtual execution) is needed.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 2500 Virt 32 Appl SW PERP LIC(T),VEM250032CXE-AT,22237.34,VEM250032CXE-AT-AA,FCS Date 04/30/2025
+EM2500-VA-48-T,"Email Security Virtual 48 Core Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image, which runs on VMWare Hypervisor. Virtual appliance image contains activation code.
+CONTENT: Performance up to 1050 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE:  Virtual appliance is an integrated appliance like any physical appliance. No separate IVX (intelligent virtual execution) is needed.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 2500 Virt 48 Appl SW PERP LIC(T),VEM250048CXE-AT,33356.02,VEM250048CXE-AT-AA,FCS Date 04/30/2025
+EM2500-VA-64-T,"Email Security Virtual 64 Core Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image, which runs on VMWare Hypervisor. Virtual appliance image contains activation code.
+CONTENT: Performance up to 1400 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE:  Virtual appliance is an integrated appliance like any physical appliance. No separate IVX (intelligent virtual execution) is needed.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 2500 Virt 64 Appl SW PERP LIC(T),VEM250064CXE-AT,44474.69,VEM250064CXE-AT-AA,FCS Date 04/30/2025
+EM7700-BM-VA-T,"Email Security 7700 BareMetal Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal. Activation code is sent via an email.
+CONTENT: Performance up to 6100 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE: BareMetal appliance is an integrated appliance like any physical appliance.  No seperate VX (virtual execution) is needed as It runs on c5 metal AWS instance.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 7700 BM Virt Appl SW PERP LIC(T),VEMB7700CXE-AT,0,VEMB7700CXE-AT-AA,
+,Hermes Email Hardware Appliance Deployment Options,,,,,
+EM3600-T,"EM 3600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 875 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 3600 Appliance(T),EM-3600-T,35957.79,EM-3600-TA,
+EM5600-T,"EM 5600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 2200 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 5600 Appliance(T),EM-5600-T,71915.57,EM-5600-TA,
+EM8600-T,"EM 8600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 3300 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 8600 Appliance(T),EM-8600-T,107873.36,EM-8600-TA,

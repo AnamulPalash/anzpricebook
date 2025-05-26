@@ -1,0 +1,1378 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,File & Application Control
+,Device to Cloud Defense (SaaS Only),,,,CCD,Trellix Change Control for PCs
+MVA,Trellix Advanced,,,,ACD,Trellix Application Control for PCs
+MVAU,Trellix Advanced - Upgrade,,,,ACD-S,Trellix Application Control for PCs - Subscription
+MVP,Trellix Premium,,,,ICD,Trellix Integrity Control for Fixed Function Devices
+MVPU,Trellix Premium - Upgrade,,,,,Security Management
+,Protection and EDR (SaaS & On-Premise),,,,EPO,Trellix ePolicy Orchestrator On-Prem
+MDR1,Managed Detection & Response Service 1,,,,,Threat Intelligence Exchange
+TRXHX,Trellix Advanced Endpoint Security with Forensics,,,,MVT,Trellix Threat Intelligence Exchange - SaaS
+TRXHXU,Trellix Advanced Endpoint Security with Forensics - Upgrade,,,,MVT-U,Trellix Threat Intelligence Exchange - SaaS Upgrade
+TRXE1,Trellix Endpoint Security Suite,,,,TIE,Trellix Threat Intelligence Exchange
+TRXE1U,Trellix Endpoint Security Suite - Upgrade,,,,,Risk Management
+SS4,Trellix Secure Schools Endpoint Security Suite,,,,HPD,Trellix Policy Auditor for Desktops
+SS4U,Trellix Secure Schools Endpoint Security Suite - UPGRADE,,,,,Platform API
+MV6,Trellix Protect Plus EDR for Endpoint,,,,PL1,Trellix API
+MV6U,Trellix Protect Plus EDR for Endpoint - Upgrade,,,,,Extended and Custom Software Support
+EDREX,Trellix EDR Data Extension Add-on,,,,CUST-SPPT-ENS-C,Trellix Software Support on Windows 7 - ENS-Client
+EDREX180,Trellix EDR Data Extension Add-on 180 Days,,,,CUST-SPPT-ENS-S,Trellix Software Support on Legacy Windows Server - ENS-Server
+EDREX180-U,Trellix EDR Data Extension Add-on 180 Days - Upgrade,,,,CUST-SPPT-WIN-HIPS-C,Trellix Software Support on Legacy Windows - HIPS-Client
+EDR-WISE,Trellix Wise for EDR Add-on,,,,CUST-SPPT-WIN-HIPS-S,Trellix Software Support on Legacy Windows Server - HIPS-Server
+,Protection and EDR (SaaS & On-Premise) - With MDR,,,,CUST-SPPT-W7-MAC-S,Trellix Software Support on Legacy Windows Server - TAC-Server
+TRXE1M1,Trellix Endpoint Security Suite + Managed Detection & Response,,,,CUST-SPPT-W7-MAC-C,Trellix Software Support on Windows 7 - TAC-Client
+TRXE1M1U,Trellix Endpoint Security Suite - Upgrade + Managed Detection & Response,,,,CUST-SPPT-W7-MCC-C,Trellix Software Support on Windows 7 - TCC-Client
+,EDR (SaaS & On-Premise),,,,CUST-SPPT-W7-MCC-S,Trellix Software Support on Legacy Windows Server - TCC-Server
+MV4,Trellix EDR,,,,CUST-SPPT-WIN-VSE-C,Trellix Software Support on Legacy Windows - VSE-Client
+MV4U,Trellix EDR - Upgrade,,,,CUST-SPPT-WIN-VSE-S,Trellix Software Support on Legacy Windows Server - VSE-Server
+,Protection (SaaS & On-Premise),,,,CUST-SPPT-ACD,Trellix Legacy Support for Application and Change Control - Desktop
+MV1,Trellix Protect Standard,,,,CUST-SPPT-ACS,Trellix Legacy Support for Application and Change Control - Server
+MV1U,Trellix Protect Standard - Upgrade,,,,CUST-SPPT-WIN-HX,Trellix Software Support on Legacy Windows - HX
+MV2,Trellix Protect Plus,,,,CUST-SPPT-EDR,Trellix Software Extended Support on Windows - EDR
+MV2U,Trellix Protect Plus - Upgrade,,,,,Hermes Endpoint Subscriptions
+MV3,Trellix Mobile Security Advanced,,,,EPEES-T,Endpoint Security Essentials Edition (Enterprise)(T)
+VPC,Trellix Mobile Security Advanced - Public Cloud VPC,,,,EPUES-T,Endpoint Security Essentials Edition(T)
+SS1,Trellix Secure Schools Protect Standard,,,,EPEPW-T,Endpoint Security Power Edition (Enterprise)(T)
+OPVA,Trellix Mobile Security Advanced - On-Prem,,,,EPEPWU-T,Endpoint Security Power Edition (Enterprise) - UPGRADE(T)
+SS2,Trellix Secure Schools Protect Plus,,,,EPUPW-T,Endpoint Security Power Edition(T)
+SS3,Trellix Secure Schools Protect Standard with EDR for Endpoint,,,,EPUPWU-T,Endpoint Security Power Edition - UPGRADE(T)
+,Insights (SaaS & On-Premise),,,,,Hermes Endpoint Virtual Appliance Deployment Options
+MVI,Trellix Insights,,,,EP-VA-T,Endpoint Security Virtual(T)
+,Endpoint Protection On Premises,,,,EP-DMZ-VA-T,Endpoint Security DMZ Virtual(T)
+CEB,Trellix Complete EndPoint Protection - Business,,,,,Hermes Endpoint Hardware Appliance Deployment Options
+CEB-S,Trellix Complete EndPoint Protection - Business Subscription,,,,EP4600-T,EP 4600 Appliance(T)
+CEBU,Trellix Complete EndPoint Protection - Business Upgrade,,,,EP4600-DMZ-T,EP 4600 DMZ Appliance(T)
+CEBU-S,Trellix Complete EndPoint Protection - Business Upgrade Subscription,,,,,Endpoint Cloud Deploy Options
+PSM-N,Trellix Security for Microsoft SharePoint,,,,HXCL-T,HX Cloud Hosting Endpoint - Large (T)
+,,,,,HXCM-T,HX Cloud Hosting Endpoint - Medium(T)
+,,,,,HXGCL-T,HX Cloud Hosting Endpoint - GCP - Large (T)
+,,,,,HXGCM-T,HX Cloud Hosting Endpoint - GCP - Medium(T)
+Trellix Endpoint Security,,,,,,
+,Device to Cloud Defense (SaaS Only),,,,,
+MVA,"Trellix Advanced
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+DOWNLOADS:  Trellix Agent with optional modules including  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control for Windows & MacOS and Trellix Native Drive Encryption for Windows & MacOS.
+CLOUD SERVICES:  Trellix Insights
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Advanced 1:1TE,MVAECE-AA,226.51,MVAECE-AA-AA,
+B,251-1000,Trellix Advanced 1:1TE,MVAECE-AA,199.58,MVAECE-AA-BA,
+C,1001-2000,Trellix Advanced 1:1TE,MVAECE-AA,171,MVAECE-AA-CA,
+D,2001-5000,Trellix Advanced 1:1TE,MVAECE-AA,147.21,MVAECE-AA-DA,
+E,5001-10000,Trellix Advanced 1:1TE,MVAECE-AA,130.75,MVAECE-AA-EA,
+F,10001-+,Trellix Advanced 1:1TE,MVAECE-AA,114.24,MVAECE-AA-FA,
+MVAU,"Trellix Advanced - Upgrade
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+DOWNLOADS:  Trellix Agent with optional modules including  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control for Windows & MacOS and Trellix Native Drive Encryption for Windows & MacOS.
+CLOUD SERVICES:  Trellix Insights
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Advanced UPGD 1:1TE,MVAECE-DA,226.51,MVAECE-DA-AA,
+B,251-1000,Trellix Advanced UPGD 1:1TE,MVAECE-DA,199.58,MVAECE-DA-BA,
+C,1001-2000,Trellix Advanced UPGD 1:1TE,MVAECE-DA,171,MVAECE-DA-CA,
+D,2001-5000,Trellix Advanced UPGD 1:1TE,MVAECE-DA,147.21,MVAECE-DA-DA,
+E,5001-10000,Trellix Advanced UPGD 1:1TE,MVAECE-DA,130.75,MVAECE-DA-EA,
+F,10001-+,Trellix Advanced UPGD 1:1TE,MVAECE-DA,114.24,MVAECE-DA-FA,
+MVP,"Trellix Premium
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Premium defense for your endpoints with ability to prevent, detect, and response to threat attacks and data loss incidents.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+3.	Protect accidental and malicious data loss through common channels at the endpoint such as: email, web posting, printing, USB drives, uploading to the cloud and meet industry & government compliance (GDPR,PCI,HIPAA) to protected intellectual property at the same time.
+4.	Endpoint detection, investigation and response (EDR) with continuous endpoint monitoring, 30-day event storage, advanced threat hunting with real-time searches, AI-guided investigation and response, reputation management and integrations with partner products (e.g. SIEM, Threat Intelligence).
+DOWNLOADS:  Trellix Agent with optional modules including Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, DXL Local Broker, Device Control for Windows & MacOS, Trellix Native Drive Encryption for Windows & MacOS, Data Loss Prevention Endpoint for Windows & MacOS, and Trellix EDR for Windows, MacOS, & Linux.
+CLOUD SERVICES:  Trellix Insights & Trellix EDR, Threat Intelligence Exchange - SaaS
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Premium 1:1TE,MVPECE-AA,420.64,MVPECE-AA-AA,
+B,251-1000,Trellix Premium 1:1TE,MVPECE-AA,378.56,MVPECE-AA-BA,
+C,1001-2000,Trellix Premium 1:1TE,MVPECE-AA,333.16,MVPECE-AA-CA,
+D,2001-5000,Trellix Premium 1:1TE,MVPECE-AA,289.86,MVPECE-AA-DA,
+E,5001-10000,Trellix Premium 1:1TE,MVPECE-AA,275.37,MVPECE-AA-EA,
+F,10001-+,Trellix Premium 1:1TE,MVPECE-AA,254.8,MVPECE-AA-FA,
+MVPU,"Trellix Premium - Upgrade
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Premium defense for your endpoints with ability to prevent, detect, and response to threat attacks and data loss incidents.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+3.	Protect accidental and malicious data loss through common channels at the endpoint such as: email, web posting, printing, USB drives, uploading to the cloud and meet industry & government compliance (GDPR,PCI,HIPAA) to protected intellectual property at the same time.
+4.	Endpoint detection, investigation and response (EDR) with continuous endpoint monitoring, 30-day event storage, advanced threat hunting with real-time searches, AI-guided investigation and response, reputation management and integrations with partner products (e.g. SIEM, Threat Intelligence).
+DOWNLOADS:  Trellix Agent with optional modules including Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, DXL Local Broker, Device Control for Windows & MacOS, Trellix Native Drive Encryption for Windows & MacOS, Data Loss Prevention Endpoint for Windows & MacOS, and Trellix EDR for Windows, MacOS, & Linux.
+CLOUD SERVICES:  Trellix Insights & Trellix EDR, Threat Intelligence Exchange - SaaS
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Premium UPGD 1:1TE,MVPECE-DA,420.64,MVPECE-DA-AA,
+B,251-1000,Trellix Premium UPGD 1:1TE,MVPECE-DA,378.56,MVPECE-DA-BA,
+C,1001-2000,Trellix Premium UPGD 1:1TE,MVPECE-DA,333.16,MVPECE-DA-CA,
+D,2001-5000,Trellix Premium UPGD 1:1TE,MVPECE-DA,289.86,MVPECE-DA-DA,
+E,5001-10000,Trellix Premium UPGD 1:1TE,MVPECE-DA,275.37,MVPECE-DA-EA,
+F,10001-+,Trellix Premium UPGD 1:1TE,MVPECE-DA,254.8,MVPECE-DA-FA,
+,Protection and EDR (SaaS & On-Premise),,,,,
+MDR1,"Managed Detection & Response Service 1
+LICENSE: Per User
+DELIVERABLE: Soc as a Service (SaaS) with activation email to accompany Trellix Endpoint Security
+MANAGEMENT:  SaaS EDR or TRXE
+FEATURES INCLUDED: Trellix Managed Detection and Response (MDR) is a fully managed service that empowers organizations to enhance their cybersecurity posture without the burden of building and maintaining in-house resources and expertise. Many organizations struggle to obtain or maintain the necessary security infrastructure, leaving them vulnerable to increasingly sophisticated threats. Trellix MDR solves this challenge by delivering a comprehensive solution that integrates Trellix EDR with the expertise, people, and processes required for effective threat mitigation.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint security. The MDR service primarily relies on North America-based personnel and tools.
+RESTRICTIONS: Must Have Equal Number of Trellix EDR Licenses purchased, at the same time or previously. For further exceptions, please refer to the Quoting Handbook.
+LIMITATIONS and REQUIREMENTS: Customers must have at least 500 licenses of EDR (through MV6, TRXE1 or suitable suite) that are new or active subscriptions.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix MDR1 1:1TE,MDR1ECE-AA,174.95,MDR1ECE-AAAA,
+B,251-1000,Trellix MDR1 1:1TE,MDR1ECE-AA,130.75,MDR1ECE-AABA,
+C,1001-2000,Trellix MDR1 1:1TE,MDR1ECE-AA,100.55,MDR1ECE-AACA,
+D,2001-5000,Trellix MDR1 1:1TE,MDR1ECE-AA,75,MDR1ECE-AADA,
+E,5001-10000,Trellix MDR1 1:1TE,MDR1ECE-AA,64.55,MDR1ECE-AAEA,
+F,10001-+,Trellix MDR1 1:1TE,MDR1ECE-AA,56.77,MDR1ECE-AAFA,
+TRXHX,"Trellix Advanced Endpoint Security with Forensics
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in United States data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,217.59,TRXHX2WECE-AA-AA,
+B,251-1000,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,195.1,TRXHX2WECE-AA-BA,
+C,1001-2000,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,172.57,TRXHX2WECE-AA-CA,
+D,2001-5000,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,150.07,TRXHX2WECE-AA-DA,
+E,5001-10000,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,142.55,TRXHX2WECE-AA-EA,
+F,10001-+,Trellix Adv EP Sec w/ Frnsics 2W 1:1TE,TRXHX2WECE-AA,135.06,TRXHX2WECE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,239.34,TRXHX1WECE-AA-AA,
+B,251-1000,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,214.59,TRXHX1WECE-AA-BA,
+C,1001-2000,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,189.84,TRXHX1WECE-AA-CA,
+D,2001-5000,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,165.07,TRXHX1WECE-AA-DA,
+E,5001-10000,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,156.79,TRXHX1WECE-AA-EA,
+F,10001-+,Trellix Adv EP Sec w/ Frnsics 1W 1:1TE,TRXHX1WECE-AA,148.56,TRXHX1WECE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,250.22,TRXHXOFECE-AA-AA,
+B,251-1000,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,224.37,TRXHXOFECE-AA-BA,
+C,1001-2000,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,198.44,TRXHXOFECE-AA-CA,
+D,2001-5000,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,172.57,TRXHXOFECE-AA-DA,
+E,5001-10000,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,163.92,TRXHXOFECE-AA-EA,
+F,10001-+,Trellix Adv EP Sec w/ Frnsics OF 1:1TE,TRXHXOFECE-AA,155.32,TRXHXOFECE-AA-FA,
+TRXHXU,"Trellix Advanced Endpoint Security with Forensics - Upgrade
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in United States data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,217.59,TRXHX2WECE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,195.1,TRXHX2WECE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,172.57,TRXHX2WECE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,150.07,TRXHX2WECE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,142.55,TRXHX2WECE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics 2W UPG 1:1 TE,TRXHX2WECE-DA,135.06,TRXHX2WECE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,239.34,TRXHX1WECE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,214.59,TRXHX1WECE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,189.84,TRXHX1WECE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,165.07,TRXHX1WECE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,156.79,TRXHX1WECE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics 1W UPG 1:1 TE,TRXHX1WECE-DA,148.56,TRXHX1WECE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,250.22,TRXHXOFECE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,224.37,TRXHXOFECE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,198.44,TRXHXOFECE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,172.57,TRXHXOFECE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,163.92,TRXHXOFECE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics OF UPG 1:1 TE,TRXHXOFECE-DA,155.32,TRXHXOFECE-DA-FA,
+TRXE1,"Trellix Endpoint Security Suite
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,261.37,TRXE1ECE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,234.33,TRXE1ECE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,207.29,TRXE1ECE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,180.23,TRXE1ECE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,171.2,TRXE1ECE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite 1:1TE,TRXE1ECE-AA,162.22,TRXE1ECE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,287.53,TRXE11WECE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,257.75,TRXE11WECE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,228.03,TRXE11WECE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,198.25,TRXE11WECE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,188.34,TRXE11WECE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite 1W 1:1 TE,TRXE11WECE-AA,178.44,TRXE11WECE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,300.57,TRXE1OFECE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,269.47,TRXE1OFECE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,238.4,TRXE1OFECE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,207.26,TRXE1OFECE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,196.89,TRXE1OFECE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite OF 1:1 TE,TRXE1OFECE-AA,186.56,TRXE1OFECE-AA-FA,
+TRXE1U,"Trellix Endpoint Security Suite - Upgrade
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,261.37,TRXE1ECE-DA-AA,
+B,251-1000,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,234.33,TRXE1ECE-DA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,207.29,TRXE1ECE-DA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,180.23,TRXE1ECE-DA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,171.2,TRXE1ECE-DA-EA,
+F,10001-+,Trellix Endpnt Sec Suite UPGD 1:1TE,TRXE1ECE-DA,162.22,TRXE1ECE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,287.53,TRXE11WECE-DA-AA,
+B,251-1000,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,257.75,TRXE11WECE-DA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,228.03,TRXE11WECE-DA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,198.25,TRXE11WECE-DA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,188.34,TRXE11WECE-DA-EA,
+F,10001-+,Trellix Endpnt Sec Suite 1W UPG 1:1 TE,TRXE11WECE-DA,178.44,TRXE11WECE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,300.57,TRXE1OFECE-DA-AA,
+B,251-1000,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,269.47,TRXE1OFECE-DA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,238.4,TRXE1OFECE-DA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,207.26,TRXE1OFECE-DA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,196.89,TRXE1OFECE-DA-EA,
+F,10001-+,Trellix Endpnt Sec Suite OF UPG 1:1 TE,TRXE1OFECE-DA,186.56,TRXE1OFECE-DA-FA,
+SS4,"Trellix Secure Schools Endpoint Security Suite
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Trellix Endpoint Security (HX) Power edition for detection, response, advanced investigation and forensics for Windows, macOS and Linux Platforms , Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Management of Native Encryption, File and Removable Media Protection, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.
+NOTE: This SKU is only available for K-12 primary and public educational institutions. Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools EP Sec Suite 1:1TE,SS4ECE-AA,101.89,SS4ECE-AA-AA,
+SS4U,"Trellix Secure Schools Endpoint Security Suite - UPGRADE
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Trellix Endpoint Security (HX) Power edition for detection, response, advanced investigation and forensics for Windows, macOS and Linux Platforms , Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Management of Native Encryption, File and Removable Media Protection, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.
+NOTE: This SKU is only available for K-12 primary and public educational institutions. Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools EP Sec SuiteUPGD 1:1TE,SS4ECE-DA,101.89,SS4ECE-DA-AA,
+MV6,"Trellix Protect Plus EDR for Endpoint
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS, and Trellix EDR tenancies located in United States data centers only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR & EPP 1:1TE,MV6ECE-AA,195.12,MV6ECE-AA-AA,
+B,251-1000,Trellix EDR & EPP 1:1TE,MV6ECE-AA,174.95,MV6ECE-AA-BA,
+C,1001-2000,Trellix EDR & EPP 1:1TE,MV6ECE-AA,154.75,MV6ECE-AA-CA,
+D,2001-5000,Trellix EDR & EPP 1:1TE,MV6ECE-AA,134.57,MV6ECE-AA-DA,
+E,5001-10000,Trellix EDR & EPP 1:1TE,MV6ECE-AA,127.83,MV6ECE-AA-EA,
+F,10001-+,Trellix EDR & EPP 1:1TE,MV6ECE-AA,121.12,MV6ECE-AA-FA,
+MV6U,"Trellix Protect Plus EDR for Endpoint - Upgrade
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS, and Trellix EDR tenancies located in United States data centers only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,195.12,MV6ECE-DA-AA,
+B,251-1000,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,174.95,MV6ECE-DA-BA,
+C,1001-2000,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,154.75,MV6ECE-DA-CA,
+D,2001-5000,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,134.57,MV6ECE-DA-DA,
+E,5001-10000,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,127.83,MV6ECE-DA-EA,
+F,10001-+,Trellix EDR & EPP UPGD 1:1TE,MV6ECE-DA,121.12,MV6ECE-DA-FA,
+EDREX,"Trellix EDR Data Extension Add-on
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 90 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4, MV6, or TRXE1 subscriptions. The number of licenses of EDREX must be equal to the number of licenses of MV4, MV6, or TRXE1.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Extension Add-on 1:1 TE,EDREXECE-AA,90.03,EDREXECE-AA-AA,
+EDREX180,"Trellix EDR Data Extension Add-on 180 Days
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4, MV6, or TRXE1 subscriptions. The number of licenses of EDREX180 must be equal to the number of licenses of MV4, MV6, or TRXE1.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on 180 Day 1:1 TE,EDREX180ECE-AA,270.08,EDREX180ECE-AA-AA,FCS Date 05/31/2025
+EDREX180-U,"Trellix EDR Data Extension Add-on 180 Days - Upgrade
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4, MV6, or TRXE1 subscriptions. The number of licenses of EDREX180 must be equal to the number of licenses of MV4, MV6, or TRXE1.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on 180 Day UPGD 1:1 TE,EDREX180ECE-DA,275.33,EDREX180ECE-DA-AA,FCS Date 05/31/2025
+EDR-WISE,"Trellix Wise for EDR Add-on
+LICENSE: Per User.
+MANAGEMENT:  Trellix EDR
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Trellix Wise for EDR uses generative AI capabilities to improve operational efficiency of SOC analyst for Endpoint Detections and Response product. It allows genAI powered capabilities like Multi-lingual threat hunting, Dossier and Interactive modes, as well as threat knowledge graph kind of capabilities.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: To be sold to customers with Trellix EDR subscriptions. The number of licenses of Trellix Wise for EDR must be equal to the number of licenses of base Trellix EDR SKU. The allotted usage of genAI powered capabilities is tied to the number of licenses in the Trellix EDR subscriptions.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,EDR Wise Add-on 1:1TE,EDRWECE-AA,43.5,EDRWECE-AAAA,
+B,251-1000,EDR Wise Add-on 1:1TE,EDRWECE-AA,38.93,EDRWECE-AABA,
+C,1001-2000,EDR Wise Add-on 1:1TE,EDRWECE-AA,34.61,EDRWECE-AACA,
+D,2001-5000,EDR Wise Add-on 1:1TE,EDRWECE-AA,30,EDRWECE-AADA,
+E,5001-10000,EDR Wise Add-on 1:1TE,EDRWECE-AA,28.66,EDRWECE-AAEA,
+F,10001-+,EDR Wise Add-on 1:1TE,EDRWECE-AA,27.02,EDRWECE-AAFA,
+,Protection and EDR (SaaS & On-Premise) - With MDR,,,,,
+TRXE1M1,"Trellix Endpoint Security Suite + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,349.88,TRXE1M12WECE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,269.37,TRXE1M12WECE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,208.29,TRXE1M12WECE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,153.39,TRXE1M12WECE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,131.29,TRXE1M12WECE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Suite 2W MDR1 1:1TE,TRXE1M12WECE-AA,117.94,TRXE1M12WECE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,384.88,TRXE1M11WECE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,296.3,TRXE1M11WECE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,229.12,TRXE1M11WECE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,168.74,TRXE1M11WECE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,144.43,TRXE1M11WECE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Suite 1W MDR1 1:1TE,TRXE1M11WECE-AA,129.72,TRXE1M11WECE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,402.37,TRXE1M1OFECE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,309.78,TRXE1M1OFECE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,239.53,TRXE1M1OFECE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,176.4,TRXE1M1OFECE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,151,TRXE1M1OFECE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Suite OF MDR1 1:1TE,TRXE1M1OFECE-AA,135.62,TRXE1M1OFECE-AA-FA,FCS Date 04/30/2025
+TRXE1M1U,"Trellix Endpoint Security Suite - Upgrade + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid theat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in United States data centers only. Cloud HX (if purchased separately) tenancy will be in US data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,349.88,TRXE1M12WECE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,269.37,TRXE1M12WECE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,208.29,TRXE1M12WECE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,153.39,TRXE1M12WECE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,131.29,TRXE1M12WECE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Edpnt Sec Ste UPG 2W MDR1 1:1TE,TRXE1M12WECE-DA,117.94,TRXE1M12WECE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,384.88,TRXE1M11WECE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,296.3,TRXE1M11WECE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,229.12,TRXE1M11WECE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,168.74,TRXE1M11WECE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,144.43,TRXE1M11WECE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Edpnt Sec Ste UPG 1W MDR1 1:1TE,TRXE1M11WECE-DA,129.72,TRXE1M11WECE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,402.37,TRXE1M1OFECE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,309.78,TRXE1M1OFECE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,239.53,TRXE1M1OFECE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,176.4,TRXE1M1OFECE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,151,TRXE1M1OFECE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Edpnt Sec Ste UPG OF MDR1 1:1TE,TRXE1M1OFECE-DA,135.62,TRXE1M1OFECE-DA-FA,FCS Date 04/30/2025
+,EDR (SaaS & On-Premise),,,,,
+MV4,"Trellix EDR
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: Trellix EDR automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,Call for Quote,MV4ECE-AA-AA,
+B,251-1000,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,103.2,MV4ECE-AA-BA,
+C,1001-2000,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,94.93,MV4ECE-AA-CA,
+D,2001-5000,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,88.86,MV4ECE-AA-DA,
+E,5001-10000,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,84.22,MV4ECE-AA-EA,
+F,10001-+,Trellix EDR 1:1 TE 30 Day Storage,MV4ECE-AA,77.92,MV4ECE-AA-FA,
+MV4U,"Trellix EDR - Upgrade
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: For current MAR customers it is an upgrade to Trellix EDR which automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,Call for Quote,MV4ECE-DA-AA,
+B,251-1000,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,103.2,MV4ECE-DA-BA,
+C,1001-2000,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,94.93,MV4ECE-DA-CA,
+D,2001-5000,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,88.86,MV4ECE-DA-DA,
+E,5001-10000,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,84.22,MV4ECE-DA-EA,
+F,10001-+,Trellix EDR UPGD 1:1 TE 30 Day Storage,MV4ECE-DA,77.92,MV4ECE-DA-FA,
+,Protection (SaaS & On-Premise),,,,,
+MV1,"Trellix Protect Standard
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux,  Device Control, Command Line Scanner.
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard 1:1TE,MV1ECE-AA,68.06,MV1ECE-AA-AA,
+B,251-1000,Trellix Standard 1:1TE,MV1ECE-AA,61.01,MV1ECE-AA-BA,
+C,1001-2000,Trellix Standard 1:1TE,MV1ECE-AA,53.97,MV1ECE-AA-CA,
+D,2001-5000,Trellix Standard 1:1TE,MV1ECE-AA,46.96,MV1ECE-AA-DA,
+E,5001-10000,Trellix Standard 1:1TE,MV1ECE-AA,44.58,MV1ECE-AA-EA,
+F,10001-+,Trellix Standard 1:1TE,MV1ECE-AA,42.22,MV1ECE-AA-FA,
+MV1U,"Trellix Protect Standard - Upgrade
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux,  Device Control, Command Line Scanner.
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard UPGD 1:1TE,MV1ECE-DA,68.06,MV1ECE-DA-AA,
+B,251-1000,Trellix Standard UPGD 1:1TE,MV1ECE-DA,61.01,MV1ECE-DA-BA,
+C,1001-2000,Trellix Standard UPGD 1:1TE,MV1ECE-DA,53.97,MV1ECE-DA-CA,
+D,2001-5000,Trellix Standard UPGD 1:1TE,MV1ECE-DA,46.96,MV1ECE-DA-DA,
+E,5001-10000,Trellix Standard UPGD 1:1TE,MV1ECE-DA,44.58,MV1ECE-DA-EA,
+F,10001-+,Trellix Standard UPGD 1:1TE,MV1ECE-DA,42.22,MV1ECE-DA-FA,
+MV2,"Trellix Protect Plus
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus 1:1TE,MV2ECE-AA,134.83,MV2ECE-AA-AA,
+B,251-1000,Trellix Plus 1:1TE,MV2ECE-AA,120.88,MV2ECE-AA-BA,
+C,1001-2000,Trellix Plus 1:1TE,MV2ECE-AA,106.96,MV2ECE-AA-CA,
+D,2001-5000,Trellix Plus 1:1TE,MV2ECE-AA,93.01,MV2ECE-AA-DA,
+E,5001-10000,Trellix Plus 1:1TE,MV2ECE-AA,88.36,MV2ECE-AA-EA,
+F,10001-+,Trellix Plus 1:1TE,MV2ECE-AA,83.67,MV2ECE-AA-FA,
+MV2U,"Trellix Protect Plus - Upgrade
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus UPGD 1:1TE,MV2ECE-DA,134.83,MV2ECE-DA-AA,
+B,251-1000,Trellix Plus UPGD 1:1TE,MV2ECE-DA,120.88,MV2ECE-DA-BA,
+C,1001-2000,Trellix Plus UPGD 1:1TE,MV2ECE-DA,106.96,MV2ECE-DA-CA,
+D,2001-5000,Trellix Plus UPGD 1:1TE,MV2ECE-DA,93.01,MV2ECE-DA-DA,
+E,5001-10000,Trellix Plus UPGD 1:1TE,MV2ECE-DA,88.36,MV2ECE-DA-EA,
+F,10001-+,Trellix Plus UPGD 1:1TE,MV2ECE-DA,83.67,MV2ECE-DA-FA,
+MV3,"Trellix Mobile Security Advanced
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email. iOS or Android application downloaded from Apple Store or Google Play, respectively.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS.
+FEATURES INCLUDED:  Mobile Threat Detection, mobile threat event analysis, reporting and forensics. Includes remediation options, integration with major MDMs, integration with Enterprise Security Manager (ESM). Includes support for Chromebooks.​
+RESTRICTIONS:  Limited to maximum of 5 devices per User.  English only at this time.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,192.23,MV3ECE-AA-AA,
+B,251-1000,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,172.34,MV3ECE-AA-BA,
+C,1001-2000,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,152.48,MV3ECE-AA-CA,
+D,2001-5000,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,132.57,MV3ECE-AA-DA,
+E,5001-10000,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,125.95,MV3ECE-AA-EA,
+F,10001-+,Trellix Mobile Advanced 1:1TE,MV3ECE-AA,119.32,MV3ECE-AA-FA,
+VPC,"Trellix Mobile Security Advanced - Public Cloud VPC
+LICENSE: Per Tenant
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS.
+FEATURES INCLUDED:  As an add-on to MV3 Subscription - for Cloud Hosting Instance in Public Cloud if the customer opts to host Mobile tenant in Cloud OR (2) As a standalone subscription for additional instances of Mobile Cloud hosting in Public Cloud 
+RESTRICTIONS: Requires active subscription of base MV3 licenses on devices that requires hosting on Public Cloud VPC in US region. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-1,Trellix Mobile PbCld VPC 50k 1:1TE,VPC1ECE-AT,225241.15,VPC1ECE-ATAA,
+A,1-1,Trellix Mobile PbCld VPC Unltd 1:1TE,VPC2ECE-AT,270289.39,VPC2ECE-ATAA,
+SS1,"Trellix Secure Schools Protect Standard
+LICENSE:  Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux and Device Control
+RESTRICTIONS: Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. NOTE:  This SKU is only available for K-12 and higher educational institutions.  Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools Protect Standard 1:1 TE,SS1ECE-AA,15.26,SS1ECE-AA-AA,
+OPVA,"Trellix Mobile Security Advanced - On-Prem
+LICENSE: Per Tenant
+DELIVERABLE: Software download for installation in customer's VMware environment (VMware license and hardware not included)
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS.
+FEATURES INCLUDED: As an add-on to MV3 Subscription - for On-Prem Hosting of Mobile tenant in Customer environment OR (2) As a standalone subscription for additional instances of On-Prem Hosting
+RESTRICTIONS: Requires active subscription of base MV3 licenses on devices that requires On-Prem hosting. Customer needs to provide the infrastructure. For further exceptions and infrastructure requirement, please refer to the Quoting Handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-1,Trellix Mobile Adv Virt Appl 1:1TE,OPVAECE-AT,324347.26,OPVAECE-ATAA,
+SS2,"Trellix Secure Schools Protect Plus
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Application Control for PCs. Management of Native Encryption, and File and Removable Media Protection.
+RESTRICTIONS:  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. NOTE:  This SKU is only available for K-12 and higher educational institutions.  Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools Protect Plus 1:1 TE,SS2ECE-AA,45.2,SS2ECE-AA-AA,
+SS3,"Trellix Secure Schools Protect Standard with EDR for Endpoint
+LICENSE:  Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux and Device Control
+RESTRICTIONS: Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. NOTE:  This SKU is only available for K-12 primary and public educational institutions.  Reference the Quoting Product Requirements for faculty to student usage. This entitlement includes ePO - SaaS and Trellix EDR tenancies located in United States data centers only",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools Prot Stnd with EDR 1:1 TE,SS3ECE-AA,69.66,SS3ECE-AA-AA,
+,Insights (SaaS & On-Premise),,,,,
+MVI,"Trellix Insights
+LICENSE: Trellix Insights is licensed on a Per User basis, based on number of ENS endpoints being monitored. There is no license code required, as verification of usage is done through the Cloud connection. In other words, Trellix can measure, on the backend, exactly how many users are being monitored by the Insights extension.
+DELIVERABLE: Enablement via cloud delivery or extension for ePO - On–prem or ePO - IaaS customers. Updates to Insights can be either through a new extension binary or can be Cloud – only, based on the capabilities being delivered.
+REQUIREMENTS: Requires telemetry from  ENS10.7 with Trellix Agent 5.6.x and management through ePO - On–prem (V5.10 CU7) or ePO - SaaS.
+MANAGEMENT: Trellix Insights is managed via EPO ( ePO - SaaS, ePO - On–prem, ePO - IaaS ). Entitlement to EPO management component IS NOT included with this Subscription.
+FEATURES: Trellix Insights PRIORITIZES threats that matter to you by PREDICTING if your countermeasures can detect & PRESCRIBING changes if countermeasures have insufficient coverage. It includes comprehensive Curated Cyber Intelligence Attack information on over 4 years’ worth of Campaigns, provided by Trellix Threat Research).
+It also includes global detection comparisons among industry sectors and geographies, Trellix Technology detection information for all Campaigns, Security Posture Scoring for endpoints, Comparative Protection Efficacy Reports, as well as guidance on how to improve protection for endpoints. Guidance is provided through KB articles and ePO policy adjustments done by the users.
+Trellix Insights requires Endpoint Security telemetry to function properly. If you do not want to provide this telemetry, you should not choose this product as you will not be able to receive full value.  If you have questions, please contact your Trellix Account Team.
+HIGHLY RECOMMENDED: Trellix EDR - due to available integration between Trellix Insights and the EDR.  Premium Support and/or Services (e.g. Trellix Thrive Advanced or Elite)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Insights 1:1TE,MVIECE-AA,67.07,MVIECE-AA-AA,
+B,251-1000,Trellix Insights 1:1TE,MVIECE-AA,60.13,MVIECE-AA-BA,
+C,1001-2000,Trellix Insights 1:1TE,MVIECE-AA,53.22,MVIECE-AA-CA,
+D,2001-5000,Trellix Insights 1:1TE,MVIECE-AA,46.24,MVIECE-AA-DA,
+E,5001-10000,Trellix Insights 1:1TE,MVIECE-AA,43.93,MVIECE-AA-EA,
+F,10001-+,Trellix Insights 1:1TE,MVIECE-AA,41.63,MVIECE-AA-FA,
+,Endpoint Protection On Premises,,,,,
+CEB,"Trellix Complete EndPoint Protection - Business
+LICENSE: Per Node.
+DELIVERABLE: Software Download.  
+PRODUCT INCLUDES: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Command Line Scanner, Security for Email Servers, Device Control, Drive Encryption, File & Removable Media Protection, Trellix Native Drive Encryption, Security for Microsoft SharePoint, Application Control for PCs and ePO - On-prem, ePO - IaaS
+PRODUCT REQUIRES Endpoint Security (ENS) 10.6.1 or greater to be installed for complete functionality. File & Removable Media Protection 5.0 release includes encrypted file capability for a number of Cloud Storage Services. The following legacy product is included: Endpoint Intelligence Agent.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,224.33,CEBCDE-AA-AA,
+B,26-50,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,181.74,CEBCDE-AA-BA,
+C,51-100,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,179.5,CEBCDE-AA-CA,
+D,101-250,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,157.04,CEBCDE-AA-DA,
+E,251-500,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,152.56,CEBCDE-AA-EA,
+F,501-1000,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,139.09,CEBCDE-AA-FA,
+G,1001-2000,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,139.09,CEBCDE-AA-GA,
+H,2001-5000,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,139.09,CEBCDE-AA-HA,
+I,5001-10000,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,139.09,CEBCDE-AA-IA,
+J,10001-+,Complete EP Protect Bus P:1 TE [P+],CEBCDE-AA,139.09,CEBCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,94.23,CEBYFM-AA-AA,
+B,26-50,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,76.33,CEBYFM-AA-BA,
+C,51-100,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,75.39,CEBYFM-AA-CA,
+D,101-250,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,65.97,CEBYFM-AA-DA,
+E,251-500,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,64.09,CEBYFM-AA-EA,
+F,501-1000,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,58.42,CEBYFM-AA-FA,
+G,1001-2000,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,58.42,CEBYFM-AA-GA,
+H,2001-5000,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,58.42,CEBYFM-AA-HA,
+I,5001-10000,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,58.42,CEBYFM-AA-IA,
+J,10001-+,Complete EP Protect Bus 1Yr TE [P+],CEBYFM-AA,58.42,CEBYFM-AA-JA,
+CEB-S,"Trellix Complete EndPoint Protection - Business Subscription
+LICENSE: Per Node.
+DELIVERABLE: Software Download.  
+PRODUCT INCLUDES: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Command Line Scanner, Security for Email Servers, Device Control, Drive Encryption, File & Removable Media Protection, Trellix Native Drive Encryption, Security for Microsoft SharePoint, Application Control for PCs and ePO - On-prem, ePO - IaaS
+PRODUCT REQUIRES Endpoint Security (ENS) 10.6.1 or greater to be installed for complete functionality. File & Removable Media Protection 5.0 release includes encrypted file capability for a number of Cloud Storage Services. The following legacy product is included: Endpoint Intelligence Agent.",,,,,
+,Subscription Offering,,,,,
+,ProtectPLUS 1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-25,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,137.59,CEBAJE-AA-AA,
+B,26-50,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,111.48,CEBAJE-AA-BA,
+C,51-100,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,110.09,CEBAJE-AA-CA,
+D,101-250,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,96.3,CEBAJE-AA-DA,
+E,251-500,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,93.57,CEBAJE-AA-EA,
+F,501-1000,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,85.34,CEBAJE-AA-FA,
+G,1001-2000,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,85.34,CEBAJE-AA-GA,
+H,2001-5000,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,85.34,CEBAJE-AA-HA,
+I,5001-10000,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,85.34,CEBAJE-AA-IA,
+J,10001-+,Complete EP Protect Bus 1:1TE [P+],CEBAJE-AA,85.34,CEBAJE-AA-JA,
+CEBU,"Trellix Complete EndPoint Protection - Business Upgrade
+LICENSE: Per Node.
+DELIVERABLE: Software Download.  
+PRODUCT INCLUDES: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Command Line Scanner, Security for Email Servers, Device Control, Drive Encryption, File & Removable Media Protection, Trellix Native Drive Encryption, Security for Microsoft SharePoint, Application Control for PCs and ePO - On-prem, ePO - IaaS
+PRODUCT REQUIRES Endpoint Security (ENS) 10.6.1 or greater to be installed for complete functionality. File & Removable Media Protection 5.0 release includes encrypted file capability for a number of Cloud Storage Services. The following legacy product is included: Endpoint Intelligence Agent.",,,,,
+,Standard Upgrade Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,224.33,CEBCDE-DA-AA,
+B,26-50,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,181.74,CEBCDE-DA-BA,
+C,51-100,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,179.5,CEBCDE-DA-CA,
+D,101-250,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,157.04,CEBCDE-DA-DA,
+E,251-500,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,152.56,CEBCDE-DA-EA,
+F,501-1000,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,139.09,CEBCDE-DA-FA,
+G,1001-2000,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,139.09,CEBCDE-DA-GA,
+H,2001-5000,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,139.09,CEBCDE-DA-HA,
+I,5001-10000,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,139.09,CEBCDE-DA-IA,
+J,10001-+,Complete EP Bus UPGD P:1 TE [P+],CEBCDE-DA,139.09,CEBCDE-DA-JA,
+CEBU-S,"Trellix Complete EndPoint Protection - Business Upgrade Subscription
+LICENSE: Per Node.
+DELIVERABLE: Software Download.  
+PRODUCT INCLUDES: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Command Line Scanner, Security for Email Servers, Device Control, Drive Encryption, File & Removable Media Protection, Trellix Native Drive Encryption, Security for Microsoft SharePoint, Application Control for PCs and ePO - On-prem, ePO - IaaS
+PRODUCT REQUIRES Endpoint Security (ENS) 10.6.1 or greater to be installed for complete functionality. File & Removable Media Protection 5.0 release includes encrypted file capability for a number of Cloud Storage Services. The following legacy product is included: Endpoint Intelligence Agent.",,,,,
+,Upgrade Subscription Offering,,,,,
+,ProtectPLUS 1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-25,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,137.59,CEBAJE-DA-AA,
+B,26-50,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,111.48,CEBAJE-DA-BA,
+C,51-100,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,110.09,CEBAJE-DA-CA,
+D,101-250,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,96.3,CEBAJE-DA-DA,
+E,251-500,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,93.57,CEBAJE-DA-EA,
+F,501-1000,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,85.34,CEBAJE-DA-FA,
+G,1001-2000,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,85.34,CEBAJE-DA-GA,
+H,2001-5000,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,85.34,CEBAJE-DA-HA,
+I,5001-10000,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,85.34,CEBAJE-DA-IA,
+J,10001-+,Complete EP Bus UPGD 1:1TE [P+],CEBAJE-DA,85.34,CEBAJE-DA-JA,
+PSM-N,"Trellix Security for Microsoft SharePoint
+LICENSE: Per Node.
+DELIVERABLE: Download.
+PRODUCT CONTENT: Groupware: Security for Microsoft SharePoint provides comprehensive protection from viruses and content management for Microsoft SharePoint Portal Server. Management system included: ePolicy Orchestrator (on-premises).",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,66.82,PSMCDE-AA-AA,
+B,26-50,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,54.11,PSMCDE-AA-BA,
+C,51-100,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,53.45,PSMCDE-AA-CA,
+D,101-250,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,46.79,PSMCDE-AA-DA,
+E,251-500,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,45.43,PSMCDE-AA-EA,
+F,501-1000,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,41.43,PSMCDE-AA-FA,
+G,1001-2000,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,38.75,PSMCDE-AA-GA,
+H,2001-5000,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,27.35,PSMCDE-AA-HA,
+I,5001-10000,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,24.06,PSMCDE-AA-IA,
+J,10001-+,Sec for MS SharePoint P:1 TE [P+],PSMCDE-AA,22.04,PSMCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,29.14,PSMYFM-AA-AA,
+B,26-50,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,23.58,PSMYFM-AA-BA,
+C,51-100,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,23.33,PSMYFM-AA-CA,
+D,101-250,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,20.38,PSMYFM-AA-DA,
+E,251-500,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,19.81,PSMYFM-AA-EA,
+F,501-1000,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,18.07,PSMYFM-AA-FA,
+G,1001-2000,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,16.93,PSMYFM-AA-GA,
+H,2001-5000,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,11.94,PSMYFM-AA-HA,
+I,5001-10000,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,10.49,PSMYFM-AA-IA,
+J,10001-+,Sec for MS SharePoint 1yr TE [P+],PSMYFM-AA,9.64,PSMYFM-AA-JA,
+,File & Application Control,,,,,
+CCD,"Trellix Change Control for PCs
+LICENSE: Per Node.
+DELIVERABLE: Software download
+PRODUCT CONTENT: Enterprise compliance solution for File Integrity Monitoring (FIM), audit trails, and preventing unauthorized changes within an operating environment.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Change Control for PCs P:1TE [P+],CCDCKE-AA,588.87,CCDCKE-AA-AA,
+B,26-50,Change Control for PCs P:1TE [P+],CCDCKE-AA,535.89,CCDCKE-AA-BA,
+C,51-100,Change Control for PCs P:1TE [P+],CCDCKE-AA,487.66,CCDCKE-AA-CA,
+D,101-250,Change Control for PCs P:1TE [P+],CCDCKE-AA,426.73,CCDCKE-AA-DA,
+E,251-500,Change Control for PCs P:1TE [P+],CCDCKE-AA,388.27,CCDCKE-AA-EA,
+F,501-1000,Change Control for PCs P:1TE [P+],CCDCKE-AA,353.37,CCDCKE-AA-FA,
+G,1001-2000,Change Control for PCs P:1TE [P+],CCDCKE-AA,321.39,CCDCKE-AA-GA,
+H,2001-5000,Change Control for PCs P:1TE [P+],CCDCKE-AA,272.11,CCDCKE-AA-HA,
+I,5001-10000,Change Control for PCs P:1TE [P+],CCDCKE-AA,239.05,CCDCKE-AA-IA,
+J,10001-+,Change Control for PCs P:1TE [P+],CCDCKE-AA,219.07,CCDCKE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,1-25,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,128.59,CCDYCM-AA-AA,
+B,26-50,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,117.05,CCDYCM-AA-BA,
+C,51-100,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,106.52,CCDYCM-AA-CA,
+D,101-250,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,93.18,CCDYCM-AA-DA,
+E,251-500,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,84.8,CCDYCM-AA-EA,
+F,501-1000,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,77.15,CCDYCM-AA-FA,
+G,1001-2000,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,70.22,CCDYCM-AA-GA,
+H,2001-5000,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,59.45,CCDYCM-AA-HA,
+I,5001-10000,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,52.21,CCDYCM-AA-IA,
+J,10001-+,Change Control for PCs 1Yr TE [P+],CCDYCM-AA,47.83,CCDYCM-AA-JA,
+ACD,"Trellix Application Control for PCs
+LICENSE: Per Node.
+DELIVERABLE: Software download
+PRODUCT CONTENT:  Application Whitelisting and Memory Protection targeted for desktops that need to be locked down and protected.  This product cannot be sold on embedded systems and devices such as ATMs, POS, medical or other fixed-function devices and  servers.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Application Control PCs P:1TE [P+],ACDCKE-AA,240.09,ACDCKE-AA-AA,
+B,26-50,Application Control PCs P:1TE [P+],ACDCKE-AA,194.45,ACDCKE-AA-BA,
+C,51-100,Application Control PCs P:1TE [P+],ACDCKE-AA,192.09,ACDCKE-AA-CA,
+D,101-250,Application Control PCs P:1TE [P+],ACDCKE-AA,168.06,ACDCKE-AA-DA,
+E,251-500,Application Control PCs P:1TE [P+],ACDCKE-AA,163.29,ACDCKE-AA-EA,
+F,501-1000,Application Control PCs P:1TE [P+],ACDCKE-AA,148.85,ACDCKE-AA-FA,
+G,1001-2000,Application Control PCs P:1TE [P+],ACDCKE-AA,132.48,ACDCKE-AA-GA,
+H,2001-5000,Application Control PCs P:1TE [P+],ACDCKE-AA,99.4,ACDCKE-AA-HA,
+I,5001-10000,Application Control PCs P:1TE [P+],ACDCKE-AA,74.54,ACDCKE-AA-IA,
+J,10001-+,Application Control PCs P:1TE [P+],ACDCKE-AA,55.89,ACDCKE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,1-25,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,51.98,ACDYCM-AA-AA,
+B,26-50,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,42.08,ACDYCM-AA-BA,
+C,51-100,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,41.57,ACDYCM-AA-CA,
+D,101-250,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,36.38,ACDYCM-AA-DA,
+E,251-500,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,35.36,ACDYCM-AA-EA,
+F,501-1000,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,32.24,ACDYCM-AA-FA,
+G,1001-2000,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,28.68,ACDYCM-AA-GA,
+H,2001-5000,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,21.51,ACDYCM-AA-HA,
+I,5001-10000,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,16.11,ACDYCM-AA-IA,
+J,10001-+,ApplicationControl PCs 1YrTE [P+],ACDYCM-AA,12.14,ACDYCM-AA-JA,
+ACD-S,"Trellix Application Control for PCs - Subscription
+LICENSE: Per Node.
+DELIVERABLE: Software as a Service (SaaS) with activation email
+Management: ePO-SaaS
+PRODUCT CONTENT: Protect endpoints from unauthorized applications and system changes with Trellix Application and Change Control. Create and easily manage allow/deny lists and protect against memory exploits with this cloud-managed application that still works when disconnected from the cloud. Gain deeper visibility into application changes with periodic inventory reports, helping identify gaps in protected endpoints. Not available for embedded systems like ATMs, POS, medical, or other fixed-function devices and servers.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix App Control PCs 1:1TE,ACDECE-AA,100.67,ACDECE-AA-AA,FCS Date 05/29/2025
+B,251-1000,Trellix App Control PCs 1:1TE,ACDECE-AA,95.25,ACDECE-AA-BA,FCS Date 05/29/2025
+C,1001-2000,Trellix App Control PCs 1:1TE,ACDECE-AA,79.33,ACDECE-AA-CA,FCS Date 05/29/2025
+D,2001-5000,Trellix App Control PCs 1:1TE,ACDECE-AA,59.53,ACDECE-AA-DA,FCS Date 05/29/2025
+E,5001-10000,Trellix App Control PCs 1:1TE,ACDECE-AA,44.61,ACDECE-AA-EA,FCS Date 05/29/2025
+F,10001-+,Trellix App Control PCs 1:1TE,ACDECE-AA,33.51,ACDECE-AA-FA,FCS Date 05/29/2025
+ICD,"Trellix Integrity Control for Fixed Function Devices
+LICENSE: Per Node.
+DELIVERABLE: Software download
+PRODUCT CONTENT:  This is a combined product offering that is ideal for point of sale (POS) systems, automated teller machines (ATMs), and kiosks, as well as manufacturing, SCADA and other fixed function devices.  Integrity Control combines Application Control and Change Control functionality.  It includes dynamic whitelisting via trusted source with a low overhead footprint, file integrity monitoring, and change prevention.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,791.45,ICDCKE-AA-AA,
+B,26-50,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,672.74,ICDCKE-AA-BA,
+C,51-100,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,578.56,ICDCKE-AA-CA,
+D,101-250,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,503.38,ICDCKE-AA-DA,
+E,251-500,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,442.92,ICDCKE-AA-EA,
+F,501-1000,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,398.65,ICDCKE-AA-FA,
+G,1001-2000,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,358.78,ICDCKE-AA-GA,
+H,2001-5000,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,349.84,ICDCKE-AA-HA,
+I,5001-10000,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,342.84,ICDCKE-AA-IA,
+J,10001-+,Integrity Cntrl Devices P:1 TE [P+],ICDCKE-AA,335.98,ICDCKE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,1-25,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,172.86,ICDYCM-AA-AA,
+B,26-50,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,146.95,ICDYCM-AA-BA,
+C,51-100,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,126.35,ICDYCM-AA-CA,
+D,101-250,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,109.98,ICDYCM-AA-DA,
+E,251-500,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,96.75,ICDYCM-AA-EA,
+F,501-1000,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,87.07,ICDYCM-AA-FA,
+G,1001-2000,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,78.36,ICDYCM-AA-GA,
+H,2001-5000,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,76.39,ICDYCM-AA-HA,
+I,5001-10000,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,74.87,ICDYCM-AA-IA,
+J,10001-+,Integrity Cntrl Devices 1Yr TE [P+],ICDYCM-AA,73.4,ICDYCM-AA-JA,
+,Security Management,,,,,
+EPO,"Trellix ePolicy Orchestrator On-Prem
+LICENSE: Per Node.
+DELIVERABLE: Download.
+PRODUCT CONTENT: ePolicy Orchestrator (on-premises or public cloud).
+The foundational unified security management solution providing endpoint, network and compliance management with increased security and reduced costs.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,58.9,EPOCDE-AA-AA,
+B,26-50,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,47.7,EPOCDE-AA-BA,
+C,51-100,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,47.08,EPOCDE-AA-CA,
+D,101-250,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,41.23,EPOCDE-AA-DA,
+E,251-500,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,40.04,EPOCDE-AA-EA,
+F,501-1000,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,36.49,EPOCDE-AA-FA,
+G,1001-2000,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,34.17,EPOCDE-AA-GA,
+H,2001-5000,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,24.15,EPOCDE-AA-HA,
+I,5001-10000,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,21.22,EPOCDE-AA-IA,
+J,10001-+,ePolicy Orchestrator P:1 TE [P+],EPOCDE-AA,19.44,EPOCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,25.88,EPOYFM-AA-AA,
+B,26-50,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,21,EPOYFM-AA-BA,
+C,51-100,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,20.72,EPOYFM-AA-CA,
+D,101-250,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,18.18,EPOYFM-AA-DA,
+E,251-500,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,17.6,EPOYFM-AA-EA,
+F,501-1000,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,16.08,EPOYFM-AA-FA,
+G,1001-2000,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,15.07,EPOYFM-AA-GA,
+H,2001-5000,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,10.61,EPOYFM-AA-HA,
+I,5001-10000,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,9.34,EPOYFM-AA-IA,
+J,10001-+,ePolicy Orchestrator 1Yr TE [P+],EPOYFM-AA,8.57,EPOYFM-AA-JA,
+,Threat Intelligence Exchange,,,,,
+MVT,"Trellix Threat Intelligence Exchange - SaaS
+LICENSE: 12 month Subscription, License is Per User with up to 5 devices per user.
+DELIVERABLE: Software as a Services (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS or ePO - On–prem and Data Exchange Layer (DXL).
+FEATURES INCLUDED:   An ecosystem where security products exchange reputation information about potentially malicious files to identify potential threats, learn from each others actions, and allow security administrators to tailor vendor supplied reputations to their companys environment.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Requires the separate purchase and installation of ENS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix TIE 1:1TE,MVTECE-AA,26.51,MVTECE-AA-AA,
+B,251-1000,Trellix TIE 1:1TE,MVTECE-AA,23.78,MVTECE-AA-BA,
+C,1001-2000,Trellix TIE 1:1TE,MVTECE-AA,21.03,MVTECE-AA-CA,
+D,2001-5000,Trellix TIE 1:1TE,MVTECE-AA,18.27,MVTECE-AA-DA,
+E,5001-10000,Trellix TIE 1:1TE,MVTECE-AA,17.39,MVTECE-AA-EA,
+F,10001-+,Trellix TIE 1:1TE,MVTECE-AA,16.46,MVTECE-AA-FA,
+MVT-U,"Trellix Threat Intelligence Exchange - SaaS Upgrade
+LICENSE: 12 month Subscription, License is Per User with up to 5 devices per user.
+DELIVERABLE: Software as a Services (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS or ePO - On–prem and Data Exchange Layer (DXL).
+FEATURES INCLUDED:   An ecosystem where security products exchange reputation information about potentially malicious files to identify potential threats, learn from each others actions, and allow security administrators to tailor vendor supplied reputations to their companys environment.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Requires the separate purchase and installation of ENS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix TIE UPG 1:1TE,MVTECE-DA,26.51,MVTECE-DA-AA,
+B,251-1000,Trellix TIE UPG 1:1TE,MVTECE-DA,23.78,MVTECE-DA-BA,
+C,1001-2000,Trellix TIE UPG 1:1TE,MVTECE-DA,21.03,MVTECE-DA-CA,
+D,2001-5000,Trellix TIE UPG 1:1TE,MVTECE-DA,18.27,MVTECE-DA-DA,
+E,5001-10000,Trellix TIE UPG 1:1TE,MVTECE-DA,17.39,MVTECE-DA-EA,
+F,10001-+,Trellix TIE UPG 1:1TE,MVTECE-DA,16.46,MVTECE-DA-FA,
+TIE,"Trellix Threat Intelligence Exchange
+Add-On for CEB and China/Russia M1X-C On-Prem Endpoint Suite Customers
+LICENSE: Per Node.
+DELIVERABLE: Software download. Threat Intelligence Exchange is an ecosystem where security products exchange reputation information about potentially malicious files to identify potential threats, learn from each other’s actions, and allow security administrators to tailor vendor-supplied reputations to their company’s environment. Includes Threat Intelligence Server (VM), ENS Threat Intelligence Exchange Module, Data Exchange Layer (DXL) components.
+REQUIRES: ePolicy Orchestrator (ePO) on-premise and Endpoint Protection installed on devices.",,,,,
+,Add On Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,55.72,TIECDE-AA-AA,
+B,26-50,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,45.14,TIECDE-AA-BA,
+C,51-100,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,44.57,TIECDE-AA-CA,
+D,101-250,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,38.99,TIECDE-AA-DA,
+E,251-500,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,37.9,TIECDE-AA-EA,
+F,501-1000,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,34.56,TIECDE-AA-FA,
+G,1001-2000,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,32.31,TIECDE-AA-GA,
+H,2001-5000,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,22.82,TIECDE-AA-HA,
+I,5001-10000,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,20.06,TIECDE-AA-IA,
+J,10001-+,Threat Intel Exchange  P:1 TE [P+],TIECDE-AA,18.39,TIECDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,22.3,TIEYFM-AA-AA,
+B,26-50,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,18.07,TIEYFM-AA-BA,
+C,51-100,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,17.84,TIEYFM-AA-CA,
+D,101-250,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,15.61,TIEYFM-AA-DA,
+E,251-500,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,15.15,TIEYFM-AA-EA,
+F,501-1000,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,13.82,TIEYFM-AA-FA,
+G,1001-2000,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,12.93,TIEYFM-AA-GA,
+H,2001-5000,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,9.11,TIEYFM-AA-HA,
+I,5001-10000,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,8.03,TIEYFM-AA-IA,
+J,10001-+,Threat Intel Exchange  1Yr TE [P+],TIEYFM-AA,7.37,TIEYFM-AA-JA,
+,Risk Management,,,,,
+HPD,"Trellix Policy Auditor for Desktops
+LICENSE: Per Node.
+DELIVERABLE: Download Only.
+PRODUCT CONTENT: Demonstrate compliance via policy audit and with key industry mandates and security policies Support for multiple platforms and applications. Includes a copy of ePolicy Orchestrator (on-premises or public cloud). ePO is intended for use with Policy Auditor only. See product documentation. ePolicy Orchestrator provides a single platform for deployment, management and reporting as well as a unified platform for end point security and compliance management.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,53.45,HPDCDE-AA-AA,
+B,26-50,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,50.3,HPDCDE-AA-BA,
+C,51-100,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,47.3,HPDCDE-AA-CA,
+D,101-250,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,44.54,HPDCDE-AA-DA,
+E,251-500,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,41.85,HPDCDE-AA-EA,
+F,501-1000,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,39.36,HPDCDE-AA-FA,
+G,1001-2000,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,37.05,HPDCDE-AA-GA,
+H,2001-5000,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,34.31,HPDCDE-AA-HA,
+I,5001-10000,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,31.01,HPDCDE-AA-IA,
+J,10001-+,Policy Auditor Desktops P:1TE [P+],HPDCDE-AA,27.3,HPDCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,1-25,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,17.5,HPDYFM-AA-AA,
+B,26-50,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,16.4,HPDYFM-AA-BA,
+C,51-100,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,15.44,HPDYFM-AA-CA,
+D,101-250,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,14.52,HPDYFM-AA-DA,
+E,251-500,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,13.68,HPDYFM-AA-EA,
+F,501-1000,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,12.88,HPDYFM-AA-FA,
+G,1001-2000,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,12.14,HPDYFM-AA-GA,
+H,2001-5000,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,11.23,HPDYFM-AA-HA,
+I,5001-10000,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,10.13,HPDYFM-AA-IA,
+J,10001-+,Policy Auditor Desktops 1Yr TE  [P+],HPDYFM-AA,8.93,HPDYFM-AA-JA,
+,Platform API,,,,,
+PL1,"Trellix API
+LICENSE:  Per API Calls.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or Trellix Marketplace.
+MANAGEMENT:  ePO - SaaS.
+FEATURES INCLUDED: APIs  and access to deploy Strategic Innovation Alliance (SIA) partner products (Apps).
+RESTRICTIONS:   Limited to 2,000 API calls per day (daily limit) and Unlimited Free Partner Apps.  If a customer would like more than 2,000 API calls per day, the SKU can be stacked (i.e. if want 4,000 API calls per day, the purchase would be quantity 1; node 2).
+MINIMUM REQUIREMENT: Customer should have an account in ePO - SaaS",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Trellix API 1:1TE,PL1ECE-AA,24974.75,PL1ECE-AA-AA,
+,Extended and Custom Software Support,,,,,
+CUST-SPPT-ENS-C,"Trellix Software Support on Windows 7 - ENS-Client
+Extended Support for ENS- Client. Allows support for Windows 7, between Jan 1, 2022 and Dec 31, 2026. The last ENS version supported is U15. Can be sold to new opportunities and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,ENS-Client Extended Support 1Yr,ENSYWM-AA,371.15,ENSYWM-AA-AA,
+B,26-50,ENS-Client Extended Support 1Yr,ENSYWM-AA,300.87,ENSYWM-AA-BA,
+C,51-100,ENS-Client Extended Support 1Yr,ENSYWM-AA,297.16,ENSYWM-AA-CA,
+D,101-250,ENS-Client Extended Support 1Yr,ENSYWM-AA,259.85,ENSYWM-AA-DA,
+E,251-500,ENS-Client Extended Support 1Yr,ENSYWM-AA,252.53,ENSYWM-AA-EA,
+F,501-1000,ENS-Client Extended Support 1Yr,ENSYWM-AA,230.28,ENSYWM-AA-FA,
+G,1001-2000,ENS-Client Extended Support 1Yr,ENSYWM-AA,215.24,ENSYWM-AA-GA,
+H,2001-5000,ENS-Client Extended Support 1Yr,ENSYWM-AA,151.86,ENSYWM-AA-HA,
+I,5001-10000,ENS-Client Extended Support 1Yr,ENSYWM-AA,133.66,ENSYWM-AA-IA,
+J,10001-+,ENS-Client Extended Support 1Yr,ENSYWM-AA,122.44,ENSYWM-AA-JA,
+CUST-SPPT-ENS-S,"Trellix Software Support on Legacy Windows Server - ENS-Server
+Extended Support for ENS-Server. Allows support for Windows Server 2008 R2, 2012, 2012 R2 between Jan 1, 2022 and Dec 31, 2026.
+REQUIREMENTS: For Server 2008 R2 the last ENS version supported is U13. For the 2012, 2012 R2 the last ENS version supported is U15. Can be sold to new opportunities and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,ENS-Server Extended Support 1Yr,ENSYWM-AB,723.61,ENSYWM-AB-AA,
+B,26-50,ENS-Server Extended Support 1Yr,ENSYWM-AB,615.03,ENSYWM-AB-BA,
+C,51-100,ENS-Server Extended Support 1Yr,ENSYWM-AB,549.88,ENSYWM-AB-CA,
+D,101-250,ENS-Server Extended Support 1Yr,ENSYWM-AB,492.05,ENSYWM-AB-DA,
+E,251-500,ENS-Server Extended Support 1Yr,ENSYWM-AB,470.34,ENSYWM-AB-EA,
+F,501-1000,ENS-Server Extended Support 1Yr,ENSYWM-AB,441.38,ENSYWM-AB-FA,
+G,1001-2000,ENS-Server Extended Support 1Yr,ENSYWM-AB,412.39,ENSYWM-AB-GA,
+H,2001-5000,ENS-Server Extended Support 1Yr,ENSYWM-AB,376.24,ENSYWM-AB-HA,
+I,5001-10000,ENS-Server Extended Support 1Yr,ENSYWM-AB,354.52,ENSYWM-AB-IA,
+J,10001-+,ENS-Server Extended Support 1Yr,ENSYWM-AB,332.94,ENSYWM-AB-JA,
+CUST-SPPT-WIN-HIPS-C,"Trellix Software Support on Legacy Windows - HIPS-Client
+Extended Support for Host Intrusion Prevention for Desktops. Allows support for Windows 7, Windows 8, and Windows 10 through Dec 31, 2025
+LEVEL OF SUPPORT: Security fixes and DAT Updates only.  Case Sensitivity is not supported.
+REQUIREMENTS: Version HIPS 8.0 Patch 16 (8.0.0.5316).  For in-field deployments only (Customer must already have the product installed to receive the custom support).",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,39.93,HIDYWM-AA-AA,
+B,26-50,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,37.37,HIDYWM-AA-BA,
+C,51-100,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,34.67,HIDYWM-AA-CA,
+D,101-250,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,31.94,HIDYWM-AA-DA,
+E,251-500,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,29.39,HIDYWM-AA-EA,
+F,501-1000,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,26.59,HIDYWM-AA-FA,
+G,1001-2000,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,23.97,HIDYWM-AA-GA,
+H,2001-5000,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,21.25,HIDYWM-AA-HA,
+I,5001-10000,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,18.61,HIDYWM-AA-IA,
+J,10001-+,HIPS-Client Extended Win Support1Yr,HIDYWM-AA,15.97,HIDYWM-AA-JA,
+CUST-SPPT-WIN-HIPS-S,"Trellix Software Support on Legacy Windows Server - HIPS-Server
+Extended Support for Host Intrusion Prevention for Servers. Allows support for Windows Server 2008R2, Windows Server 2012, Windows Server 2012R2, Windows Server 2016, Windows Server 2019 through Dec 31, 2025
+LEVEL OF SUPPORT: Security fixes and DAT Updates only. Case Sensitivity is not supported.
+REQUIREMENTS: Version HIPS 8.0 Patch 16 (8.0.0.5316).  For in-field deployments only (Customer must already have the product installed to receive the custom support).",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,HIPS-Server Extended Win Support1Yr,HISYWM-AB,1306.47,HISYWM-AB-AA,
+B,26-50,HIPS-Server Extended Win Support1Yr,HISYWM-AB,1222.85,HISYWM-AB-BA,
+C,51-100,HIPS-Server Extended Win Support1Yr,HISYWM-AB,1134.01,HISYWM-AB-CA,
+D,101-250,HIPS-Server Extended Win Support1Yr,HISYWM-AB,1045.03,HISYWM-AB-DA,
+E,251-500,HIPS-Server Extended Win Support1Yr,HISYWM-AB,956.72,HISYWM-AB-EA,
+F,501-1000,HIPS-Server Extended Win Support1Yr,HISYWM-AB,868.62,HISYWM-AB-FA,
+G,1001-2000,HIPS-Server Extended Win Support1Yr,HISYWM-AB,783.71,HISYWM-AB-GA,
+H,2001-5000,HIPS-Server Extended Win Support1Yr,HISYWM-AB,696.48,HISYWM-AB-HA,
+I,5001-10000,HIPS-Server Extended Win Support1Yr,HISYWM-AB,608.55,HISYWM-AB-IA,
+J,10001-+,HIPS-Server Extended Win Support1Yr,HISYWM-AB,522.58,HISYWM-AB-JA,
+CUST-SPPT-W7-MAC-S,"Trellix Software Support on Legacy Windows Server - TAC-Server
+Extended Support for Application Control for Servers. Allows support for Windows Server 2008 R2, 2012 and 2012 R2 between Jan 1, 2022 and Dec 31, 2026
+REQUIREMENTS: Server 2008 R2, 2012, 2012 R2 supported Versions 8.3 and 8.4. Can be sold to new opportunities which use version 8.3.6 or later and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,1176.06,MACYWM-AB-AA,
+B,26-50,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,943.4,MACYWM-AB-BA,
+C,51-100,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,824.87,MACYWM-AB-CA,
+D,101-250,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,707.66,MACYWM-AB-DA,
+E,251-500,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,647.97,MACYWM-AB-EA,
+F,501-1000,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,570.25,MACYWM-AB-FA,
+G,1001-2000,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,467.62,MACYWM-AB-GA,
+H,2001-5000,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,374,MACYWM-AB-HA,
+I,5001-10000,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,291.82,MACYWM-AB-IA,
+J,10001-+,MAC-Server Extended Win7 Support 1Yr,MACYWM-AB,221.82,MACYWM-AB-JA,
+CUST-SPPT-W7-MAC-C,"Trellix Software Support on Windows 7 - TAC-Client
+Extended Support for Application Control for Desktops. Allows support for Windows 7 and Windows 7 Embedded / POSReady between Jan 1, 2022 and Dec 31, 2026
+REQUIREMENTS: Windows 7 supported Versions 8.3 and 8.4  Windows 7 Embedded / POSReady supported Version 8.0 only. Can be sold to new opportunities which use version 8.3.6 or later and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,148.82,MACYWM-AA-AA,
+B,26-50,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,120.53,MACYWM-AA-BA,
+C,51-100,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,119.08,MACYWM-AA-CA,
+D,101-250,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,104.16,MACYWM-AA-DA,
+E,251-500,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,101.27,MACYWM-AA-EA,
+F,501-1000,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,92.3,MACYWM-AA-FA,
+G,1001-2000,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,82.17,MACYWM-AA-GA,
+H,2001-5000,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,61.66,MACYWM-AA-HA,
+I,5001-10000,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,46.07,MACYWM-AA-IA,
+J,10001-+,MAC-Client Extended Win7 Support 1Yr,MACYWM-AA,34.68,MACYWM-AA-JA,
+CUST-SPPT-W7-MCC-C,"Trellix Software Support on Windows 7 - TCC-Client
+Extended Support for Change Control for Desktops and Integrity Control for Fixed Function Devices. Allows support for Windows 7 and Windows 7 Embedded / POSReady between Jan 1, 2022 and Dec 31, 2026
+REQUIREMENTS: Windows 7 supported Versions 8.3 and 8.4Windows 7 Embedded / POSReady supported Version 8.0 only. Can be sold to new opportunities which use version 8.3.6 or later and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,367.44,MCCYWM-AA-AA,
+B,26-50,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,334.46,MCCYWM-AA-BA,
+C,51-100,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,304.36,MCCYWM-AA-CA,
+D,101-250,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,266.2,MCCYWM-AA-DA,
+E,251-500,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,242.28,MCCYWM-AA-EA,
+F,501-1000,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,220.47,MCCYWM-AA-FA,
+G,1001-2000,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,200.52,MCCYWM-AA-GA,
+H,2001-5000,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,169.9,MCCYWM-AA-HA,
+I,5001-10000,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,149.22,MCCYWM-AA-IA,
+J,10001-+,MCC-Client Extended Win7 Support 1Yr,MCCYWM-AA,136.65,MCCYWM-AA-JA,
+CUST-SPPT-W7-MCC-S,"Trellix Software Support on Legacy Windows Server - TCC-Server
+Extended Support for Change Control for Servers. Allows support for Windows Server 2008 R2, 2012, 2012 R2 between Jan 1, 2022 and Dec 31, 2026
+REQUIREMENTS: Windows Server 2008 R2, 2012, 2012 R2 supported Versions 8.3 and 8.4. Can be sold to new opportunities which use version 8.3.6 or later and does not require in-field deployment. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1421.07,MCCYWM-AB-AA,
+B,26-50,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1391.78,MCCYWM-AB-BA,
+C,51-100,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1362.47,MCCYWM-AB-CA,
+D,101-250,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1318.52,MCCYWM-AB-DA,
+E,251-500,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1256.6,MCCYWM-AB-EA,
+F,501-1000,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1181.22,MCCYWM-AB-FA,
+G,1001-2000,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,1063.1,MCCYWM-AB-GA,
+H,2001-5000,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,956.84,MCCYWM-AB-HA,
+I,5001-10000,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,841.9,MCCYWM-AB-IA,
+J,10001-+,MCC-Server Extended Win7 Support 1Yr,MCCYWM-AB,732.5,MCCYWM-AB-JA,
+CUST-SPPT-WIN-VSE-C,"Trellix Software Support on Legacy Windows - VSE-Client
+Extended Support for VirusScan Enterprise-Client.  Allows support for Windows 7, Windows 8, and Windows 10 through Dec 31, 2025.
+LEVEL OF SUPPORT: Security fixes and DAT Updates only. Case Sensitivity is not supported.
+REQUIREMENTS: Version VSE 8.8 Patch 16.  For in-field deployments only (Customer must already have the product installed to receive the custom support). Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,371.15,VSCYWM-AA-AA,
+B,26-50,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,300.87,VSCYWM-AA-BA,
+C,51-100,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,297.16,VSCYWM-AA-CA,
+D,101-250,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,259.85,VSCYWM-AA-DA,
+E,251-500,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,252.53,VSCYWM-AA-EA,
+F,501-1000,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,230.28,VSCYWM-AA-FA,
+G,1001-2000,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,215.24,VSCYWM-AA-GA,
+H,2001-5000,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,151.86,VSCYWM-AA-HA,
+I,5001-10000,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,133.66,VSCYWM-AA-IA,
+J,10001-+,VSE-Client Extended Win Support 1Yr,VSCYWM-AA,122.44,VSCYWM-AA-JA,
+CUST-SPPT-WIN-VSE-S,"Trellix Software Support on Legacy Windows Server - VSE-Server
+Extended Support for VirusScan Enterprise-Server.  Allows support for Windows Server 2008 R2, Windows Server 2012, 2012 R2, Windows Server 2016, Windows Server 2019 through Dec 31, 2025.
+LEVEL OF SUPPORT: Security fixes and DAT Updates only. Case Sensitivity is not supported.
+REQUIREMENTS: Version VSE 8.8 Patch 16.  For in-field deployments only (Customer must already have the product installed to receive the custom support). Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-25,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,723.61,VSCYWM-AB-AA,
+B,26-50,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,615.03,VSCYWM-AB-BA,
+C,51-100,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,549.88,VSCYWM-AB-CA,
+D,101-250,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,492.05,VSCYWM-AB-DA,
+E,251-500,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,470.34,VSCYWM-AB-EA,
+F,501-1000,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,441.38,VSCYWM-AB-FA,
+G,1001-2000,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,412.39,VSCYWM-AB-GA,
+H,2001-5000,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,376.24,VSCYWM-AB-HA,
+I,5001-10000,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,354.52,VSCYWM-AB-IA,
+J,10001-+,VSE-Server Extended Win Support 1Yr,VSCYWM-AB,332.94,VSCYWM-AB-JA,
+CUST-SPPT-ACD,"Trellix Legacy Support for Application and Change Control - Desktop
+Application Control for Desktop and Change Control for Desktop incremental fee for conversion of Business Support to Custom Technical Support.  For devices running unsupported legacy Windows XP, Windows Embedded Point of Service (WEPOS), POSReady 2009 through Dec 31, 2026 (EOL)
+Custom Support Incremental Fee Pricing lists at a percentage of the equivalent standard Business Support rate for the product.
+·         Terms after 30 June 2019 = 500%
+LEVEL OF SUPPORT: Phone support only, with specific limitations and exclusions in rights to future security updates, bug and hot fixes and new version, or feature, releases
+REQUIREMENTS: Designated Legacy Custom Support Version 6.2 Only; Support Term CANNOT extend beyond stated EOL.  For in-field deployments only (Customer must already have the product installed to receive the custom support).  Maximum term of 1yr quotable and requires annual Product Management review and approval.
+",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,1-+,App Ctl PCs 1Yr Lgcy OS Cust Supt,ACDYWM-AA,Call For Quote,ACDYWM-AA-AA,
+CUST-SPPT-ACS,"Trellix Legacy Support for Application and Change Control - Server
+Application Control for Server and Change Control for Server incremental fee for conversion of Business Support to Custom Technical Support.  For devices running unsupported legacy Windows Server 2003 and 2008 through Dec 31, 2026 (EOL)
+Custom Support Incremental Fee Pricing lists at a percentage of the equivalent standard Business Support rate for the product.
+·         Terms after 30 June 2019 = 500%
+LEVEL OF SUPPORT: Phone support only, with specific limitations and exclusions in rights to future security updates, bug and hot fixes and new version, or feature, releases
+REQUIREMENTS: Designated Legacy Custom Support Version 6.2 Only; Support Term CANNOT extend beyond stated EOL. For in-field deployments only (Customer must already have the product installed to receive the custom support). Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,1-+,App Ctl SVRs 1Yr Lgcy OS Cust Supt,ACSYWM-AA,Call For Quote,ACSYWM-AA-AA,
+CUST-SPPT-WIN-HX,"Trellix Software Support on Legacy Windows - HX
+Support contract offering to provide support for HX running on older operating systems.  Allows support for Windows XP SP3, Windows Vista SP2, Windows Server 2003 SP2, Windows Server 2003 R2 and Windows Server 2008 Standard between Jul 1, 2023 and Dec 31, 2025.
+INCLUDES:  Critical bugfixes and Security updates depending on the operating system vendor and technical limitations.
+LIMITATIONS:  Limited to Endpoint Security Agent version 30.19 only. Does not include new features.
+REQUIREMENT:  Requires active HX subscription on the endpoints requiring custom support. Maximum term of 1yr quotable and requires annual Product Management review and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,5-250,HX Extended Win Support 1Yr,HXWYWM-AA,391.04,HXWYWM-AA-AA,
+B,251-1000,HX Extended Win Support 1Yr,HXWYWM-AA,349.45,HXWYWM-AA-BA,
+C,1001-2000,HX Extended Win Support 1Yr,HXWYWM-AA,307.85,HXWYWM-AA-CA,
+D,2001-5000,HX Extended Win Support 1Yr,HXWYWM-AA,274.57,HXWYWM-AA-DA,
+E,5001-10000,HX Extended Win Support 1Yr,HXWYWM-AA,216.32,HXWYWM-AA-EA,
+F,10001-+,HX Extended Win Support 1Yr,HXWYWM-AA,158.09,HXWYWM-AA-FA,
+CUST-SPPT-EDR,"Trellix Software Extended Support on Windows - EDR
+Extended Support for EDR running on older operating systems. Allows support for EDR on Windows 7 and Windows 8.1 between Jan 1, 2024 and Dec 31, 2025.
+INCLUDES: Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: Limited to EDR Version 4.2.0.
+REQUIREMENT: Requires active EDR subscription on the endpoints requiring custom support. Maximum term of 1yr quotable and requires annual Product Management review and approval. For extended support on any other legacy OS apart from Windows 7 and Windows 8.1, review with Product Management for feasibility and approval.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+A,1-250,EDR Extended Win Support 1Yr,EDRYWM-AA,266.06,EDRYWM-AA-AA,
+B,251-1000,EDR Extended Win Support 1Yr,EDRYWM-AA,244.7,EDRYWM-AA-BA,
+C,1001-2000,EDR Extended Win Support 1Yr,EDRYWM-AA,225.09,EDRYWM-AA-CA,
+D,2001-5000,EDR Extended Win Support 1Yr,EDRYWM-AA,210.7,EDRYWM-AA-DA,
+E,5001-10000,EDR Extended Win Support 1Yr,EDRYWM-AA,199.7,EDRYWM-AA-EA,
+F,10001-+,EDR Extended Win Support 1Yr,EDRYWM-AA,184.76,EDRYWM-AA-FA,
+,Hermes Endpoint Subscriptions,,,,,
+EPEES-T,"Endpoint Security Essentials Edition (Enterprise)(T)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Basic Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Logon Tracker and Device Control for removable storage devices), EDR with basic investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,113.56,EPES2WECE-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,101.94,EPES2WECE-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,90.28,EPES2WECE-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,75.72,EPES2WECE-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,61.15,EPES2WECE-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,43.67,EPES2WECE-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,34.95,EPES2WECE-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) 2W 1:1TE(T),EPES2WECE-AT,29.12,EPES2WECE-AT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,130.63,EPES1WECE-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,117.22,EPES1WECE-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,103.81,EPES1WECE-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,87.07,EPES1WECE-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,70.29,EPES1WECE-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,50.27,EPES1WECE-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,40.18,EPES1WECE-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) 1W 1:1TE(T),EPES1WECE-AT,33.49,EPES1WECE-AT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,136.3,EPESOFECE-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,122.31,EPESOFECE-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,108.33,EPESOFECE-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,90.85,EPESOFECE-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,73.37,EPESOFECE-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,52.43,EPESOFECE-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,41.94,EPESOFECE-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) OF 1:1TE(T),EPESOFECE-AT,34.95,EPESOFECE-AT-HA,
+EPUES-T,"Endpoint Security Essentials Edition(T)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Basic Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Logon Tracker and Device Control for removable storage devices), EDR with basic investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,136.85,EPES2WECE-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,122.31,EPES2WECE-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,107.74,EPES2WECE-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,96.1,EPES2WECE-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,75.72,EPES2WECE-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) 2W 1:1TE(T),EPES2WECE-AA,55.32,EPES2WECE-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,157.42,EPES1WECE-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,140.67,EPES1WECE-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,123.9,EPES1WECE-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,110.54,EPES1WECE-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,87.07,EPES1WECE-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) 1W 1:1TE(T),EPES1WECE-AA,63.62,EPES1WECE-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,164.25,EPESOFECE-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,146.78,EPESOFECE-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,129.3,EPESOFECE-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,115.31,EPESOFECE-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,90.85,EPESOFECE-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) OF 1:1TE(T),EPESOFECE-AA,66.42,EPESOFECE-AA-FA,
+EPEPW-T,"Endpoint Security Power Edition (Enterprise)(T)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,170.35,EPPW2WECE-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,152.88,EPPW2WECE-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,135.4,EPPW2WECE-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,113.56,EPPW2WECE-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,91.73,EPPW2WECE-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,65.54,EPPW2WECE-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,52.43,EPPW2WECE-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) 2W 1:1TE(T),EPPW2WECE-AT,43.67,EPPW2WECE-AT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,187.43,EPPW1WECE-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,168.19,EPPW1WECE-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,148.97,EPPW1WECE-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,124.92,EPPW1WECE-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,100.89,EPPW1WECE-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,72.09,EPPW1WECE-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,57.66,EPPW1WECE-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) 1W 1:1TE(T),EPPW1WECE-AT,48.06,EPPW1WECE-AT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,193.09,EPPWOFECE-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,173.27,EPPWOFECE-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,153.45,EPPWOFECE-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,128.71,EPPWOFECE-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,103.94,EPPWOFECE-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,74.25,EPPWOFECE-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,59.42,EPPWOFECE-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) OF 1:1TE(T),EPPWOFECE-AT,49.51,EPPWOFECE-AT-HA,
+EPEPWU-T,"Endpoint Security Power Edition (Enterprise) - UPGRADE(T)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,170.35,EPPW2WECE-DT-AA,
+B,251-1000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,152.88,EPPW2WECE-DT-BA,
+C,1001-2000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,135.4,EPPW2WECE-DT-CA,
+D,2001-5000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,113.56,EPPW2WECE-DT-DA,
+E,5001-10000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,91.73,EPPW2WECE-DT-EA,
+F,10001-20000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,65.54,EPPW2WECE-DT-FA,
+G,20001-50000,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,52.43,EPPW2WECE-DT-GA,
+H,50001-+,EndptSec PWR Ed UP (endpt) 2W 1:1TE(T),EPPW2WECE-DT,43.67,EPPW2WECE-DT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,187.43,EPPW1WECE-DT-AA,
+B,251-1000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,168.19,EPPW1WECE-DT-BA,
+C,1001-2000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,148.97,EPPW1WECE-DT-CA,
+D,2001-5000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,124.92,EPPW1WECE-DT-DA,
+E,5001-10000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,100.89,EPPW1WECE-DT-EA,
+F,10001-20000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,72.09,EPPW1WECE-DT-FA,
+G,20001-50000,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,57.66,EPPW1WECE-DT-GA,
+H,50001-+,EndptSec PWR Ed UP (endpt) 1W 1:1TE(T),EPPW1WECE-DT,48.06,EPPW1WECE-DT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,193.09,EPPWOFECE-DT-AA,
+B,251-1000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,173.27,EPPWOFECE-DT-BA,
+C,1001-2000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,153.45,EPPWOFECE-DT-CA,
+D,2001-5000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,128.71,EPPWOFECE-DT-DA,
+E,5001-10000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,103.94,EPPWOFECE-DT-EA,
+F,10001-20000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,74.25,EPPWOFECE-DT-FA,
+G,20001-50000,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,59.42,EPPWOFECE-DT-GA,
+H,50001-+,EndptSec PWR Ed UP (endpt) OF 1:1TE(T),EPPWOFECE-DT,49.51,EPPWOFECE-DT-HA,
+EPUPW-T,"Endpoint Security Power Edition(T)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,205.29,EPPW2WECE-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,183.46,EPPW2WECE-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,161.62,EPPW2WECE-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,144.16,EPPW2WECE-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,113.56,EPPW2WECE-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) 2W 1:1TE(T),EPPW2WECE-AA,83,EPPW2WECE-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,225.83,EPPW1WECE-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,201.8,EPPW1WECE-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,177.78,EPPW1WECE-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,158.56,EPPW1WECE-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,124.92,EPPW1WECE-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) 1W 1:1TE(T),EPPW1WECE-AA,91.28,EPPW1WECE-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,232.67,EPPWOFECE-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,207.92,EPPWOFECE-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,183.18,EPPWOFECE-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,163.35,EPPWOFECE-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,128.71,EPPWOFECE-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) OF 1:1TE(T),EPPWOFECE-AA,94.06,EPPWOFECE-AA-FA,
+EPUPWU-T,"Endpoint Security Power Edition - UPGRADE(T)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,205.29,EPPW2WECE-DA-AA,
+B,251-1000,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,183.46,EPPW2WECE-DA-BA,
+C,1001-2000,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,161.62,EPPW2WECE-DA-CA,
+D,2001-5000,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,144.16,EPPW2WECE-DA-DA,
+E,5001-10000,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,113.56,EPPW2WECE-DA-EA,
+F,10001-+,EndptSec PWR Ed UP (user) 2W 1:1TE(T),EPPW2WECE-DA,83,EPPW2WECE-DA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,225.83,EPPW1WECE-DA-AA,
+B,251-1000,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,201.8,EPPW1WECE-DA-BA,
+C,1001-2000,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,177.78,EPPW1WECE-DA-CA,
+D,2001-5000,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,158.56,EPPW1WECE-DA-DA,
+E,5001-10000,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,124.92,EPPW1WECE-DA-EA,
+F,10001-+,EndptSec PWR Ed UP (user) 1W 1:1TE(T),EPPW1WECE-DA,91.28,EPPW1WECE-DA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,232.67,EPPWOFECE-DA-AA,
+B,251-1000,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,207.92,EPPWOFECE-DA-BA,
+C,1001-2000,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,183.18,EPPWOFECE-DA-CA,
+D,2001-5000,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,163.35,EPPWOFECE-DA-DA,
+E,5001-10000,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,128.71,EPPWOFECE-DA-EA,
+F,10001-+,EndptSec PWR Ed UP (user) OF 1:1TE(T),EPPWOFECE-DA,94.06,EPPWOFECE-DA-FA,
+,Hermes Endpoint Virtual Appliance Deployment Options,,,,,
+EP-VA-T,"Endpoint Security Virtual(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Software download for installation in customer's VMware environment (VMware license and hardware not included)
+CONTENT: Integrated Endpoint Detection & Response virtual appliance. Includes software downloads for 4600 VA and 2502 VA. 4600 VA can be deployed as a VMware virtual appliance that protects up to 100,000 endpoints and supports 8 cores CPU, 64 GB RAM, and 5000 GB Disk. Includes 2 VMXNET3 Virtual NIC. 2502 VA can be deployed as a VMware virtual appliance that protects up to 15,000 endpoints and supports 4 cores CPU, 16 GB RAM, and 1200 GB Disk. Includes 2 VMXNET3 Virtual NIC.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EP Virt Appl SW PERP LIC(T),VEPCXE-AT,0,VEPCXE-AT-AA,
+EP-DMZ-VA-T,"Endpoint Security DMZ Virtual(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Software download for installation in customer's VMware environment (VMware license and hardware not included)
+CONTENT: Integrated Endpoint Detection & Response virtual appliance. Includes software downloads for 4600 DMZ VA and 2500 DMZ VA. 4600 DMZ VA can be deployed as a VMware virtual appliance in the DMZ that protects up to 100,000 endpoints and supports 8 cores CPU, 64 GB RAM, and 5000 GB Disk. Includes 2 VMXNET3 Virtual NIC. 2500 DMZ VA can be deployed as a VMware virtual appliance in the DMZ protecting up to 15,000 endpoints and supports 4 cores CPU, 16 GB RAM, and 512 GB Disk. Includes 2 VMXNET3 Virtual NIC.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+Purchase/Existing Trellix Endpoint Security Appliance (HX) is required",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EP DMZ Virt Appl SW PERP LIC(T),VEPDCXE-AT,0,VEPDCXE-ATAA,
+,Hermes Endpoint Hardware Appliance Deployment Options,,,,,
+EP4600-T,"EP 4600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EP 4600 Appliance(T),EP-4600-T,39312.84,EP-4600-TA,
+EP4600-DMZ-T,"EP 4600 DMZ Appliance(T)
+LICENSE: Per Appliance
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+Purchase/Existing Trellix Endpoint Security Appliance (HX) is required.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EP 4600 DMC Appliance(T),EP-4600D-T,39312.84,EP-4600D-TA,
+,Endpoint Cloud Deploy Options,,,,,
+HXCL-T,"HX Cloud Hosting Endpoint - Large (T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG 1:1TE(T),HXCLGXE-AA,43680.94,HXCLGXE-AAAA,
+HXCM-T,"HX Cloud Hosting Endpoint - Medium(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD 1:1TE(T),HXCMGXE-AA,27284.29,HXCMGXE-AAAA,
+HXGCL-T,"HX Cloud Hosting Endpoint - GCP - Large (T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt GCP LG 1:1TE(T),HXGCLGXE-AA,43680.94,HXGCLGXE-AA-AA,FCS Date 05/02/2025
+HXGCM-T,"HX Cloud Hosting Endpoint - GCP - Medium(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt GCP MD 1:1TE(T),HXGCMGXE-AA,27284.29,HXGCMGXE-AA-AA,FCS Date 05/02/2025

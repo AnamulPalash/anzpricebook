@@ -1,0 +1,389 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Advanced Correlation Engine
+,SIEM Combination,,,,ACE-4800,Trellix Advanced Correlation Engine 4800
+ENM-ELM-6100,"Trellix Enterprise Security Manager, Log Manager and Event Receiver Combination 6100",,,,ACE-3600,Trellix Advanced Correlation Engine 3600
+ESM-ELM-ERC-VM,"Trellix Virtual Enterprise Security Manager, Log Manager and Event Receiver Combination VM 8 Cores",,,,ACE-VM,Trellix Virtual Advanced Correlation Engine VM 8 Cores
+ESM-ELM-ERC-VM4-CR ADDON,"Trellix Enterprise Security, Enterprise Log Manager and Enterprise Receiver VM (4 Core Add-On)",,,,ACE-VM-4-CORE-ADDON,Trellix Virtual Advanced Correlation Engine VM 4 Core Add-On
+,Enterprise Security Manager,,,,,Application Data Monitor
+ETM-6100,Trellix Enterprise Security Manager 6100,,,,APM-3600,Trellix Application Data Monitor 3600
+ETM-X10,Trellix Enterprise Security Manager X10,,,,ADM-VM,Trellix Virtual Application Data Monitor VM 8 Cores
+ESM-VM,Trellix Virtual Enterprise Security Manager VM 8 Cores,,,,ADM-VM-4-CORE-ADDON,Trellix Virtual Application Data Monitor VM 4 Core Add-On
+ESM-VM-4-CORE-ADDON,Trellix Virtual Enterprise Security Manager VM 4 Core Add-On,,,,,Global Threat Intelligence Service
+,Enterprise Log Manager,,,,ENMELM-6100-GTI,Trellix Global Threat Intelligence (Module for ESM) - Combination 6100 Appliance
+ELM-6100,Trellix Enterprise Log Manager 6100,,,,ETM-6100-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM-6100 Appliance
+ELM-VM,Trellix Virtual Enterprise Log Manager VM 8 Cores,,,,ETM-X10-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM X10 Appliance
+ELM-VM-4-CORE-ADDON,Trellix Virtual Enterprise Log Manager VM 4 Core Add-On,,,,ESM-ELM-ERC-VM12-GTI,Trellix Global Threat Intelligence (Module for  ESM) - Combination VM-12
+,Enterprise Log Search,,,,ESM-VM8-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-8
+ELS-VM,Trellix Virtual Enterprise Log Search VM 8 Cores,,,,ESM-VM12-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-12
+ELS-VM-4-CORE-ADDON,Trellix Virtual Enterprise Log Search VM 4 Core Add-On,,,,ESM-VM16-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-16
+,Event Receiver,,,,ESM-VM24-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-24
+ERC-3600,Trellix Event Receiver 3600,,,,ESM-VM32-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-32
+ERC-4800,Trellix Event Receiver 4800,,,,ESM-VM48-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-48
+ERC-VM,Trellix Virtual Event Receiver VM 8 Cores,,,,ESM-VM64-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-64
+ERC-VM-4-CORE-ADDON,Trellix Virtual Event Receiver VM 4 Core Add-On,,,,ESM-VM72-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-72
+,,,,,,SIEM Accessories
+,,,,,ESM-10GRJSF-MOD,Trellix 10 Gigabit OCP 4-port network card (2 RJ45 & 2 SFP+ Combo)
+,,,,,DAS-120,Trellix Direct Attached Storage 120
+,,,,,DAS-250,Trellix Direct Attached Storage 250
+,,,,,,Event Reporter
+,,,,,EREP-VM-25,Trellix Event Reporter VM 25
+Trellix SIEM,,,,,,
+,"SIEM Combination
+All new/ initial SIEM opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under SIEM section, for detailed quote and order guidance.",,,,,
+ENM-ELM-6100,"Trellix Enterprise Security Manager, Log Manager and Event Receiver Combination 6100
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides SIEM, Log Management, and Network Analysis functions. Includes Event Receiver. Provides compliant Log Management and collects data for correlation and analysis by Enterprise Security Manager. Includes 25.6 TB + 1.6 TB SSD local storage. (Raw log retention requires external storage. Optional SAN card sold separately). 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order.Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,"Ent Sec Mgr,ELM and EvtRec 6100 Appl",ENMELM-6100,212340.82,ENMELM-6100A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,"EntSecMgr, ELM,EvtRec 6100 1YrTE+NBD",ENMELM6100NBD,42468.15,ENMELM6100NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,"EntSecMgr, ELM,EvtRec 6100 1YrTE+SD",ENMELM61005SD,53085.22,ENMELM61005SDA,
+ESM-ELM-ERC-VM,"Trellix Virtual Enterprise Security Manager, Log Manager and Event Receiver Combination VM 8 Cores
+LICENSE: Per VM Instance.
+DELIVERABLE: Software download for installation in customer's virtual environment (Virtual server license not included).
+PRODUCT CONTENT: Provides SIEM, Compliant Enterprise Log Management, Event Receiver and Network Analysis functions. Includes integrated receiver for collection of 3rd party feeds.
+NOTE: Hardware is not included. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,"ESM, ELM, and ERC VM 8 Cores P:1 TE",ELUVME-AA,92399.02,ELUVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,"ESM, ELM, and ERC VM 8 Cores 1 Yr TE",ELUVYE-AA,18479.79,ELUVYE-AA-AA,
+ESM-ELM-ERC-VM4-CR ADDON,"Trellix Enterprise Security, Enterprise Log Manager and Enterprise Receiver VM (4 Core Add-On)
+LICENSE: Per VM Instance.
+DELIVERABLE: Software Add-On to increase the capacity of the ESM-ELM-ERC-VM software by 4 additional cores to a maximum of 72 cores per ESM-ELM-ERC.  Unlocking add-on cores is available via download. 
+PRODUCT CONTENT: Provides SIEM and Network Analysis functions.  ESM-ELM-ERC VM software required. 
+NOTE: Hardware is not included. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.
+",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,ESM ELM ERC VM 4 Cores Add-On P:1TE,ELU4AE-AA,82031.08,ELU4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,ESM ELM ERC VM 4 Cores Add-On 1YrTE,ELU4YE-AA,16293.18,ELU4YE-AA-AA,
+,"Enterprise Security Manager
+All new/ initial SIEM opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under SIEM section, for detailed quote and order guidance.",,,,,
+ETM-6100,"Trellix Enterprise Security Manager 6100
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 25.6 TB + 3.2 TB SSD local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Ent Sec Mgr 6100 Appl,ETM-6100,303421.86,ETM-6100A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Ent Sec Mgr 6100 Appl 1YrTE+NBD,ETM6100NBD,60684.37,ETM6100NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Ent Sec Mgr 6100 Appl 1YrTE+SD,ETM6100SD,75855.46,ETM6100SDA,
+ETM-X10,"Trellix Enterprise Security Manager X10
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 36.4 TB + 3.2 TB SSD local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Ent Sec Mgr X10 Appl,ETM-X10,1007456.43,ETM-X10A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Ent Sec Mgr X10 Appl 1YrTE+NBD,ETMX10NBD,201491.29,ETMX10NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Ent Sec Mgr X10 Appl 1YrTE+SD,ETMX10SD,251864.1,ETMX10SDA,
+ESM-VM,"Trellix Virtual Enterprise Security Manager VM 8 Cores
+LICENSE: Per VM Instance.
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included). 
+PRODUCT CONTENT: Provides SIEM and Network Analysis functions. Event Receiver appliance or Event Receiver VM Software required. (NOTE: Hardware is not included). Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Ent Sec Manager VM 8 Cores P:1 TE,ENUVME-AA,80847.69,ENUVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Ent Sec Manager VM 8 Cores 1 Yr TE,ENUVYE-AA,16169.54,ENUVYE-AA-AA,
+ESM-VM-4-CORE-ADDON,"Trellix Virtual Enterprise Security Manager VM 4 Core Add-On
+LICENSE: Per VM Instance.
+DELIVERABLE: Software Add-On to increase the capacity of the ESM-VM software by 4 additional cores to a maximum of 72 cores per ESM.  Unlocking add-on cores is available via download. 
+PRODUCT CONTENT: Provides SIEM and Network Analysis functions.  ESM-VM software required.  Event Receiver appliance or Event Receiver VM Software required.
+NOTE: Hardware is not included. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Ent Sec Mngr VM 4 Cores Add-On P:1TE,ENU4AE-AA,73928.45,ENU4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Ent Sec Mngr VM 4 Cores Add-On 1YrTE,ENU4YE-AA,14785.72,ENU4YE-AA-AA,
+,Enterprise Log Manager,,,,,
+ELM-6100,"Trellix Enterprise Log Manager 6100
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 36.4 TB + 1.6 TB SSD local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Ent Log Mgr 6100 Appl,ELM-6100,205064.96,ELM-6100A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Ent Log Mgr 6100 Appl 1YrTE+NBD,ELM6100NBD,41013.01,ELM6100NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Ent Log Mgr 6100 Appl 1YrTE+SD,ELM6100SD,51266.24,ELM6100SDA,
+ELM-VM,"Trellix Virtual Enterprise Log Manager VM 8 Cores
+LICENSE: Per VM Instance. 
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included). 
+PRODUCT CONTENT: Provides Log Management functions. Enterprise Security Manager VM Software or hardware required.
+NOTE: Hardware is not included. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,ELM VM 8 Cores P:1 TE,ELMVME-AA,36952.67,ELMVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,ELM VM 8 Cores 1 Yr TE,ELMVYE-AA,7390.55,ELMVYE-AA-AA,
+ELM-VM-4-CORE-ADDON,"Trellix Virtual Enterprise Log Manager VM 4 Core Add-On
+LICENSE: Per VM Instance. 
+DELIVERABLE: Software Add-On to increase the capacity of the ELM-VM software by 4 additional cores to a maximum of 72 cores per ELM.  Unlocking add-on cores is available via download.
+PRODUCT CONTENT: Provides Log Management functions. ELM-VM software required.  Enterprise Security Manager VM Software or hardware required.
+NOTE: Hardware is not included. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,ELM VM 4 Cores Add-On P:1 TE,ELM4AE-AA,23102.65,ELM4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,ELM VM 4 Cores Add-On 1 Yr TE,ELM4YE-AA,4620.55,ELM4YE-AA-AA,
+,Enterprise Log Search,,,,,
+ELS-VM,"Trellix Virtual Enterprise Log Search VM 8 Cores
+LICENSE: Per VM Instance. 
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included).  PRODUCT CONTENT: Provides Log Management functions, including ability to identify forensic details in unstructured data, fast query response and ingestion. Enterprise Security Manager VM Software or hardware required. (NOTE: Hardware is not included). Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,ELS VM 8 Cores P:1 TE,ELSVME-AA,36952.67,ELSVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,ELS VM 8 Cores 1 Yr TE,ELSVYE-AA,7390.55,ELSVYE-AA-AA,
+ELS-VM-4-CORE-ADDON,"Trellix Virtual Enterprise Log Search VM 4 Core Add-On
+LICENSE: Per VM Instance.
+DELIVERABLE: Software Add-On to increase the capacity of the ELS-VM software by 4 additional cores to a maximum of 72 cores per ELS.  Unlocking add-on cores is available via download.
+PRODUCT CONTENT: Event Receiver VM collects 3rd party logs, events and flow data for correlation and analysis by Enterprise Security Manager. ELS-VM software required.  Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included).",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,ELS VM 4 Cores Add-On P:1 TE,ELS4AE-AA,23102.65,ELS4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,ELS VM 4 Cores Add-On 1 Yr TE,ELS4YE-AA,4620.55,ELS4YE-AA-AA,
+,Event Receiver,,,,,
+ERC-3600,"Trellix Event Receiver 3600
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 3.2 TB SSD + 1.6 TB of local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Event Receiver 3600 Appl,ERC-3600,116917.52,ERC-3600A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Event Receiver 3600 Appl 1YrTE+NBD,ERC3600NBD,23383.51,ERC3600NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Event Receiver 3600 Appl 1YrTE+SD,ERC3600SD,29229.4,ERC3600SDA,
+ERC-4800,"Trellix Event Receiver 4800
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 6.4 TB SSD + 1.6 TB of local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Event Receiver 4800 Appl,ERC-4800,186585.21,ERC-4800A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Event Receiver 4800 Appl 1YrTE+NBD,ERC4800NBD,37317.06,ERC4800NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Event Receiver 4800 Appl 1YrTE+SD,ERC4800SD,46646.3,ERC4800SDA,
+ERC-VM,"Trellix Virtual Event Receiver VM 8 Cores
+LICENSE: Per VM Instance.
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included).
+PRODUCT CONTENT: Event Receiver VM collects 3rd party logs, events and flow data for correlation and analysis by Enterprise Security Manager. Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included).",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Event Receiver VM 8 Cores P:1 TE,EV2VME-AA,23091.07,EV2VME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Event Receiver VM 8 Cores 1 Yr TE,EV2VYE-AA,4618.19,EV2VYE-AA-AA,
+ERC-VM-4-CORE-ADDON,"Trellix Virtual Event Receiver VM 4 Core Add-On
+LICENSE: Per VM Instance.
+DELIVERABLE: Software Add-On to increase the capacity of the ERC-VM software by 4 additional cores to a maximum of 72 cores per ERC.  Unlocking the add-on cores is available via download.
+PRODUCT CONTENT: Event Receiver VM collects 3rd party logs, events and flow data for correlation and analysis by Enterprise Security Manager. ERC-VM software required.  Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included).",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Event Rec VM 4 Cores Add-On P:1TE,EV24AE-AA,23102.65,EV24AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Event Rec VM 4 Cores Add-On 1 Yr TE,EV24YE-AA,4620.55,EV24YE-AA-AA,
+,Advanced Correlation Engine,,,,,
+ACE-4800,"Trellix Advanced Correlation Engine 4800
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 3.2 TB SSD + 1.6 TB of local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Adv Cor Eng 4800 Appl,ACE-4800,116034.48,ACE-4800A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Adv Cor Eng 4800 Appl 1YrTE+NBD,ACE4800NBD,23206.89,ACE4800NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Adv Cor Eng 4800 Appl 1YrTE+SD,ACE4800SD,29008.63,ACE4800SDA,
+ACE-3600,"Trellix Advanced Correlation Engine 3600
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes 3.2 TB SSD + 1.6 TB of local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,Adv Cor Eng 3600 Appl,ACE-3600,64293.04,ACE-3600A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Adv Cor Eng 3600 Appl 1YrTE+NBD,ACE3600NBD,12858.62,ACE3600NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Adv Cor Eng 3600 Appl 1YrTE+SD,ACE3600SD,16073.28,ACE3600SDA,
+ACE-VM,"Trellix Virtual Advanced Correlation Engine VM 8 Cores
+LICENSE: Per VM Instance.
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included).
+PRODUCT CONTENT: Provides RSC and Enterprise correlation for the Enterprise Security Manager. Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included) Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Adv Corr Eng VM 8 Cores P:1 TE,ACVVME-AA,39262.95,ACVVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Adv Corr Eng VM 8 Cores 1 Yr TE,ACVVYE-AA,7852.59,ACVVYE-AA-AA,
+ACE-VM-4-CORE-ADDON,"Trellix Virtual Advanced Correlation Engine VM 4 Core Add-On
+LICENSE: Per VM Instance.
+DELIVERABLE: Software Add-On to increase the capacity of the ACE-VM software by 4 additional cores to a maximum of 72 cores per ACE.  Unlocking add-on cores is available via download.
+PRODUCT CONTENT: Provides RSC and Enterprise correlation for the Enterprise Security Manager. ACE-VM software required.  Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included) Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Adv Corr Eng VM 4 Cores Add-On P:1TE,ACV4AE-AA,16171.85,ACV4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Adv CorrEng VM 4 Cores Add-On 1 YrTE,ACV4YE-AA,3234.39,ACV4YE-AA-AA,
+,Application Data Monitor,,,,,
+APM-3600,"Trellix Application Data Monitor 3600
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides Log Analysis, SIEM and Network Analysis functions. Includes , 3.2 TB SSD + 1.6 TB of local storage. 1U Appliance. The corresponding Hardware and Business Software Support SKU is required to be sold with the appliance and provided on one consolidated purchase order. Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware with Perpetual Software,,,,,
+ ,1-+,App Data Mon 3600 Appl,APM-3600,52354.63,APM-3600A,
+,1yr Thrive Essential & Next Business Day Ship Hardware Support,,,,,
+ ,1-+,App Data Mon 3600 Appl 1YrTE+NBD,APM3600NBD,10470.93,APM3600NBDA,
+,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,App Data Mon 3600 Appl 1YrTE+SD,APM3600SD,13088.65,APM3600SDA,
+ADM-VM,"Trellix Virtual Application Data Monitor VM 8 Cores
+LICENSE: Per VM Instance. 
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included). 
+PRODUCT CONTENT: Application Data Monitor.  Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included). Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,App Data Mon VM 8 Cores P:1 TE,APMVME-AA,25401.36,APMVME-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,App Data Mon VM 8 Cores 1 Yr TE,APMVYE-AA,5080.29,APMVYE-AA-AA,
+ADM-VM-4-CORE-ADDON,"Trellix Virtual Application Data Monitor VM 4 Core Add-On
+LICENSE: Per VM Instance. 
+DELIVERABLE: Software Add-On to increase the capacity of the ADM-VM software by 4 additional cores to a maximum of 72 cores per ADM.  Unlocking add-on cores is available via download.
+PRODUCT CONTENT: Application Data Monitor.  Enterprise Security Manager appliance or Enterprise Security Manager VM Software required. (Hardware not included). ADM-VM software required.  Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Add On Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,App Data Mon VM 4 Cores Add-On P:1 TE,APM4AE-AA,16171.85,APM4AE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,App Data Mon VM 4 Cores Add-On 1 Yr TE,APM4YE-AA,3234.39,APM4YE-AA-AA,
+,Global Threat Intelligence Service,,,,,
+ENMELM-6100-GTI,"Trellix Global Threat Intelligence (Module for ESM) - Combination 6100 Appliance
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ETM-ELM-ERC-6100 1:1TE,GTE6100ELMGIEAD,22205.52,GTE6100ELMGIEAD-AA,
+ETM-6100-GTI,"Trellix Global Threat Intelligence (Module for ESM) - ETM-6100 Appliance
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ETM-6100 1:1TE,GTEETM6100GIEAD,32072.26,GTEETM6100GIEAD-AA,
+ETM-X10-GTI,"Trellix Global Threat Intelligence (Module for ESM) - ETM X10 Appliance
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ETM-X10 1:1TE,GTEETMX10GIEAD,106912.95,GTEETMX10GIEAD-AA,
+ESM-ELM-ERC-VM12-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - Combination VM-12
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-ELM-ERC-VM-12 1:1TE,GTEELU12GIEAD,12694.9,GTEELU12GIEAD-AA,
+ESM-VM8-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-8
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-8 1:1TE,GTEENU8GIEAD,9229.52,GTEENU8GIEAD-AA,
+ESM-VM12-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-12
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-12 1:1TE,GTEENU12GIEAD,17777.51,GTEENU12GIEAD-AA,
+ESM-VM16-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-16
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-16 1:1TE,GTEENU16GIEAD,18459.02,GTEENU16GIEAD-AA,
+ESM-VM24-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-24
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone.  Please note:  licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-24 1:1TE,GTEENU24GIEAD,27688.52,GTEENU24GIEAD-AA,
+ESM-VM32-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-32
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone. Please note: licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-32 1:1TE,GTEENU32GIEAD,36837.16,GTEENU32GIEAD-AA,
+ESM-VM48-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-48
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone. Please note: licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-48 1:1TE,GTEENU48GIEAD,55377.06,GTEENU48GIEAD-AA,
+ESM-VM64-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-64
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone. Please note: licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-64 1:1TE,GTEENU64GIEAD,142219.92,GTEENU64GIEAD-AA,
+ESM-VM72-GTI,"Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-72
+LICENSE: Per ESM Appliance.
+DELIVERABLE: Download. 
+PRODUCT CONTENT: Integrates Global Threat Intelligence (GTI) for enhanced local situational awareness enabling security administrators to identify what hosts are communicating with suspicious or malicious IP addresses while highlighting the events, hosts, and the users involved in potentially malicious transactions. Available as an optional add on to an Enterprise Security Manager standalone appliance or combination appliance; select ESM VM models and Event Reporter Appliance. Cannot be sold standalone. Please note: licensing is per HA (redundant) pair. An HA (redundant) pair consists of two identical ESM physical or virtual appliances.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,GTI for ESM-VM-72 1:1TE,GTEENU72GIEAD,166131.15,GTEENU72GIEAD-AA,
+,SIEM Accessories,,,,,
+ESM-10GRJSF-MOD,"Trellix 10 Gigabit OCP 4-port network card (2 RJ45 & 2 SFP+ Combo)
+LICENSE: Per Unit.
+DELIVERABLE: Non-Stockable H/W Units.
+PRODUCT CONTENT: Optional card, to be used in SIEM Gen 6 appliance, one per appliance, installed by customer. Card has four 2 RJ45 and 2 SFP+ connectors, not including SFPs. For use with APM-3600, ERC-3600, and ERC-4800 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,10GB OCP 2RJ45 + 2SFP+ Combo Gen 6,ESM-10GRJSF-MOD,4396.77,ESM-10GRJSF-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,10GB OCP 2RJ45+2SFP+ Combo Gen 6 1YrRMA,RBESM10GRJSFMOD,879.35,RBESM10GRJSFMODA,
+DAS-120,"Trellix Direct Attached Storage 120
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides high performance storage array for Enterprise Security Manager,  Enterprise Log Manager, and Enterprise Log Search, redundant architecture with RAID controller, mirrored cache, and IO multipathing. 4U Appliance. Approximately 120 TB of storage. Requires the purchase of Enterprise Security Manager appliance. The corresponding Hardware Support SKU is required to be sold with the storage device and provided on one consolidated purchase order.  Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Dir Attached Storage 120 Appl,DAS-120,207912.76,DAS-120A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Dir Attached Storage 120 1Yr NBD,RBDAS120NBD,40371.84,RBDAS120NBDA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Dir Attached Storage 120 1Yr ARMA,RBDAS120ARMA,41583.0,RBDAS120ARMAA,
+DAS-250,"Trellix Direct Attached Storage 250
+LICENSE: Per Unit.
+PRODUCT CONTENT: Provides high performance storage array for Enterprise Security Manager, Enterprise Log Manager, and Enterprise Log Search, redundant architecture with RAID controller, mirrored cache, and IO multipathing. 4U Appliance. Approximately 250 TB of storage. Requires the purchase of Enterprise Security Manager appliance. The corresponding Hardware Support SKU is required to be sold with the storage device and provided on one consolidated purchase order.  Usable event and flow data storage capacity will vary by customer event types, event rates, software version, and other factors.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Dir Attached Storage 250 Appl,DAS-250,341501.73,DAS-250A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Dir Attached Storage 250 1Yr NBD,RBDAS250NBD,66311.47,RBDAS250NBDA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Dir Attached Storage 250 1Yr ARMA,RBDAS250ARMA,68300.78,RBDAS250ARMAA,
+,Event Reporter,,,,,
+EREP-VM-25,"Trellix Event Reporter VM 25
+LICENSE: Per ESX Server. 
+DELIVERABLE: Software download for installation in customer's  virtual environment (Virtual server license not included). 
+PRODUCT CONTENT: Provides SIEM, Enterprise Log Management and Event Receiver functions. (NOTE: Hardware is not included)",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-+,Event Reporter VM 25 P:1TE,ER2CKE-AA,23091.07,ER2CKE-AA-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,Event Reporter VM 251YrTE,ER2YCM-AA,4618.19,ER2YCM-AA-AA,

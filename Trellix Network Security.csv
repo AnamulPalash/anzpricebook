@@ -1,0 +1,1359 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Network IPS Transceivers
+,Network IPS Management Solutions,,,,TRANSCEIVER-NS-100-SR4,Trellix Network Security 100GigE QSFP28 100GBASE-SR4 MMF Transceiver
+NSM,"Trellix Network Security Manager Next Generation Appliance-Only for Standard, Global, Failover and Central manager",,,,TRANSCEIVER-NS-100-LR4,Trellix Network Security 100GigE QSFP28 100GBASE-LR4 SMF Transceiver
+NMG,Trellix Network Security Manager Software Subscription Global Edition,,,,TRANSCEIVER-NS-40-LR,Trellix Network Security 40GigE QSFP+ 40GBASE-LR4 SM Transceiver
+NMS,Trellix Network Security Manager Software Subscription Standard Edition,,,,TRANSCEIVER-NS-40-SR,Trellix Network Security 40GigE QSFP+ 40GBASE-SR4 MM Transceiver
+NMT,Trellix Network Security Manager Software Subscription Starter Edition,,,,TRANSCEIVER-NS-10-LR,Trellix Network Security 10GigE SFP+ 10GBASE-LR SM Transceiver
+,Next Generation Network IPS Virtual Appliances,,,,TRANSCEIVER-NS-10-SR,Trellix Network Security 10GigE SFP+ 10GBASE-SR MM Transceiver
+IPS-VM1000-CLD-SUB,Trellix Virtual Network Security Platform Appliance - IPS-VM1000-CLD-SUB,,,,TRANSCEIVER-NS-M-1-LX,Trellix Network Security 1GigE SFP 1000BASE-LX SM Transceiver
+IPS-VM1000-SSL-CLD-SUB,Trellix Virtual Network Security Platform Appliance with Inbound/Outbound SSL enabled,,,,TRANSCEIVER-NS-M-1-SX,Trellix Network Security 1GigE SFP 1000BASE-SX MM Transceiver
+,Network IPS Appliances: NS9600 Series,,,,TRANSCEIVER-NS-M-1-T,Trellix Network Security 1GigE SFP 1000BASE-T Transceiver
+IPS NS9600,Trellix Network Security IPS NS9600 Appliance,,,,,Network IPS Cables
+NS9600-20GBPS-S,Trellix IPS NS9600 - 20Gbps Software license (Throughput based entitlement),,,,CABLE-PACK-1,Trellix Network Security 3-Meter QSFP28 Direct Attach Cable Pack for NS9x00
+NS9600-40GBPS-S,Trellix IPS NS9600 - 40Gbps Software license (Throughput based entitlement),,,,,Network IPS Power Supplies
+NS9600-60GBPS-S,Trellix IPS NS9600 - 60Gbps Software license (Throughput based entitlement),,,,POWER-SUPPLY-AC-NS-9X00,Trellix Network Security 1600W AC Spare Power Supply for NS9x00
+NS9600-20GBPS FO-S,Trellix IPS NS9600 - 20Gbps Failover (HA) Software license (Throughput based entitlement),,,,PWR-SPLY-AC-NS-7K-5K-NS95,Trellix Network Security 650W AC Redundant Power Supply for NS7xx0 and NS5x00 and NS9500
+NS9600-40GBPS FO-S,Trellix IPS NS9600 - 40Gbps Failover (HA) Software license (Throughput based entitlement),,,,PWR-SPLY-AC-NS-7600,Trellix Network Security 750W AC Redundant Power Supply for NS7600
+NS9600-60GBPS FO-S,Trellix IPS NS9600 - 60Gbps Failover (HA) Software license (Throughput based entitlement),,,,,Hermes NDR Subscriptions
+IPS NS9600 SSL,Trellix Network Security IPS NS9600 Appliance - Inbound/Outbound SSL,,,,NDRT0-T,Network Detection and Response Essentials Edition
+,Network IPS Appliances: NS9500 Series,,,,NDRT1-T,Network Detection and Response Core Edition
+IPS NS9500,Trellix Network Security IPS NS9500 Appliance,,,,NDRT2-T,Network Detection and Response Enterprise Edition
+NS9500-10GBPS-S,Trellix IPS NS9500 - 10Gbps Software license (Throughput based entitlement),,,,,Hermes NDR Virtual Appliance Deployment Options
+NS9500-20GBPS-S,Trellix IPS NS9500 - 20Gbps Software license (Throughput based entitlement),,,,NDRC-VA-T,NDR Console - Virtual Appliance(T)
+NS9500-30GBPS-S,Trellix IPS NS9500 - 30Gbps Software license (Throughput based entitlement),,,,NDRS-VA-T,NDR Sensor - Virtual Appliance(T)
+NS9500-40GBPS-S,Trellix IPS NS9500 - 40Gbps Software license (Throughput based entitlement),,,,,Hermes NDR Hardware Appliance Deployment Options
+NS9500-60GBPS-S,Trellix IPS NS9500 - 60Gbps Software license (Throughput based entitlement),,,,NDRC2600-T,NDR Console 2600 Appliance(T)
+NS9500-100GBPS-S,Trellix IPS NS9500 - 100Gbps Software license (Throughput based entitlement),,,,NDRS8600-T,NDR Sensor 8600 Appliance(T)
+NS9500-10GBPS FO-S,Trellix IPS NS9500 - 10Gbps Failover (HA) Software license (Throughput based entitlement),,,,,Hermes Network NX Subscriptions
+NS9500-20GBPS FO-S,Trellix IPS NS9500 - 20Gbps Failover (HA) Software license (Throughput based entitlement),,,,NWENX-T,Network Security NX Edition (Enterprise)(T)
+NS9500-30GBPS FO-S,Trellix IPS NS9500 - 30Gbps Failover (HA) Software license (Throughput based entitlement),,,,,Hermes Network NX Virtual Appliance Deployment Options
+NS9500-40GBPS FO-S,Trellix IPS NS9500 - 40Gbps Failover (HA) Software license (Throughput based entitlement),,,,NW-VA-T,Network Security Sensor - Virtual Appliance(T)
+NS9500-60GBPS FO-S,Trellix IPS NS9500 - 60Gbps Failover (HA) Software license (Throughput based entitlement),,,,VX12550-BM-VA-T,Network Security 12550 BareMetal - Virtual Appliance(T)
+NS9500-100GBPS FO-S,Trellix IPS NS9500 - 100Gbps Failover (HA) Software license (Throughput based entitlement),,,,NSNW-EC-VA-T,Network Evidence Collector - Virtual Appliance for Network Security(T)
+IPS NS9500 10GB-SSL,Trellix Network Security IPS NS9500 10GB Appliance - Inbound/Outbound SSL,,,,,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options
+IPS NS9500 20GB-SSL,Trellix Network Security IPS NS9500 20GB Appliance - Inbound/Outbound SSL,,,,VX5600-T,IVX 5600 Enterprise (Formerly SmartGrid) Appliance(T)
+IPS NS9500 30GB-SSL,Trellix Network Security IPS NS9500 30GB Appliance - Inbound/Outbound SSL,,,,VX12600-T,IVX 12600 Enterprise (Formerly SmartGrid) Appliance(T)
+,Network IPS Appliances: NS7600 Series,,,,,Hermes Network NX Hardware Appliance Deployment Options
+IPS NS7600,Trellix Network Security IPS NS7600 Appliance,,,,NW2600-T,NW 2600 Appliance(T)
+NS7600-5GBPS-S,Trellix IPS NS7600 - 5Gbps Software license (Throughput based entitlement),,,,NW3600-T,NW 3600 Appliance(T)
+NS7600-10GBPS-S,Trellix IPS NS7600 - 10Gbps Software license (Throughput based entitlement),,,,NW4600-T,NW 4600 Appliance(T)
+NS7600-15GBPS-S,Trellix IPS NS7600 - 15Gbps Software license (Throughput based entitlement),,,,NW5600-T,NW 5600 Appliance(T)
+NS7600-5GBPS FO-S,Trellix IPS NS7600 - 5Gbps Failover (HA) Software license (Throughput based entitlement),,,,NW6600-T,NW 6600 Appliance(T)
+NS7600-10GBPS FO-S,Trellix IPS NS7600 - 10Gbps Failover (HA) Software license (Throughput based entitlement),,,,NW8600-T,NW 8600 Appliance(T)
+NS7600-15GBPS FO-S,Trellix IPS NS7600 - 15Gbps Failover (HA) Software license (Throughput based entitlement),,,,,Hermes Forensics IA PX Subscrtiptions
+IPS NS7600 SSL,Trellix Network Security IPS NS7600 Appliance - Inbound/Outbound SSL,,,,NFEIAPX-T,Forensics(T)
+,Network IPS Appliances: NS3600 Series,,,,,Hermes Forensics IA Virtual Appliance Deployment Options
+IPS NS3600,Trellix Network Security IPS NS3600 Appliance,,,,NFIA-VA-T,Network Forensics Security IA - Virtual Appliance(T)
+NS3600-1GBPS-S,Trellix IPS NS3600 - 1Gbps Software license (Throughput based entitlement),,,,,Hermes Forensics IA Hardware Appliance Deployment Options
+NS3600-3GBPS-S,Trellix IPS NS3600 - 3Gbps Software license (Throughput based entitlement),,,,NFIA2600-T,NFIA 2600 Appliance(T)
+NS3600-5GBPS-S,Trellix IPS NS3600 - 5Gbps Software license (Throughput based entitlement),,,,,Classic Forensics IA Virtual Appliances
+NS3600-1GBPS FO-S,Trellix IPS NS3600 - 1Gbps Failover (HA) Software license (Throughput based entitlement),,,,IA-VA-T,IA Virtual Appliance(T)
+NS3600-3GBPS FO-S,Trellix IPS NS3600 - 3Gbps Failover (HA) Software license (Throughput based entitlement),,,,,Classic Forensics IA Hardware Appliances
+NS3600-5GBPS FO-S,Trellix IPS NS3600 - 5Gbps Failover (HA) Software license (Throughput based entitlement),,,,2600IA-T,2600 IA Appliance(T)
+IPS NS3600 SSL,Trellix Network Security IPS NS3600 Appliance - Inbound/Outbound SSL,,,,2600IA-SW-T,2600 IA Appliance Software(T)
+,Network IPS Network I/O Expansion Modules,,,,,Hermes Forensics PX Virtual Appliance Deployment Options
+NET-I/O-E-MOD-4P-SR-100G,Trellix Network Security 4-Port 100/40 GigE SR Fiber Network I/O Expansion Module (without Fail-Open),,,,NFPX-VA-T,Network Forensics Security PX - Virtual Appliance(T)
+NET-I/O-E-MOD-4P-SRP-100G,Trellix Network Security 4-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open),,,,,Hermes Forensics PX Hardware Appliance Deployment Options
+NET-I/O-E-MOD-4P-BIDI-100,Trellix Network Security 4-Port 100/40 GigE BIDI Network I/O Expansion Module (with Built-In Fail-Open),,,,NFPX5600-T,NFPX 5600 Appliance(T)
+NET-I/O-E-MOD-4P-LR-100G,Trellix Network Security 4-Port 100 GigE LR Network I/O Expansion Module (with Built-In Fail-Open),,,,NFPX7600-T,NFPX 7600 Appliance(T)
+NET-I/O-E-MOD-4P-LR-40G,Trellix Network Security 4-Port 40 GigE LR Network I/O Expansion Module (with Built-In Fail-Open),,,,NFPX7620-T,NFPX 7620 Appliance(T)
+NET-I/O-E-MOD-2P-SR-100G,Trellix Network Security 2-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open),,,,,Hermes Forensics Storage SX Subscriptions
+NET-I/O-E-MOD-2PORT-100G,Trellix Network Security 2-Port 100GigE QSFP28 Network I/O Expansion Module (without Built-In Fail-Open),,,,NFE5000SX-T,Network Forensics Storage 704TB(T)
+NET-I/O-E-MOD-4PORT-LR,Trellix Network Security 4-Port 10/1 GigE 10GBASE-LR/1000BASE-LX SM Net I/O Exp Mod (with Built-In Fail-Open),,,,,Hermes Forensics Storage Hardware Appliance Deployment Options
+NET-I/O-E-MOD-4PORT-SR-62,Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5 MM Net I/O Exp Mod(w/ Built-In FailOpen),,,,NFSX5000-T,NFSX 5000 Appliance(T)
+NET-I/O-E-MOD-8PORT,Trellix Network Security 8-Port 10/1 GigE SFP+/SFP Network I/O Expansion Module (without Built-In Fail-Open),,,,,Hermes Central Management Virtual Appliance Deployment Options
+NET-I/O-E-MOD-6PORT,Trellix Network Security 6-Port 1GigE 1000BASE-T Network I/O Expansion Module (with Built-In Fail-Open),,,,CM-VA-S-T,Central Management - Virtual Appliance Subscription(T)
+NET-I/O-E-MOD-4PORT-1,Trellix Network Security 4-Port 40GigE QSFP+ Network I/O Expansion Module (without Built-In Fail-Open),,,,CM-VA-T,Central Management - Virtual Appliance(T)
+NET-I/O-E-MOD-4PORT,Trellix Network Security 4-Port 10GBASE-T Copper Network I/O Expansion Module (with Build-in Fail-Open),,,,,Central Management  Virtual Appliances
+NET-I/O-E-MOD-6P-RJ45-10G,Trellix Network Security 6-Port 10/1 GigE RJ45 Network I/O Expansion Module (with Built-In Fail-Open),,,,2500CM-VA-T,2500 CM Virtual Appliance(T)
+NET-I/O-E-MOD-8P-SR-10G,Trellix Network Security 8-Port 10/1 GigE SR Fiber Network I/O Expansion Module (with Built-In Fail-Open),,,,2500CM-VA-DTI-T,2500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+NET-I/O-E-MOD-8P-LR-10G,Trellix Network Security 8-Port 10/1 GigE LR Network I/O Expansion Module (with Built-In Fail-Open),,,,4500CM-VA-T,4500 CM Virtual Appliance(T)
+NET-I/O-E-MOD-4PORT-SR-50,Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 50 MM Net I/O Exp Mod (w/ Built-In Fail-Open),,,,4500CM-VA-DTI-T,4500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+NET-I/O-E-MOD-4P-SR-10G,Trellix Network Security 4-Port 10/1 GigE SR Network I/O Expansion Module (with Built-In Fail-Open),,,,7500CM-VA-T,7500 CM Virtual Appliance(T)
+NET-I/O-E-MOD-4P-RJ45-1G,Trellix Network Security 4-Port 1G/100M/10M RJ45 Network I/O Expansion Module (with Built-In Fail-Open),,,,7500CM-VA-DTI-T,7500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+,Network IPS Fail-Open Chassis,,,,,Central Management Hardware Appliance
+FO-CHASSIS,Trellix Network Security Active 1/10G Fail-Open Chassis,,,,4600CM-T,4600 CM Appliance(T)
+FO-CHASSIS-40G,Trellix Network Security Active 40G Fail-Open Chassis,,,,4600CM-SW-T,4600 CM Appliance Software(T)
+FO-CHASSIS-100G,Trellix Network Security Active 100G Fail-Open Chassis,,,,4600CM-SW-DTI-T,4600 CM Appliance Software - Dynamic Threat Intelligence(T)
+,Network IPS Fail-Open Kits/Modules,,,,7600CM-T,7600 CM Appliance(T)
+AFO-MOD-2PORT-100G-LR4,Trellix Network Security 100GigE QSFP28 LR4 SM Active Fail-Open Module,,,,7600CM-SW-T,7600 CM Appliance Software(T)
+AFO-MOD-2PORT-100G-SR4,Trellix Network Security 100GigE QSFP28 SR4 MM Active Fail-Open Module,,,,7600CM-SW-DTI-T,7600 CM Appliance Software - Dynamic Threat Intelligence(T)
+AFO-MODULE-2PORT-LR4,Trellix Network Security 40GigE QSFP+ LR4 SM Active Fail-Open Module,,,,9600CM-T,9600 CM Appliance(T)
+AFO-MODULE-2PORT-SR4,Trellix Network Security 40GigE QSFP+ SR4 MM Active Fail-Open Module,,,,9600CM-SW-T,9600 CM Appliance Software(T)
+AFO-MODULE-2PORT-BIDI,Trellix Network Security 40GigE QSFP+ BiDi Active Fail-Open Module,,,,9600CM-SW-DTI-T,9600 CM Appliance Software - Dynamic Threat Intelligence(T)
+FO-MODULE-DS-10-LR,Trellix Network Security Dual Segment 10GigE 10GBASE-LR SM Active Fail-Open Module,,,,,
+FO-MODULE-DS-10-SR,Trellix Network Security Dual Segment 10GigE 10GBASE-SR MM Active Fail-Open Module,,,,,
+FO-MODULE-1-LX,Trellix Network Security 1GigE 1000BASE-LX SM Active Fail-Open Module,,,,,
+FO-MODULE-1-SX,Trellix Network Security 1GigE 1000BASE-SX MM Active Fail-Open Module,,,,,
+FO-MODULE-1-T,Trellix Network Security 1GigE 1000BASE-T Active Fail-Open Module,,,,,
+Trellix Network Security,,,,,,
+,"Network IPS Management Solutions
+Restrictions apply for importing units into Israel.  Refer to Product Management for guidance on quotes for use in these locations.",,,,,
+NSM,"Trellix Network Security Manager Next Generation Appliance-Only for Standard, Global, Failover and Central manager
+LICENSE: Separate subscription required.
+DELIVERABLE: Hardware appliance loaded with required but separate corresponding NSM subscription license.
+PRODUCT CONTENT: Delivers turn-key hardware appliance with dual power supply standard.
+REQUIRES purchase of a separate software subscription license. The hardware can be used for any of the purposes related to managing NSP sensors. This includes NSM Standard, NSM Global/CM subscription or use as a failover. Annual support includes hardware support only. Software support is included in the subscription license. Purchase of NSM hardware appliance is optional and customers can opt for a software only manager by just subscribing to a software license.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Network Security Manager Appl NG,NSM-MAPL-NG,28051.73,NSM-MAPL-NGA,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Net Sec Mngr Appl NG 1Yr NBD,NYVMAPLNGNBD,6441.11,NYVMAPLNGNBDA,
+NMG,"Trellix Network Security Manager Software Subscription Global Edition
+LICENSE: Per instance or MDR pair, annual software subscription.
+DELIVERABLE: Software download or preinstalled on optional hardware appliance.
+PRODUCT CONTENT: Delivers advanced IDS/IPS Management functionality. License for management of more than 6 (unlimited) hardware Network Security sensors of any kind and unlimited number of virtual network security sensors; or use as NSM Central Manager. Includes Standard one year Business SW Support with Security Alerting Service that provides proactive notification on viruses, vulnerability alerts, product updates and patch availability. This license permits running up to two instances of the NSM application, as long as those two are configured as an MDR pair.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net Sec Mngr Global SW 1:1 TE Sub,NMGECE-AA,35068.17,NMGECE-AA-AA,
+NMS,"Trellix Network Security Manager Software Subscription Standard Edition
+LICENSE: Per instance or MDR pair, annual software subscription.
+DELIVERABLE:  Software download or preinstalled on optional hardware appliance.
+PRODUCT CONTENT: Delivers advanced IDS/IPS Management functionality. License for management of up to 6 hardware  Network Security sensors of any kind and unlimited number of virtual network security sensors. Included Business SW Support includes Security Alerting Service that provides proactive notification on viruses, vulnerability alerts, product updates and patch availability. This license permits running up to two instances of the NSM application, as long as those two are configured as an MDR pair.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net Sec Mngr Stnd SW 1:1 TE Sub,NMSECE-AA,11085.98,NMSECE-AA-AA,
+NMT,"Trellix Network Security Manager Software Subscription Starter Edition
+LICENSE: Per instance or MDR pair, annual software subscription.
+DELIVERABLE: Software download only.
+PRODUCT CONTENT: Delivers advanced IDS/IPS Management functionality. License for management of up to 2 hardware  Network Security sensors of any kind and unlimited number of virtual network security sensors. Included Business SW Support includes Security Alerting Service that provides proactive notification on viruses, vulnerability alerts, product updates and patch availability. This license permits running up to two instances of the NSM application, as long as those two are configured as an MDR pair. This license cannot be combined with the NSM hardware and is available as a software subscription only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net Sec Mngr Start SW 1:1 TE Sub,NMTECE-AA,3634.54,NMTECE-AA-AA,
+,Next Generation Network IPS Virtual Appliances,,,,,
+IPS-VM1000-CLD-SUB,"Trellix Virtual Network Security Platform Appliance - IPS-VM1000-CLD-SUB
+LICENSE:  Per Throughput Capacity.
+DELIVERABLE: Software Download. License key delivered via email that includes the count of copies purchased.
+PRODUCT CONTENT: Virtual Network Security IPS appliance.  Network Intrusion Detection and Prevention System with support for network virtualization and for use with multiple Private and Public Cloud platforms. Includes a NSM software license (entitlement is only for managing vNSP, not for physical NSP appliances).
+• Throughput Capacity version available: Large (up to 1 Gbps).
+• Single purchase supports installation across all supported platforms.
+• Throughput capacity aggregated and shared across all installed platforms.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,vNSP Cloud Large (1Gbps) 1:1 TE,VC3ECE-AB,24127.52,VC3ECE-AB-AA,
+IPS-VM1000-SSL-CLD-SUB,"Trellix Virtual Network Security Platform Appliance with Inbound/Outbound SSL enabled
+LICENSE:  Per Throughput Capacity.
+DELIVERABLE: Software Download. License key delivered via email that includes the count of copies purchased.
+PRODUCT CONTENT: Virtual Network Security IPS appliance with Inbound/Outbound SSL enabled.  Network Intrusion Detection and Prevention System with support for network virtualization and for use with multiple Private and Public Cloud platforms. Includes a NSM software license (entitlement is only for managing vNSP, not for physical NSP appliances).
+• Throughput Capacity version available: Large (up to 1 Gbps).
+• Single purchase supports installation across all supported platforms.
+• Throughput capacity aggregated and shared across all installed platforms.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,vNSP Cloud Large (1Gbps) SSL 1:1 TE,SSLVC3ECE-AB,32466.52,SSLVC3ECE-AB-AA,FCS Date 03/31/2025
+,Network IPS Appliances: NS9600 Series,,,,,
+IPS NS9600,"Trellix Network Security IPS NS9600 Appliance
+LICENSE: Per Unit.
+PRODUCT CONTENT:
+* Integrated Network Intrusion Detection & Prevention appliance in a 1U chassis.
+* This appliance delivers up to 60 Gbps of next-generation IPS performance
+* Includes four (4) fixed 100/40 GigE QSFP28/QSFP+ ports (transceiver sold separately), and three (3) slots for network I/O expansion modules.
+* Supports following 8 network I/O expansion modules:
+(1) 4-Port 100/40 GigE SR Network I/O Expansion Module (without Fail-Open)
+(2) 4-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+(3) 4-Port 100/40 GigE BIDI Network I/O Expansion Module (with Built-In Fail-Open)
+(4) 4-Port 100 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+(5) 4-Port 40 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+(6) 6-Port 10/1 GigE RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+(7) 8-Port 10/1 GigE SR Fiber Network I/O Expansion Module (with Built-In Fail-Open)
+(8) 8-Port 10/1 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+* Supports the following 3 transceivers for the fixed 100/40 GigE QSFP28/QSFP+ ports:
+(1) 100GigE QSFP28 100GBASE-SR4 MMF Transceiver
+(2) 100GigE QSFP28 100GBASE-LR4 SMF Transceiver
+(3) 40GigE QSFP+ 40GBASE-LR4 SM Transceiver
+(4) 40GigE QSFP+ 40GBASE-SR4 MM Transceiver
+* Includes redundant 750W AC power supply
+* Purchase of Software capacity SKU required
+* Purchase of Hardware support required",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec IPS-NS9600 Appliance,IPS-NS9600,158704.93,IPS-NS9600A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,NetSec IPS-NS9600 Appl 1Yr NBD,RBIPSNS9600NBD,36312.18,RBIPSNS9600NBDA,
+NS9600-20GBPS-S,"Trellix IPS NS9600 - 20Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 20Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (20Gbps) 1:1 TE,NS96X20ECE-AT,177898.75,NS96X20ECE-AT-AA,
+NS9600-40GBPS-S,"Trellix IPS NS9600 - 40Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 40Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (40Gbps) 1:1 TE,NS96X40ECE-AT,327333.7,NS96X40ECE-AT-AA,
+NS9600-60GBPS-S,"Trellix IPS NS9600 - 60Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 60Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (60Gbps) 1:1 TE,NS96X60ECE-AT,448304.86,NS96X60ECE-AT-AA,
+NS9600-20GBPS FO-S,"Trellix IPS NS9600 - 20Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 20Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (20Gbps) FO 1:1 TE,FO96X20ECE-AT,133424.08,FO96X20ECE-AT-AA,
+NS9600-40GBPS FO-S,"Trellix IPS NS9600 - 40Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 40Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (40Gbps) FO 1:1 TE,FO96X40ECE-AT,192130.68,FO96X40ECE-AT-AA,
+NS9600-60GBPS FO-S,"Trellix IPS NS9600 - 60Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 60Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9600 (60Gbps) FO 1:1 TE,FO96X60ECE-AT,336228.7,FO96X60ECE-AT-AA,
+IPS NS9600 SSL,"Trellix Network Security IPS NS9600 Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit
+DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Outbound SSL MITM  decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Price is for appliance.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS9600 SSL 1:1 TE,SSL9600ECE-AT,79683.82,SSL9600ECE-AT-AA,FCS Date 03/31/2025
+,Network IPS Appliances: NS9500 Series,,,,,
+IPS NS9500,"Trellix Network Security IPS NS9500 Appliance
+LICENSE: Per Unit.
+PRODUCT CONTENT:
+* Integrated Network Intrusion Detection & Prevention appliance in a 1U chassis.
+* A single appliance can deliver up to 30 Gbps – SKU options with one appliance would be 10, 20, 30 Gbps
+* For 40 and 60 Gbps, two appliances are required (stacking)
+* For 100 Gbps, the requirement is four appliances (stacking)
+* Includes four (4) fixed 100Mbps/1000Mbps/10Gbps RJ45 copper ports (with built-in fail open), two (2) fixed 100GigE/40GigE QSFP28 ports, and 2 slots for network I/O expansion modules.
+*  Supports following network I/O expansion modules:
+(1) 4-Port 40GigE QSFP+ network I/O expansion module (without built-in fail-open)
+(2) 2-Port 40GigE QSFP+ network I/O expansion module (without built-in fail-open)
+(3) 4-Port 10/1 GigE 10GBASE-LR/1000BASE-LX 8.5μm SM network I/O expansion module (with built-in fail-open)
+(4) 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5μm MM network I/O expansion module (with built-in fail-open)
+(5) 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 50μm MM network I/O expansion module (with built-in fail-open)
+(6) 8-Port 10/1 GigE SFP+/SFP network I/O expansion module (without built-in fail-open)
+(7) 6-Port 1GigE 1000BASE-T network I/O expansion module (with built-in fail-open)
+(8) 4-Port 10GigE/1GigE/100M RJ45 network I/O expansion module (with built-in fail-open)
+(9) 2-Port 100GigE/40GigE QSFP28 network I/O expansion module (without built-in fail-open)
+(10) 2-Port 100GigE/40GigE SR QSFP28 network I/O expansion module (with built-in fail-open)
+* Includes redundant 650W AC power supply
+* Purchase of Software capacity Sku required
+* Purchase of Hardware support required",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec IPS-NS9500 Appliance,IPS-NS9500,147862.86,IPS-NS9500A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Net Sec IPS-NS9500 Appl 1Yr NBD,RBIPSNS9500NBD,33831.46,RBIPSNS9500NBDA,
+NS9500-10GBPS-S,"Trellix IPS NS9500 - 10Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 10Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (10Gbps) 1:1 TE,NS95X10ECE-AT,157579.86,NS95X10ECE-AT-AA,
+NS9500-20GBPS-S,"Trellix IPS NS9500 - 20Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 20Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (20Gbps) 1:1 TE,NS95X20ECE-AT,251545.25,NS95X20ECE-AT-AA,
+NS9500-30GBPS-S,"Trellix IPS NS9500 - 30Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 30Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (30Gbps) 1:1 TE,NS95X30ECE-AT,288398.14,NS95X30ECE-AT-AA,
+NS9500-40GBPS-S,"Trellix IPS NS9500 - 40Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 40Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (40Gbps) 1:1 TE,NS95X40ECE-AT,360774.11,NS95X40ECE-AT-AA,
+NS9500-60GBPS-S,"Trellix IPS NS9500 - 60Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 60Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (60Gbps) 1:1 TE,NS95X60ECE-AT,613316.53,NS95X60ECE-AT-AA,
+NS9500-100GBPS-S,"Trellix IPS NS9500 - 100Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 100Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (100Gbps) 1:1 TE,NS95X100ECE-AT,779271.37,NS95X100ECE-AT-AA,
+NS9500-10GBPS FO-S,"Trellix IPS NS9500 - 10Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 10Gbps of IPS Failover (HA) Performance. QSFP28 DAC cable provided with the appliance can be used for HA connectivity.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (10Gbps) FO 1:1 TE,FO95X10ECE-AT,118184.9,FO95X10ECE-AT-AA,
+NS9500-20GBPS FO-S,"Trellix IPS NS9500 - 20Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 20Gbps of Failover (HA) IPS Performance. QSFP28 DAC cable provided with the appliance can be used for HA connectivity.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (20Gbps) FO 1:1 TE,FO95X20ECE-AT,188658.94,FO95X20ECE-AT-AA,
+NS9500-30GBPS FO-S,"Trellix IPS NS9500 - 30Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 30Gbps of Failover (HA) IPS Performance. QSFP28 DAC cable provided with the appliance can be used for HA connectivity.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (30Gbps) FO 1:1 TE,FO95X30ECE-AT,216298.6,FO95X30ECE-AT-AA,
+NS9500-40GBPS FO-S,"Trellix IPS NS9500 - 40Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 40Gbps of Failover (HA) IPS Performance. Additional purchase of 40Gbps I/O modules (1 per sensor) and one NS9500 cable 5 pack (3 Meters) is required.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (40Gbps) FO 1:1 TE,FO95X40ECE-AT,270580.56,FO95X40ECE-AT-AA,
+NS9500-60GBPS FO-S,"Trellix IPS NS9500 - 60Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 60Gbps of Failover (HA) IPS Performance.  Additional purchase of 40Gbps I/O modules (1 per sensor) and one NS9500 cable 5 pack (3 Meters) is required.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (60Gbps) FO 1:1 TE,FO95X60ECE-AT,459987.4,FO95X60ECE-AT-AA,
+NS9500-100GBPS FO-S,"Trellix IPS NS9500 - 100Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT: This software license will provide 100Gbps of Failover (HA) IPS Performance. Additional purchase of 40Gbps I/O modules (1 per sensor) and one NS9500 cable 5 pack (3 Meters) is required.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS9500 (100Gbps) FO 1:1 TE,FO95X100ECE-AT,584453.49,FO95X100ECE-AT-AA,
+IPS NS9500 10GB-SSL,"Trellix Network Security IPS NS9500 10GB Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit  DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Oubound SSL MITM  decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Please refer to product datasheet for support metrics of hardware with SSL, as support for inbound & outbound differs for different appliances Ratings for SSL throughput varies with sensor appliance. Price is for max throughput speed",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS9500 10GB SSL 1:1 TE,SSL9510ECE-AT,114072.48,SSL9510ECE-AT-AA,
+IPS NS9500 20GB-SSL,"Trellix Network Security IPS NS9500 20GB Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit  DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Oubound MITM SSL decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Please refer to product datasheet for support metrics of hardware with SSL, as support for inbound & outbound differs for different appliances Ratings for SSL throughput varies with sensor appliance. Price is for max throughput speed",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS9500 20GB SSL 1:1 TE,SSL9520ECE-AT,150770.4,SSL9520ECE-AT-AA,
+IPS NS9500 30GB-SSL,"Trellix Network Security IPS NS9500 30GB Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit  DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Oubound MITM SSL decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Please refer to product datasheet for support metrics of hardware with SSL, as support for inbound & outbound differs for different appliances Ratings for SSL throughput varies with sensor appliance. Price is for max throughput speed",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS9500 30GB SSL 1:1 TE,SSL9530ECE-AT,186664.06,SSL9530ECE-AT-AA,
+,Network IPS Appliances: NS7600 Series,,,,,
+IPS NS7600,"Trellix Network Security IPS NS7600 Appliance
+LICENSE: Per Unit.
+PRODUCT CONTENT:
+* Integrated Network Intrusion Detection & Prevention appliance in a 1U chassis.
+* This appliance delivers up to 15 Gbps of next-generation IPS performance
+* Includes four (4) fixed 10/1 GigE SFP+/SFP ports (transceiver sold separately), and three (3) slots for network I/O expansion modules.
+* Supports following 3 network I/O expansion modules:
+(1) 6-Port 10/1 GigE RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+(2) 8-Port 10/1 GigE SR Fiber Network I/O Expansion Module (with Built-In Fail-Open)
+(3) 8-Port 10/1 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+* Supports the following 5 transceivers for the fixed 10/1 GigE SFP+/SFP ports:
+(1) 10GigE SFP+ 10GBASE-LR SM Transceiver
+(2) 10GigE SFP+ 10GBASE-SR MM Transceiver
+(3) 1GigE SFP 1000BASE-LX SM Transceiver
+(4) 1GigE SFP 1000BASE-SX MM Transceiver
+(5) 1GigE SFP 1000BASE-T Transceiver
+* Includes redundant 750W AC power supply
+* Purchase of Software capacity Sku required
+* Purchase of Hardware support required",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec IPS-NS7600 Appliance,IPS-NS7600,101408.74,IPS-NS7600A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,NetSec IPS-NS7600 Appl 1Yr NBD,RBIPSNS7600NBD,23202.61,RBIPSNS7600NBDA,
+NS7600-5GBPS-S,"Trellix IPS NS7600 - 5Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 5Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (5Gbps) 1:1 TE,NS76X05ECE-AT,66156.1,NS76X05ECE-AT-AA,
+NS7600-10GBPS-S,"Trellix IPS NS7600 - 10Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 10Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (10Gbps) 1:1 TE,NS76X10ECE-AT,109111.23,NS76X10ECE-AT-AA,
+NS7600-15GBPS-S,"Trellix IPS NS7600 - 15Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 15Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (15Gbps) 1:1 TE,NS76X15ECE-AT,149434.95,NS76X15ECE-AT-AA,
+NS7600-5GBPS FO-S,"Trellix IPS NS7600 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 5Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (5Gbps) FO 1:1 TE,FO76X05ECE-AT,49617.09,FO76X05ECE-AT-AA,
+NS7600-10GBPS FO-S,"Trellix IPS NS7600 - 10Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 10Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (10Gbps) FO 1:1 TE,FO76X10ECE-AT,81833.44,FO76X10ECE-AT-AA,
+NS7600-15GBPS FO-S,"Trellix IPS NS7600 - 15Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 15Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS7600 (15Gbps) FO 1:1 TE,FO76X15ECE-AT,112076.23,FO76X15ECE-AT-AA,
+IPS NS7600 SSL,"Trellix Network Security IPS NS7600 Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit
+DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Outbound SSL MITM  decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Price is for appliance.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS7600 SSL 1:1 TE,SSL7600ECE-AT,41695.02,SSL7600ECE-AT-AA,FCS Date 03/31/2025
+,Network IPS Appliances: NS3600 Series,,,,,
+IPS NS3600,"Trellix Network Security IPS NS3600 Appliance
+LICENSE: Per Unit.
+PRODUCT CONTENT:
+* Integrated Network Intrusion Detection & Prevention appliance in a 1U chassis.
+* This appliance delivers up to 5 Gbps of next-generation IPS performance
+* Includes eight (8) fixed 10/100/1000Mbps RJ45 copper ports (with built-in fail-open), two (2) fixed 10/1 GigE SFP+/SFP ports (transceiver sold separately), and one (1) slot for network I/O expansion module.
+* Supports the following 4 transceivers for the fixed 10/1 GigE SFP+/SFP ports:
+(1) 10GigE SFP+ 10GBASE-LR SM Transceiver
+(2) 10GigE SFP+ 10GBASE-SR MM Transceiver
+(3) 1GigE SFP 1000BASE-LX SM Transceiver
+(4) 1GigE SFP 1000BASE-SX MM Transceiver
+*  Supports following 2 network I/O expansion modules:
+(1) 4-Port 10/1 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+(2) 4-Port 1G/100M/10M RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+* Built in redundant 300W AC power supply
+* Purchase of Software capacity Sku required
+* Purchase of Hardware support required",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec IPS-NS3600 Appliance,IPS-NS3600,29074.85,IPS-NS3600A,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,NetSec IPS-NS3600 Appl 1Yr NBD,RBIPSNS3600NBD,6652.41,RBIPSNS3600NBDA,
+NS3600-1GBPS-S,"Trellix IPS NS3600 - 1Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 1Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (1Gbps) 1:1 TE,NS36X01ECE-AT,15566.14,NS36X01ECE-AT-AA,
+NS3600-3GBPS-S,"Trellix IPS NS3600 - 3Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 3Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (3Gbps) 1:1 TE,NS36X03ECE-AT,43196.04,NS36X03ECE-AT-AA,
+NS3600-5GBPS-S,"Trellix IPS NS3600 - 5Gbps Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 5Gbps of IPS Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (5Gbps) 1:1 TE,NS36X05ECE-AT,66156.1,NS36X05ECE-AT-AA,
+NS3600-1GBPS FO-S,"Trellix IPS NS3600 - 1Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 1Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (1Gbps) FO 1:1 TE,FO36X01ECE-AT,11674.61,FO36X01ECE-AT-AA,
+NS3600-3GBPS FO-S,"Trellix IPS NS3600 - 3Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download
+PRODUCT CONTENT:This software license will provide 3Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (3Gbps) FO 1:1 TE,FO36X03ECE-AT,32397.03,FO36X03ECE-AT-AA,
+NS3600-5GBPS FO-S,"Trellix IPS NS3600 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+LICENSE: Per Unit.
+DELIVERABLE: Software download or preinstalled on hardware appliance
+PRODUCT CONTENT:This software license will provide 5Gbps of IPS Failover (HA) Performance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NS3600 (5Gbps) FO 1:1 TE,FO36X05ECE-AT,49617.09,FO36X05ECE-AT-AA,
+IPS NS3600 SSL,"Trellix Network Security IPS NS3600 Appliance - Inbound/Outbound SSL
+LICENSE: Per Unit
+DELIVERABLE: License file delivered via email
+PRODUCT CONTENT: Provides Inbound/Outbound SSL MITM  decryption capability
+Requires the Sensor Appliance running NSP software that can support SSL decryption. Price is for appliance.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Net IPS NS3600 SSL 1:1 TE,SSL3600ECE-AT,22237.34,SSL3600ECE-AT-AA,FCS Date 03/31/2025
+,Network IPS Network I/O Expansion Modules,,,,,
+NET-I/O-E-MOD-4P-SR-100G,"Trellix Network Security 4-Port 100/40 GigE SR Fiber Network I/O Expansion Module (without Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 100/40GigE SR interface connectivity. Does not include fail-open. For use with NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 4pt SR NonFO Mod 100/40GigE,IAC-4P100SR-MOD,57897.78,IAC-4P100SR-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 4ptSR NonFO Mod100/40GigE 1Yr RMA,RBIAC4P100SRMOD,13247.03,RBIAC4P100SRMODA,
+NET-I/O-E-MOD-4P-SRP-100G,"Trellix Network Security 4-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 100/40GigE SR interface connectivity with built-in fail-open. For use with NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4pt SR PFO Mod 100/40GigE,IAC-4P100SRP-MOD,87848.35,IAC-4P100SRP-MODA,FCS Date 03/31/2025
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4pt SR PFO Mod 100/40GigE 1YrRMA,RBIAC4P100SRPMOD,20103.67,RBIAC4P100SRPMODA,FCS Date 03/31/2025
+NET-I/O-E-MOD-4P-BIDI-100,"Trellix Network Security 4-Port 100/40 GigE BIDI Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 100/40GigE BIDI interface connectivity with built-in fail-open. For use with NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4pt BIDI PFO Mod 100/40GigE,IAC-4P100BIDI-MOD,98274.11,IAC-4P100BIDI-MODA,FCS Date 03/31/2025
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4pt BIDI PFO Mod100/40GigE1YrRMA,RBIAC4P100BIDIMOD,22485.41,RBIAC4P100BIDIMODA,FCS Date 03/31/2025
+NET-I/O-E-MOD-4P-LR-100G,"Trellix Network Security 4-Port 100 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 100GigE LR interface connectivity with built-in fail-open. For use with NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4pt LR PFO Mod 100GigE,IAC-4P100LR-MOD,101307.87,IAC-4P100LR-MODA,FCS Date 03/31/2025
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4pt LR PFO Mod 100GigE 1Yr RMA,RBIAC4P100LRMOD,23179.54,RBIAC4P100LRMODA,FCS Date 03/31/2025
+NET-I/O-E-MOD-4P-LR-40G,"Trellix Network Security 4-Port 40 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 40GigE LR interface connectivity with built-in fail-open. For use with NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4pt LR PFO Mod 40GigE,IAC-4P40LR-MOD,84807.49,IAC-4P40LR-MODA,FCS Date 03/31/2025
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4pt LR PFO Mod 40GigE 1Yr RMA,RBIAC4P40LRMOD,19404.21,RBIAC4P40LRMODA,FCS Date 03/31/2025
+NET-I/O-E-MOD-2P-SR-100G,"Trellix Network Security 2-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 2-port 100/40GigE SR interface connectivity with built-in fail-open. This module is designed for use with MPO-12 fiber cables and does not require the purchase of separate transceivers. For use with NS9500 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 2pt SR FO Mod 100/40GigE,IAC-2P100NSR-MOD,57897.78,IAC-2P100NSR-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 2pt SR FO Mod 100/40GigE 1Yr RMA,RBIAC2P100NSRMOD,13247.03,RBIAC2P100NSRMODA,
+NET-I/O-E-MOD-2PORT-100G,"Trellix Network Security 2-Port 100GigE QSFP28 Network I/O Expansion Module (without Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 2-port 100GigE QSFP28 connectivity. Requires purchase of separate transceivers. For use with NS9500 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 2port I/O Mod 100GigE,IAC-2P100NET-MOD,8201.75,IAC-2P100NET-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 2port I/O Mod100GigE 1Yr RMA,RBIAC2P100NETMOD,1877.14,RBIAC2P100NETMODA,
+NET-I/O-E-MOD-4PORT-LR,"Trellix Network Security 4-Port 10/1 GigE 10GBASE-LR/1000BASE-LX SM Net I/O Exp Mod (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 10/1 GigE 10GBASE-LR/1000BASE-LX SM connectivity with built-in fail-open. This module is designed for use with 8.5 micron single mode fiber optic cables and does not require the purchase of separate transceivers. For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NS 4pt FO Mod 10-1GigE 1310nm SM,IAC-4P1GMM13-MOD,25259.15,IAC-4P1GMM13-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NS 4pt FO Mod 10-1GigE 1310nm SM 1y RMA,RBIAC4P1GMM13MOD,5051.85,RBIAC4P1GMM13MODA,
+NET-I/O-E-MOD-4PORT-SR-62,"Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5 MM Net I/O Exp Mod(w/ Built-In FailOpen)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5μm MM connectivity with built-in fail-open. This module is designed for use with 62.5 micron multimode fiber optic cables and does not require the purchase of separate transceivers. For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NS 4pt FO Mod 10-1GigE 850nm 62.5um,IAC-4P1GMM62-MOD,25259.15,IAC-4P1GMM62-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NS 4pt FO Mod 10-1GigE 850nm 625um 1yRMA,RBIAC4P1GMM62MOD,5051.85,RBIAC4P1GMM62MODA,
+NET-I/O-E-MOD-8PORT,"Trellix Network Security 8-Port 10/1 GigE SFP+/SFP Network I/O Expansion Module (without Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 8-port 10/1 GigE SFP+/SFP connectivity. Requires purchase of separate transceivers. For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 8port I/O Mod 10/1GigE,IAC-8P10NET-MOD,7647.92,IAC-8P10NET-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 8port I/O Mod 10/1GigE1YrRMA,RBIAC8P10NETMOD,1428.55,RBIAC8P10NETMODA,
+NET-I/O-E-MOD-6PORT,"Trellix Network Security 6-Port 1GigE 1000BASE-T Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 6-port 1GigE 1000BASE-T connectivity with built-in fail-open. For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 1GigE 6port Net Mod,IAC-6P1NET-MOD,8209.21,IAC-6P1NET-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 1GigE 6port Net Mod 1Yr RMA,RBIAC6P1NETMOD,1543.64,RBIAC6P1NETMODA,
+NET-I/O-E-MOD-4PORT-1,"Trellix Network Security 4-Port 40GigE QSFP+ Network I/O Expansion Module (without Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 40GigE QSFP+ connectivity. Requires purchase of separate transceivers. For use with NS9x00 appliances (not including 9600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 40GigE 4 port Net Mod,IAC-4P40NET-MOD,12840.09,IAC-4P40NET-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 40GigE 4 port NetMod 1Yr RMA,RBIAC4P40NETMOD,2385.59,RBIAC4P40NETMODA,
+NET-I/O-E-MOD-4PORT,"Trellix Network Security 4-Port 10GBASE-T Copper Network I/O Expansion Module (with Build-in Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-Port 10GBASE-T Copper Network I/O Expansion Module (with Built-in Fail-Open). For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600). ",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 10GigE 4port Net Mod,IAC-4P10NET-MOD,16839.44,IAC-4P10NET-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 10GigE 4port Net Mod 1Yr RMA,RBIAC4P10NETMOD,3704.68,RBIAC4P10NETMODA,
+NET-I/O-E-MOD-6P-RJ45-10G,"Trellix Network Security 6-Port 10/1 GigE RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 6-port 10/1GigE RJ45 interface connectivity with built-in fail-open. For use with NS7600 & NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 6pt RJ45 FO Mod 10/1GigE,IAC-6P10RJ45-MOD,24191.36,IAC-6P10RJ45-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 6pt RJ45 FO Mod 10/1GigE 1Yr RMA,RBIAC6P10RJ45MOD,5535.06,RBIAC6P10RJ45MODA,
+NET-I/O-E-MOD-8P-SR-10G,"Trellix Network Security 8-Port 10/1 GigE SR Fiber Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 8-port 10/1GigE SR interface connectivity with built-in fail-open. For use with NS7600 & NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 8pt SR FO Mod 10/1GigE,IAC-8P10SR-MOD,42863.22,IAC-8P10SR-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 8pt SR FO Mod 10/1GigE 1Yr RMA,RBIAC8P10SRMOD,9807.24,RBIAC8P10SRMODA,
+NET-I/O-E-MOD-8P-LR-10G,"Trellix Network Security 8-Port 10/1 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 8-port 10/1GigE LR interface connectivity with built-in fail-open. For use with NS7600 & NS9600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 8pt LR FO Mod 10/1GigE,IAC-8P10LR-MOD,53852.73,IAC-8P10LR-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 8pt LR FO Mod 10/1GigE 1Yr RMA,RBIAC8P10LRMOD,12321.68,RBIAC8P10LRMODA,
+NET-I/O-E-MOD-4PORT-SR-50,"Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 50 MM Net I/O Exp Mod (w/ Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 10/1 GigE 10GBASE-SR/1000BASE-SX 50μm MM connectivity with built-in fail-open. This module is designed for use with 50 micron multimode fiber optic cables and does not require the purchase of separate transceivers. For use with NS9x00 (not including 9600) and Legacy NS7xx0 appliances (not including 7600).",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NS 4port FO Mod 10-1GigE 850nm 50um,IAC-4P1GMM50-MOD,25259.15,IAC-4P1GMM50-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NS 4port FO Mod 10-1GigE 850nm 50um1yRMA,RBIAC4P1GMM50MOD,5051.85,RBIAC4P1GMM50MODA,
+NET-I/O-E-MOD-4P-SR-10G,"Trellix Network Security 4-Port 10/1 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 10/1GigE SR interface connectivity with built-in fail-open. For use with NS3600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 4pt SR FO Mod 10/1GigE,IAC-4P10SR-MOD,14310.1,IAC-4P10SR-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 4pt SR FO Mod 10/1GigE 1Yr RMA,RBIAC4P10SRMOD,3274.19,RBIAC4P10SRMODA,
+NET-I/O-E-MOD-4P-RJ45-1G,"Trellix Network Security 4-Port 1G/100M/10M RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware network I/O expansion module features 4-port 1G/100M/10M RJ45 interface connectivity with built-in fail-open. For use with NS3600 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NetSec 4pt RJ45 FO Mod 1G/100M/10M,IAC-4P1RJ45-MOD,1968.65,IAC-4P1RJ45-MODA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,NetSec 4pt RJ45 FO Mod1G/100M/10M 1YrRMA,RBIAC4P1RJ45MOD,450.43,RBIAC4P1RJ45MODA,
+,Network IPS Fail-Open Chassis,,,,,
+FO-CHASSIS,"Trellix Network Security Active 1/10G Fail-Open Chassis
+LICENSE: Per Unit.
+PRODUCT CONTENT: Chassis used to house active fail-open modules. This 1U chassis has 4 slots and is used to house and power up to 4 active fail-open modules. Provides redundant power supplies as standard. Compatible with all M- and NS-series sensor appliances. Support the following active fail-open modules:
+(1) 10GigE 10GBASE-LR SM Active Fail-Open Module
+(2) 10GigE 10GBASE-SR MM Active Fail-Open Module
+(3) 1GigE 1000BASE-LX SM Active Fail-Open Module
+(4) 1GigE 1000BASE-SX MM Active Fail-Open Module
+(5) 1GigE 1000BASE-T Active Fail-Open Module",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FailOpen Chassis,IAC-AFOCH-KT2,3365.08,IAC-AFOCH-KT2A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Active FailOpen Chassis 1YR RMA,RBAFOCHKT2,672.99,RBAFOCHKT2A,
+FO-CHASSIS-40G,"Trellix Network Security Active 40G Fail-Open Chassis
+LICENSE: Per Unit.
+PRODUCT CONTENT: Chassis used to house active fail-open modules. This 1U chassis has 3 slots and is used to house and power up to 3 active fail-open modules. Chassis includes redundant hot-swappable power supplies, rack-mounting hardware and cables. Compatible with NS9x00/7xx0/5x00 appliances. Supports the following active fail-open modules:
+(1) 40GigE SR4 MM Active Fail-Open Module
+(2) 40GigE BiDi Active Fail-Open Module
+(3) 40GigE LR4 SM Active Fail-Open
+(4) 10GigE Dual Segment 10GBASE-LR SM Active Fail-Open Module
+(5) 10GigE Dual Segment 10GBASE-SR MM Active Fail-Open Module",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FailOpen 40G Chassis,IAC-AFOCH40-KT2,20207.32,IAC-AFOCH40-KT2A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Active FailOpen 40G Chassis 1yr RMA,RBAFOCH40KT2,4041.47,RBAFOCH40KT2A,
+FO-CHASSIS-100G,"Trellix Network Security Active 100G Fail-Open Chassis
+LICENSE: Per Unit.
+PRODUCT CONTENT: Chassis used to house 100GigE active fail-open modules. This 1U chassis has 2 slots and is used to house and power up to 2 active fail-open modules. Chassis includes redundant hot-swappable power supplies, rack-mounting hardware and cables. Compatible with NS9500 appliances. Supports the following active fail-open modules: (1) 100GigE SR4 MM Active Fail-Open Module (2) 100GigE LR4 SM Active Fail-Open Module",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FailOpen 100G Chassis,IAC-AFOCH100-KT2,47618.38,IAC-AFOCH100-KT2A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Active FailOpen 100G Chassis 1yr RMA,RBAFOCH100KT2,9523.68,RBAFOCH100KT2A,
+,Network IPS Fail-Open Kits/Modules,,,,,
+AFO-MOD-2PORT-100G-LR4,"Trellix Network Security 100GigE QSFP28 LR4 SM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. Includes items necessary to support 100GigE QSFP28 single mode active fail-open for NS9500 appliances. This optional accessory module features active bypass, high-resolution heart-beat, and link fault detection. This module requires the additional separate purchase of 100GBase QSFP28 transceivers for the monitoring side. If customer requires fail-open on more than one 100GigE link, additional AFO modules should be ordered. Requires 100GigE Active Fail-Open Chassis FO-CHASSIS-100G.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 100GE 2port LR4 AFO Kit,IAC-2P100FOLR-KIT,63491.17,IAC-2P100FOLR-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 100GE 2prt LR4 AFO 1yr RMA,RBIAC2P100L4FOKIT,12698.23,RBIAC2P100L4FOKITA,
+AFO-MOD-2PORT-100G-SR4,"Trellix Network Security 100GigE QSFP28 SR4 MM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. Includes items necessary to support 100GigE QSFP28 multimode active fail-open for NS9500 appliances. This optional accessory module features active bypass, high-resolution heart-beat, and link fault detection. This module requires the additional separate purchase of 100GBase QSFP28 transceivers for the monitoring side. If customer requires fail-open on more than one 100GigE link, additional AFO modules should be ordered. Requires 100GigE Active Fail-Open Chassis FO-CHASSIS-100G.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 100GE 2port SR4 AFO Kit,IAC-2P100FOSR-KIT,47618.38,IAC-2P100FOSR-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 100GE 2prt SR4 AFO 1yr RMA,RBIAC2P100S4FOKIT,9523.68,RBIAC2P100S4FOKITA,
+AFO-MODULE-2PORT-LR4,"Trellix Network Security 40GigE QSFP+ LR4 SM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. Includes items necessary to support 40GigE QSFP+ single-mode active fail-open for NS9x00 appliances. This optional accessory module features active bypass, high-resolution heart beat, and link fault detection. This module includes two 40GBase QSFP+ LR4 transceivers for the monitoring side. If customer requires fail-open on more than one 40GigE link, additional AFO modules should be ordered. Requires Active Fail-Open Chassis FO-CHASSIS-40G.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 40GE 2prt LR4 AFO Kit,IAC-2P40FOLR4-KIT,50518.35,IAC-2P40FOLR4-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 40GE 2prt LR4 AFO 1yr RMA,RBIAC2P40LR4FOKIT,10103.66,RBIAC2P40LR4FOKITA,
+AFO-MODULE-2PORT-SR4,"Trellix Network Security 40GigE QSFP+ SR4 MM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. Includes items necessary to support 40GigE QSFP+ multimode active fail-open for NS9x00 appliances. This optional accessory module features active bypass, high-resolution heart beat, and link fault detection. This module includes two 40GBase QSFP+ transceivers for the monitoring side. If customer requires fail-open on more than one 40GigE link, additional AFO modules should be ordered. Requires Active Fail-Open Chassis FO-CHASSIS-40G.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 40GE 2prt SR4 AFO Kit,IAC-2P40FOSR4-KIT,50518.35,IAC-2P40FOSR4-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 40GE 2prt SR4 AFO 1yr RMA,RBIAC2P40SR4FOKIT,10103.66,RBIAC2P40SR4FOKITA,
+AFO-MODULE-2PORT-BIDI,"Trellix Network Security 40GigE QSFP+ BiDi Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. Includes items necessary to support 40GigE QSFP+ BiDi active fail-open for NS9x00 appliances. This optional accessory module features active bypass, high-resolution heart beat, and link fault detection. This module includes  two 40GBase QSFP+ transceivers for the monitoring side. If customer requires fail-open on more than one 40GigE link, additional AFO modules should be ordered. Requires Active Fail-Open Chassis FO-CHASSIS-40G.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 40GE 2prt BiDi AFO Kit,IAC-2P40FOBD-KIT,44905.18,IAC-2P40FOBD-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 40GE 2prt BiDi AFO 1yr RMA,RB2P40FOBDKIT,8981.03,RB2P40FOBDKITA,
+FO-MODULE-DS-10-LR,"Trellix Network Security Dual Segment 10GigE 10GBASE-LR SM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Active fail-open module for 10GigE 10GBASE-LR segments. Designed for use with 8.5 micron single mode cable. Provides active fail-open for two network segments. This optional accessory module features active bypass, high-resolution heart beat, and link fault detection.Requires Active Fail-Open Chassis FO-CHASSIS-40G. Includes four 10GigE 10GBASE-LR SM SFP+ transceivers. Compatible with NS9x00/7xx0/5x00 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4port 10GE LR AFO Kit,IAC-4P10FOLR-KIT,31136.88,IAC-4P10FOLR-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4port 10GE LR AFO 1yr RMA,RBIAC4P10FOLRKIT,7124.77,RBIAC4P10FOLRKITA,
+FO-MODULE-DS-10-SR,"Trellix Network Security Dual Segment 10GigE 10GBASE-SR MM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Active fail-open module for 10GigE 10GBASE-SR segments. Supports to use with 50 micron and 62.5 micron multimode cable. Provides active fail-open for two network segments. This optional accessory module features active bypass, high-resolution heart beat, and link fault detection. Requires Active Fail-Open Chassis FO-CHASSIS-40G. Includes four 10GigE 10GBASE-SR MM SFP+ transceivers. Compatible with NS9x00/7xx0/5x00 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 4port 10GE SR AFO Kit,IAC-4P10FOSR-KIT,19532.79,IAC-4P10FOSR-KITA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 4port 10GE SR AFO 1yr RMA,RBIAC4P10FOSRKIT,4469.04,RBIAC4P10FOSRKITA,
+FO-MODULE-1-LX,"Trellix Network Security 1GigE 1000BASE-LX SM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Active fail-open module for 1GigE 1000BASE-LX segments. Designed for use with 8.5 micron single mode cable. Provides active fail-open for one network segment. Supports SNMP Traps and firmware field upgradability. Requires an Active Fail-Open Chassis FO-CHASSIS. Includes two 1GigE 1000BASE-LX SM SFP transceivers. Compatible with all M- and NS-Series sensor appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FO 1310nm Opt 8.5um Gigabit,IAC-AF131085-KT1,30311.01,IAC-AF131085-KT1A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Active FO 1310nm Opt 8.5um Gigabit 1yRMA,RBAF131085KT1,6062.19,RBAF131085KT1A,
+FO-MODULE-1-SX,"Trellix Network Security 1GigE 1000BASE-SX MM Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Active fail-open module for 1GigE 1000BASE-SX segments. Supports to use with 50 micron and 62.5 micron multimode cable. Provides active fail-open for one network segment. Supports SNMP Traps and firmware field upgradability. Requires Active Fail-Open Chassis FO-CHASSIS. Includes  two 1GigE 1000BASE-SX MM SFP transceivers. Compatible with all M- and NS-Series sensor appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FO 850nm Opt 62.5um Gigabit Mod,IAC-AF85062-KT1,14874.85,IAC-AF85062-KT1A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Active FO 850nm Opt 62.5um Gigabit 1yRMA,RBAF85062KT1,2974.97,RBAF85062KT1A,
+FO-MODULE-1-T,"Trellix Network Security 1GigE 1000BASE-T Active Fail-Open Module
+LICENSE: Per Unit.
+PRODUCT CONTENT: Active fail-open kit for 1GigE 1000BASE-T segments. Designed for use with copper cable. Provides active fail-open for one network segment. Supports SNMP Traps and firmware field upgradability. Requires  Active Fail-Open Chassis FO-CHASSIS. Compatible with all M- and NS-series sensor appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Active FailOpen Copper Gigabit module,IAC-AFOCG-KT2,5890.98,IAC-AFOCG-KT2A,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,AFO Copper Gigabit module 1YR RMA,RBAFOCGKT2,1178.19,RBAFOCGKT2A,
+,Network IPS Transceivers,,,,,
+TRANSCEIVER-NS-100-SR4,"Trellix Network Security 100GigE QSFP28 100GBASE-SR4 MMF Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. For use in 100GigE QSFP28 implements the 100GBASE-SR4 interface  with a reach of up to 300m on multi mode cable. For use with NS9500 & NS9600 appliances only.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec QSFP28 100G SR Trans,IAC-QSFP1SR-FOT,2929.58,IAC-QSFP1SR-FOTA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec QSFP28 100G SR Trans 1Yr RMA,RBIACQSFP1SRFOT,670.27,RBIACQSFP1SRFOTA,
+TRANSCEIVER-NS-100-LR4,"Trellix Network Security 100GigE QSFP28 100GBASE-LR4 SMF Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 100GigE QSFP28 implements the 100GBASE-LR4 interface  with a reach of up to 10KM on single mode cable. For use with NS9500 & NS9600 appliances only.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec QSFP28 100G LR Trans,IAC-QSFP1LR-FOT,10590.84,IAC-QSFP1LR-FOTA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec QSFP28 100G LR Trans 1Yr RMA,RBIACQSFP1LRFOT,2423.21,RBIACQSFP1LRFOTA,
+TRANSCEIVER-NS-40-LR,"Trellix Network Security 40GigE QSFP+ 40GBASE-LR4 SM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. For use in 40GigE QSFP+ ports. Implements the 40GBASE-LR4 interface (CWDM with 4 wavelengths, 1 fiber pair), with a reach of up to 10km on single mode cable. For use with NS9500 & NS 9600 appliances only.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NET SEC QSFP+ 40GE LR FIBER TRANS,IAC-QSFPLR-FOT,11436.82,IAC-QSFPLR-FOTA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,QSFP+40GE LR FibrTrans 1YrTE+ARMA,IACQSFPLRARMA,2130.18,IACQSFPLRARMAA,
+TRANSCEIVER-NS-40-SR,"Trellix Network Security 40GigE QSFP+ 40GBASE-SR4 MM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 40GigE QSFP+ ports. Implements the 40GBASE-SR4 interface (850nm, 4 fiber pairs), with a reach of up to 150m on multimode cable. For use with NS9500 & NS9600 appliances only.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec QSFP+ 40G Fiber Trans,IAC-QSFP-FOT,6104.31,IAC-QSFP-FOTA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec QSFP+ 40G Fiber Trans1Yr RMA,RBIACQSFPFOT,1136.67,RBIACQSFPFOTA,
+TRANSCEIVER-NS-10-LR,"Trellix Network Security 10GigE SFP+ 10GBASE-LR SM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 10GigE SFP+ ports. Implements the 10GBASE-LR interface (1310nm, 1 fiber pair), with a reach of up to 10km on single mode cable. For use with NS9x00, NS7xx0 and NS5x00, & NS3x00 appliances and 10GigE 10GBASE-LR SM Active Fail-Open Module.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec SFP+ 10G LR Fiber Trans,IAC-SFTLR-FOT,2989.04,IAC-SFTLR-FOTA,
+TRANSCEIVER-NS-10-SR,"Trellix Network Security 10GigE SFP+ 10GBASE-SR MM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 10GigE SFP+ ports. Implements the 10GBASE-SR interface (850nm, 1 fiber pair), with a reach of up to 400m on multimode cable. For use with NS9x00, NS7xx0 and NS5x00 & NS3x00 appliances and 10GigE 10GBASE-SR MM Active Fail-Open Module.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec SFP+ 10G SR Fiber Trans,IAC-SFTSR-FOT,1473.44,IAC-SFTSR-FOTA,
+TRANSCEIVER-NS-M-1-LX,"Trellix Network Security 1GigE SFP 1000BASE-LX SM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 1GigE SFP ports. Implements the 1000BASE-LX interface (1310nm, 1 fiber pair), with a reach of up to 5km on single mode cable. For use with NS9x00, NS7xx0, NS5x00, NS3x00, M-8000, M-6050, M-4050, M-3050, M-2950, M-2850, M-2750 appliances, and 1GigE 1000BASE-LX SM Active Fail-Open Module.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,1000BLX miniGB Intrfc Conv(SFP) SM FBR,ITV-2MLG-NA-100,1192.79,ITV-2MLG-NA-100A,
+TRANSCEIVER-NS-M-1-SX,"Trellix Network Security 1GigE SFP 1000BASE-SX MM Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 1GigE SFP ports. Implements the 1000BASE-SX interface (850nm, 1 fiber pair), with a reach of up to 550m on multimode cable. For use with NS9x00, NS7xx0, NS5x00, NS3x00, M-8000, M-6050, M-4050, M-3050, M-2950, M-2850, M-2750 appliances, and 1GigE 1000BASE-SX MM Active Fail-Open Module.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,1000BSX miniGB Intrfc Conv(SFP) FBR,ITV-2KSG-NA-100,1192.79,ITV-2KSG-NA-100A,
+TRANSCEIVER-NS-M-1-T,"Trellix Network Security 1GigE SFP 1000BASE-T Transceiver
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.  For use in 1GigE SFP ports. Implements the 1000BASE-T interface, with a reach of up to 100m on Cat 5 cable. For use with NS9x00, NS7xx0, NS5x00, M-8000, M-6050, M-4050, M-3050, M-2950, M-2850, and M-2750 appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,1000BTX miniGB Intrfc Conv(SFP) Copper,ITV-2KTG-NA-100,1641.87,ITV-2KTG-NA-100A,
+,Network IPS Cables,,,,,
+CABLE-PACK-1,"Trellix Network Security 3-Meter QSFP28 Direct Attach Cable Pack for NS9x00
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. For use to connect NS9x00 sensor appliances in Stacking or Fail-Over mode. Cable Quantity 5. Compatible with NS9x00 sensor appliance.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NS 3M FO QSFP28 Cable 5 Pack for NS9x00,IAC-NSCABLEPK1,1984.11,IAC-NSCABLEPK1A,
+,Network IPS Power Supplies,,,,,
+POWER-SUPPLY-AC-NS-9X00,"Trellix Network Security 1600W AC Spare Power Supply for NS9x00
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.
+Spare 1600W AC PSU for use in Network Security NS9x00 appliance.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Net Sec 1600W AC PSU,IAC-1600AC-PS,4911.52,IAC-1600AC-PSA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,Net Sec 1600W AC PSU 1Yr RMA,RBIAC1600ACPS,926.17,RBIAC1600ACPSA,
+PWR-SPLY-AC-NS-7K-5K-NS95,"Trellix Network Security 650W AC Redundant Power Supply for NS7xx0 and NS5x00 and NS9500
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware. This can also be used as spare AC PSU for NS7xx0 and NS5x00 and NS9500 appliances.
+Not compatible with M-series or other NS9X00 appliances.
+",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,650W AC power supply,IAC-650AC-PS,4207.06,IAC-650AC-PSA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,650W AC power supply 1YR RMA,IAC650ACARMA,841.39,IAC650ACARMAA,
+PWR-SPLY-AC-NS-7600,"Trellix Network Security 750W AC Redundant Power Supply for NS7600
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware.
+",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,750W AC power supply,IAC-750AC-PS,4677.64,IAC-750AC-PSA,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,750W AC power supply 1YR RMA,IAC750ACARMA,882.07,IAC750ACARMAA,
+,Hermes NDR Subscriptions,,,,,
+NDRT0-T,"Network Detection and Response Essentials Edition
+LICENSE: Per Gbps Network Bandwidth
+DELIVERABLE: Activation email
+Customer may use the purchased bandwidth across all physical NDR Sensors and up to 5 Virtual NDR Sensors. The use of additional Virtual Sensors requires additional purchase.
+REQUIREMENTS: Purchased in multiple of 1 Gbps, minimum 1 Gbps. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances of NDR Sensors and NDR Consoles - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Essentials Ed 2W 1:1TE(T),NDRT02WECE-AA,194934.41,NDRT02WECE-AA-AA,FCS Date 04/30/2025
+B,11-20,NDR Essentials Ed 2W 1:1TE(T),NDRT02WECE-AA,177213.1,NDRT02WECE-AA-BA,FCS Date 04/30/2025
+C,21-50,NDR Essentials Ed 2W 1:1TE(T),NDRT02WECE-AA,159491.79,NDRT02WECE-AA-CA,FCS Date 04/30/2025
+D,51-100,NDR Essentials Ed 2W 1:1TE(T),NDRT02WECE-AA,143542.61,NDRT02WECE-AA-DA,FCS Date 04/30/2025
+E,101-+,NDR Essentials Ed 2W 1:1TE(T),NDRT02WECE-AA,129188.34,NDRT02WECE-AA-EA,FCS Date 04/30/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Essentials Ed 1W 1:1TE(T),NDRT01WECE-AA,224174.57,NDRT01WECE-AA-AA,FCS Date 04/30/2025
+B,11-20,NDR Essentials Ed 1W 1:1TE(T),NDRT01WECE-AA,203795.07,NDRT01WECE-AA-BA,FCS Date 04/30/2025
+C,21-50,NDR Essentials Ed 1W 1:1TE(T),NDRT01WECE-AA,183415.56,NDRT01WECE-AA-CA,FCS Date 04/30/2025
+D,51-100,NDR Essentials Ed 1W 1:1TE(T),NDRT01WECE-AA,165074.01,NDRT01WECE-AA-DA,FCS Date 04/30/2025
+E,101-+,NDR Essentials Ed 1W 1:1TE(T),NDRT01WECE-AA,148566.6,NDRT01WECE-AA-EA,FCS Date 04/30/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Essentials Ed OF 1:1TE(T),NDRT0OFECE-AA,233921.29,NDRT0OFECE-AA-AA,FCS Date 04/30/2025
+B,11-20,NDR Essentials Ed OF 1:1TE(T),NDRT0OFECE-AA,212655.72,NDRT0OFECE-AA-BA,FCS Date 04/30/2025
+C,21-50,NDR Essentials Ed OF 1:1TE(T),NDRT0OFECE-AA,191390.15,NDRT0OFECE-AA-CA,FCS Date 04/30/2025
+D,51-100,NDR Essentials Ed OF 1:1TE(T),NDRT0OFECE-AA,172251.13,NDRT0OFECE-AA-DA,FCS Date 04/30/2025
+E,101-+,NDR Essentials Ed OF 1:1TE(T),NDRT0OFECE-AA,155026.01,NDRT0OFECE-AA-EA,FCS Date 04/30/2025
+NDRT1-T,"Network Detection and Response Core Edition
+LICENSE: Per Gbps Network Bandwidth
+DELIVERABLE: Activation email
+Customer may use the purchased bandwidth across all physical NDR Sensors and up to 5 Virtual NDR Sensors. The use of additional Virtual Sensors requires additional purchase.
+REQUIREMENTS: Purchased in multiple of 1 Gbps, minimum 1 Gbps. Quotes and Orders must additionally include the required number of deployment option
+physical/virtual appliances of NDR Sensors and NDR Consoles - for corresponding appliance activation keys.
+",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Core Ed 2W 1:1TE(T),NDRT12WECE-AA,263161.45,NDRT12WECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Core Ed 2W 1:1TE(T),NDRT12WECE-AA,239237.69,NDRT12WECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Core Ed 2W 1:1TE(T),NDRT12WECE-AA,215313.92,NDRT12WECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Core Ed 2W 1:1TE(T),NDRT12WECE-AA,193782.53,NDRT12WECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Core Ed 2W 1:1TE(T),NDRT12WECE-AA,174404.26,NDRT12WECE-AA-EA,FCS Date 03/31/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Core Ed 1W 1:1TE(T),NDRT11WECE-AA,302635.67,NDRT11WECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Core Ed 1W 1:1TE(T),NDRT11WECE-AA,275123.35,NDRT11WECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Core Ed 1W 1:1TE(T),NDRT11WECE-AA,247611.0,NDRT11WECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Core Ed 1W 1:1TE(T),NDRT11WECE-AA,222849.91,NDRT11WECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Core Ed 1W 1:1TE(T),NDRT11WECE-AA,200564.91,NDRT11WECE-AA-EA,FCS Date 03/31/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Core Ed OF 1:1TE(T),NDRT1OFECE-AA,315793.74,NDRT1OFECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Core Ed OF 1:1TE(T),NDRT1OFECE-AA,287085.22,NDRT1OFECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Core Ed OF 1:1TE(T),NDRT1OFECE-AA,258376.7,NDRT1OFECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Core Ed OF 1:1TE(T),NDRT1OFECE-AA,232539.04,NDRT1OFECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Core Ed OF 1:1TE(T),NDRT1OFECE-AA,209285.13,NDRT1OFECE-AA-EA,FCS Date 03/31/2025
+NDRT2-T,"Network Detection and Response Enterprise Edition
+LICENSE: Per Gbps Network Bandwidth
+DELIVERABLE: Activation email
+Customer may use the purchased bandwidth across all physical NDR Sensors and up to 10 Virtual NDR Sensors. The use of additional Virtual Sensors requires additional purchase.
+REQUIREMENTS: Purchased in multiple of 1 Gbps, minimum 1 Gbps. Quotes and Orders must additionally include the required number of deployment option
+physical/virtual appliances of NDR Sensors and NDR Consoles - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Enterprise Ed 2W 1:1TE(T),NDRT22WECE-AA,321641.78,NDRT22WECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Enterprise Ed 2W 1:1TE(T),NDRT22WECE-AA,292401.62,NDRT22WECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Enterprise Ed 2W 1:1TE(T),NDRT22WECE-AA,263161.45,NDRT22WECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Enterprise Ed 2W 1:1TE(T),NDRT22WECE-AA,236845.32,NDRT22WECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Enterprise Ed 2W 1:1TE(T),NDRT22WECE-AA,213160.79,NDRT22WECE-AA-EA,FCS Date 03/31/2025
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Enterprise Ed 1W 1:1TE(T),NDRT21WECE-AA,369888.04,NDRT21WECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Enterprise Ed 1W 1:1TE(T),NDRT21WECE-AA,336261.87,NDRT21WECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Enterprise Ed 1W 1:1TE(T),NDRT21WECE-AA,302635.67,NDRT21WECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Enterprise Ed 1W 1:1TE(T),NDRT21WECE-AA,272372.1,NDRT21WECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Enterprise Ed 1W 1:1TE(T),NDRT21WECE-AA,245134.91,NDRT21WECE-AA-EA,FCS Date 03/31/2025
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-10,NDR Enterprise Ed OF 1:1TE(T),NDRT2OFECE-AA,385970.14,NDRT2OFECE-AA-AA,FCS Date 03/31/2025
+B,11-20,NDR Enterprise Ed OF 1:1TE(T),NDRT2OFECE-AA,350881.94,NDRT2OFECE-AA-BA,FCS Date 03/31/2025
+C,21-50,NDR Enterprise Ed OF 1:1TE(T),NDRT2OFECE-AA,315793.74,NDRT2OFECE-AA-CA,FCS Date 03/31/2025
+D,51-100,NDR Enterprise Ed OF 1:1TE(T),NDRT2OFECE-AA,284214.37,NDRT2OFECE-AA-DA,FCS Date 03/31/2025
+E,101-+,NDR Enterprise Ed OF 1:1TE(T),NDRT2OFECE-AA,255792.93,NDRT2OFECE-AA-EA,FCS Date 03/31/2025
+,Hermes NDR Virtual Appliance Deployment Options,,,,,
+NDRC-VA-T,"NDR Console - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Detection & Response Essentials, Core or Enterprise Edition subscriptions.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NDR Console Virt Appl SW PERP LIC(T),VNDRCCXE-AT,0.0,VNDRCCXE-AT-AA,FCS Date 03/31/2025
+NDRS-VA-T,"NDR Sensor - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Detection & Response Essentials, Core or Enterprise Edition subscriptions.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NDR Sensor Virt Appl SW PERP LIC(T),VNDRSCXE-AT,0.0,VNDRSCXE-AT-AA,FCS Date 03/31/2025
+,Hermes NDR Hardware Appliance Deployment Options,,,,,
+NDRC2600-T,"NDR Console 2600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Console HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Network Detection & Response Essentials, Core or Enterprise Edition subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NDR Console 2600 Appliance(T),NDRC-2600-T,269683.39,NDRC-2600-TA,FCS Date 03/31/2025
+NDRS8600-T,"NDR Sensor 8600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Network Detection & Response Essentials, Core or Enterprise Edition subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NDR Sensor  8600 Appliance(T),NDRS-8600-T,398419.08,NDRS-8600-TA,FCS Date 03/31/2025
+,Hermes Network NX Subscriptions,,,,,
+NWENX-T,"Network Security NX Edition (Enterprise)(T)
+LICENSE: Per Mbps Network Bandwidth
+DELIVERABLE: Activation email
+CONTENT:  Network Security is an advanced threat protection platform that provides visibility into and protection against the world’s most sophisticated attacks. Built on the patented Multi-vector Virtual Execution (MVX) engine.
+NOTE: For all New Business Subscriptions or existing customer Subscription Expansions - the Miniumum Purchase Quantity is 500 and Orders must be in 'multiples of 500' (example a customer requiring 800 or 1900 must purchase as a QTY 1000 or 2000 respectively).  This Hermes Subscriptions incorporates and entitles up to 2 Virtual CM and 5 Virtual NX.  Additional Virtual Deploy Quantities require PM Approvals and may be at additional cost.
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) 2W 1:1TE(T),NWNX2WECE-AT,177.22,NWNX2WECE-AT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) 1W 1:1TE(T),NWNX1WECE-AT,203.83,NWNX1WECE-AT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) OF 1:1TE(T),NWNXOFECE-AT,212.68,NWNXOFECE-AT-AA,
+,Hermes Network NX Virtual Appliance Deployment Options,,,,,
+NW-VA-T,"Network Security Sensor - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NW Virt Appl Sensor SW PERP LIC(T),VNWSCXE-AT,0.0,VNWSCXE-ATAA,
+VX12550-BM-VA-T,"Network Security 12550 BareMetal - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal. Activation code is sent via an email.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX 12550 BM Virt Appl SW PERP LIC(T),VVXB12550CXE-AT,315029.04,VVXB12550CXE-AT-AA,
+NSNW-EC-VA-T,"Network Evidence Collector - Virtual Appliance for Network Security(T)
+LICENSE: Per VM Instance
+DELIVERABLE: Virtual Machine Software
+CONTENT: Evidence Collector Virtual Appliance - for Network Security
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NW Evidence Clltor Virt Appl PERP LIC(T),VNWECCXE-AT,0.0,VNWECCXE-AT-AA,
+,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options,,,,,
+VX5600-T,"IVX 5600 Enterprise (Formerly SmartGrid) Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Network Security, Hermes Email Security or Hermes Network Detection & Response Essentials, Core or Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX 5600 Enterprise Appliance(T),VX-5600-T,46025.96,VX-5600-TA,
+VX12600-T,"IVX 12600 Enterprise (Formerly SmartGrid) Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Network Security, Hermes Email Security or Hermes Network Detection & Response Essentials, Core or Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX 12600 Enterprise Appliance(T),VX-12600-T,165260.53,VX-12600-TA,
+,Hermes Network NX Hardware Appliance Deployment Options,,,,,
+NW2600-T,"NW 2600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 2600 Appliance(T),NW-2600-T,46231.44,NW-2600-TA,
+NW3600-T,"NW 3600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 3600 Appliance(T),NW-3600-T,71915.57,NW-3600-TA,
+NW4600-T,"NW 4600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 4600 Appliance(T),NW-4600-T,92462.88,NW-4600-TA,
+NW5600-T,"NW 5600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 5600 Appliance(T),NW-5600-T,169515.27,NW-5600-TA,
+NW6600-T,"NW 6600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 6600 Appliance(T),NW-6600-T,369851.51,NW-6600-TA,
+NW8600-T,"NW 8600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 8600 Appliance(T),NW-8600-T,475156.45,NW-8600-TA,
+,Hermes Forensics IA PX Subscrtiptions,,,,,
+NFEIAPX-T,"Forensics(T)
+LICENSE: Per Mbps Network Bandwidth
+CONTENT: Forensics",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Forensics 1:1TE(T),NFIAPXECE-AT,116.85,NFIAPXECE-AT-AA,
+,Hermes Forensics IA Virtual Appliance Deployment Options,,,,,
+NFIA-VA-T,"Network Forensics Security IA - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NFIA Virt Appl SW PERP LIC(T),VNFIACXE-AT,0.0,VNFIACXE-AT-AA,
+,Hermes Forensics IA Hardware Appliance Deployment Options,,,,,
+NFIA2600-T,"NFIA 2600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFIA 2600 Appliance(T),NFIA-2600-T,269683.39,NFIA-2600-TA,
+,Classic Forensics IA Virtual Appliances,,,,,
+IA-VA-T,"IA Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking Virtual Appliance Deployment Option.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,IA Virt Appl PERP LIC(T),VIACXE-AT,161386.63,VIACXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,IA Virt Appl 1Yr TE(T),VIAYCM-AT,29827.71,VIAYCM-AT-AA,
+,Classic Forensics IA Hardware Appliances,,,,,
+2600IA-T,"2600 IA Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,2600 IA Appliance(T),IA-2600-T,98065.98,IA-2600-TA,
+2600IA-SW-T,"2600 IA Appliance Software(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2600IA appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2600 IA Appl SW PERP LIC(T),IA2600CXE-AT,333427.45,IA2600CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2600 IA Appl SW 1yr TE(T),IA2600YCM-AT,79749.23,IA2600YCM-AT-AA,
+,Hermes Forensics PX Virtual Appliance Deployment Options,,,,,
+NFPX-VA-T,"Network Forensics Security PX - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Forensics and Network Detection & Response Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NFPX Virt Appl SW PERP LIC(T),VNFPXCXE-AT,0.0,VNFPXCXE-AT-AA,
+,Hermes Forensics PX Hardware Appliance Deployment Options,,,,,
+NFPX5600-T,"NFPX 5600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Forensics and Network Detection & Response Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 5600 Appliance(T),NFPX-5600-T,282525.46,NFPX-5600-TA,
+NFPX7600-T,"NFPX 7600 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Forensics and Network Detection & Response Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 7600 Appliance(T),NFPX-7600-T,449472.32,NFPX-7600-TA,
+NFPX7620-T,"NFPX 7620 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Forensics and Network Detection & Response Enterprise subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 7620 Appliance(T),NFPX-7620-T,308209.59,NFPX-7620-TA,
+,Hermes Forensics Storage SX Subscriptions,,,,,
+NFE5000SX-T,"Network Forensics Storage 704TB(T)
+LICENSE: Per Appliance
+CONTENT: Forensics Storage
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of Forensics SX deployment option physical appliances  - for corresponding appliance activation keys.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Forensics SX 704TB 1:1TE(T),NFE5000SXECE-AA,256841.32,NFE5000SXECE-AA-AA,
+,Hermes Forensics Storage Hardware Appliance Deployment Options,,,,,
+NFSX5000-T,"NFSX 5000 Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics Storage SX subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFSX 5000 Appliance(T),NFSX-5000-T,436630.25,NFSX-5000-TA,
+,Hermes Central Management Virtual Appliance Deployment Options,,,,,
+CM-VA-S-T,"Central Management - Virtual Appliance Subscription(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl SW 1:1TE(T),VCMGXE-AT,23030.95,VCMGXE-AT-AA,
+CM-VA-T,"Central Management - Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a $0 Hermes VM deployment option for customers with a base Hermes subscription (as applicable for Email, Network Security and Network Detection & Response Essentials, Core or Enterprise Edition, and per the entitled quantity limits). The charged options will, otherwise, apply.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,CM Virt Appl SW PERP LIC(T),VCMCXE-AT,0.0,VCMCXE-AT-AA,
+,Central Management  Virtual Appliances,,,,,
+2500CM-VA-T,"2500 CM Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2500 CM Virt Appl PERP LIC(T),VCM2500CXE-AT,28766.23,VCM2500CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl 1Yr TE(T),VCM2500YCM-AT,5316.61,VCM2500YCM-AT-AA,
+2500CM-VA-DTI-T,"2500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI 2W 1:1TE(T),VCM2500D2WGXEAT,0.0,VCM2500D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI 1W 1:1TE(T),VCM2500D1WGXEAT,0.0,VCM2500D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI OF 1:1TE(T),VCM2500DOFGXEAT,0.0,VCM2500DOFGXEAT-AA,
+4500CM-VA-T,"4500 CM Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4500 CM Virt Appl PERP LIC(T),VCM4500CXE-AT,34375.63,VCM4500CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl 1Yr TE(T),VCM4500YCM-AT,6353.36,VCM4500YCM-AT-AA,
+4500CM-VA-DTI-T,"4500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI 2W 1:1TE(T),VCM4500D2WGXEAT,0.0,VCM4500D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI 1W 1:1TE(T),VCM4500D1WGXEAT,0.0,VCM4500D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI OF 1:1TE(T),VCM4500DOFGXEAT,0.0,VCM4500DOFGXEAT-AA,
+7500CM-VA-T,"7500 CM Virtual Appliance(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and or Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7500 CM Virt Appl PERP LIC(T),VCM7500CXE-AT,77381.15,VCM7500CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl 1Yr TE(T),VCM7500YCM-AT,14301.69,VCM7500YCM-AT-AA,
+7500CM-VA-DTI-T,"7500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI 2W 1:1TE(T),VCM7500D2WGXEAT,0.0,VCM7500D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI 1W 1:1TE(T),VCM7500D1WGXEAT,0.0,VCM7500D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI OF 1:1TE(T),VCM7500DOFGXEAT,0.0,VCM7500DOFGXEAT-AA,
+,Central Management Hardware Appliance,,,,,
+4600CM-T,"4600 CM Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,4600 CM Appliance(T),CM-4600-T,24944.25,CM-4600-TA,
+4600CM-SW-T,"4600 CM Appliance Software(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 CM Appl SW PERP LIC(T),CM4600CXE-AT,38341.54,CM4600CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW 1yr TE(T),CM4600YCM-AT,11696.55,CM4600YCM-AT-AA,
+4600CM-SW-DTI-T,"4600 CM Appliance Software - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 4600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI 2W 1:1TE(T),CM4600D2WGXEAT,0.0,CM4600D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI 1W 1:1TE(T),CM4600D1WGXEAT,0.0,CM4600D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI OF 1:1TE(T),CM4600DOFGXEAT,0.0,CM4600DOFGXEAT-AA,
+7600CM-T,"7600 CM Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,7600 CM Appliance(T),CM-7600-T,32299.25,CM-7600-TA,
+7600CM-SW-T,"7600 CM Appliance Software(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 7600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7600 CM Appl SW PERP LIC(T),CM7600CXE-AT,53711.79,CM7600CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW 1yr TE(T),CM7600YCM-AT,15896.67,CM7600YCM-AT-AA,
+7600CM-SW-DTI-T,"7600 CM Appliance Software - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 7600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI 2W 1:1TE(T),CM7600D2WGXEAT,0.0,CM7600D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI 1W 1:1TE(T),CM7600D1WGXEAT,0.0,CM7600D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI OF 1:1TE(T),CM7600DOFGXEAT,0.0,CM7600DOFGXEAT-AA,
+9600CM-T,"9600 CM Appliance(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,9600 CM Appliance(T),CM-9600-T,44012.34,CM-9600-TA,
+9600CM-SW-T,"9600 CM Appliance Software(T)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 9600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,9600 CM Appl SW PERP LIC(T),CM9600CXE-AT,185829.82,CM9600CXE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW 1yr TE(T),CM9600YCM-AT,42479.75,CM9600YCM-AT-AA,
+9600CM-SW-DTI-T,"9600 CM Appliance Software - Dynamic Threat Intelligence(T)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 9600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI 2W 1:1TE(T),CM9600D2WGXEAT,0.0,CM9600D2WGXEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI 1W 1:1TE(T),CM9600D1WGXEAT,0.0,CM9600D1WGXEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI OF 1:1TE(T),CM9600DOFGXEAT,0.0,CM9600DOFGXEAT-AA,

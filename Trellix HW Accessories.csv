@@ -1,0 +1,78 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Modules
+,"Rails, Kits and Cables",,,,BASECU10G-HW,HW MOD 10G BASE CU SFP+ COPPER
+FANOUTCABLE-R1,"CABLE, MTP/MPO FAN-OUT CABLE WITH PUSH/PULL TAB CONNECTORS, MTP/MPO TO 4XLC, 40GBE, 40GBASE-SR4,OM3 PLENUM-RATED - AQUA, 5M REV1",,,,BASET10G-HW-R1,HW MOD 10G Base-T Copper SFP+ REV1
+PATCHCABLE-R1,"CABLE, PROLINE 5M MPO (F)/MPO (F) 12-STRAND AQUA OM3 CROSSOVER OFNR PATCH CABLE REV1",,,,BASET1G-HW,HW MOD 1G Base-T Copper
+,,,,,LXLR1G10G-HW-R1,HW MOD 1G/10G Base LX/LR Fiber SFP+ REV1
+,,,,,LXLR1G10G-HW,HW MOD 1G/10G Base LX/LR Fiber SFP+
+,,,,,SXSR1G10G-HW-R1,HW MOD 1G/10G Base SX/SR Fiber SFP+ REV1
+,,,,,SXSR1G10G-HW,HW MOD 1G/10G Base SX/SR Fiber SFP+
+,,,,,SR40G-HW,"40G Base-SR4, 100/150m MMF"
+,,,,,QSFP100G-HW,HW MOD 100G Base QSFP+
+Trellix HW Accessories,,,,,,
+,"Rails, Kits and Cables",,,,,
+FANOUTCABLE-R1,"CABLE, MTP/MPO FAN-OUT CABLE WITH PUSH/PULL TAB CONNECTORS, MTP/MPO TO 4XLC, 40GBE, 40GBASE-SR4,OM3 PLENUM-RATED - AQUA, 5M REV1
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Fan-out 5m cbl push/pull cnctr R1,FANOUTCABLER1,5556.83,FANOUTCABLER1A,
+PATCHCABLE-R1,"CABLE, PROLINE 5M MPO (F)/MPO (F) 12-STRAND AQUA OM3 CROSSOVER OFNR PATCH CABLE REV1
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,Proline 5m OM4 crossover patch cbl R1,PATCHCABLER1,4262.9,PATCHCABLER1A,
+,Modules,,,,,
+BASECU10G-HW,HW MOD 10G BASE CU SFP+ COPPER,,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,10G Base CU Copper SFP+,BASECU10G,372.41,BASECU10GA,
+BASET10G-HW-R1,"HW MOD 10G Base-T Copper SFP+ REV1
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,10G Base-T Copper SFP+ R1,BASET10GR1,2751.32,BASET10GR1A,
+BASET1G-HW,"HW MOD 1G Base-T Copper
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,HW MOD 1G Base-T Copper,BASET1G,374.58,BASET1GA,
+LXLR1G10G-HW-R1,"HW MOD 1G/10G Base LX/LR Fiber SFP+ REV1
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,HW MOD 1G/10G Base LX/LR Fiber SFP+ R1,LXLR1G10GR1,2002.47,LXLR1G10GR1A,
+LXLR1G10G-HW,"HW MOD 1G/10G Base LX/LR Fiber SFP+
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,HW MOD 1G/10G Base LX/LR Fiber SFP+,LXLR1G10G,1183.61,LXLR1G10GA,
+SXSR1G10G-HW-R1,"HW MOD 1G/10G Base SX/SR Fiber SFP+ REV1
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,HW MOD 1G/10G Base SX/SR Fiber SFP+ R1,SXSR1G10GR1,3499.08,SXSR1G10GR1A,
+SXSR1G10G-HW,"HW MOD 1G/10G Base SX/SR Fiber SFP+
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,HW MOD 1G/10G Base SX/SR Fiber SFP+,SXSR1G10G,584.32,SXSR1G10GA,
+SR40G-HW,"40G Base-SR4, 100/150m MMF
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,"40G Base-SR4, 100/150m MMF",SR40G,3641.21,SR40GA,
+QSFP100G-HW,"HW MOD 100G Base QSFP+
+LICENSE: Per Unit.
+PRODUCT CONTENT: Hardware (TAA Compliant)",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,100G Base QSFP+,QSFP100G,8362.91,QSFP100GA,

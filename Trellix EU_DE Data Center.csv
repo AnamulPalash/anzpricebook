@@ -1,0 +1,1302 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Protection and EDR (SaaS & On-Premise) - With MDR
+,Email Security,,,,TRXE1M1-DE,Trellix Endpoint Security Suite (Germany Data Center) + Managed Detection & Response
+EMCL-EU,Email Security Cloud Edition (European Data Center),,,,TRXE1M1U-DE,Trellix Endpoint Security Suite - Upgrade (Germany Data Center) + Managed Detection & Response
+EMCA-EU,Email Security Cloud AntiVirus/AntiSpam Edition (European Data Center),,,,,EDR (SaaS & On-Premise)
+EMCAU-EU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (European Data Center),,,,MV4-DE,Trellix EDR (Germany Data Center)
+TPS-EU,Trellix Phishing Simulator (European Data Center),,,,MV4U-DE,Trellix EDR - Upgrade (Germany Data Center)
+EMCLVX-DE,Email Security for Office 365 (German Data Center),,,,,Helix (SaaS)
+,Data Security Suites (Subscription),,,,XDR-DE,Helix Connect (Germany Data Center)
+DATA-S-DE,Trellix Data Security Suite - Subscription (Germany Data Center),,,,OXDR-50GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB (Germany Data Center)
+DATAU-S-DE,Trellix Data Security Suite Upgrade  - Subscription (Germany Data Center),,,,OXDR-100GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB (Germany Data Center)
+TDL-S-DE,Trellix Data Loss Prevention Suite - Subscription (Germany Data Center),,,,OXDR-250GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB (Germany Data Center)
+NDLP-S-DE,Trellix Data Security Network Suite - Subscription (Germany Data Center),,,,OXDR-1TB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB (Germany Data Center)
+NDLPU-S-DE,Trellix Data Security Network Suite Upgrade - Subscription (Germany Data Center),,,,OXDR-50GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Germany Data Center)
+CDA-S-DE,Trellix Data Security Endpoint Protection Suite - Subscription (Germany Data Center),,,,OXDR-100GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Germany Data Center)
+CDAU-S-DE,Trellix Data Security Endpoint Protection Suite Upgrade - Subscription (Germany Data Center),,,,OXDR-250GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Germany Data Center)
+CDB-S-DE,Trellix Data Encryption Suite - Subscription (Germany Data Center),,,,OXDR-1TB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Germany Data Center)
+CDBU-S-DE,Trellix Data Encryption Suite - Subscription Upgrade (Germany Data Center),,,,OXDRCS-2YR-50GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 50 GB (Germany Data Center)
+,Data Loss Prevention (DLP) (Subscription),,,,OXDRCS-2YR-100GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 100 GB (Germany Data Center)
+DLP-S-DE,Trellix Data Loss Prevention Endpoint Complete - Subscription (Germany Data Center),,,,OXDRCS-2YR-250GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 250 GB (Germany Data Center)
+DLPU-S-DE,Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription (Germany Data Center),,,,OXDRCS-2YR-1TB-ADDON-DE,Helix Connect 2 Year Cold Storage - 1 TB (Germany Data Center)
+DLS-DE,Trellix Data Loss Prevention Extended Data Retention (Add On) (Germany Data Center),,,,OXDRCS-3YR-50GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 50 GB (Germany Data Center)
+DEC-S-DE,Trellix Device Control - Subscription (Germany Data Center),,,,OXDRCS-3YR-100GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 100 GB (Germany Data Center)
+DDS-S-DE,Trellix Data Loss Prevention Discover - Subscription (Germany Data Center),,,,OXDRCS-3YR-250GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 250 GB (Germany Data Center)
+DDSU-S-DE,Trellix Data Loss Prevention Discover Upgrade - Subscription (Germany Data Center),,,,OXDRCS-3YR-1TB-ADDON-DE,Helix Connect 3 Year Cold Storage - 1 TB (Germany Data Center)
+DMO-S-DE,Trellix Data Loss Prevention Network Monitor - Subscription (Germany Data Center),,,,XDRQS8-50GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 50 GB (Germany Data Center)
+DMOU-S-DE,Trellix Data Loss Prevention Network Monitor Upgrade - Subscription (Germany Data Center),,,,XDRQS8-100GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 100 GB (Germany Data Center)
+DPV-S-DE,Trellix Data Loss Prevention Network Prevent - Subscription (Germany Data Center),,,,XDRQS8-250GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 250 GB (Germany Data Center)
+DPVU-S-DE,Trellix Data Loss Prevention Network Prevent Upgrade - Subscription (Germany Data Center),,,,XDRQS8-1TB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 1 TB (Germany Data Center)
+OCR-S-DE,Trellix Data Loss Prevention OCR Network (Add-on) - Subscription (Germany Data Center),,,,XDRQS16-50GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 50 GB (Germany Data Center)
+OCRE-S-DE,Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription (Germany Data Center),,,,XDRQS16-100GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 100 GB (Germany Data Center)
+OCREN-S-DE,Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription (Germany Data Center),,,,XDRQS16-250GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 250 GB (Germany Data Center)
+,Data Encryption (Subscription),,,,XDRQS16-1TB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 1 TB (Germany Data Center)
+TDE-S-DE,Trellix Drive Encryption - Subscription (German Data Center),,,,,Protection (SaaS & On-Premise)
+TNE-S-DE,Trellix Native Drive Encryption - Subscription (German Data Center),,,,MV1-DE,Trellix Protect Standard (Germany Data Center)
+FRP-S-DE,Trellix File and Removable Media Protection - Subscription (German Data Center),,,,MV1U-DE,Trellix Protect Standard - Upgrade (Germany Data Center)
+,IVX Enterprise Cloud,,,,MV2-DE,Trellix Protect Plus (Germany Data Center)
+IVX-DE,IVX Enterprise Cloud (Germany Data Center),,,,MV2U-DE,Trellix Protect Plus - Upgrade (Germany Data Center)
+IVX-DE-BP,IVX Enterprise Cloud -Banded Submission Pack (Germany Data Center),,,,MV3-DE,Trellix Mobile Security Advanced (Germany Data Center)
+,Device to Cloud Defense (SaaS Only),,,,VPC-DE,Trellix Mobile Security Advanced - Public Cloud VPC (European Data Center)
+MVA-DE,Trellix Advanced (Germany Data Center),,,,SS1-DE,Trellix Secure Schools Protect Standard - (Germany Data Center)
+MVAU-DE,Trellix Advanced - Upgrade (Germany Data Center),,,,SS2-DE,Trellix Secure Schools Protect Plus (Germany Data Center)
+MVP-DE,Trellix Premium (Germany Data Center),,,,SS3-DE,Trellix Secure Schools Protect Standard with EDR for Endpoint (Germany Data Center)
+MVPU-DE,Trellix Premium - Upgrade (Germany Data Center),,,,,File & Application Control
+,Protection and EDR (SaaS & On-Premise),,,,ACD-S-DE,Trellix Application Control for PCs - Subscription (Germany Data Center)
+TRXHX-DE,Trellix Advanced Endpoint Security with Forensics (Germany Data Center),,,,,Endpoint Cloud Deploy Options
+TRXHXU-DE,Trellix Advanced Endpoint Security with Forensics - Upgrade (Germany Data Center),,,,HXCL-DE-T,HX Cloud Hosting Endpoint - Large (Germany Data Center)(T)
+TRXE1-DE,Trellix Endpoint Security Suite (Germany Data Center),,,,HXCM-DE-T,HX Cloud Hosting Endpoint - Medium (Germany Data Center)(T)
+TRXE1U-DE,Trellix Endpoint Security Suite - Upgrade (Germany Data Center),,,,HXGCL-DE-T,HX Cloud Hosting Endpoint - GCP - Large (Germany Data Center)(T)
+SS4-DE,Trellix Secure Schools Endpoint Security Suite  (Germany Data Center),,,,HXGCM-DE-T,HX Cloud Hosting Endpoint - GCP - Medium (Germany Data Center)(T)
+SS4U-DE,Trellix Secure Schools Endpoint Security Suite - UPGRADE  (Germany Data Center),,,,,Cloud Workload Security EDR
+MV6-DE,Trellix Protect Plus EDR for Endpoint (Germany Data Center),,,,CWSDR-DE,Trellix Cloud Workload Security Detect and Respond (Germany Data Center)
+MV6U-DE,Trellix Protect Plus EDR for Endpoint - Upgrade (Germany Data Center),,,,CWSDRU-DE,Trellix Cloud Workload Security Detect and Respond - Upgrade (Germany Data Center)
+EDREX-DE,Trellix EDR Data Extension Add-on (Germany Data Center),,,,,
+EDREX180-DE,Trellix EDR Data Extension Add-on 180 Days (Germany Data Center),,,,,
+EDREX180-U-DE,Trellix EDR Data Extension Add-on 180 Days - Upgarde (Germany Data Center),,,,,
+EDR-WISE-DE,Trellix Wise for EDR Add-on (Germany Data Center),,,,,
+Trellix EU_DE Data Center,,,,,,
+,Email Security,,,,,
+EMCL-EU,"Email Security Cloud Edition (European Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud without AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,107.87,EMCLEUE-AAAA,
+B,251-1000,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,76.41,EMCLEUE-AABA,
+C,1001-2000,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,62.93,EMCLEUE-AACA,
+D,2001-5000,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,58.43,EMCLEUE-AADA,
+E,5001-10000,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,56.18,EMCLEUE-AAEA,
+F,10001-+,Email Sec Cld Ed (EU) 1:1TE,EMCLEUE-AA,47.19,EMCLEUE-AAFA,
+EMCA-EU,"Email Security Cloud AntiVirus/AntiSpam Edition (European Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,158.6,EMCAEUE-AAAA,
+B,251-1000,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,112.33,EMCAEUE-AABA,
+C,1001-2000,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,92.5,EMCAEUE-AACA,
+D,2001-5000,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,73.04,EMCAEUE-AADA,
+E,5001-10000,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,70.25,EMCAEUE-AAEA,
+F,10001-+,Email Sec Cld AVAS Ed (EU) 1:1TE,EMCAEUE-AA,58.99,EMCAEUE-AAFA,
+EMCAU-EU,"Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (European Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,158.6,EMCAEUE-DAAA,
+B,251-1000,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,112.33,EMCAEUE-DABA,
+C,1001-2000,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,92.5,EMCAEUE-DACA,
+D,2001-5000,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,73.04,EMCAEUE-DADA,
+E,5001-10000,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,70.25,EMCAEUE-DAEA,
+F,10001-+,Email Sec Cld AVAS Ed (EU) UP 1:1TE,EMCAEUE-DA,58.99,EMCAEUE-DAFA,
+TPS-EU,"Trellix Phishing Simulator (European Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam
+CONTENT: Trellix Phishing Simulator add-on for Email Security Cloud (EMCL) or Email Security Cloud AntiVirus/AntiSpam (EMCA). The datacenter for this SKU will match the customer’s Email Security Cloud instance.
+MANAGEMENT: From within Email Security Cloud console
+RESTRICTIONS: Order Quantity must match base Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam SKU
+NOTE:  Trellix-M IAM hosted only
+REQUIREMENTS: Add-on Feature for customers with EMCL-EU Email Securty Cloud Edition or EMCA-EU Email Security Cloud Antivirus/AntiSpam.
+NOTE: EMCLVX Email Security for Office 365 already includes this feature in its bundle.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,33.36,TPSEUE-AA-AA,FCS Date 05/07/2025
+B,251-1000,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,28.35,TPSEUE-AA-BA,FCS Date 05/07/2025
+C,1001-2000,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,24.11,TPSEUE-AA-CA,FCS Date 05/07/2025
+D,2001-5000,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,21.68,TPSEUE-AA-DA,FCS Date 05/07/2025
+E,5001-10000,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,19.52,TPSEUE-AA-EA,FCS Date 05/07/2025
+F,10001-+,Trellix Phishing Sim (EU) 1:1TE,TPSEUE-AA,17.57,TPSEUE-AA-FA,FCS Date 05/07/2025
+EMCLVX-DE,"Email Security for Office 365 (German Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud with AntiVirus/AntiSpam functionality, IVX Enterprise Cloud and Trellix Phishing Simulator
+MANAGEMENT: Both Email Cloud and IVX Enterprise Cloud have own console
+RESTRICTIONS: Minimum New Sale Order Quantity is 250 Users
+NOTE: Trellix-M IAM hosted only. Customers purchasing on a Per-User basis may use the Product for up to twenty (20) submissions per User per month of the Product Term, aggregated across all of Customer’s Users. ""Submissions"" are files or other artefacts submitted to the Product by Customer for processing. Users here refers to the employee count of the organization.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,Call For Quote,EMCVDEE-AAAA,
+B,251-1000,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,127.14,EMCVDEE-AABA,
+C,1001-2000,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,127.14,EMCVDEE-AACA,
+D,2001-5000,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,115.26,EMCVDEE-AADA,
+E,5001-10000,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,115.26,EMCVDEE-AAEA,
+F,10001-+,Email Sec for Office 365 (DE) 1:1TE,EMCVDEE-AA,103.7,EMCVDEE-AAFA,
+,"Data Security Suites (Subscription)
+All new/ initial Data Security Suite opportunities (for Suites containing DLP content) require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance. ",,,,,
+DATA-S-DE,"Trellix Data Security Suite - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.
+",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Security Suite (DE) 1:1TE,DATADEE-AT,303.68,DATADEE-ATAA,
+B,251-1000,Data Security Suite (DE) 1:1TE,DATADEE-AT,260.76,DATADEE-ATBA,
+C,1001-2000,Data Security Suite (DE) 1:1TE,DATADEE-AT,220.71,DATADEE-ATCA,
+D,2001-5000,Data Security Suite (DE) 1:1TE,DATADEE-AT,187.55,DATADEE-ATDA,
+E,5001-10000,Data Security Suite (DE) 1:1TE,DATADEE-AT,156.7,DATADEE-ATEA,
+F,10001-+,Data Security Suite (DE) 1:1TE,DATADEE-AT,120.45,DATADEE-ATFA,
+DATAU-S-DE,"Trellix Data Security Suite Upgrade  - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.
+",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,303.68,DATADEE-DTAA,
+B,251-1000,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,260.76,DATADEE-DTBA,
+C,1001-2000,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,220.71,DATADEE-DTCA,
+D,2001-5000,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,187.55,DATADEE-DTDA,
+E,5001-10000,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,156.7,DATADEE-DTEA,
+F,10001-+,Data Security Suite (DE) 1:1TE UPG,DATADEE-DT,120.45,DATADEE-DTFA,
+TDL-S-DE,"Trellix Data Loss Prevention Suite - Subscription (Germany Data Center)
+LICENSE: 12 Month Subscription, License Per Endpoint (Total number of Laptops, Workstation and Servers). Each Virtual Instance or Workstation is equivalent to 1 Endpoint.
+DELIVERABLE:  Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+Management: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Available as an add on to DLP Appliances or can be used in a virtual appliance environment. Includes DLP Monitor, DLP Discover, DLP Prevent and DLP Endpoint and Device Control.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,138.32,TDLDEE-AA-AA,FCS Date 05/06/2025
+B,5001-10000,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,118.06,TDLDEE-AA-BA,FCS Date 05/06/2025
+C,10001-25000,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,98.62,TDLDEE-AA-CA,FCS Date 05/06/2025
+D,25001-50000,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,79.14,TDLDEE-AA-DA,FCS Date 05/06/2025
+E,50001-100000,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,63.56,TDLDEE-AA-EA,FCS Date 05/06/2025
+F,100001-+,Data Loss Prevention Suite (DE) 1:1TE,TDLDEE-AA,47.98,TDLDEE-AA-FA,FCS Date 05/06/2025
+NDLP-S-DE,"Trellix Data Security Network Suite - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On–prem included to manage appliances and virtual appliances and Discover.  Data Loss Prevention Endpoint IS NOT included.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Also includes Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On–prem for on-premises management. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,147.72,NDLDEE-AT-AA,
+B,5001-10000,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,126.06,NDLDEE-AT-BA,
+C,10001-25000,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,105.29,NDLDEE-AT-CA,
+D,25001-50000,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,84.53,NDLDEE-AT-DA,
+E,50001-100000,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,67.89,NDLDEE-AT-EA,
+F,100001-+,Data Sec Network Suite (DE) 1:1TE,NDLDEE-AT,51.25,NDLDEE-AT-FA,
+NDLPU-S-DE,"Trellix Data Security Network Suite Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On–prem included to manage appliances and virtual appliances and Discover.  Data Loss Prevention Endpoint IS NOT included.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Upgrade from TDL bundle (without  DLP endpoint).  Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Also includes Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On–prem for on-premises management. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,147.72,NDLDEE-DT-AA,
+B,5001-10000,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,126.06,NDLDEE-DT-BA,
+C,10001-25000,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,105.29,NDLDEE-DT-CA,
+D,25001-50000,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,84.53,NDLDEE-DT-DA,
+E,50001-100000,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,67.89,NDLDEE-DT-EA,
+F,100001-+,Data Sec Network Suite UPG (DE) 1:1TE,NDLDEE-DT,51.25,NDLDEE-DT-FA,
+CDA-S-DE,"Trellix Data Security Endpoint Protection Suite - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,171.97,CDADEE-AT-AA,
+B,251-1000,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,148.42,CDADEE-AT-BA,
+C,1001-2000,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,127.02,CDADEE-AT-CA,
+D,2001-5000,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,112.87,CDADEE-AT-DA,
+E,5001-10000,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,97.04,CDADEE-AT-EA,
+F,10001-+,Data Sec Endpt Prot Suite (DE) 1:1TE,CDADEE-AT,75.55,CDADEE-AT-FA,
+CDAU-S-DE,"Trellix Data Security Endpoint Protection Suite Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Upgrade from CDB (Data Encryption Suite) that provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,171.97,CDADEE-DT-AA,
+B,251-1000,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,148.42,CDADEE-DT-BA,
+C,1001-2000,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,127.02,CDADEE-DT-CA,
+D,2001-5000,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,112.87,CDADEE-DT-DA,
+E,5001-10000,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,97.04,CDADEE-DT-EA,
+F,10001-+,Data Sec Endpt Prot Suite UPG (DE) 1:1TE,CDADEE-DT,75.55,CDADEE-DT-FA,
+CDB-S-DE,"Trellix Data Encryption Suite - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs. 
+Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices. 
+Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance. 
+All three solutions are managed from within the same unified ePO console.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises of Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,132.91,CDBDEE-AT-AA,
+B,251-1000,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,114.66,CDBDEE-AT-BA,
+C,1001-2000,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,94.32,CDBDEE-AT-CA,
+D,2001-5000,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,80.16,CDBDEE-AT-DA,
+E,5001-10000,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,64.46,CDBDEE-AT-EA,
+F,10001-+,Data Encryption Suite (DE) 1:1TE,CDBDEE-AT,48.89,CDBDEE-AT-FA,
+CDBU-S-DE,"Trellix Data Encryption Suite - Subscription Upgrade (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+PRODUCT CONTENT: Upgrade from CDE (Complete Data Protection Essentials) to the Trellix Data Encryption Suite.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises of Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated)",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,132.91,CDBDEE-DT-AA,
+B,251-1000,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,114.66,CDBDEE-DT-BA,
+C,1001-2000,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,94.32,CDBDEE-DT-CA,
+D,2001-5000,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,80.16,CDBDEE-DT-DA,
+E,5001-10000,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,64.46,CDBDEE-DT-EA,
+F,10001-+,Data Encryption Suite UPG (DE) 1:1TE,CDBDEE-DT,48.89,CDBDEE-DT-FA,
+,"Data Loss Prevention (DLP) (Subscription)
+All new/ initial DLP opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance.",,,,,
+DLP-S-DE,"Trellix Data Loss Prevention Endpoint Complete - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem
+PRODUCT CONTENT: A comprehensive data loss prevention solution comprised DLP Endpoint & Device Control that can be installed on endpoints across the enterprise.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of Data Loss Prevention Endpoint. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,115.43,DLPDEE-AT-AA,
+B,251-1000,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,86.76,DLPDEE-AT-BA,
+C,1001-2000,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,71.72,DLPDEE-AT-CA,
+D,2001-5000,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,63.1,DLPDEE-AT-DA,
+E,5001-10000,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,53.06,DLPDEE-AT-EA,
+F,10001-+,Data Loss Prvtn Endpt Comp (DE) 1:1TE,DLPDEE-AT,44.44,DLPDEE-AT-FA,
+DLPU-S-DE,"Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+Upgrade from DLP (Data Loss Prevention Endpoint).
+MANAGEMENT: ePO - SaaS and ePO - On-prem
+PRODUCT CONTENT: A comprehensive data loss prevention solution comprised DLP Endpoint & Device Control that can be installed on endpoints across the enterprise.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of Data Loss Prevention Endpoint. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,115.43,DLPDEE-DT-AA,
+B,251-1000,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,86.76,DLPDEE-DT-BA,
+C,1001-2000,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,71.72,DLPDEE-DT-CA,
+D,2001-5000,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,63.1,DLPDEE-DT-DA,
+E,5001-10000,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,53.06,DLPDEE-DT-EA,
+F,10001-+,Data Loss Prvtn Endpt Comp (DE)UPG 1:1TE,DLPDEE-DT,44.44,DLPDEE-DT-FA,
+DLS-DE,"Trellix Data Loss Prevention Extended Data Retention (Add On) (Germany Data Center)
+LICENSE: 12 Month Subscription.  Increases retention duration of DLP incidents stored in the cloud from 100 days to 1 year.
+DELIVERABLE: None, this is a change to the SaaS service, an activation email is sent
+MANAGEMENT: Only required if using MVISION ePO (SaaS) for management.
+PRODUCT CONTENT: Increases duration  of DLP incidents stored in ePO - SaaS from 100 days to 1 year.  Also increases the maximum number of incidents stored from 2 million to 7 million.  Note storage SKU can only be purchased once per customer, multiples are not allowed.  Once purchased, if subscription is not renewed in subsequent years the storage will revert back to 100 day retention (max 2 million incidents) and the oldest incidents will be deleted.
+PRODUCT REQUIRES: ePO - SaaS and DLP.
+PRICED AS:  10% of the price of the applicable base DLP subscription product being sold or renewed. DLS addon is subject to a minimum charge of $20k per year.  Where the annualized DLP subscription value of a deal is less than $200k the DLS addon annual minimum price must be observed",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,DLP Extended Data Rtn AddOn (DE) 1:1TE,DLSDEE-AT,Call For Quote,DLSDEE-AT-AA,
+DEC-S-DE,"Trellix Device Control - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Device Control provides policy management for device and data control and blocking.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Device Control 1:1TE (DE),DECDEE-AT,43.25,DECDEE-AT-AA,
+B,251-1000,Device Control 1:1TE (DE),DECDEE-AT,34.02,DECDEE-AT-BA,
+C,1001-2000,Device Control 1:1TE (DE),DECDEE-AT,28.74,DECDEE-AT-CA,
+D,2001-5000,Device Control 1:1TE (DE),DECDEE-AT,26.11,DECDEE-AT-DA,
+E,5001-10000,Device Control 1:1TE (DE),DECDEE-AT,21.57,DECDEE-AT-EA,
+F,10001-+,Device Control 1:1TE (DE),DECDEE-AT,18.31,DECDEE-AT-FA,
+DDS-S-DE,"Trellix Data Loss Prevention Discover - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment (agent and Discover software installed on a Windows ® Server).
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Discover software.
+PRODUCT CONTENT: DLP Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,61.18,DDSDEE-AT-AA,
+B,5001-10000,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,51.44,DDSDEE-AT-BA,
+C,10001-25000,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,43.08,DDSDEE-AT-CA,
+D,25001-50000,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,34.79,DDSDEE-AT-DA,
+E,50001-100000,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,27.81,DDSDEE-AT-EA,
+F,100001-+,DLP Network Discover (DE) 1:1TE,DDSDEE-AT,20.85,DDSDEE-AT-FA,
+DDSU-S-DE,"Trellix Data Loss Prevention Discover Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-poremises deployment (agent and Discover software installed on a Windows ® Server).
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Discover software.
+PRODUCT CONTENT: Upgrade from DDS.  DLP Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,61.18,DDSDEE-DT-AA,
+B,5001-10000,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,51.44,DDSDEE-DT-BA,
+C,10001-25000,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,43.08,DDSDEE-DT-CA,
+D,25001-50000,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,34.79,DDSDEE-DT-DA,
+E,50001-100000,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,27.81,DDSDEE-DT-EA,
+F,100001-+,DLP Network Discover UPG (DE) 1:1TE,DDSDEE-DT,20.85,DDSDEE-DT-FA,
+DMO-S-DE,"Trellix Data Loss Prevention Network Monitor - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: DLP Monitor Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,61.18,DMODEE-AT-AA,
+B,5001-10000,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,51.44,DMODEE-AT-BA,
+C,10001-25000,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,43.08,DMODEE-AT-CA,
+D,25001-50000,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,34.79,DMODEE-AT-DA,
+E,50001-100000,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,27.81,DMODEE-AT-EA,
+F,100001-+,DLP Network Monitor (DE) 1:1TE,DMODEE-AT,20.85,DMODEE-AT-FA,
+DMOU-S-DE,"Trellix Data Loss Prevention Network Monitor Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: Upgrade from DMO.  DLP Monitor Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,61.18,DMODEE-DT-AA,
+B,5001-10000,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,51.44,DMODEE-DT-BA,
+C,10001-25000,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,43.08,DMODEE-DT-CA,
+D,25001-50000,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,34.79,DMODEE-DT-DA,
+E,50001-100000,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,27.81,DMODEE-DT-EA,
+F,100001-+,DLP Network Monitor UPG (DE) 1:1TE,DMODEE-DT,20.85,DMODEE-DT-FA,
+DPV-S-DE,"Trellix Data Loss Prevention Network Prevent - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: DLP Prevent Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,30.58,DPVDEE-AT-AA,
+B,5001-10000,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,25.74,DPVDEE-AT-BA,
+C,10001-25000,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,21.57,DPVDEE-AT-CA,
+D,25001-50000,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,17.4,DPVDEE-AT-DA,
+E,50001-100000,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,13.88,DPVDEE-AT-EA,
+F,100001-+,DLP Network Prevent (DE) 1:1TE,DPVDEE-AT,10.44,DPVDEE-AT-FA,
+DPVU-S-DE,"Trellix Data Loss Prevention Network Prevent Upgrade - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: Upgrade from DPV.  DLP Prevent Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.s management.  Refe",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,30.58,DPVDEE-DT-AA,
+B,5001-10000,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,25.74,DPVDEE-DT-BA,
+C,10001-25000,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,21.57,DPVDEE-DT-CA,
+D,25001-50000,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,17.4,DPVDEE-DT-DA,
+E,50001-100000,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,13.88,DPVDEE-DT-EA,
+F,100001-+,DLP Network Prevent  UPG (DE) 1:1TE,DPVDEE-DT,10.44,DPVDEE-DT-FA,
+OCR-S-DE,"Trellix Data Loss Prevention OCR Network (Add-on) - Subscription (Germany Data Center)
+LICENSE:  Per Endpoint (Total number of Laptops, Workstation and Servers). 12 Month Subscription. Note: License count should be equal to that of Discover / Prevent / Monitor license.
+DELIVERABLE:  License key download and software download for on-premises deployment.
+PRODUCT CONTENT: To use the OCR scanning Add-on, you must have one of the following products: Trellix Data Securty Network Suite -Subscription (NDLDEE-AA) or its upgrade SKUs  or DLP Discover -Subscription (DDSDEE-AA), DLP Network Monitor -Subscription (DMODEE-AA) and/or DLP Network Prevent -Subscription (DPVDEE-AA). OCR scanning add-on license for Network DLP Discover, DLP Prevent and DLP Monitor. Subscriptions allows customer to inspect embedded graphic files for sensitive content across network resources including file shares, SharePoint, Databases, email and web content.
+NOTE: For supported file formats, refer product documentation.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,7.17,OCRDEE-AT-AA,
+B,5001-10000,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,6.08,OCRDEE-AT-BA,
+C,10001-25000,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,5.11,OCRDEE-AT-CA,
+D,25001-50000,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,4.11,OCRDEE-AT-DA,
+E,50001-100000,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,3.32,OCRDEE-AT-EA,
+F,100001-+,OCR Scanning for DLPn SW (DE) 1:1TE,OCRDEE-AT,2.49,OCRDEE-AT-FA,
+OCRE-S-DE,"Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription (Germany Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers). 12 Month Subscription.
+DELIVERABLE:  License key download and software download for on-premises deployment
+PRODUCT CONTENT: To use the OCR scanning Add-on, you must have one of the following Germany data Center products: Trellix Data Loss Prevention Endpoint Complete -Subscription (DLPDEE-AT), Trellix Data Loss Prevention Suite -Subscription (TDLDEE-AA) or Trellix Data Security Endpoint Protection Suite -Subscription (CDADEE-AT) or its Upgrade SKUs. The OCR Endpoint feature is supported  on DLP Endpoint (WindowsOS only). This allows the customer to inspect embedded graphic files and .pdf documents for senstive information across endpoint data loss vectors, including storage, email, and web content.
+For supported file formats, refer product documentation.
+Note: License count should be equal to that of DLP Endpoint license.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,7.17,OCREDEE-ATAA,FCS Date 05/06/2025
+B,5001-10000,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,6.08,OCREDEE-ATBA,FCS Date 05/06/2025
+C,10001-25000,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,5.11,OCREDEE-ATCA,FCS Date 05/06/2025
+D,25001-50000,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,4.11,OCREDEE-ATDA,FCS Date 05/06/2025
+E,50001-100000,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,3.32,OCREDEE-ATEA,FCS Date 05/06/2025
+F,100001-+,OCR Scanning for DLPe SW (DE) 1:1TE,OCREDEE-AT,2.49,OCREDEE-ATFA,FCS Date 05/06/2025
+OCREN-S-DE,"Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription (Germany Data Center)
+LICENSE:  Per Endpoint (Total number of Laptops, Workstation and Servers) 12 Month Subscription.
+DELIVERABLE: License key download and software download for on-premises deployment
+PRODUCT CONTENT:  This suite includes both OCR Endpoint and OCR Network entitlements.This allows the customer to inspect embedded graphic files and .pdf documents for sensitive content across both endpoint and network data loss vectors - including storage, email, web and database content. For supported file formats, refer product documentation.
+To use the OCR scanning Add-on, you must have one of the following products combination:  Trellix Data Loss Prevention Suite (TDLDEE-AA) or Combination of DLP Endpoint Subscription SKUs with Discover or Network Subscription SKUs.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,13.62,OCRENDEE-AT-AA,FCS Date 05/06/2025
+B,5001-10000,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,11.6,OCRENDEE-AT-BA,FCS Date 05/06/2025
+C,10001-25000,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,9.74,OCRENDEE-AT-CA,FCS Date 05/06/2025
+D,25001-50000,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,7.78,OCRENDEE-AT-DA,FCS Date 05/06/2025
+E,50001-100000,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,6.32,OCRENDEE-AT-EA,FCS Date 05/06/2025
+F,100001-+,OCR Scanning for DLPen SW (DE) 1:1TE,OCRENDEE-AT,4.71,OCRENDEE-AT-FA,FCS Date 05/06/2025
+,Data Encryption (Subscription),,,,,
+TDE-S-DE,"Trellix Drive Encryption - Subscription (German Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs. With this product, customers also receive Trellix Native Drive Encryption, a solution that enables Microsoft BitLocker and Apple FileVault protection to devices. Both solutions are integrated into a unified ePO console.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Drive Encryption (DE) 1:1TE,TDEDEE-AT,103.7,TDEDEE-AT-AA,
+B,251-1000,Drive Encryption (DE) 1:1TE,TDEDEE-AT,89.43,TDEDEE-AT-BA,
+C,1001-2000,Drive Encryption (DE) 1:1TE,TDEDEE-AT,73.6,TDEDEE-AT-CA,
+D,2001-5000,Drive Encryption (DE) 1:1TE,TDEDEE-AT,62.53,TDEDEE-AT-DA,
+E,5001-10000,Drive Encryption (DE) 1:1TE,TDEDEE-AT,50.27,TDEDEE-AT-EA,
+F,10001-+,Drive Encryption (DE) 1:1TE,TDEDEE-AT,38.1,TDEDEE-AT-FA,
+TNE-S-DE,"Trellix Native Drive Encryption - Subscription (German Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance. The solution is managed from within the unified ePO console.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,46.08,TNEDEE-AT-AA,
+B,251-1000,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,39.75,TNEDEE-AT-BA,
+C,1001-2000,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,32.71,TNEDEE-AT-CA,
+D,2001-5000,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,27.81,TNEDEE-AT-DA,
+E,5001-10000,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,22.35,TNEDEE-AT-EA,
+F,10001-+,Native Drive Encrpn (DE) 1:1TE,TNEDEE-AT,16.94,TNEDEE-AT-FA,
+FRP-S-DE,"Trellix File and Removable Media Protection - Subscription (German Data Center)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices. 
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,57.62,FRPDEE-AT-AA,
+B,251-1000,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,49.68,FRPDEE-AT-BA,
+C,1001-2000,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,40.89,FRPDEE-AT-CA,
+D,2001-5000,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,34.75,FRPDEE-AT-DA,
+E,5001-10000,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,27.94,FRPDEE-AT-EA,
+F,10001-+,File and Rem Media Ptxn (DE) 1:1TE,FRPDEE-AT,21.16,FRPDEE-AT-FA,
+,IVX Enterprise Cloud,,,,,
+IVX-DE,"IVX Enterprise Cloud (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: IVX Enterprise Cloud
+REQUIREMENTS: Minimum New Sale Order Quantity is 250 Users
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,74.48,IVXDEE-AA-AA,
+B,251-1000,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,69.34,IVXDEE-AA-BA,
+C,1001-2000,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,64.21,IVXDEE-AA-CA,
+D,2001-5000,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,61.63,IVXDEE-AA-DA,
+E,5001-10000,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,59.08,IVXDEE-AA-EA,
+F,10001-+,IVX Enterprise Cloud (DE) 1:1TE,IVXDEE-AA,56.5,IVXDEE-AA-FA,
+IVX-DE-BP,"IVX Enterprise Cloud -Banded Submission Pack (Germany Data Center)
+LICENSE: Submission Pack
+DELIVERABLE: IVX Enterprise Cloud
+NOTE:  Trellix-M IAM hosted. Equally divided monthly quota of submission enforced over 10000 quantity (use it or lose it)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,10000-10000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,1.85,IVXPDEE-AAAA,
+B,10001-30000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,1.48,IVXPDEE-AABA,
+C,30001-60000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,1.33,IVXPDEE-AACA,
+D,60001-120000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,1.2,IVXPDEE-AADA,
+E,120001-240000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,1.08,IVXPDEE-AAEA,
+F,240001-600000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,0.96,IVXPDEE-AAFA,
+G,600001-1200000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,0.86,IVXPDEE-AAGA,
+H,1200001-2400000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,0.8,IVXPDEE-AAHA,
+I,2400001-6000000,IVX Ent Cloud (Yrl Sub Pk) (DE) 1:1TE,IVXPDEE-AA,0.71,IVXPDEE-AAIA,
+,Device to Cloud Defense (SaaS Only),,,,,
+MVA-DE,"Trellix Advanced (Germany Data Center)
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+DOWNLOADS:  Trellix Agent with optional modules including  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control for Windows & MacOS and Trellix Native Drive Encryption for Windows & MacOS.
+CLOUD SERVICES:  Trellix Insights
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Advanced (DE) 1:1TE,MVADEE-AA,260.5,MVADEE-AA-AA,
+B,251-1000,Trellix Advanced (DE) 1:1TE,MVADEE-AA,229.49,MVADEE-AA-BA,
+C,1001-2000,Trellix Advanced (DE) 1:1TE,MVADEE-AA,196.65,MVADEE-AA-CA,
+D,2001-5000,Trellix Advanced (DE) 1:1TE,MVADEE-AA,169.31,MVADEE-AA-DA,
+E,5001-10000,Trellix Advanced (DE) 1:1TE,MVADEE-AA,150.36,MVADEE-AA-EA,
+F,10001-+,Trellix Advanced (DE) 1:1TE,MVADEE-AA,131.39,MVADEE-AA-FA,
+MVAU-DE,"Trellix Advanced - Upgrade (Germany Data Center)
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+DOWNLOADS:  Trellix Agent with optional modules including  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control for Windows & MacOS and Trellix Native Drive Encryption for Windows & MacOS.
+CLOUD SERVICES:  Trellix Insights
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,260.5,MVADEE-DA-AA,
+B,251-1000,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,229.49,MVADEE-DA-BA,
+C,1001-2000,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,196.65,MVADEE-DA-CA,
+D,2001-5000,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,169.31,MVADEE-DA-DA,
+E,5001-10000,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,150.36,MVADEE-DA-EA,
+F,10001-+,Trellix Advanced (DE) UPGD 1:1TE,MVADEE-DA,131.39,MVADEE-DA-FA,
+MVP-DE,"Trellix Premium (Germany Data Center)
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Premium defense for your endpoints with ability to prevent, detect, and response to threat attacks and data loss incidents.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+3.	Protect accidental and malicious data loss through common channels at the endpoint such as: email, web posting, printing, USB drives, uploading to the cloud and meet industry & government compliance (GDPR,PCI,HIPAA) to protected intellectual property at the same time.
+4.	Endpoint detection, investigation and response (EDR) with continuous endpoint monitoring, 30-day event storage, advanced threat hunting with real-time searches, AI-guided investigation and response, reputation management and integrations with partner products (e.g. SIEM, Threat Intelligence).
+DOWNLOADS:  Trellix Agent with optional modules including Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, DXL Local Broker, Device Control for Windows & MacOS, Trellix Native Drive Encryption for Windows & MacOS, Data Loss Prevention Endpoint for Windows & MacOS, and Trellix EDR for Windows, MacOS, & Linux.
+CLOUD SERVICES:  Trellix Insights & Trellix EDR, Threat Intelligence Exchange - SaaS
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Premium (DE) 1:1TE,MVPDEE-AA,483.71,MVPDEE-AA-AA,
+B,251-1000,Trellix Premium (DE) 1:1TE,MVPDEE-AA,435.36,MVPDEE-AA-BA,
+C,1001-2000,Trellix Premium (DE) 1:1TE,MVPDEE-AA,383.13,MVPDEE-AA-CA,
+D,2001-5000,Trellix Premium (DE) 1:1TE,MVPDEE-AA,333.34,MVPDEE-AA-DA,
+E,5001-10000,Trellix Premium (DE) 1:1TE,MVPDEE-AA,316.67,MVPDEE-AA-EA,
+F,10001-+,Trellix Premium (DE) 1:1TE,MVPDEE-AA,293.07,MVPDEE-AA-FA,
+MVPU-DE,"Trellix Premium - Upgrade (Germany Data Center)
+LICENSE: Per User with up to 5 devices per user
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT:  ePO - SaaS providing cloud-based console for multiple admins with role-based controls for dashboards, policies, deployments, updates, reporting, and more.
+FEATURES:  Premium defense for your endpoints with ability to prevent, detect, and response to threat attacks and data loss incidents.
+1.	Prioritized & predictive threat intelligence with security risk advisor for endpoints & prescriptive policy recommendations (Trellix Insights).
+2.	Integrated next-gen AV preventive controls including static and dynamic machine learning, exploit detection, behavior monitoring, web protection for suspicious sites & downloads, firewall, application containment, device control for ports & USB, Trellix Native Drive Encryption, rollback remediation, and optional management of native security controls for Windows 10.
+3.	Protect accidental and malicious data loss through common channels at the endpoint such as: email, web posting, printing, USB drives, uploading to the cloud and meet industry & government compliance (GDPR,PCI,HIPAA) to protected intellectual property at the same time.
+4.	Endpoint detection, investigation and response (EDR) with continuous endpoint monitoring, 30-day event storage, advanced threat hunting with real-time searches, AI-guided investigation and response, reputation management and integrations with partner products (e.g. SIEM, Threat Intelligence).
+DOWNLOADS:  Trellix Agent with optional modules including Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, DXL Local Broker, Device Control for Windows & MacOS, Trellix Native Drive Encryption for Windows & MacOS, Data Loss Prevention Endpoint for Windows & MacOS, and Trellix EDR for Windows, MacOS, & Linux.
+CLOUD SERVICES:  Trellix Insights & Trellix EDR, Threat Intelligence Exchange - SaaS
+RESTRICTIONS:  Please see product documentation for details as some features may vary depending on the Operating System. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,483.71,MVPDEE-DA-AA,
+B,251-1000,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,435.36,MVPDEE-DA-BA,
+C,1001-2000,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,383.13,MVPDEE-DA-CA,
+D,2001-5000,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,333.34,MVPDEE-DA-DA,
+E,5001-10000,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,316.67,MVPDEE-DA-EA,
+F,10001-+,Trellix Premium (DE) UPGD 1:1TE,MVPDEE-DA,293.07,MVPDEE-DA-FA,
+,Protection and EDR (SaaS & On-Premise),,,,,
+TRXHX-DE,"Trellix Advanced Endpoint Security with Forensics (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Germany data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,250.22,TRXHX2WDEE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,224.37,TRXHX2WDEE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,198.44,TRXHX2WDEE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,172.57,TRXHX2WDEE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,163.92,TRXHX2WDEE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(DE) 2W 1:1TE,TRXHX2WDEE-AA,155.32,TRXHX2WDEE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,275.23,TRXHX1WDEE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,246.77,TRXHX1WDEE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,218.3,TRXHX1WDEE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,189.84,TRXHX1WDEE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,180.34,TRXHX1WDEE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(DE) 1W 1:1TE,TRXHX1WDEE-AA,170.86,TRXHX1WDEE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,287.74,TRXHXOFDEE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,258.01,TRXHXOFDEE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,228.23,TRXHXOFDEE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,198.44,TRXHXOFDEE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,188.52,TRXHXOFDEE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(DE) OF 1:1TE,TRXHXOFDEE-AA,178.59,TRXHXOFDEE-AA-FA,
+TRXHXU-DE,"Trellix Advanced Endpoint Security with Forensics - Upgrade (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Germany data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,250.22,TRXHX2WDEE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,224.37,TRXHX2WDEE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,198.44,TRXHX2WDEE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,172.57,TRXHX2WDEE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,163.92,TRXHX2WDEE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(DE) 2W UPG 1:1 TE,TRXHX2WDEE-DA,155.32,TRXHX2WDEE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,275.23,TRXHX1WDEE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,246.77,TRXHX1WDEE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,218.3,TRXHX1WDEE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,189.84,TRXHX1WDEE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,180.34,TRXHX1WDEE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(DE) 1W UPG 1:1 TE,TRXHX1WDEE-DA,170.86,TRXHX1WDEE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,287.74,TRXHXOFDEE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,258.01,TRXHXOFDEE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,228.23,TRXHXOFDEE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,198.44,TRXHXOFDEE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,188.52,TRXHXOFDEE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(DE) OF UPG 1:1 TE,TRXHXOFDEE-DA,178.59,TRXHXOFDEE-DA-FA,
+TRXE1-DE,"Trellix Endpoint Security Suite (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data center only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,305.25,TRXE1DEE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,273.72,TRXE1DEE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,242.14,TRXE1DEE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,210.51,TRXE1DEE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,199.98,TRXE1DEE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite (DE) 1:1TE,TRXE1DEE-AA,189.48,TRXE1DEE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,335.8,TRXE11WDEE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,301.08,TRXE11WDEE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,266.35,TRXE11WDEE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,231.58,TRXE11WDEE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,219.98,TRXE11WDEE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite 1W(DE) 1:1 TE,TRXE11WDEE-AA,208.43,TRXE11WDEE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,351.04,TRXE1OFDEE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,314.78,TRXE1OFDEE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,278.45,TRXE1OFDEE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,242.11,TRXE1OFDEE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,229.99,TRXE1OFDEE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite OF(DE) 1:1 TE,TRXE1OFDEE-AA,217.91,TRXE1OFDEE-AA-FA,
+TRXE1U-DE,"Trellix Endpoint Security Suite - Upgrade (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data center only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,305.25,TRXE1DEE-DA-AA,
+B,251-1000,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,273.72,TRXE1DEE-DA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,242.14,TRXE1DEE-DA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,210.51,TRXE1DEE-DA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,199.98,TRXE1DEE-DA-EA,
+F,10001-+,Trellix Endpnt Sec Suite UPGD(DE) 1:1TE,TRXE1DEE-DA,189.48,TRXE1DEE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,335.8,TRXE11WDEE-DA-AA,
+B,251-1000,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,301.08,TRXE11WDEE-DA-BA,
+C,1001-2000,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,266.35,TRXE11WDEE-DA-CA,
+D,2001-5000,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,231.58,TRXE11WDEE-DA-DA,
+E,5001-10000,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,219.98,TRXE11WDEE-DA-EA,
+F,10001-+,Tlx Endpnt Sec Suite 1W(DE) UPG 1:1 TE,TRXE11WDEE-DA,208.43,TRXE11WDEE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,351.04,TRXE1OFDEE-DA-AA,
+B,251-1000,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,314.78,TRXE1OFDEE-DA-BA,
+C,1001-2000,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,278.45,TRXE1OFDEE-DA-CA,
+D,2001-5000,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,242.11,TRXE1OFDEE-DA-DA,
+E,5001-10000,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,229.99,TRXE1OFDEE-DA-EA,
+F,10001-+,Tlx Endpnt Sec Suite OF(DE) UPG 1:1 TE,TRXE1OFDEE-DA,217.91,TRXE1OFDEE-DA-FA,
+SS4-DE,"Trellix Secure Schools Endpoint Security Suite  (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Trellix Endpoint Security (HX) Power edition for detection, response, advanced investigation and forensics for Windows, macOS and Linux Platforms , Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Management of Native Encryption, File and Removable Media Protection, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data centers only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.
+NOTE: This SKU is only available for K-12 primary and public educational institutions. Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools EP Sec Suite (DE) 1:1TE,SS4DEE-AA,117.18,SS4DEE-AA-AA,
+SS4U-DE,"Trellix Secure Schools Endpoint Security Suite - UPGRADE  (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Trellix Endpoint Security (HX) Power edition for detection, response, advanced investigation and forensics for Windows, macOS and Linux Platforms , Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Management of Native Encryption, File and Removable Media Protection, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data center only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.
+NOTE: This SKU is only available for K-12 primary and public educational institutions. Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Secure Schools EP SecSuite(DE) UPGD1:1TE,SS4DEE-DA,117.18,SS4DEE-DA-AA,
+MV6-DE,"Trellix Protect Plus EDR for Endpoint (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS and Trellix EDR tenancies located in Germany data center. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,224.4,MV6DEE-AA-AA,
+B,251-1000,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,201.16,MV6DEE-AA-BA,
+C,1001-2000,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,177.96,MV6DEE-AA-CA,
+D,2001-5000,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,154.73,MV6DEE-AA-DA,
+E,5001-10000,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,146.98,MV6DEE-AA-EA,
+F,10001-+,Trellix EDR&EPP (DE) 1:1TE,MV6DEE-AA,139.29,MV6DEE-AA-FA,
+MV6U-DE,"Trellix Protect Plus EDR for Endpoint - Upgrade (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS and Trellix EDR tenancies located in Germany data center. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,224.4,MV6DEE-DA-AA,
+B,251-1000,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,201.16,MV6DEE-DA-BA,
+C,1001-2000,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,177.96,MV6DEE-DA-CA,
+D,2001-5000,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,154.73,MV6DEE-DA-DA,
+E,5001-10000,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,146.98,MV6DEE-DA-EA,
+F,10001-+,Trellix EDR&EPP UPGD (DE) 1:1TE,MV6DEE-DA,139.29,MV6DEE-DA-FA,
+EDREX-DE,"Trellix EDR Data Extension Add-on (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 90 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-DE, MV6-DE, or TRXE1-DE subscriptions. The number of licenses of EDREX-DE must be equal to the number of licenses of MV4-DE, MV6-DE, or TRXE1-DE.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Extension Add-on (DE) 1:1 TE,EDREXDEE-AA,103.53,EDREXDEE-AA-AA,
+EDREX180-DE,"Trellix EDR Data Extension Add-on 180 Days (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-DE, MV6-DE, or TRXE1-DE subscriptions. The number of licenses of EDREX180-DE must be equal to the number of licenses of MV4-DE, MV6-DE, or TRXE1-DE.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on (DE) 180 Day 1:1 TE,EDREX180DEE-AA,310.58,EDREX180DEE-AA-AA,FCS Date 05/31/2025
+EDREX180-U-DE,"Trellix EDR Data Extension Add-on 180 Days - Upgarde (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-DE, MV6-DE, or TRXE1-DE subscriptions. The number of licenses of EDREX180-DE must be equal to the number of licenses of MV4-DE, MV6-DE, or TRXE1-DE.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on (DE)180DayUPGD 1:1TE,EDREX180DEE-DA,316.6,EDREX180DEE-DA-AA,FCS Date 05/31/2025
+EDR-WISE-DE,"Trellix Wise for EDR Add-on (Germany Data Center)
+LICENSE: Per User.
+MANAGEMENT:  Trellix EDR
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Trellix Wise for EDR uses generative AI capabilities to improve operational efficiency of SOC analyst for Endpoint Detections and Response product. It allows genAI powered capabilities like Multi-lingual threat hunting, Dossier and Interactive modes, as well as threat knowledge graph kind of capabilities.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: To be sold to customers with Trellix EDR subscriptions. The number of licenses of Trellix Wise for EDR must be equal to the number of licenses of base Trellix EDR SKU. The allotted usage of genAI powered capabilities is tied to the number of licenses in the Trellix EDR subscriptions.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,43.5,EDRWDEE-AAAA,
+B,251-1000,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,38.93,EDRWDEE-AABA,
+C,1001-2000,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,34.61,EDRWDEE-AACA,
+D,2001-5000,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,30,EDRWDEE-AADA,
+E,5001-10000,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,28.66,EDRWDEE-AAEA,
+F,10001-+,EDR Wise Add-on (DE) 1:1TE,EDRWDEE-AA,27.02,EDRWDEE-AAFA,
+,Protection and EDR (SaaS & On-Premise) - With MDR,,,,,
+TRXE1M1-DE,"Trellix Endpoint Security Suite (Germany Data Center) + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data center only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,402.37,TRXE1M12WDEE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,309.78,TRXE1M12WDEE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,239.53,TRXE1M12WDEE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,176.4,TRXE1M12WDEE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,151,TRXE1M12WDEE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-AA,135.62,TRXE1M12WDEE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,442.62,TRXE1M11WDEE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,340.76,TRXE1M11WDEE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,263.5,TRXE1M11WDEE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,194.05,TRXE1M11WDEE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,166.09,TRXE1M11WDEE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-AA,149.18,TRXE1M11WDEE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,462.72,TRXE1M1OFDEE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,356.25,TRXE1M1OFDEE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,275.47,TRXE1M1OFDEE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,202.85,TRXE1M1OFDEE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,173.65,TRXE1M1OFDEE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-AA,155.97,TRXE1M1OFDEE-AA-FA,FCS Date 04/30/2025
+TRXE1M1U-DE,"Trellix Endpoint Security Suite - Upgrade (Germany Data Center) + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Germany data center only. Cloud HX (if purchased separately) tenancy will be in Germany data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,402.37,TRXE1M12WDEE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,309.78,TRXE1M12WDEE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,239.53,TRXE1M12WDEE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,176.4,TRXE1M12WDEE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,151,TRXE1M12WDEE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG 2W(DE) MDR1 1:1TE,TRXE1M12WDEE-DA,135.62,TRXE1M12WDEE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,442.62,TRXE1M11WDEE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,340.76,TRXE1M11WDEE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,263.5,TRXE1M11WDEE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,194.05,TRXE1M11WDEE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,166.09,TRXE1M11WDEE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG 1W(DE) MDR1 1:1TE,TRXE1M11WDEE-DA,149.18,TRXE1M11WDEE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,462.72,TRXE1M1OFDEE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,356.25,TRXE1M1OFDEE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,275.47,TRXE1M1OFDEE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,202.85,TRXE1M1OFDEE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,173.65,TRXE1M1OFDEE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG OF(DE) MDR1 1:1TE,TRXE1M1OFDEE-DA,155.97,TRXE1M1OFDEE-DA-FA,FCS Date 04/30/2025
+,EDR (SaaS & On-Premise),,,,,
+MV4-DE,"Trellix EDR (Germany Data Center)
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: Trellix EDR automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,126.69,MV4DEE-AA-AA,
+B,251-1000,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,118.68,MV4DEE-AA-BA,
+C,1001-2000,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,109.18,MV4DEE-AA-CA,
+D,2001-5000,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,102.17,MV4DEE-AA-DA,
+E,5001-10000,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,96.86,MV4DEE-AA-EA,
+F,10001-+,Trellix EDR (DE) 1:1 TE 30 Day Storage,MV4DEE-AA,89.61,MV4DEE-AA-FA,
+MV4U-DE,"Trellix EDR - Upgrade (Germany Data Center)
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: For current MAR customers it is an upgrade to Trellix EDR which automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,126.69,MV4DEE-DA-AA,
+B,251-1000,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,118.68,MV4DEE-DA-BA,
+C,1001-2000,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,109.18,MV4DEE-DA-CA,
+D,2001-5000,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,102.17,MV4DEE-DA-DA,
+E,5001-10000,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,96.86,MV4DEE-DA-EA,
+F,10001-+,Trellix EDR UPGD(DE) 1:1TE 30Day Storage,MV4DEE-DA,89.61,MV4DEE-DA-FA,
+,Helix (SaaS),,,,,
+XDR-DE,"Helix Connect (Germany Data Center)
+LICENSE: License per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: Helix Connect
+CONTENT: Helix Connect, a cloud-hosted security operations and XDR platform with alert correlation, threat hunting (search), and SOAR capabilities. Data (event) ingestion of up to 100MB per user per month. Purchase of the Open XDR add-on is required for data ingestion exceeding the per user entitlement. Data is stored and searchable for 90 days. Purchase of XDR Retention add-on required to extend retention beyond 90 days.
+RESTRICTIONS: Minimum 100 users.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Helix Connect (DE) 1:1TE,XDRDEE-AA,130.54,XDRDEE-AA-AA,
+B,251-1000,Helix Connect (DE) 1:1TE,XDRDEE-AA,117.5,XDRDEE-AA-BA,
+C,1001-2000,Helix Connect (DE) 1:1TE,XDRDEE-AA,105.77,XDRDEE-AA-CA,
+D,2001-5000,Helix Connect (DE) 1:1TE,XDRDEE-AA,95.17,XDRDEE-AA-DA,
+E,5001-10000,Helix Connect (DE) 1:1TE,XDRDEE-AA,85.68,XDRDEE-AA-EA,
+F,10001-+,Helix Connect (DE) 1:1TE,XDRDEE-AA,77.07,XDRDEE-AA-FA,
+OXDR-50GB-DE-ADDON,"Helix Connect Open XDR for External Data Add-on - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con OpenXDR ExtDta50GB AO(DE)1:1TE,OX1DEE-AA,45529.25,OX1DEE-AA-AA,
+OXDR-100GB-DE-ADDON,"Helix Connect Open XDR for External Data Add-on - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpenXDR ExtDta100GB AO(DE)1:1TE,OX2DEE-AA,91058.48,OX2DEE-AA-AA,
+OXDR-250GB-DE-ADDON,"Helix Connect Open XDR for External Data Add-on - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOp XDR ExtDta250GB AO(DE)1:1TE,OX3DEE-AA,227646.16,OX3DEE-AA-AA,
+OXDR-1TB-DE-ADDON,"Helix Connect Open XDR for External Data Add-on - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR ExtData 1TB AO(DE)1:1TE,OX4DEE-AA,910584.65,OX4DEE-AA-AA,
+OXDR-50GB-10M-DE-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-50GB-DE-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-50GB-DE-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect  XDR Ret 50GB AO(DE) 1:1TE,XM1DEE-AA,154266.31,XM1DEE-AA-AA,
+OXDR-100GB-10M-DE-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-100GB-DE-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-100GB-DE-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 100GB AO (DE)1:1TE,XM2DEE-AA,308532.63,XM2DEE-AA-AA,
+OXDR-250GB-10M-DE-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-250GB-DE-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-250GB-DE-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 250GB AO(DE) 1:1TE,XM3DEE-AA,771331.56,XM3DEE-AA-AA,
+OXDR-1TB-10M-DE-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-1TB-DE-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-1TB-DE-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 1TB AddOn(DE)1:1TE,XM4DEE-AA,3085870.22,XM4DEE-AA-AA,
+OXDRCS-2YR-50GB-ADDON-DE,"Helix Connect 2 Year Cold Storage - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 50GB (DE)1:1TE,XCS21DEE-AA,16577.75,XCS21DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-100GB-ADDON-DE,"Helix Connect 2 Year Cold Storage - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offeringoffering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 100GB (DE)1:1TE,XCS22DEE-AA,33155.49,XCS22DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-250GB-ADDON-DE,"Helix Connect 2 Year Cold Storage - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 250GB (DE)1:1TE,XCS23DEE-AA,82888.74,XCS23DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-1TB-ADDON-DE,"Helix Connect 2 Year Cold Storage - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 1TB (DE)1:1TE,XCS24DEE-AA,331554.97,XCS24DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-50GB-ADDON-DE,"Helix Connect 3 Year Cold Storage - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 50GB (DE)1:1TE,XCS31DEE-AA,33155.49,XCS31DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-100GB-ADDON-DE,"Helix Connect 3 Year Cold Storage - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 100GB (DE)1:1TE,XCS32DEE-AA,66310.99,XCS32DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-250GB-ADDON-DE,"Helix Connect 3 Year Cold Storage - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 250GB (DE)1:1TE,XCS33DEE-AA,165777.48,XCS33DEE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-1TB-ADDON-DE,"Helix Connect 3 Year Cold Storage - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 1TB (DE)1:1TE,XCS34DEE-AA,663109.94,XCS34DEE-AA-AA,FCS Date 03/31/2025
+XDRQS8-50GB-ADDON-DE,"Helix Connect 8 Day Index Search Retention - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 50GB (DE)1:1TE,XQS81DEE-AA,20722.19,XQS81DEE-AA-AA,FCS Date 03/31/2025
+XDRQS8-100GB-ADDON-DE,"Helix Connect 8 Day Index Search Retention - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 100GB (DE)1:1TE,XQS82DEE-AA,41444.37,XQS82DEE-AA-AA,FCS Date 03/31/2025
+XDRQS8-250GB-ADDON-DE,"Helix Connect 8 Day Index Search Retention - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 250GB (DE)1:1TE,XQS83DEE-AA,103610.94,XQS83DEE-AA-AA,FCS Date 03/31/2025
+XDRQS8-1TB-ADDON-DE,"Helix Connect 8 Day Index Search Retention - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 1TB (DE)1:1TE,XQS84DEE-AA,414443.71,XQS84DEE-AA-AA,FCS Date 03/31/2025
+XDRQS16-50GB-ADDON-DE,"Helix Connect 16 Day Index Search Retention - 50 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 50GB (DE)1:1TE,XQS161DEE-AA,41444.37,XQS161DEE-AA-AA,FCS Date 03/31/2025
+XDRQS16-100GB-ADDON-DE,"Helix Connect 16 Day Index Search Retention - 100 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 100GB (DE)1:1TE,XQS162DEE-AA,82888.74,XQS162DEE-AA-AA,FCS Date 03/31/2025
+XDRQS16-250GB-ADDON-DE,"Helix Connect 16 Day Index Search Retention - 250 GB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 250GB (DE)1:1TE,XQS163DEE-AA,207221.86,XQS163DEE-AA-AA,FCS Date 03/31/2025
+XDRQS16-1TB-ADDON-DE,"Helix Connect 16 Day Index Search Retention - 1 TB (Germany Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 1TB (DE)1:1TE,XQS164DEE-AA,828887.44,XQS164DEE-AA-AA,FCS Date 03/31/2025
+,Protection (SaaS & On-Premise),,,,,
+MV1-DE,"Trellix Protect Standard (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux,  Device Control, Command Line Scanner.
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard (DE)1:1TE,MV1DEE-AA,78.28,MV1DEE-AA-AA,
+B,251-1000,Trellix Standard (DE)1:1TE,MV1DEE-AA,70.17,MV1DEE-AA-BA,
+C,1001-2000,Trellix Standard (DE)1:1TE,MV1DEE-AA,62.08,MV1DEE-AA-CA,
+D,2001-5000,Trellix Standard (DE)1:1TE,MV1DEE-AA,53.97,MV1DEE-AA-DA,
+E,5001-10000,Trellix Standard (DE)1:1TE,MV1DEE-AA,51.32,MV1DEE-AA-EA,
+F,10001-+,Trellix Standard (DE)1:1TE,MV1DEE-AA,48.55,MV1DEE-AA-FA,
+MV1U-DE,"Trellix Protect Standard - Upgrade (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux,  Device Control, Command Line Scanner.
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,78.28,MV1DEE-DA-AA,
+B,251-1000,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,70.17,MV1DEE-DA-BA,
+C,1001-2000,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,62.08,MV1DEE-DA-CA,
+D,2001-5000,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,53.97,MV1DEE-DA-DA,
+E,5001-10000,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,51.32,MV1DEE-DA-EA,
+F,10001-+,Trellix Standard UPGD (DE) 1:1TE,MV1DEE-DA,48.55,MV1DEE-DA-FA,
+MV2-DE,"Trellix Protect Plus (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus (DE) 1:1TE,MV2DEE-AA,155.06,MV2DEE-AA-AA,
+B,251-1000,Trellix Plus (DE) 1:1TE,MV2DEE-AA,139.01,MV2DEE-AA-BA,
+C,1001-2000,Trellix Plus (DE) 1:1TE,MV2DEE-AA,122.95,MV2DEE-AA-CA,
+D,2001-5000,Trellix Plus (DE) 1:1TE,MV2DEE-AA,106.97,MV2DEE-AA-DA,
+E,5001-10000,Trellix Plus (DE) 1:1TE,MV2DEE-AA,101.58,MV2DEE-AA-EA,
+F,10001-+,Trellix Plus (DE) 1:1TE,MV2DEE-AA,96.25,MV2DEE-AA-FA,
+MV2U-DE,"Trellix Protect Plus - Upgrade (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,155.06,MV2DEE-DA-AA,
+B,251-1000,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,139.01,MV2DEE-DA-BA,
+C,1001-2000,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,122.95,MV2DEE-DA-CA,
+D,2001-5000,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,106.97,MV2DEE-DA-DA,
+E,5001-10000,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,101.58,MV2DEE-DA-EA,
+F,10001-+,Trellix Plus UPGD (DE) 1:1TE,MV2DEE-DA,96.25,MV2DEE-DA-FA,
+MV3-DE,"Trellix Mobile Security Advanced (Germany Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email. iOS or Android application downloaded from Apple Store or Google Play, respectively.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS.
+FEATURES INCLUDED:  Mobile Threat Detection, mobile threat event analysis, reporting and forensics. Includes remediation options, integration with major MDMs, integration with Enterprise Security Manager (ESM). Includes support for Chromebooks.​
+RESTRICTIONS:  Limited to maximum of 5 devices per User.  English only at this time.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,221.06,MV3DEE-AA-AA,
+B,251-1000,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,198.21,MV3DEE-AA-BA,
+C,1001-2000,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,175.35,MV3DEE-AA-CA,
+D,2001-5000,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,152.45,MV3DEE-AA-DA,
+E,5001-10000,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,144.84,MV3DEE-AA-EA,
+F,10001-+,Trellix Mobile Advanced (DE) 1:1TE,MV3DEE-AA,137.25,MV3DEE-AA-FA,
+VPC-DE,"Trellix Mobile Security Advanced - Public Cloud VPC (European Data Center)
+LICENSE: Per Tenant
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS.
+FEATURES INCLUDED:  As an add-on to MV3 Subscription - for Cloud Hosting Instance in Public Cloud if the customer opts to host Mobile tenant in Cloud OR (2) As a standalone subscription for additional instances of Mobile Cloud hosting in Public Cloud 
+RESTRICTIONS: Requires active subscription of base MV3 licenses on devices that requires hosting on Public Cloud VPC in EU region. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-1,Trellix Mobile PbCld VPC 50k (DE) 1:1TE,VPC1DEE-AT,259027.32,VPC1DEE-ATAA,
+A,1-1,Trellix Mobile PbCld VPC Unltd (DE)1:1TE,VPC2DEE-AT,310832.79,VPC2DEE-ATAA,
+SS1-DE,"Trellix Secure Schools Protect Standard - (Germany Data Center)
+LICENSE:  Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux and Device Control
+RESTRICTIONS: Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. NOTE:  This SKU is only available for K-12 and higher educational institutions.  Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Sec School Prot Standard (DE) 1:1 TE,SS1DEE-AA,17.53,SS1DEE-AA-AA,
+SS2-DE,"Trellix Secure Schools Protect Plus (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control, Application Control for PCs. Management of Native Encryption, and File and Removable Media Protection.
+RESTRICTIONS:  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. NOTE:  This SKU is only available for K-12 and higher educational institutions.  Reference the Quoting Product Requirements for faculty to student usage.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Sec School Prot Plus (DE) 1:1 TE,SS2DEE-AA,51.98,SS2DEE-AA-AA,
+SS3-DE,"Trellix Secure Schools Protect Standard with EDR for Endpoint (Germany Data Center)
+LICENSE:  Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux and Device Control
+RESTRICTIONS: Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. NOTE:  This SKU is only available for K-12 primary and public educational institutions.  Reference the Quoting Product Requirements for faculty to student usage. This entitlement includes ePO - SaaS and Trellix EDR tenancies.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Sec School Prot Stnd with EDR(DE)1:1 TE,SS3DEE-AA,68.13,SS3DEE-AA-AA,
+,File & Application Control,,,,,
+ACD-S-DE,"Trellix Application Control for PCs - Subscription (Germany Data Center)
+LICENSE: Per Node.
+DELIVERABLE: Software as a Service (SaaS) with activation email
+Management: ePO-SaaS
+PRODUCT CONTENT: Protect endpoints from unauthorized applications and system changes with Trellix Application and Change Control. Create and easily manage allow/deny lists and protect against memory exploits with this cloud-managed application that still works when disconnected from the cloud. Gain deeper visibility into application changes with periodic inventory reports, helping identify gaps in protected endpoints. Not available for embedded systems like ATMs, POS, medical, or other fixed-function devices and servers.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,115.76,ACDDEE-AA-AA,FCS Date 05/29/2025
+B,251-1000,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,109.53,ACDDEE-AA-BA,FCS Date 05/29/2025
+C,1001-2000,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,91.23,ACDDEE-AA-CA,FCS Date 05/29/2025
+D,2001-5000,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,68.46,ACDDEE-AA-DA,FCS Date 05/29/2025
+E,5001-10000,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,51.32,ACDDEE-AA-EA,FCS Date 05/29/2025
+F,10001-+,Trellix App Control PCs (DE) 1:1TE,ACDDEE-AA,38.53,ACDDEE-AA-FA,FCS Date 05/29/2025
+,Endpoint Cloud Deploy Options,,,,,
+HXCL-DE-T,"HX Cloud Hosting Endpoint - Large (Germany Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG (DE) 1:1TE(T),HXCLDEGXE-AA,43680.94,HXCLDEGXE-AA-AA,
+HXCM-DE-T,"HX Cloud Hosting Endpoint - Medium (Germany Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD (DE) 1:1TE(T),HXCMDEGXE-AA,27284.29,HXCMDEGXE-AA-AA,
+HXGCL-DE-T,"HX Cloud Hosting Endpoint - GCP - Large (Germany Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP LG (DE) 1:1TE(T),HXGCLDEGXE-AA,43680.94,HXGCLDEGXE-AA-AA,FCS Date 05/02/2025
+HXGCM-DE-T,"HX Cloud Hosting Endpoint - GCP - Medium (Germany Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP MD (DE) 1:1TE(T),HXGCMDEGXE-AA,27284.29,HXGCMDEGXE-AA-AA,FCS Date 05/02/2025
+,Cloud Workload Security EDR,,,,,
+CWSDR-DE,"Trellix Cloud Workload Security Detect and Respond (Germany Data Center)
+LICENSE: Per OS Instance.
+DELIVERABLE: Download.
+MANAGEMENT:  ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT:  Cloud Workload Security for hybrid cloud:  (VMware, OpenStack, AWS and Azure), Endpoint Security for Servers, Endpoint Security Firewall Module, Endpoint Security for Linux, Threat Intelligence Exchange (TIE), MOVE Enterprise (includes:  MOVE AV Agentless and Multi-Platform), Network Visibility and Micro-Segmentation based firewall, Application Control for Servers, Change Control for Servers.  Trellix EDR Guided investigations utilizing 30-days of historical endpoint data.  EDR is a SaaS service with email and agent download.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-25,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1872,CWRDEE-AA-AA,
+B,26-50,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1591.21,CWRDEE-AA-BA,
+C,51-100,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1422.7,CWRDEE-AA-CA,
+D,101-250,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1272.95,CWRDEE-AA-DA,
+E,251-500,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1216.78,CWRDEE-AA-EA,
+F,501-1000,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1141.9,CWRDEE-AA-FA,
+G,1001-2000,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,1067.05,CWRDEE-AA-GA,
+H,2001-5000,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,973.44,CWRDEE-AA-HA,
+I,5001-10000,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,917.26,CWRDEE-AA-IA,
+J,10001-+,Cloud Workload Sec EDR (DE) 1:1TE,CWRDEE-AA,861.11,CWRDEE-AA-JA,
+CWSDRU-DE,"Trellix Cloud Workload Security Detect and Respond - Upgrade (Germany Data Center)
+LICENSE: Per OS Instance.
+DELIVERABLE: Download.
+MANAGEMENT:  ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT:  Cloud Workload Security for hybrid cloud:  (VMware, OpenStack, AWS and Azure), Endpoint Security for Servers, Endpoint Security Firewall Module, Endpoint Security for Linux, Threat Intelligence Exchange (TIE), MOVE Enterprise (includes:  MOVE AV Agentless and Multi-Platform), Network Visibility and Micro-Segmentation based firewall, Application Control for Servers, Change Control for Servers.  Trellix EDR Guided investigations utilizing 30-days of historical endpoint data.  EDR is a SaaS service with email and agent download.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-25,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1872,CWRDEE-DA-AA,
+B,26-50,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1591.21,CWRDEE-DA-BA,
+C,51-100,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1422.7,CWRDEE-DA-CA,
+D,101-250,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1272.95,CWRDEE-DA-DA,
+E,251-500,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1216.78,CWRDEE-DA-EA,
+F,501-1000,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1141.9,CWRDEE-DA-FA,
+G,1001-2000,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,1067.05,CWRDEE-DA-GA,
+H,2001-5000,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,973.44,CWRDEE-DA-HA,
+I,5001-10000,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,917.26,CWRDEE-DA-IA,
+J,10001-+,Cloud Work Sec EDR UPGD (DE) 1:1TE,CWRDEE-DA,861.11,CWRDEE-DA-JA,

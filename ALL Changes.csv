@@ -1,0 +1,423 @@
+Channel SKU,Part. No.,Layer3 STUB Description_NEW,Layer3 STUB Description_OLD,Layer5_NEW,Layer5_OLD,Min_NEW,Min_OLD,Description_NEW,Description_OLD,MSRP List Price_NEW,MSRP List Price_OLD,FCS Date_NEW,FCS Date_OLD,EOS Date_NEW,EOS Date_OLD
+VEM250032CXE-AT-AA,VEM250032CXE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-02-27 00:00:00,--,--
+VEM250048CXE-AT-AA,VEM250048CXE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-02-27 00:00:00,--,--
+VEM250064CXE-AT-AA,VEM250064CXE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-02-27 00:00:00,--,--
+MDR1ECE-AAAA,MDR1ECE-AA,--,--,--,--,--,--,--,--,174.95,Call For Quote,--,--,--,--
+MDR1ECE-AABA,MDR1ECE-AA,--,--,--,--,--,--,--,--,130.75,Call For Quote,--,--,--,--
+MDR1ECE-AACA,MDR1ECE-AA,--,--,--,--,--,--,--,--,100.55,Call For Quote,--,--,--,--
+MDR1ECE-AADA,MDR1ECE-AA,--,--,--,--,--,--,--,--,75,Call For Quote,--,--,--,--
+MDR1ECE-AAEA,MDR1ECE-AA,--,--,--,--,--,--,--,--,64.55,Call For Quote,--,--,--,--
+MDR1ECE-AAFA,MDR1ECE-AA,--,--,--,--,--,--,--,--,56.77,Call For Quote,--,--,--,--
+EDREX180ECE-AA-AA,EDREX180ECE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+EDREX180ECE-DA-AA,EDREX180ECE-DA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+TRXE1M12WECE-AA-AA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,349.88,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-AA-BA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,269.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-AA-CA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,208.29,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-AA-DA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,153.39,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-AA-EA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,131.29,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-AA-FA,TRXE1M12WECE-AA,--,--,--,--,--,--,--,--,117.94,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-AA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,384.88,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-BA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,296.3,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-CA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,229.12,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-DA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,168.74,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-EA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,144.43,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-AA-FA,TRXE1M11WECE-AA,--,--,--,--,--,--,--,--,129.72,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-AA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,402.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-BA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,309.78,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-CA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,239.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-DA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,176.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-EA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,151,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-AA-FA,TRXE1M1OFECE-AA,--,--,--,--,--,--,--,--,135.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-AA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,349.88,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-BA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,269.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-CA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,208.29,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-DA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,153.39,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-EA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,131.29,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WECE-DA-FA,TRXE1M12WECE-DA,--,--,--,--,--,--,--,--,117.94,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-AA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,384.88,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-BA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,296.3,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-CA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,229.12,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-DA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,168.74,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-EA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,144.43,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WECE-DA-FA,TRXE1M11WECE-DA,--,--,--,--,--,--,--,--,129.72,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-AA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,402.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-BA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,309.78,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-CA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,239.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-DA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,176.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-EA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,151,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFECE-DA-FA,TRXE1M1OFECE-DA,--,--,--,--,--,--,--,--,135.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+VPC1ECE-ATAA,VPC1ECE-AT,--,--,--,--,--,--,--,--,--,--, ,2024-04-26 00:00:00,--,--
+VPC2ECE-ATAA,VPC2ECE-AT,--,--,--,--,--,--,--,--,--,--, ,2024-04-26 00:00:00,--,--
+OPVAECE-ATAA,OPVAECE-AT,--,--,--,--,--,--,--,--,--,--, ,2024-04-26 00:00:00,--,--
+ENSYWM-AA-AA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-BA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-CA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-DA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-EA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-FA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-GA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-HA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-IA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AA-JA,ENSYWM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-AA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-BA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-CA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-DA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-EA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-FA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-GA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-HA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-IA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ENSYWM-AB-JA,ENSYWM-AB,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+HXGCLGXE-AA-AA,HXGCLGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCMGXE-AA-AA,HXGCMGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+DLP8800ANBDA,DLP8800ANBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLP8800ASDA,DLP8800ASD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLPCSABNBDA,DLPCSABNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLPCSABSDA,DLPCSABSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+EDREX180DEE-AA-AA,EDREX180DEE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+EDREX180DEE-DA-AA,EDREX180DEE-DA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+TRXE1M12WDEE-AA-AA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,402.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-AA-BA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,309.78,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-AA-CA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,239.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-AA-DA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,176.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-AA-EA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,151,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-AA-FA,TRXE1M12WDEE-AA,--,--,--,--,--,--,--,--,135.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-AA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,442.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-BA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,340.76,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-CA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,263.5,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-DA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,194.05,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-EA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,166.09,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-AA-FA,TRXE1M11WDEE-AA,--,--,--,--,--,--,--,--,149.18,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-AA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,462.72,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-BA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,356.25,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-CA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,275.47,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-DA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,202.85,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-EA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,173.65,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-AA-FA,TRXE1M1OFDEE-AA,--,--,--,--,--,--,--,--,155.97,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-AA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,402.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-BA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,309.78,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-CA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,239.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-DA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,176.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-EA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,151,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WDEE-DA-FA,TRXE1M12WDEE-DA,--,--,--,--,--,--,--,--,135.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-AA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,442.62,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-BA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,340.76,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-CA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,263.5,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-DA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,194.05,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-EA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,166.09,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WDEE-DA-FA,TRXE1M11WDEE-DA,--,--,--,--,--,--,--,--,149.18,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-AA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,462.72,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-BA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,356.25,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-CA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,275.47,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-DA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,202.85,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-EA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,173.65,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFDEE-DA-FA,TRXE1M1OFDEE-DA,--,--,--,--,--,--,--,--,155.97,Call For Quote,2025-04-30 00:00:00, ,--,--
+VPC1DEE-ATAA,VPC1DEE-AT,--,--,--,--,--,--,--,--,--,--, ,2024-04-26 00:00:00,--,--
+VPC2DEE-ATAA,VPC2DEE-AT,--,--,--,--,--,--,--,--,--,--, ,2024-04-26 00:00:00,--,--
+HXGCLDEGXE-AA-AA,HXGCLDEGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCMDEGXE-AA-AA,HXGCMDEGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+EDREX180AUE-AA-AA,EDREX180AUE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+EDREX180AUE-DA-AA,EDREX180AUE-DA,--,--,--,--,--,--,--,--,--,--,2025-05-31 00:00:00,2025-02-28 00:00:00,--,--
+TRXE1M12WAUE-AA-AA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,437.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-AA-BA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,336.7,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-AA-CA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,260.38,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-AA-DA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,191.74,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-AA-EA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,164.11,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-AA-FA,TRXE1M12WAUE-AA,--,--,--,--,--,--,--,--,147.42,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-AA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,481.1,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-BA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,370.38,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-CA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,286.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-DA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,210.92,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-EA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,180.54,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-AA-FA,TRXE1M11WAUE-AA,--,--,--,--,--,--,--,--,162.16,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-AA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,502.97,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-BA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,387.22,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-CA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,299.42,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-DA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,220.5,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-EA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,188.75,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-AA-FA,TRXE1M1OFAUE-AA,--,--,--,--,--,--,--,--,169.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-AA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,437.37,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-BA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,336.7,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-CA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,260.38,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-DA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,191.74,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-EA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,164.11,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M12WAUE-DA-FA,TRXE1M12WAUE-DA,--,--,--,--,--,--,--,--,147.42,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-AA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,481.1,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-BA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,370.38,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-CA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,286.4,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-DA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,210.92,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-EA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,180.54,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M11WAUE-DA-FA,TRXE1M11WAUE-DA,--,--,--,--,--,--,--,--,162.16,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-AA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,502.97,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-BA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,387.22,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-CA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,299.42,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-DA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,220.5,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-EA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,188.75,Call For Quote,2025-04-30 00:00:00, ,--,--
+TRXE1M1OFAUE-DA-FA,TRXE1M1OFAUE-DA,--,--,--,--,--,--,--,--,169.53,Call For Quote,2025-04-30 00:00:00, ,--,--
+HXGCLAUGXE-AA-AA,HXGCLAUGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCMAUGXE-AA-AA,HXGCMAUGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCLJPGXE-AA-AA,HXGCLJPGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCMJPGXE-AA-AA,HXGCMJPGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCLSGGXE-AA-AA,HXGCLSGGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+HXGCMSGGXE-AA-AA,HXGCMSGGXE-AA,--,--,--,--,--,--,--,--,--,--,2025-05-02 00:00:00,2025-03-15 00:00:00,--,--
+NYVMAPLNGNBDA,NYVMAPLNGNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+RBIPSNS9600NBDA,RBIPSNS9600NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+RBIPSNS9500NBDA,RBIPSNS9500NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+RBIPSNS7600NBDA,RBIPSNS7600NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+RBIPSNS3600NBDA,RBIPSNS3600NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+NDRT12WECE-AA-AA,NDRT12WECE-AA,--,--,--,--,--,--,--,--,263161.45,194934.41,--,--,--,--
+NDRT12WECE-AA-BA,NDRT12WECE-AA,--,--,--,--,--,--,--,--,239237.69,177213.1,--,--,--,--
+NDRT12WECE-AA-CA,NDRT12WECE-AA,--,--,--,--,--,--,--,--,215313.92,159491.79,--,--,--,--
+NDRT12WECE-AA-DA,NDRT12WECE-AA,--,--,--,--,--,--,--,--,193782.53,142986.68,--,--,--,--
+NDRT12WECE-AA-EA,NDRT12WECE-AA,--,--,--,--,101,100,--,--,174404.26,129188.34,--,--,--,--
+NDRT11WECE-AA-AA,NDRT11WECE-AA,--,--,--,--,--,--,--,--,302635.67,224174.57,--,--,--,--
+NDRT11WECE-AA-BA,NDRT11WECE-AA,--,--,--,--,--,--,--,--,275123.35,203795.07,--,--,--,--
+NDRT11WECE-AA-CA,NDRT11WECE-AA,--,--,--,--,--,--,--,--,247611,183415.56,--,--,--,--
+NDRT11WECE-AA-DA,NDRT11WECE-AA,--,--,--,--,--,--,--,--,222849.91,165074.01,--,--,--,--
+NDRT11WECE-AA-EA,NDRT11WECE-AA,--,--,--,--,101,100,--,--,200564.91,148566.6,--,--,--,--
+NDRT1OFECE-AA-AA,NDRT1OFECE-AA,--,--,--,--,--,--,--,--,315793.74,233921.29,--,--,--,--
+NDRT1OFECE-AA-BA,NDRT1OFECE-AA,--,--,--,--,--,--,--,--,287085.22,212655.72,--,--,--,--
+NDRT1OFECE-AA-CA,NDRT1OFECE-AA,--,--,--,--,--,--,--,--,258376.7,191390.15,--,--,--,--
+NDRT1OFECE-AA-DA,NDRT1OFECE-AA,--,--,--,--,--,--,--,--,232539.04,172251.13,--,--,--,--
+NDRT1OFECE-AA-EA,NDRT1OFECE-AA,--,--,--,--,101,100,--,--,209285.13,155026.01,--,--,--,--
+NDRT22WECE-AA-AA,NDRT22WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 2W 1:1TE(T),NDR Complete Ed 2W 1:1TE(T),321641.78,263161.45,--,--,--,--
+NDRT22WECE-AA-BA,NDRT22WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 2W 1:1TE(T),NDR Complete Ed 2W 1:1TE(T),292401.62,239237.69,--,--,--,--
+NDRT22WECE-AA-CA,NDRT22WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 2W 1:1TE(T),NDR Complete Ed 2W 1:1TE(T),263161.45,215313.92,--,--,--,--
+NDRT22WECE-AA-DA,NDRT22WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 2W 1:1TE(T),NDR Complete Ed 2W 1:1TE(T),236845.32,193782.53,--,--,--,--
+NDRT22WECE-AA-EA,NDRT22WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,101,100,NDR Enterprise Ed 2W 1:1TE(T),NDR Complete Ed 2W 1:1TE(T),213160.79,174404.26,--,--,--,--
+NDRT21WECE-AA-AA,NDRT21WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 1W 1:1TE(T),NDR Complete Ed 1W 1:1TE(T),369888.04,302635.67,--,--,--,--
+NDRT21WECE-AA-BA,NDRT21WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 1W 1:1TE(T),NDR Complete Ed 1W 1:1TE(T),336261.87,275123.35,--,--,--,--
+NDRT21WECE-AA-CA,NDRT21WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 1W 1:1TE(T),NDR Complete Ed 1W 1:1TE(T),302635.67,247611,--,--,--,--
+NDRT21WECE-AA-DA,NDRT21WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed 1W 1:1TE(T),NDR Complete Ed 1W 1:1TE(T),272372.1,222849.91,--,--,--,--
+NDRT21WECE-AA-EA,NDRT21WECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,101,100,NDR Enterprise Ed 1W 1:1TE(T),NDR Complete Ed 1W 1:1TE(T),245134.91,200564.91,--,--,--,--
+NDRT2OFECE-AA-AA,NDRT2OFECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed OF 1:1TE(T),NDR Complete Ed OF 1:1TE(T),385970.14,315793.74,--,--,--,--
+NDRT2OFECE-AA-BA,NDRT2OFECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed OF 1:1TE(T),NDR Complete Ed OF 1:1TE(T),350881.94,287085.22,--,--,--,--
+NDRT2OFECE-AA-CA,NDRT2OFECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed OF 1:1TE(T),NDR Complete Ed OF 1:1TE(T),315793.74,258376.7,--,--,--,--
+NDRT2OFECE-AA-DA,NDRT2OFECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,--,--,NDR Enterprise Ed OF 1:1TE(T),NDR Complete Ed OF 1:1TE(T),284214.37,232539.04,--,--,--,--
+NDRT2OFECE-AA-EA,NDRT2OFECE-AA,Network Detection and Response Enterprise Edition,Network Detection and Response Complete Edition,--,--,101,100,NDR Enterprise Ed OF 1:1TE(T),NDR Complete Ed OF 1:1TE(T),255792.93,209285.13,--,--,--,--
+NDRS-8600-TA,NDRS-8600-T,--,--,--,--,--,--,--,--,398419.08,475156.45,--,--,--,--
+IVX-5600-TA,IVX-5600-T,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX56002WECE-AT-AA,IVX56002WECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX56001WECE-AT-AA,IVX56001WECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX5600OFECE-AT-AA,IVX5600OFECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX-12600-TA,IVX-12600-T,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX126002ECE-AT-AA,IVX126002ECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX126001ECE-AT-AA,IVX126001ECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX12600OECE-AT-AA,IVX12600OECE-AT,--,--,--,--,--,--,--,--,--,--,2025-04-14 00:00:00,2025-03-17 00:00:00,--,--
+IVX3322WECE-AB-AA,IVX3322WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX3321WECE-AB-AA,IVX3321WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX332OFECE-AB-AA,IVX332OFECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX3482WECE-AB-AA,IVX3482WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX3481WECE-AB-AA,IVX3481WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX348OFECE-AB-AA,IVX348OFECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX3642WECE-AB-AA,IVX3642WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX3641WECE-AB-AA,IVX3641WECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+IVX364OFECE-AB-AA,IVX364OFECE-AB,--,--,--,--,--,--,--,--,--,--,2025-04-30 00:00:00,2025-03-25 00:00:00,--,--
+ENMELM6100NBDA,ENMELM6100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ENMELM61005SDA,ENMELM61005SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6100NBDA,ETM6100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6100SDA,ETM6100SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX10NBDA,ETMX10NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX10SDA,ETMX10SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6100NBDA,ELM6100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6100SDA,ELM6100SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3600NBDA,ERC3600NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3600SDA,ERC3600SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC4800NBDA,ERC4800NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC4800SDA,ERC4800SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE4800NBDA,ACE4800NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE4800SDA,ACE4800SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE3600NBDA,ACE3600NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE3600SDA,ACE3600SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3600NBDA,APM3600NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3600SDA,APM3600SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+RBDAS120NBDA,RBDAS120NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+RBDAS250NBDA,RBDAS250NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+GSSYFM-AA-AA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-BA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-CA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-DA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-EA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-FA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-GA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-HA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-IA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+GSSYFM-AA-JA,GSSYFM-AA,--,--,--,--,--,--,--,--,--,--,--,--,2026-12-31 00:00:00, 
+ESPSGE-AB-AA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-BA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-CA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-DA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-EA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-FA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+ESPSGE-AB-GA,ESPSGE-AB,Trellix ENS Storage Protection - Subscription (Singapore Data Center),Trellix ENS Storage Protection - Subscription (Singapore Data Center)a,--,--,--,--,--,--,--,--,--,--,--,--
+DLP7700ANBDA,DLP7700ANBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLP7700ASDA,DLP7700ASD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLP6600ANBDA,DLP6600ANBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLP6600ASDA,DLP6600ASD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLPCSANBDA,DLPCSANBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+DLPCSASDA,DLPCSASD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+IPSNS9300NBDA,IPSNS9300NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS9300FONBDA,IPSNS9300FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS9200NBDA,IPSNS9200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS9200FONBDA,IPSNS9200FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS9100NBDA,IPSNS9100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS9100FONBDA,IPSNS9100FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+RBIPSNS7500NBDA,RBIPSNS7500NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+IPSNS7350NBDA,IPSNS7350NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS7350FONBDA,IPSNS7350FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS7250NBDA,IPSNS7250NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS7250FONBDA,IPSNS7250FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS7150NBDA,IPSNS7150NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS7150FONBDA,IPSNS7150FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS5200NBDA,IPSNS5200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS5200FONBDA,IPSNS5200FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS5100NBDA,IPSNS5100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS5100FONBDA,IPSNS5100FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS3200BNBDA,IPSNS3200BNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+IPSNS3200NBDA,IPSNS3200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS3200FONBDA,IPSNS3200FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS3100NBDA,IPSNS3100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IPSNS3100FONBDA,IPSNS3100FONBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD6100NBDA,ATD6100NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+ATD6100SDA,ATD6100SD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+ATD6100GLNBDA,ATD6100GLNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD6100GLSDA,ATD6100GLSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD3200NBDA,ATD3200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD3200SDA,ATD3200SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD6200NBDA,ATD6200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD6200SDA,ATD6200SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD3100NBDA,ATD3100NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+ATD3100SDA,ATD3100SD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+ATD3100GLNBDA,ATD3100GLNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ATD3100GLSDA,ATD3100GLSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX3100NBDA,IVX3100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX3100SDA,IVX3100SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX3200NBDA,IVX3200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX3200SDA,IVX3200SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX6100NBDA,IVX6100NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX6100SDA,IVX6100SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX6200NBDA,IVX6200NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+IVX6200SDA,IVX6200SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ENMELM6075NBDA,ENMELM6075NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ENMELM6075SDA,ENMELM6075SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6050ELMNBDA,ETM6050ELMNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6050ELMSDA,ETM6050ELMSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ENMELM5775NBDA,ENMELM5775NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ENMELM5775SDA,ENMELM5775SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5700ELMNBDA,ETM5700ELMNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5700ELMSDA,ETM5700ELMSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6075NBDA,ETM6075NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6075SDA,ETM6075SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX9NNBDA,ETMX9NNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX9NSDA,ETMX9NSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6050NBDA,ETM6050NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM6050SDA,ETM6050SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5775NBDA,ETM5775NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5775SDA,ETM5775SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5700NBDA,ETM5700NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETM5700SDA,ETM5700SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX7NNBDA,ETMX7NNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX7NSDA,ETMX7NSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX7NBDA,ETMX7NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX7SDA,ETMX7SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX9NBDA,ETMX9NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX9SDA,ETMX9SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX11NNBDA,ETMX11NNBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX11NSDA,ETMX11NSD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX11NBDA,ETMX11NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ETMX11SDA,ETMX11SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELMSSD6NBDA,ELMSSD6NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELMSSD6SDA,ELMSSD6SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6075NBDA,ELM6075NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6075SDA,ELM6075SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6050NBDA,ELM6050NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM6050SDA,ELM6050SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM5775NBDA,ELM5775NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM5775SDA,ELM5775SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM5700NBDA,ELM5700NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELM5700SDA,ELM5700SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELMSSD5NBDA,ELMSSD5NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELMSSD5SDA,ELMSSD5SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELSSSD6NBDA,ELSSSD6NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELSSSD6SDA,ELSSSD6SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS6075NBDA,ELS6075NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS6075SDA,ELS6075SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS6050NBDA,ELS6050NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS6050SDA,ELS6050SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS5775NBDA,ELS5775NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS5775SDA,ELS5775SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS5700NBDA,ELS5700NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELS5700SDA,ELS5700SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELSSSD5NBDA,ELSSSD5NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ELSSSD5SDA,ELSSSD5SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERCSSD6NBDA,ERCSSD6NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERCSSD6SDA,ERCSSD6SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3575NBDA,ERC3575NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3575SDA,ERC3575SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC4700NBDA,ERC4700NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC4700SDA,ERC4700SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3500NBDA,ERC3500NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC3500SDA,ERC3500SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC2675NBDA,ERC2675NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC2675SDA,ERC2675SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC2650NBDA,ERC2650NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC2650SDA,ERC2650SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC1275NBDA,ERC1275NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ERC1270NBDA,ERC1270NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACESSD6NBDA,ACESSD6NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACESSD6SDA,ACESSD6SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE4700NBDA,ACE4700NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE4700SDA,ACE4700SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE2675NBDA,ACE2675NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE2675SDA,ACE2675SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE2650NBDA,ACE2650NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+ACE2650SDA,ACE2650SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3575NBDA,APM3575NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3575SDA,APM3575SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3500NBDA,APM3500NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM3500SDA,APM3500SD,--,--,1yr Thrive Essential & Same Day 24x7 Hardware Support (CRU Only),1yr Thrive Essential & Onsite 4 Hour Same Day 24x7 Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM1275NBDA,APM1275NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+APM1270NBDA,APM1270NBD,--,--,1yr Thrive Essential & Next Business Day Ship Hardware Support,1yr Thrive Essential & Onsite Next Business Day Hardware Support,--,--,--,--,--,--,--,--,--,--
+WBG5500FNBDA,WBG5500FNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500FSDA,WBG5500FSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000FNBDA,WBG5000FNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000FSDA,WBG5000FSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500FRPXNBDA,WBG5500FRPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500FRPXSDA,WBG5500FRPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000FRPXNBDA,WBG5000FRPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000FRPXSDA,WBG5000FRPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+SSELSAECE-AA-AA,SSELSAECE-AA,--,--,--,--,--,--,--,--,--,--,2025-04-03 00:00:00,2025-02-17 00:00:00,--,--
+SDSECE-AA-AA,SDSECE-AA,--,--,--,--,--,--,--,--,--,--, ,2024-10-31 00:00:00,--,--
+SDGECE-AA-AA,SDGECE-AA,--,--,--,--,--,--,--,--,--,--, ,2024-10-31 00:00:00,--,--
+SSELSADEE-AA-AA,SSELSADEE-AA,--,--,--,--,--,--,--,--,--,--,2025-04-03 00:00:00,2025-02-17 00:00:00,--,--
+SEBECE-AA-AA,SEBECE-AA,--,--,--,--,--,--,--,--,--,--,2025-04-03 00:00:00,2025-04-01 00:00:00,--,--
+SEBDEE-AA-AA,SEBDEE-AA,--,--,--,--,--,--,--,--,--,--,2025-04-03 00:00:00,2025-04-01 00:00:00,--,--
+WBG5500E2NBDA,WBG5500E2NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500E2SDA,WBG5500E2SD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000E2NBDA,WBG5000E2NBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000E2SDA,WBG5000E2SD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500ENBDA,WBG4500ENBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500ESDA,WBG4500ESD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500ENBDA,WBG5500ENBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500ESDA,WBG5500ESD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500DNBDA,WBG5500DNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500DSDA,WBG5500DSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000ENBDA,WBG5000ENBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000ESDA,WBG5000ESD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000DNBDA,WBG5000DNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000DSDA,WBG5000DSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500DNBDA,WBG4500DNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500DSDA,WBG4500DSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500ERPXNBDA,WBG5500ERPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500ERPXSDA,WBG5500ERPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000ERPXNBDA,WBG5000ERPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000ERPXSDA,WBG5000ERPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500ERPXNBDA,WBG4500ERPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500ERPXSDA,WBG4500ERPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500DRPXNBDA,WBG5500DRPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5500DRPXSDA,WBG5500DRPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000DRPXNBDA,WBG5000DRPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG5000DRPXSDA,WBG5000DRPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500DRPXNBDA,WBG4500DRPXNBD,--,--,1yr Next Business Day Ship Hardware Support,1yr Onsite Next Business Day Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--
+WBG4500DRPXSDA,WBG4500DRPXSD,--,--,1yr Same Day 24x7 Hardware Support (CRU Only),1yr Onsite 4 Hour Same Day 24x7 Hardware Support (see Quote&Order Policies for specifics),--,--,--,--,--,--,--,--,--,--

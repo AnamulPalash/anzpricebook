@@ -1,0 +1,533 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Secure Web Gateway
+,Security Service Edge,,,,MVW-DE,Skyhigh SWG (Germany Data Center)
+UCEB-DE,Skyhigh SSE Essential (Germany Data Center),,,,MVW-U-DE,Skyhigh SWG - Upgrade (Germany Data Center)
+UCEB-U1-DE,Skyhigh SSE - Shadow IT Upgrade (Germany Data Center),,,,MVW-ADV-DE,Skyhigh SWG Advanced (Germany Data Center)
+UCEB-U2-DE,Skyhigh SSE - Web Hybrid Upgrade (Germany Data Center),,,,,Zero Trust Network Access
+UCEB-U3-DE,Skyhigh SSE - Web Gateway Upgrade (Germany Data Center),,,,MPA-DE,Skyhigh Private Access (Germany Data Center)
+UCEA-DE,Skyhigh SSE Advanced (Germany Data Center),,,,,Skyhigh Private Access Promotion
+UCEA-U-DE,Skyhigh SSE Advanced - Upgrade (Germany Data Center),,,,MPA-PROMO DE,Skyhigh Private Access Promo MPA  (Germany Data Center)
+UCEA-U1-DE,Skyhigh CASB SaaS Unlimited - Skyhigh SSE Advanced Upgrade (Germany Data Center),,,,,Cloud Native Application Protection Platform
+UCEC-DE,Skyhigh SSE Complete (Germany Data Center),,,,C42-DE,Skyhigh CNAPP - CSPM Account Pooled (Germany Data Center)
+SSEFW-DE,Skyhigh SSE Cloud Firewall (Germany Data Center),,,,C61-DE,Skyhigh CNAPP - CSPM Resource Pooled (Germany Data Center)
+SSEFWB-DE,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall (Germany Data Center),,,,,Add-Ons
+SSEFWB-U-DE,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall  (Germany Data Center) Upgrade,,,,SSE-LSA-DE,Skyhigh Log Stream AddOn (Germany Data Center)
+,CASB: Shadow IT,,,,LFPDLP-DE,Skyhigh Large File Processing Add-On (Germany Data Center)
+C02-DE,Skyhigh CASB for Shadow IT (Germany Data Center),,,,ADVDLP-DE,Skyhigh Advanced DLP Add On (Germany Data Center)
+,CASB: SaaS,,,,ADVDLP-PROMO-DE,Skyhigh Advanced DLP Promo C64 (Germany Data Center)
+C63-DE,Skyhigh CASB for SaaS Unlimited (Germany Data Center),,,,UCEMEPO-DE,Trellix ePO-SaaS for SSE - AddOn (Germany Data Center)
+C41-DE,Skyhigh CASB for SaaS Pooled (Germany Data Center),,,,UCEFI-DE,Skyhigh Remote Browser Isolation (RBI) Advanced - AddOn (Germany Data Center)
+C63-U-DE,Skyhigh CASB SaaS Pooled - Skyhigh CASB SaaS Unlimited Upgrade (Germany Data Center),,,,RP-RBI-DE,Skyhigh Cloud App Isolation - Unmanaged AddOn (Germany Data Center)
+,CASB: Office 365,,,,OCRUCE-S-DE,Skyhigh Secure Edge OCR - AddOn (Germany Data Center)
+C09-DE,Skyhigh CASB for Office 365 Mail (Germany Data Center),,,,C55-DE,Skyhigh CASB SaaS Malware Add On (Germany Data Center)
+C10-DE,Skyhigh CASB for Office 365 SharePoint and OneDrive (Germany Data Center),,,,C43-DE,Skyhigh CNAPP - DLP and Malware Pooled (Germany Data Center)
+C12-DE,Skyhigh CASB for Microsoft Office O365 Mail / SharePoint and OneDrive (Germany Data Center),,,,C30-DE,Skyhigh CASB Sanctioned Data Retention AddOn (Germany Data Center)
+C13-DE,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive (Germany Data Center),,,,UCEDR-DE,Skyhigh SSE Data Retention - AddOn (Germany Data Center)
+C50-DE,Skyhigh CASB for Office 365 Teams (Germany Data Center),,,,SSE-SWGDT-SILVER-DE,Skyhigh SSE Additional Bandwidth - Add-On Silver for SWG services (Germany Data Center)
+C51-DE,Skyhigh CASB for Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center),,,,SSE-SWGDT-GOLD-DE,Skyhigh SSE Additional Bandwidth - Add-On Gold for SWG services (Germany Data Center)
+C52-DE,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center),,,,SSE-SWGDT-GOLD-UPG-DE,Skyhigh SSE Additional Bandwidth - Addon Silver to Gold Upgrade (Germany Data Center)
+,RP-RBI (Managed),,,,SSE-DEIP-DE,Skyhigh SSE Dedicated Egress IP - Addon (Germany Data Center)
+RP-RBI-MANAGED-DE,Skyhigh Cloud App Isolation (Germany Data Center),,,,C04-DE,Skyhigh CASB for Salesforce Sales Cloud - Encryption (Germany Data Center)
+,,,,,C06-DE,Skyhigh CASB for Salesforce Service Cloud - Encryption (Germany Data Center)
+,,,,,C08-DE,Skyhigh CASB for ServiceNow - Encryption (Germany Data Center)
+,,,,,C65-DE,Skyhigh SaaS Unlimited (Inline) - Addon (Germany Data Center)
+"Skyhigh DE Data Center
+Skyhigh Security SKUs are limited to Skyhigh Security Authorized Distributors Only.",,,,,,
+,Security Service Edge,,,,,
+UCEB-DE,"Skyhigh SSE Essential (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  CASB Shadow, SWG Cloud Service as integrated services and Skyhigh SWG Software, Remote Browser Isolation for risky sites, Cloud DLP, Gateway Anti-Malware. In addition it includes access to Client Proxy and Content Security Reporter via ePO (On-Prem) and Hybrid configuration.
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U3-DE, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,137.76,UCBDEE-AA-AA,
+B,251-1000,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,123.02,UCBDEE-AA-BA,
+C,1001-2000,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,111.82,UCBDEE-AA-CA,
+D,2001-5000,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,104.52,UCBDEE-AA-DA,
+E,5001-10000,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,98.6,UCBDEE-AA-EA,
+F,10001-+,Skyhigh SSE Essentials (DE) 1:1BZ,UCBDEE-AA,95.71,UCBDEE-AA-FA,
+UCEB-U1-DE,"Skyhigh SSE - Shadow IT Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  Shadow customers (Skyhigh CASB for Shadow IT) should use this SKU to upgrade to SSE Essentials
+REQUIREMENTS: This Upgrade SKU/pricing can only be used for existing Shadow IT customers for the remainder of an existing active Subscription Term.  MUST be co-termed to their existing Subscription Term/Grant being upgraded mid-term.  Refer to Standard SKU/pricing for customers buying SSE Essentials instead of renewing an expiring subscription. Please refer to the Product Requirements for additional information",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,71.65,UB1DEE-DA-AA,
+B,251-1000,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,63.07,UB1DEE-DA-BA,
+C,1001-2000,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,56.75,UB1DEE-DA-CA,
+D,2001-5000,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,52.8,UB1DEE-DA-DA,
+E,5001-10000,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,49.63,UB1DEE-DA-EA,
+F,10001-+,Skyhigh SSE - Shadow IT UPG (DE) 1:1BZ,UB1DEE-DA,48.13,UB1DEE-DA-FA,
+UCEB-U2-DE,"Skyhigh SSE - Web Hybrid Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  Web Hybrid customers (Web Protection Suite) should use this SKU to upgrade from WPS to SSE Essentials
+REQUIREMENTS: This Upgrade SKU/pricing can only be used for existing WPS customers for the remainder of an existing active Subscription Term.  MUST be co-termed to their existing Subscription Term/Grant being upgraded mid-term.  Refer to Standard SKU/pricing for customers buying SSE Essentials instead of renewing an expiring subscription. Please refer to the Product Requirements for additional information",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,39.61,UB2DEE-DA-AA,
+B,251-1000,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,34.87,UB2DEE-DA-BA,
+C,1001-2000,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,31.38,UB2DEE-DA-CA,
+D,2001-5000,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,29.17,UB2DEE-DA-DA,
+E,5001-10000,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,27.44,UB2DEE-DA-EA,
+F,10001-+,Skyhigh SSE - Web Hybrid UPG (DE) 1:1BZ,UB2DEE-DA,26.61,UB2DEE-DA-FA,
+UCEB-U3-DE,"Skyhigh SSE - Web Gateway Upgrade (Germany Data Center)
+LICENSE: Per User. 
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  Skyhigh SWG Software customers should use this SKU to upgrade from WSG  to SSE Essentials
+REQUIREMENTS: This Upgrade SKU/pricing can only be used for existing WSG customers for the remainder of an existing active Subscription Term.  MUST be co-termed to their existing Subscription Term/Grant being upgraded mid-term.  Refer to Standard SKU/pricing for customers buying SSE Essentials instead of renewing an expiring subscription. Please refer to the Product Requirements for additional information",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,127.71,UB3DEE-DA-AA,
+B,251-1000,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,112.36,UB3DEE-DA-BA,
+C,1001-2000,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,101.12,UB3DEE-DA-CA,
+D,2001-5000,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,94.06,UB3DEE-DA-DA,
+E,5001-10000,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,88.41,UB3DEE-DA-EA,
+F,10001-+,Skyhigh SSE - Web Gateway UPG (DE) 1:1BZ,UB3DEE-DA,85.75,UB3DEE-DA-FA,
+UCEA-DE,"Skyhigh SSE Advanced (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: SWG Cloud Service, Remote Browser Isolation for risky sites, Cloud DLP, CASB Shadow and unlimited CASB SaaS applications as integrated services. Skyhigh SWG Software, Gateway Anti-Malware.In addition it includes access to Client Proxy, Content Security Reporter via ePO (On-prem) and Hybrid configuration.
+This SKU will also provide customers with access to the MVISION Marketplace PAID apps.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.
+PREREQUISITES for the Marketplace apps: Customer needs to have PL1 (Trellix API) SKU, Apps usage counts against the daily limit set by PL1 SKU.
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U3-DE, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,268.56,UCADEE-AA-AA,
+B,251-1000,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,236.35,UCADEE-AA-BA,
+C,1001-2000,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,212.71,UCADEE-AA-CA,
+D,2001-5000,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,197.82,UCADEE-AA-DA,
+E,5001-10000,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,185.96,UCADEE-AA-EA,
+F,10001-+,Skyhigh SSE Advanced (DE) 1:1BZ,UCADEE-AA,180.35,UCADEE-AA-FA,
+UCEA-U-DE,"Skyhigh SSE Advanced - Upgrade (Germany Data Center)
+LICENSE: Per User. 
+Deliverable: Activation via email.
+PRODUCT CONTENT:  This is the SKU that should be used for customers that already have SSE Essentials. They should purchase this SKU to upgrade from SSE Essentials to SSE Advanced.
+REQUIREMENTS: This Upgrade SKU/pricing can only be used for existing SSE Essentials customers for the remainder of an existing active Subscription Term.  MUST be co-termed to their existing Subscription Term/Grant being upgraded mid-term.  Refer to Standard SKU/pricing for customers buying SSEA instead of renewing an expiring subscription. Please refer to the Product Requirements for additional information",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,123.57,UCADEE-DA-AA,
+B,251-1000,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,108.79,UCADEE-DA-BA,
+C,1001-2000,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,98.2,UCADEE-DA-CA,
+D,2001-5000,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,91.59,UCADEE-DA-DA,
+E,5001-10000,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,86.48,UCADEE-DA-EA,
+F,10001-+,Skyhigh SSE Advanced UPG (DE) 1:1BZ,UCADEE-DA,84.3,UCADEE-DA-FA,
+UCEA-U1-DE,"Skyhigh CASB SaaS Unlimited - Skyhigh SSE Advanced Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.​
+PRODUCT CONTENT:  CASB customers who own Skyhigh CASB for SaaS unlimited can use this SKU to upgrade to SSE-Advanced.
+REQUIREMENTS: This Upgrade SKU/pricing can only be used for existing Skyhigh CASB for SaaS unlimited  customers for the remainder of an existing active Subscription Term.  MUST be co-termed to their existing Subscription Term/Grant being upgraded mid-term.  Refer to Standard SKU/pricing for customers buying SSEA instead of renewing an expiring subscription. Please refer to the Product Requirements for additional information",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,144.5,UA1DEE-DA-AA,
+B,251-1000,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,112.3,UA1DEE-DA-BA,
+C,1001-2000,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,88.64,UA1DEE-DA-CA,
+D,2001-5000,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,73.75,UA1DEE-DA-DA,
+E,5001-10000,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,61.89,UA1DEE-DA-EA,
+F,10001-+,Skyhigh SaaS Unld – SSE A UPG (DE) 1:1BZ,UA1DEE-DA,56.3,UA1DEE-DA-FA,
+UCEC-DE,"Skyhigh SSE Complete (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: This Product is a bundle of SSE Advanced, Skyhigh Private Access and Skyhigh Cloud Firewall. Please see each of the respective individual products for product content. As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.
+RESTRICTION: User counts for all included components need to be the same. If required to purchase different user quantities for SSEA or Skyhigh Private Access or Skyhigh Cloud Firewall purchases need to be done based on the individual SKUs. SSE Complete is only available for the NA and EU regional datacenters.
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U-DE3, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-+,Skyhigh SSE Complete (DE) 1:1BZ,UCCDEE-AA,383.12,UCCDEE-AA-AA,
+SSEFW-DE,"Skyhigh SSE Cloud Firewall (Germany Data Center)
+LICENSE: Per User. DELIVERABLE: Activation via email.
+PRODUCT CONTENT: This product provides control over Web and non-Web traffic to expand threat protection beyond Web. This SKU can be sold independently. It is also included as part of the UCEC bundle.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Cloud Firewall (DE) 1:1BZ,SCFDEE-AA,126.74,SCFDEE-AA-AA,
+SSEFWB-DE,"Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall (Germany Data Center)
+LICENSE: Per User. DELIVERABLE: Activation via email.
+PRODUCT CONTENT: This product is a bundle of Skyhigh SSE Essential and Skyhigh SSE Cloud Firewall. Please see each of the respective individual products for product content.
+RESTRICTION: User counts for all included components need to be the same. If required to purchase different user quantities, purchases need to be done based on the individual SKUs. This bundle is only available for the NA and EU regional datacenters.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SSE Essential Plus (DE) 1:1BZ,SEFDEE-AA,207.24,SEFDEE-AA-AA,
+SSEFWB-U-DE,"Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall  (Germany Data Center) Upgrade
+LICENSE: Per User. DELIVERABLE: Activation via email.
+PRODUCT CONTENT: This product is a bundle of Skyhigh SSE Essential and Skyhigh SSE Cloud Firewall. Please see each of the respective individual products for product content.
+RESTRICTION: User counts for all included components need to be the same. If required to purchase different user quantities, purchases need to be done based on the individual SKUs. This bundle is only available for the NA and EU regional datacenters.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SSE Essential Plus UPG (DE)1:1BZ,SEFDEE-DA,207.24,SEFDEE-DA-AA,
+,CASB: Shadow IT,,,,,
+C02-DE,"Skyhigh CASB for Shadow IT (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security and governance programs. It provides visibility, risk assessment, threat analytics, automated and customizable reports, and access control policy enforcement via existing firewalls & proxies.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh ShadowIT (DE) 1:1 BZ,C02DEE-AA,35.97,C02DEE-AA-AA,
+,CASB: SaaS,,,,,
+C63-DE,"Skyhigh CASB for SaaS Unlimited (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product portfolio designed to support security, compliance and governance programs. Customers can use purchased User licenses across any of the following product categories in Cloud Security: Salesforce, ServiceNow, Workday, Office 365, Collaboration Apps, and Custom Apps. Purchase of one User license gives the customer access to any of the Sanctioned cloud apps in this list (i.e. You purchase 15 User licenses and use 15 User licenses for Salesforce, 15 User licenses for Workday, 15 User licenses for Office 365 Mail and 15 User Licenses for Office 365 SharePoint/OneDrive). Standard Offerings only.
+This SKU will also provide customers with access to the MVISION Marketplace PAID apps. ​As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.
+PREREQUISITES for the Marketplace apps: Customer needs to have PL1 (Trellix API) SKU, Apps usage counts against the daily limit set by PL1 SKU.
+A ""User"" is defined as a unique individual person within a company, organization, or other entity, where: (1) the entity has acquired a valid license(s) to use the product, and (2) the entity has authorized the particular individual person to use the product.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SaaS Unlimited (DE) 1:1 BZ,C63DEE-AA,149.95,C63DEE-AA-AA,
+C41-DE,"Skyhigh CASB for SaaS Pooled (Germany Data Center)
+LICENSE: Per User, per product.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product portfolio designed to support security, compliance and governance programs. Customers can use purchased User licenses across any of the following product categories in Cloud Security: Salesforce, ServiceNow, Workday, Office 365, Collaboration Apps, and Custom Apps. One User license is required for each individual Cloud Security product in this list (i.e. You purchase 15 User licenses and use 2 User licenses for Salesforce, 3 User licenses for Workday, 5 User licenses for Office 365 Mail and 5 User Licenses for Office 365 SharePoint/OneDrive). Standard Offerings only.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.
+A ""User"" is defined as a unique individual person within a company, organization, or other entity, where: (1) the entity has acquired a valid license(s) to use the product, and (2) the entity has authorized the particular individual person to use the product",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SaaS Pooled (DE) 1:1 BZ,C41DEE-AA,42.76,C41DEE-AA-AA,
+C63-U-DE,"Skyhigh CASB SaaS Pooled - Skyhigh CASB SaaS Unlimited Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.​
+PRODUCT CONTENT:  CASB customers who own Skyhigh CASB for SaaS Pooled can use this SKU to upgrade to SaaS Unlimited SKU.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SaaS PL to UNL UPG(DE) 1:1BZ,C63DEE-DA,107.94,C63DEE-DA-AA,
+,CASB: Office 365,,,,,
+C09-DE,"Skyhigh CASB for Office 365 Mail (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, view policy violations, capture detailed audit trail of admin activity, and enforce access control policies.
+Includes activity monitoring, data loss prevention, and access control for O365 Mail.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh O365 Mail (DE) 1:1 BZ,C09DEE-AA,42.76,C09DEE-AA-AA,
+C10-DE,"Skyhigh CASB for Office 365 SharePoint and OneDrive (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control. As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh O365 Shrpoint1Drv (DE) 1:1 BZ,C10DEE-AA,42.76,C10DEE-AA-AA,
+C12-DE,"Skyhigh CASB for Microsoft Office O365 Mail / SharePoint and OneDrive (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Skyhigh CASB for Office 365 Mail is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, view policy violations, capture detailed audit trail user and admin activity, and enforce access control policies.
+Skyhigh CASB for Office 365 SharePoint and OneDrive is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, data loss prevention, and access control for O365 Mail. Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control for SharePoint and OneDrive.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh O365 MailShrpt1Drv (DE) 1:1 BZ,C12DEE-AA,77.01,C12DEE-AA-AA,
+C13-DE,"Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Skyhigh CASB for Shadow IT is a product designed to support security and governance programs. It provides visibility, risk assessment, threat analytics, automated and customizable reports, and access control policy enforcement via existing firewalls & proxies.
+Skyhigh CASB for Office 365 Mail is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, view policy violations, capture detailed audit trail of admin activity, and enforce access control policies.
+Skyhigh CASB for Office 365 SharePoint and OneDrive is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Skyhigh CASB for O365 Includes activity monitoring, threat analytics, data loss prevention and access control.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SwIT O365 MLSP1Drv (DE) 1:1 BZ,C13DEE-AA,106.91,C13DEE-AA-AA,
+C50-DE,"Skyhigh CASB for Office 365 Teams (Germany Data Center)
+LICENSE: Per User, per product.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh O365 TEAMS (DE) 1:1 BZ,C50DEE-AA,42.76,C50DEE-AA-AA,
+C51-DE,"Skyhigh CASB for Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Skyhigh CASB for Office 365 Mail is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, view policy violations, capture detailed audit trail user and admin activity, and enforce access control policies.
+Skyhigh CASB for Office 365 SharePoint and OneDrive is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Skyhigh CASB for Office 365 Teams is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, data loss prevention, and access control for O365 Mail. Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control for SharePoint, One Drive and Teams.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh O365 MLSP1DRVTMS (DE) 1:1 BZ,C51DEE-AA,115.48,C51DEE-AA-AA,
+C52-DE,"Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Skyhigh CASB for Shadow IT is a product designed to support security and governance programs. It provides visibility, risk assessment, threat analytics, automated and customizable reports, and access control policy enforcement via existing firewalls & proxies.
+Skyhigh CASB for Office 365 Mail is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, view policy violations, capture detailed audit trail of admin activity, and enforce access control policies.
+Skyhigh CASB for Office 365 SharePoint and OneDrive is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Skyhigh CASB for Office 365 Teams is a product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Skyhigh CASB for O365 Includes activity monitoring, threat analytics, data loss prevention and access control.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SWIT O365 MLSP1DRVTMS(DE) 1:1 BZ,C52DEE-AA,145.44,C52DEE-AA-AA,
+,RP-RBI (Managed),,,,,
+RP-RBI-MANAGED-DE,"Skyhigh Cloud App Isolation (Germany Data Center)
+LICENSE:  Per User, per product.
+DELIVERABLE:  Welcome email.
+PRODUCT CONTENT: This SKU enables the customer to use the integration between the Reverse Proxy and Forward Proxy / RBI to enforce controls on long-tail SaaS traffic. This SKU allows customers to apply standard cloud controls including access controls, DLP, and activity monitoring for all traffic going to a sanctioned SaaS service (SAML based login) from managed or unmanaged devices. This SKU cannot be purchased for those cloud services where an API integration is already available. Customers who have purchased full isolation will have this feature already available to them and need not purchase this SKU.
+Regional Data Center support:  EU only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh CAI (DE) 1:1BZ,RBMDEE-AA,110.91,RBMDEE-AA-AA,
+,Secure Web Gateway,,,,,
+MVW-DE,"Skyhigh SWG (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email. License via email and software per download.
+PRODUCT CONTENT:  SWG Cloud Service as integrated service in Skyhigh Security Cloud, including Cloud DLP. In addition, it includes access to Client Proxy. Appliance license, Incl GAM and Hybrid configuration are included. On premise ePO, CSR and Client Proxy are included through the on-premise licenses. MVISION ePO is an available add-on via the MEPO SKU.
+RESTRICTION: This SKU contractually removes the right the use any CASB SHADOW and REMOTE BROWSER ISOLATION features.
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U3-DE, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SWG (DE) 1:1BZ,MVWDEE-AA,67.42,MVWDEE-AA-AA,
+MVW-U-DE,"Skyhigh SWG - Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email. License via email and software per download.
+PRODUCT CONTENT:  SWG Cloud Service as integrated service in Skyhigh Security Cloud, including Cloud DLP. In addition, it includes access to Client Proxy. Appliance license, Incl GAM and Hybrid configuration are included. On premise ePO, CSR and Client Proxy are included through the on-premise licenses. MVISION ePO is an available add-on via the MEPO SKU.
+RESTRICTION: This SKU contractually removes the right the use any CASB SHADOW and REMOTE BROWSER ISOLATION features.
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U3-DE, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SWG UPG (DE) 1:1BZ,MVWDEE-DA,67.42,MVWDEE-DA-AA,
+MVW-ADV-DE,"Skyhigh SWG Advanced (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email. License via email and software per download.
+PRODUCT CONTENT:  SWG Cloud Service as integrated service in Skyhigh Security Cloud, including Cloud DLP. In addition, it includes access to Client Proxy. Appliance license, Incl GAM and Hybrid configuration are included. On premise ePO, CSR and Client Proxy are included through the on-premise licenses. MVISION ePO is an available add-on via the MEPO SKU. Includes risky web and Web DLP.
+RESTRICTION: This SKU contractually removes the right the use any CASB SHADOW
+Post Q1, 2024, SWG Software license contractually restricts its use on Virtual Machines in a production environment. This license can only be used in a test or development environment - (upto 5 MAX VMs with a max core of 4 CPUs per instance). For production usage on Virtual machines, SWG Software subscription license (Skyhigh SWG Software VM Deployment Extension - Subscription) to be purchased in addition to SWG Software License (WSG-S, MVW-DE, MVW-ADV-DE, UCEB-DE, UCEA-DE,UCEC-DE, UCEB-U1-DE, UCEB-U2-DE, UCEB-U3-DE, UCEA-U-DE, UCEA-U1-DE)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SWG Advanced (DE) 1:1BZ,SWADEE-AA,96.69,SWADEE-AA-AA,
+,Zero Trust Network Access,,,,,
+MPA-DE,"Skyhigh Private Access (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: A product in Skyhigh CASB to enable users and devices to connect to internal resources without the need to connect to a VPN while applying a ZERO TRUST policy to control access. The product’s client can be optionally, rolled out via MVISION ePO and ePO, whereas policy administration will always take place in Skyhigh CASB. Skyhigh Private Access includes DLP classification and RBI as a feature for supported protocols.
+This SKU can be sold independently. Be aware that Skyhigh Private Access is included in the SSE Complete bundle.
+If sold in addition to or as bundle with SSE Essentials/A, customers can opt-in to apply the full web policy to supported protocols.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Private Access (DE) 1:1BZ,MPADEE-AA,118.35,MPADEE-AA-AA,
+,Skyhigh Private Access Promotion,,,,,
+MPA-PROMO DE,"Skyhigh Private Access Promo MPA  (Germany Data Center)
+LICENSE: Per user. DELIVERABLE: Activation email
+PRODUCT CONTENT: See Skyhigh Private Access SKU (MPA) for details. This SKU is a promotion SKU to be used when quoting Private Access for 10% of the users for free when using a qualifying SKU.
+See Pricing Guidelines /CPQ for details.
+Can be used to offer Private Access for free for 10% of users, when purchased with a qualifying SKU below:
+UCEB - Skyhigh SSE Essential
+UCEB-U1 - Skyhigh SSE - Shadow IT Upgrade
+UCEB-U2 - Skyhigh SSE - Web Hybrid UpgradeUCEB-U3 - Skyhigh SSE - Web Gateway Upgrade
+UCEA - Skyhigh SSE Advanced
+UCEA-U	 - Skyhigh SSE Advanced - Upgrade
+UCEA-U1 - Skyhigh CASB SaaS Unlimited – Skyhigh SSE Advanced Upgrade
+MVW - Skyhigh SWG
+MVW-U - Skyhigh SWG - Upgrade
+PROMOTION CRITERIA
+Customer must purchase at least 101 users of any of the above
+Promotion Not available: NA Fed Gov Customers as no FedRAMP version of Private Access currently available
+1 year license term
+No possibility to renew for 0 Dollars.
+Cannot be used with SKUs that include Private Access already.
+Valid for new busines and renewal opportunities.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Private Access (DE PROMO) 1:1BZ,MPADEE-HA,Call For Quote,MPADEE-HA-AA,
+,Cloud Native Application Protection Platform,,,,,
+C42-DE,"Skyhigh CNAPP - CSPM Account Pooled (Germany Data Center)
+LICENSE: Per IaaS Account (defined below).
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Cloud Security Posture Management (CSPM) service designed to support security, compliance, and governance for Infrastructure as a Service (IaaS) platforms. Customers can audit IaaS accounts to detect risky misconfigurations, benchmark configurations against industry standards like CIS, PCI, HIPAA, NIST, and detect anomalous activity which may be indicative of compromised accounts. Service features include configuration audit of IaaS platform (up to 300 resources per account), configuration audit of container services, automatic remediation, Data Loss Prevention (DLP) and malware scanning as response actions, shift-left integration, vulnerability assessment, activity monitoring, and threat analytics.
+Customer can audit IaaS accounts across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). One active IaaS Account is required for each individual IaaS platform. Your purchase entitles you to select which IaaS accounts to audit, e.g., you purchase 10 CSPM Account Pooled licenses and audit 2 AWS accounts, 3 GCP projects, and 5 Azure subscription. Standard Offerings only.
+An ""IaaS Account"" means, in relation to an AWS Account, Azure Subscription, or GCP Project, the basic unit where all resources are contained within the IaaS offering, respectively, such as compute, network, and storage instances. An IaaS Account is an operational and billing controls boundary by product, application workload, or program. Companies may create multiple accounts for administrative isolation between workloads, or to provide limited visibility and discoverability of workloads for instance. An active container is any online instance of a container. In container workloads, it’s common for one single container image to be running multiple instances resulting in some number of active containers.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,CNAPP CSPM Act Pooled (DE) 1:1 BZ,C42DEE-AA,21384.11,C42DEE-AA-AA,
+C61-DE,"Skyhigh CNAPP - CSPM Resource Pooled (Germany Data Center)
+LICENSE: Per IaaS Resource (defined below).
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Cloud Security Posture Management (CSPM) service designed to support security, compliance, and governance for Infrastructure as a Service (IaaS) platforms. Customers can audit IaaS resources to detect risky misconfigurations, benchmark configurations against industry standards like CIS, PCI, HIPAA, NIST, and detect anomalous activity which may be indicative of compromised accounts. Service features include configuration audit of IaaS resources, configuration audit of container services, automatic remediation, Data Loss Prevention (DLP) and malware scanning as response actions, shift-left integration, vulnerability assessment, activity monitoring, and threat analytics.
+Customer can audit IaaS resources across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). One active IaaS Resource is required for each individual IaaS platform. Your purchase entitles you to select which IaaS resources to audit, e.g., you purchase 100 CSPM Resource Pooled licenses and audit 20 AWS resources, 30 GCP resources, and 50 Azure resources. Standard Offerings only.
+An ""IaaS Resource"" to a fundamental component or an entity that you can work with and is managed by the supported IaaS providers. Specific resource types for AWS are Elastic Compute Cloud (EC2), Elastic Container Service (ECS), Elastic Kubernetes Service (EKS), Relational Database Service (RDS), RedShift, DynamoDB, ElasticCache, Elastic Load Balancing (ELB), NAT Gateway. Specific resource types for Azure are Virtual Machines (VM), Azure Kubernetes Service (AKS), Cosmos DB, SQL Database, Database for MySQL, Database for PostgreSQL, Database for MariaDB, Load Balancer, and NAT Gateway. Specific resource types for GCP are Virtual Machine (VM) instances, Google Kubernetes Engine (GKE), Cloud SQL, Load Balancing, and Cloud Nat.
+As part of this SKU, customers also gain access to Skyhigh’s foundational Data Security Posture Management (DSPM) solution, enabling data classification, activity monitoring and control over their sensitive data.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,CNAPP CSPM Res Pooled (DE) 1:1 BZ,C61DEE-AA,276.82,C61DEE-AA-AA,
+,Add-Ons,,,,,
+SSE-LSA-DE,"Skyhigh Log Stream AddOn (Germany Data Center)
+LICENSE: Per user.
+DELIVERABLE: Welcome Email
+PRODUCT CONTENT: Add-on enables the customer to use the log streaming capability to get the SWG, Private Access, and Firewall logs in near-real time basis. This add-on SKU requires the customer to have on of the Web products (SWG, Private Access, Firewall) or bundles SSE-E, SSE-A, or SSE-C.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SkyHigh Log Stream AddOn (DE) 1:1BZ,SSELSADEE-AA,8.2,SSELSADEE-AA-AA,FCS Date 04/03/2025
+LFPDLP-DE,"Skyhigh Large File Processing Add-On (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.​
+PRODUCT CONTENT:  SWG Cloud Service, Remote Browser Isolation for risky sites, Cloud DLP, CASB Shadow, unlimited CASB SaaS applications  and Skyhigh Anti-Malware. In addition it includes access to Client Proxy,
+RESTRICTION: Customer must already own one of these base SKUs C63, C41, C10, C12, C13, C50, C51, C52, C14, C16, C17, C18, C29, C09, C42, C61, SSE Advanced, SSE Essentials or SSE Complete, MVWECE-AA, MVWECE-DA, UA1DEE-DA. UB1ECE-DA, UB2ECE-DA, UB3ECE-DA, UCAECE-AA, UCAECE-DA, UCBECE-AA, UCCECE-AA or purchase on same order as LFPDLP add on; standalone purchases not allowed.  Only enabled in Data Center locations that also support either SSE or CASB.​ Not to be sold to customers with Advanced DLP Add-On bundle.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Lrg Proc Add on (DE) 1:1BZ,C66DEE-AA,18.45,C66DEE-AA-AA,
+ADVDLP-DE,"Skyhigh Advanced DLP Add On (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: Add-on enables the customer to use the current Advanced DLP capabilities namely Unified EDM, Unified IDM, Evidence retention for Web Incidents and increased file size processing up to 250 MB. Enables capabilities within CASB and SWG Proxy pieces of SSE. Not available for use in SWG Proxy outside of SSE. This add-on enhances the foundational Skyhigh DSPM solution with advanced capabilities including exact data matching, ML based data classification, large file categorization for enhanced visibility and control for a strengthened data security posture.
+RESTRICTION: Customer must already own one of these base SKUs C63, C41, C10, C12, C13, C50, C51, C52, C14, C16, C17, C18, C29, C09, C42, C61, SSE Advanced, SSE Essentials or SSE Complete, MVWECE-AA, MVWECE-DA, UA1DEE-DA. UB1ECE-DA, UB2ECE-DA, UB3ECE-DA, UCAECE-AA, UCAECE-DA, UCBECE-AA, UCCECE-AA or purchase on same order as ADVDLP add on; standalone purchases not allowed. Only enabled in Data Center locations that also support either SSE or CASB.
+Note: ADVDLP Add-On is not currently available for GovCloud",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Advanced DLP Add on (DE) 1:1BZ,C64DEE-AA,39.93,C64DEE-AA-AA,
+ADVDLP-PROMO-DE,"Skyhigh Advanced DLP Promo C64 (Germany Data Center)
+LICENSE: Per user. DELIVERABLE: Activation email
+PRODUCT CONTENT: See Skyhigh Advanced DLP AddOn (C64) for details. This SKU is a promotion SKU to be used when quoting Advanced DLP AddON for 10% of the users for free when using a qualifying SKU. This add-on enhances the foundational Skyhigh DSPM solution with advanced capabilities including exact data matching, ML based data classification, large file categorization for enhanced visibility and control for a strengthened data security posture.
+See Pricing Guidelines /CPQ for details.
+Can be used to offer Advanced DLP AddOn for free for 10% of users, when purchased with a qualifying SKU below:
+C63, C41, C10, C12, C13, C50, C51, C52, C14, C16, C17, C18, C29, C09, C42, C61, SSE Advanced, SSE Essentials or SSE Complete, MVWECE-AA, MVWECE-DA, UA1DEE-DA. UB1ECE-DA, UB2ECE-DA, UB3ECE-DA, UCAECE-AA, UCAECE-DA, UCBECE-AA, UCCECE-AA
+PROMOTION CRITERIA
+Customer must purchase at least 101 users of any of the above
+Promotion Not available: NA Fed Gov Customers as no FedRAMP version of Advanced DLP AddOn currently available
+1 year license term
+No possibility to renew for 0 Dollars.
+Cannot be used with SKUs that include Private Access already.
+Valid for new busines and renewal opportunities.
+This SKU does not include Large file processing (whereas the main SKU does include it), please use separate trial for Large file processing.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SkyHigh Advanced DLP Add (DE PROMO)1:1BZ,C64DEE-HA,Call for Quote,C64DEE-HA-AA,
+UCEMEPO-DE,"Trellix ePO-SaaS for SSE - AddOn (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: Entitles both Trellix ePO - SaaS and the Trellix Endpoint Firewall managed by  ePO - SaaS. This entitlement further allows customers to roll-out and manage Client Proxy via  ePO - SaaS. This entitlement is redundant for all customers who already have Trellix ePO - SaaS through a separate Trellix product purchase.
+PRODUCT REQUIREMENT:  ADD-ON to SSE Essentials, Advanced, Complete or Skyhigh SWG. To purchase, customer must be entitled to any of the aforementioned products.
+SSEA includes access to Trellix ePO - SaaS and management of Trellix Endpoint Firewall.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,ePO-SaaS for SSE AddOn (DE)1:1BZ,UEPDEE-AA,17.5,UEPDEE-AA-AA,
+UCEFI-DE,"Skyhigh Remote Browser Isolation (RBI) Advanced - AddOn (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: This product offers remote browsing for protection from web threats. It is an add-on to MVW-ADV, SSE Essentials, SSE Advanced, SSE Complete that is configurable by policy. It is purchased only for the number of users that require Full Isolation, not the total number of entitled SSE licenses.
+PRODUCT REQUIREMENT: This is an add-on. Customer must have an entitlement to MVW-ADV, SSE Essentials, SSE Advanced or SSE Complete.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,250.49,UFIDEE-AA-AA,
+B,251-1000,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,223.66,UFIDEE-AA-BA,
+C,1001-2000,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,203.33,UFIDEE-AA-CA,
+D,2001-5000,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,190.04,UFIDEE-AA-DA,
+E,5001-10000,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,179.29,UFIDEE-AA-EA,
+F,10001-+,RBI Advanced Add-on (DE) 1:1BZ,UFIDEE-AA,174.07,UFIDEE-AA-FA,
+RP-RBI-DE,"Skyhigh Cloud App Isolation - Unmanaged AddOn (Germany Data Center)
+LICENSE: Per User. DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Add-on enables the customer to use the integration between the Reverse Proxy and Forward Proxy / RBI to enforce controls on unmanaged device traffic. For this control to work, the customer should already have a sanctioned SaaS subscription (or any bundle that contains CASB sanctioned SaaS). This SKU allows customers to apply access controls and DLP via web proxy and RBI. If the customer has SSE (SWG) subscriptions, then they will be able to apply additional controls available via web proxy using Web Policy. Customers who have purchased full isolation will have this feature already available to them and need not purchase this SKU.
+Regional Data Center support: US and EU only. FedRAMP not supported.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh CAI Unmanaged AddOn (DE) 1:1BZ,RBIDEE-AA,26.61,RBIDEE-AA-AA,
+OCRUCE-S-DE,"Skyhigh Secure Edge OCR - AddOn (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  Add on provides ability to scan/extract text from images for DLP scanning.  Enables capability within CASB and SWG Proxy pieces of SSE.  Also available for use in CASB (C63, C41, C10, C12, C13, C50, C51, C52, C14, C16, C17, C18, C29, C42, C61, C09) as an add-on SKU outside of SSE.
+RESTRICTION: Customer must already own one of these base SKUs C63, C41, C10, C12, C13, C50, C51, C52, C14, C16, C17, C18, C29, C09, C42, C61, SSE Advanced, SSE Essentials or SSE Complete, MVWECE-AA, MVWECE-DA, UA1DEE-DA. UB1ECE-DA, UB2ECE-DA, UB3ECE-DA, UCAECE-AA, UCAECE-DA, UCBECE-AA, UCCECE-AA or purchase on same order as OCR add on; standalone purchases not allowed.  Only enabled in Data Center locations that also support either SSE or CASB",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-250,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,7.63,OCRDEE-AA-AA,
+B,251-1000,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,6.52,OCRDEE-AA-BA,
+C,1001-2000,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,5.45,OCRDEE-AA-CA,
+D,2001-5000,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,4.37,OCRDEE-AA-DA,
+E,5001-10000,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,3.55,OCRDEE-AA-EA,
+F,10001-+,Skyhigh SSE OCR AddOn (DE) 1:1BZ,OCRDEE-AA,2.64,OCRDEE-AA-FA,
+C55-DE,"Skyhigh CASB SaaS Malware Add On (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Available only if Customer has purchased Skyhigh CASB for Salesforce, ServiceNow, Office 365 or any of the Collaboration Apps.  Enables customer to leverage threat intelligence, machine learning and sandboxing to detect and analyze APT threats from malware.  Includes malware detection and analysis.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SaaS Malw AddOn (DE) 1:1 BZ,C55DEE-AA,14.25,C55DEE-AA-AA,
+C43-DE,"Skyhigh CNAPP - DLP and Malware Pooled (Germany Data Center)
+LICENSE: Per TB.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Available only if Customer has purchased MVISION CSPM Pooled services. Enables Customers to enforce Data Loss Prevention (DLP) and malware scanning policies on cloud storage services.
+Includes DLP and Malware Protection for Amazon Simple Storage Service (S3), Microsoft Azure Blob Containers, Azure File Shares, and Google Cloud Platform (GCP) Storage Buckets.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,CNAPP DLP Malw Pooled AddOn (DE) 1:1 BZ,C43DEE-AA,11880.05,C43DEE-AA-AA,
+C30-DE,"Skyhigh CASB Sanctioned Data Retention AddOn (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT:  Add-on extends the data retention time on Skyhigh CASB products from the standard 100 days to a full year.  Also increases the maximum number of incidents stored from 2 million to 7 million. If customer's tenant is provisioned with extended data retention then any applicable Skyhigh CASB subscriptions will require this add-on.  All Customer's subsequent purchases and renewals for any applicable Skyhigh CASB subscriptions will requires this add-on;  due to the continued incremental costs of a tenant running the extended data retention  (10% of the price of the applicable Skyhigh CASB subscriptions being sold or renewed. The 10% applies for all deals $200K or above. For deals under $200K, the addon is a flat charge of $20K).",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Sanc Data Retn AddOn(DE) 1:1BZ,C30DEE-AA,Call For Quote,C30DEE-AA-AA,
+UCEDR-DE,"Skyhigh SSE Data Retention - AddOn (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT:  Add-on extends the data retention time for Skyhigh Security Service Edge products from the standard 100 days to a full year.  Also increases the maximum number of incidents stored from 2 million to 7 million.  If customer's tenant is provisioned with extended data retention then any applicable Skyhigh Security Service Edge subscriptions will require this add-on.  All Customer's subsequent purchases and renewals for any applicable Skyhigh Security Service Edge subscriptions will require this add-on;  due to the continued incremental costs of a tenant running the extended data retention. (10% of the price of the applicable Skyhigh Security Service Edge subscriptions being sold or renewed. The 10% applies for all deals $200K or above. For deals under $200K, the addon is a flat charge of $20K).",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SSE Data Retention AddOn (DE) 1:1BZ,UDRDEE-AA,Call For Quote,UDRDEE-AA-AA,
+SSE-SWGDT-SILVER-DE,"Skyhigh SSE Additional Bandwidth - Add-On Silver for SWG services (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  For customers who have procured SSE SKUs including MVW and WP2 a default FUP of 14GB per user per month is provided , in case the customer wishes to increase the data usage per user per month  to 20GB.
+An average of licensed user count vs data consumed is considered for FUP calculation.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SSE Bandwidth Silver AddOn (DE) 1:1BZ,SDSDEE-AA,99.82,SDSDEE-AA-AA,
+SSE-SWGDT-GOLD-DE,"Skyhigh SSE Additional Bandwidth - Add-On Gold for SWG services (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  For customers who have procured SSE SKUs including MVW and WP2 a default FUP of 14GB per user per month is provided , in case the customer wishes to increase the data usage per user per month to 30GB.
+An average of licensed user count vs data consumed is considered for FUP calculation.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SSE Bandwidth Gold AddOn (DE) 1:1BZ,SDGDEE-AA,266.17,SDGDEE-AA-AA,
+SSE-SWGDT-GOLD-UPG-DE,"Skyhigh SSE Additional Bandwidth - Addon Silver to Gold Upgrade (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT:  For customers who procured the additional bandwidth usage addon SKU for Silver and wish to upgrade to Gold.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SSE Bandwidth Gold AddOn UPG (DE) 1:1BZ,SDGDEE-DA,166.36,SDGDEE-DA-AA,
+SSE-DEIP-DE,"Skyhigh SSE Dedicated Egress IP - Addon (Germany Data Center)
+LICENSE: Per IP.
+DELIVERABLE: Activation via email.
+PRODUCT CONTENT: Add on provides ability to egress the traffic out of SSE using a Skyhigh provided dedicated IP.
+RESTRICTION: Available as an add-on to MVW, MVW Advanced, UCEA, UCEB, UCEC. Standalone purchases of SSE-DIEP is not allowed. Only enabled in Data Center locations that support SSE.
+Note : A minimum of 2 IP address is required for redundancy.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SSE Dedicated Egress IP(DE)1:1BZ,DEIDEE-AA,36051.83,DEIDEE-AA-AA,
+C04-DE,"Skyhigh CASB for Salesforce Sales Cloud - Encryption (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: Available only if Customer has purchased Skyhigh CASB for Sales Cloud product. Enables customers to encrypt structured and unstructured data with customer-controlled encryption keys.
+Includes structured and unstructured data encryption.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SlsCld  Encr AddOn (DE) 1:1 BZ,C04DEE-AA,237.6,C04DEE-AA-AA,
+C06-DE,"Skyhigh CASB for Salesforce Service Cloud - Encryption (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email..
+PRODUCT CONTENT:  Available only if Customer has purchased Skyhigh CASB for Service Cloud product. Enables customers to encrypt structured and unstructured data with customer-controlled encryption keys.
+Includes structured and unstructured data encryption.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SvcCld Encr AddOn (DE) 1:1 BZ,C06DEE-AA,237.6,C06DEE-AA-AA,
+C08-DE,"Skyhigh CASB for ServiceNow - Encryption (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT:  Available only if Customer has purchased Skyhigh CASB for ServiceNow product. Enables customers to encrypt structured and unstructured data with customer-controlled encryption keys.
+Includes unstructured and structured data encryption.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SvcNow Encr AddOn (DE) 1:1 BZ,C08DEE-AA,85.55,C08DEE-AA-AA,
+C65-DE,"Skyhigh SaaS Unlimited (Inline) - Addon (Germany Data Center)
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: The SaaS Unlimited (Inline) SKU is an extension of the Skyhigh CASB offering which gives access to the inline / forward proxy to secure long-tail SaaS apps which cannot be covered via the API integrations. This SKU is an add-on to CASB SaaS sanctioned SKUs, including SaaS Pooled and SaaS Unlimited SKUs. With this offering, customers will be able to secure long-tail SaaS apps by applying DLP, activity controls, threat investigation (activity monitoring), UEBA, and tenant restrictions. Other inline proxy (SWG) features (e.g. URL filtering, malware, RBI) will not be included as part of this SKU entitlement. Customers who have purchased any of the SWG or SSE-E, SSE-A, SSE-C need not purchase this SKU as they already have inline proxy entitlements.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,SH SaaS Ultd (inline) AddOn (DE) 1:1BZ,C65DEE-AA,12.68,C65DEE-AA-AA,

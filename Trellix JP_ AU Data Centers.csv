@@ -1,0 +1,1054 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Helix (SaaS)
+,Email Security,,,,XDR-AU,Helix Connect (Australia Data Center)
+EMCL-JP,Email Security Cloud Edition (Tokyo Data Center),,,,OXDR-50GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB (Australia Data Center)
+EMCA-JP,Email Security Cloud AntiVirus/AntiSpam Edition (Tokyo Data Center),,,,OXDR-100GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB (Australia Data Center)
+EMCAU-JP,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (Tokyo Data Center),,,,OXDR-250GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB (Australia Data Center)
+TPS-JP,Trellix Phishing Simulator (Tokyo Data Center),,,,OXDR-1TB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB (Australia Data Center)
+EMCLVX-JP,Email Security for Office 365 (Tokyo Data Center),,,,OXDR-50GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Australia Data Center)
+,IVX Enterprise Cloud,,,,OXDR-100GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Australia Data Center)
+IVX-JP,IVX Enterprise Cloud (Tokyo Data Center),,,,OXDR-250GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Australia Data Center)
+IVX-JP-BP,IVX Enterprise Cloud -Banded Submission Pack (Tokyo Data Center),,,,OXDR-1TB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Australia Data Center)
+,Protection and EDR (SaaS & On-Premise),,,,OXDRCS-2YR-50GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 50 GB (Australia Data Center)
+TRXHX-AU,Trellix Advanced Endpoint Security with Forensics (Australia Data Center),,,,OXDRCS-2YR-100GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 100 GB (Australia Data Center)
+TRXHXU-AU,Trellix Advanced Endpoint Security with Forensics - Upgrade (Australia Data Center),,,,OXDRCS-2YR-250GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 250 GB (Australia Data Center)
+TRXE1-AU,Trellix Endpoint Security Suite (Australia Data Center),,,,OXDRCS-2YR-1TB-ADDON-AU,Helix Connect 2 Year Cold Storage - 1 TB (Australia Data Center)
+TRXE1U-AU,Trellix Endpoint Security Suite - Upgrade (Australia Data Center),,,,OXDRCS-3YR-50GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 50 GB (Australia Data Center)
+MV6-AU,Trellix Protect Plus EDR for Endpoint (Australia Data Center),,,,OXDRCS-3YR-100GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 100 GB (Australia Data Center)
+MV6U-AU,Trellix Protect Plus EDR for Endpoint - Upgrade (Australia Data Center),,,,OXDRCS-3YR-250GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 250 GB (Australia Data Center)
+EDREX-AU,Trellix EDR Data Extension Add-on (Australia Data Center),,,,OXDRCS-3YR-1TB-ADDON-AU,Helix Connect 3 Year Cold Storage - 1 TB (Australia Data Center)
+EDREX180-AU,Trellix EDR Data Extension Add-on 180 Days (Australia Data Center),,,,XDRQS8-50GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 50 GB (Australia Data Center)
+EDREX180-U-AU,Trellix EDR Data Extension Add-on 180 Days - Upgarde (Australia Data Center),,,,XDRQS8-100GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 100 GB (Australia Data Center)
+EDR-WISE-AU,Trellix Wise for EDR Add-on (Australia Data Center),,,,XDRQS8-250GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 250 GB (Australia Data Center)
+,Protection and EDR (SaaS & On-Premise) - With MDR,,,,XDRQS8-1TB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 1 TB (Australia Data Center)
+TRXE1M1-AU,Trellix Endpoint Security Suite (Australia Data Center) + Managed Detection & Response,,,,XDRQS16-50GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 50 GB (Australia Data Center)
+TRXE1M1U-AU,Trellix Endpoint Security Suite - Upgrade (Australia Data Center) + Managed Detection & Response,,,,XDRQS16-100GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 100 GB (Australia Data Center)
+,EDR (SaaS & On-Premise),,,,XDRQS16-250GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 250 GB (Australia Data Center)
+MV4-AU,Trellix EDR (Australia Data Center),,,,XDRQS16-1TB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 1 TB (Australia Data Center)
+MV4U-AU,Trellix EDR - Upgrade (Australia Data Center),,,,XDR-JP,Helix Connect (Tokyo Data Center)
+,,,,,OXDR-50GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 50 GB (Tokyo Data Center)
+,,,,,OXDR-100GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 100 GB (Tokyo Data Center)
+,,,,,OXDR-250GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 250 GB (Tokyo Data Center)
+,,,,,OXDR-1TB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 1 TB (Tokyo Data Center)
+,,,,,OXDR-50GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Tokyo Data Center)
+,,,,,OXDR-100GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Tokyo Data Center)
+,,,,,OXDR-250GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Tokyo Data Center)
+,,,,,OXDR-1TB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Tokyo Data Center)
+,,,,,OXDRCS-2YR-50GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 50 GB (Tokyo Data Center)
+,,,,,OXDRCS-2YR-100GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 100 GB (Tokyo Data Center)
+,,,,,OXDRCS-2YR-250GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 250 GB (Tokyo Data Center)
+,,,,,OXDRCS-2YR-1TB-ADDON-JP,Helix Connect 2 Year Cold Storage - 1 TB (Tokyo Data Center)
+,,,,,OXDRCS-3YR-50GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 50 GB (Tokyo Data Center)
+,,,,,OXDRCS-3YR-100GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 100 GB (Tokyo Data Center)
+,,,,,OXDRCS-3YR-250GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 250 GB (Tokyo Data Center)
+,,,,,OXDRCS-3YR-1TB-ADDON-JP,Helix Connect 3 Year Cold Storage - 1 TB (Tokyo Data Center)
+,,,,,XDRQS8-50GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 50 GB (Tokyo Data Center)
+,,,,,XDRQS8-100GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 100 GB (Tokyo Data Center)
+,,,,,XDRQS8-250GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 250 GB (Tokyo Data Center)
+,,,,,XDRQS8-1TB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 1 TB (Tokyo Data Center)
+,,,,,XDRQS16-50GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 50 GB (Tokyo Data Center)
+,,,,,XDRQS16-100GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 100 GB (Tokyo Data Center)
+,,,,,XDRQS16-250GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 250 GB (Tokyo Data Center)
+,,,,,XDRQS16-1TB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 1 TB (Tokyo Data Center)
+,,,,,,Protection (SaaS & On-Premise)
+,,,,,MV1-AU,Trellix Protect Standard (Australia Data Center)
+,,,,,MV1U-AU,Trellix Protect Standard - Upgrade (Australia Data Center)
+,,,,,MV2-AU,Trellix Protect Plus (Australia Data Center)
+,,,,,MV2U-AU,Trellix Protect Plus - Upgrade (Australia Data Center)
+,,,,,,File & Application Control
+,,,,,ACD-S-AU,Trellix Application Control for PCs - Subscription (Australia Data Center)
+,,,,,,Endpoint Cloud Deploy Options
+,,,,,HXCL-AU-T,HX Cloud Hosting Endpoint - Large (Australia Data Center)(T)
+,,,,,HXCL-JP-T,HX Cloud Hosting Endpoint - Large (Tokyo Data Center)(T)
+,,,,,HXCM-AU-T,HX Cloud Hosting Endpoint - Medium (Australia Data Center)(T)
+,,,,,HXCM-JP-T,HX Cloud Hosting Endpoint - Medium (Tokyo Data Center)(T)
+,,,,,HXGCL-AU-T,HX Cloud Hosting Endpoint - GCP - Large (Australia Data Center)(T)
+,,,,,HXGCM-AU-T,HX Cloud Hosting Endpoint - GCP - Medium (Australia Data Center)(T)
+,,,,,HXGCL-JP-T,HX Cloud Hosting Endpoint - GCP - Large (Tokyo Data Center)(T)
+,,,,,HXGCM-JP-T,HX Cloud Hosting Endpoint - GCP - Medium (Tokyo Data Center)(T)
+,,,,,,Cloud Workload Security EDR
+,,,,,CWSDR-AU,Trellix Cloud Workload Security Detect and Respond (Australia Data Center)
+,,,,,CWSDRU-AU,Trellix Cloud Workload Security Detect and Respond - Upgrade (Australia Data Center)
+Trellix JP_ AU Data Centers,,,,,,
+,Email Security,,,,,
+EMCL-JP,"Email Security Cloud Edition (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud without AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,107.87,EMCLJPE-AAAA,
+B,251-1000,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,76.41,EMCLJPE-AABA,
+C,1001-2000,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,62.93,EMCLJPE-AACA,
+D,2001-5000,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,58.43,EMCLJPE-AADA,
+E,5001-10000,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,56.18,EMCLJPE-AAEA,
+F,10001-+,Email Sec Cld Ed (JP) 1:1TE,EMCLJPE-AA,47.19,EMCLJPE-AAFA,
+EMCA-JP,"Email Security Cloud AntiVirus/AntiSpam Edition (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,158.6,EMCAJPE-AAAA,
+B,251-1000,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,112.33,EMCAJPE-AABA,
+C,1001-2000,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,92.5,EMCAJPE-AACA,
+D,2001-5000,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,73.04,EMCAJPE-AADA,
+E,5001-10000,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,70.25,EMCAJPE-AAEA,
+F,10001-+,Email Sec Cld AVAS Ed (JP) 1:1TE,EMCAJPE-AA,58.99,EMCAJPE-AAFA,
+EMCAU-JP,"Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,158.6,EMCAJPE-DAAA,
+B,251-1000,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,112.33,EMCAJPE-DABA,
+C,1001-2000,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,92.5,EMCAJPE-DACA,
+D,2001-5000,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,73.04,EMCAJPE-DADA,
+E,5001-10000,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,70.25,EMCAJPE-DAEA,
+F,10001-+,Email Sec Cld AVAS Ed (JP) UP 1:1TE,EMCAJPE-DA,58.99,EMCAJPE-DAFA,
+TPS-JP,"Trellix Phishing Simulator (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam
+CONTENT: Trellix Phishing Simulator add-on for Email Security Cloud (EMCL) or Email Security Cloud AntiVirus/AntiSpam (EMCA). The datacenter for this SKU will match the customer’s Email Security Cloud instance.
+MANAGEMENT: From within Email Security Cloud console
+RESTRICTIONS: Order Quantity must match base Email Security Cloud or Email Security Cloud AntiVirus/AntiSpam SKU
+NOTE:  Trellix-M IAM hosted only
+REQUIREMENTS: Add-on Feature for customers with EMCL-JP Email Securty Cloud Edition or EMCA-JP Email Security Cloud Antivirus/AntiSpam.
+NOTE: EMCLVX Email Security for Office 365 already includes this feature in its bundle.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,33.36,TPSJPE-AA-AA,FCS Date 05/07/2025
+B,251-1000,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,28.35,TPSJPE-AA-BA,FCS Date 05/07/2025
+C,1001-2000,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,24.11,TPSJPE-AA-CA,FCS Date 05/07/2025
+D,2001-5000,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,21.68,TPSJPE-AA-DA,FCS Date 05/07/2025
+E,5001-10000,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,19.52,TPSJPE-AA-EA,FCS Date 05/07/2025
+F,10001-+,Trellix Phishing Sim (JP) 1:1TE,TPSJPE-AA,17.57,TPSJPE-AA-FA,FCS Date 05/07/2025
+EMCLVX-JP,"Email Security for Office 365 (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud with AntiVirus/AntiSpam functionality and IVX Enterprise Cloud and Trellix Phishing Simulator
+MANAGEMENT: Both Email Cloud and IVX Enterprise Cloud have own console
+RESTRICTIONS: Minimum New Sale Order Quantity is 250 Users
+NOTE: Trellix-M IAM hosted only. Customers purchasing on a Per-User basis may use the Product for up to twenty (20) submissions per User per month of the Product Term, aggregated across all of Customer’s Users. ""Submissions"" are files or other artefacts submitted to the Product by Customer for processing. Users here refers to the employee count of the organization.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,Call For Quote,EMCVJPE-AAAA,
+B,251-1000,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,127.14,EMCVJPE-AABA,
+C,1001-2000,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,127.14,EMCVJPE-AACA,
+D,2001-5000,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,115.26,EMCVJPE-AADA,
+E,5001-10000,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,115.26,EMCVJPE-AAEA,
+F,10001-+,Email Sec for Office 365 (JP) 1:1TE,EMCVJPE-AA,103.7,EMCVJPE-AAFA,
+,IVX Enterprise Cloud,,,,,
+IVX-JP,"IVX Enterprise Cloud (Tokyo Data Center)
+LICENSE: Per User
+DELIVERABLE: IVX Enterprise Cloud
+REQUIREMENTS: Minimum New Sale Order Quantity is 250 Users
+NOTE:  Trellix-M IAM hosted only",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,74.48,IVXJPE-AA-AA,
+B,251-1000,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,69.34,IVXJPE-AA-BA,
+C,1001-2000,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,64.21,IVXJPE-AA-CA,
+D,2001-5000,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,61.63,IVXJPE-AA-DA,
+E,5001-10000,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,59.08,IVXJPE-AA-EA,
+F,10001-+,IVX Enterprise Cloud (JP) 1:1TE,IVXJPE-AA,56.5,IVXJPE-AA-FA,
+IVX-JP-BP,"IVX Enterprise Cloud -Banded Submission Pack (Tokyo Data Center)
+LICENSE: Submission Pack
+DELIVERABLE: IVX Enterprise Cloud
+NOTE:  Trellix-M IAM hosted. Equally divided monthly quota of submission enforced over 10000 quantity (use it or lose it)",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,10000-10000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,1.85,IVXPJPE-AAAA,
+B,10001-30000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,1.48,IVXPJPE-AABA,
+C,30001-60000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,1.33,IVXPJPE-AACA,
+D,60001-120000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,1.2,IVXPJPE-AADA,
+E,120001-240000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,1.08,IVXPJPE-AAEA,
+F,240001-600000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,0.96,IVXPJPE-AAFA,
+G,600001-1200000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,0.86,IVXPJPE-AAGA,
+H,1200001-2400000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,0.8,IVXPJPE-AAHA,
+I,2400001-6000000,IVX Ent Cloud (Yrl Sub Pk)(JP) 1:1TE,IVXPJPE-AA,0.71,IVXPJPE-AAIA,
+,Protection and EDR (SaaS & On-Premise),,,,,
+TRXHX-AU,"Trellix Advanced Endpoint Security with Forensics (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Australia data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,271.99,TRXHX2WAUE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,243.85,TRXHX2WAUE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,215.7,TRXHX2WAUE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,187.58,TRXHX2WAUE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,178.19,TRXHX2WAUE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(AU) 2W 1:1TE,TRXHX2WAUE-AA,168.82,TRXHX2WAUE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,299.18,TRXHX1WAUE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,268.25,TRXHX1WAUE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,237.28,TRXHX1WAUE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,206.33,TRXHX1WAUE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,196,TRXHX1WAUE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(AU) 1W 1:1TE,TRXHX1WAUE-AA,185.7,TRXHX1WAUE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,312.79,TRXHXOFAUE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,280.44,TRXHXOFAUE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,248.07,TRXHXOFAUE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,215.7,TRXHXOFAUE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,204.91,TRXHXOFAUE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(AU) OF 1:1TE,TRXHXOFAUE-AA,194.13,TRXHXOFAUE-AA-FA,
+TRXHXU-AU,"Trellix Advanced Endpoint Security with Forensics - Upgrade (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Australia data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook. .",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,271.99,TRXHX2WAUE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,243.85,TRXHX2WAUE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,215.7,TRXHX2WAUE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,187.58,TRXHX2WAUE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,178.19,TRXHX2WAUE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(AU) 2W UPG 1:1 TE,TRXHX2WAUE-DA,168.82,TRXHX2WAUE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,299.18,TRXHX1WAUE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,268.25,TRXHX1WAUE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,237.28,TRXHX1WAUE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,206.33,TRXHX1WAUE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,196,TRXHX1WAUE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(AU) 1W UPG 1:1 TE,TRXHX1WAUE-DA,185.7,TRXHX1WAUE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,312.79,TRXHXOFAUE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,280.44,TRXHXOFAUE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,248.07,TRXHXOFAUE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,215.7,TRXHXOFAUE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,204.91,TRXHXOFAUE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(AU) OF UPG 1:1 TE,TRXHXOFAUE-DA,194.13,TRXHXOFAUE-DA-FA,
+TRXE1-AU,"Trellix Endpoint Security Suite (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Australia data center only. Cloud HX (if purchased separately) tenancy will be in Australia data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,326.7,TRXE1AUE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,292.92,TRXE1AUE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,259.13,TRXE1AUE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,225.29,TRXE1AUE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,214,TRXE1AUE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite (AU) 1:1TE,TRXE1AUE-AA,202.78,TRXE1AUE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,359.4,TRXE11WAUE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,322.19,TRXE11WAUE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,285.04,TRXE11WAUE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,247.82,TRXE11WAUE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,235.41,TRXE11WAUE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite 1W(AU) 1:1 TE,TRXE11WAUE-AA,223.05,TRXE11WAUE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,375.73,TRXE1OFAUE-AA-AA,
+B,251-1000,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,336.83,TRXE1OFAUE-AA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,298,TRXE1OFAUE-AA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,259.08,TRXE1OFAUE-AA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,246.11,TRXE1OFAUE-AA-EA,
+F,10001-+,Trellix Endpnt Sec Suite OF(AU) 1:1 TE,TRXE1OFAUE-AA,233.2,TRXE1OFAUE-AA-FA,
+TRXE1U-AU,"Trellix Endpoint Security Suite - Upgrade (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Australia data center only. Cloud HX (if purchased separately) tenancy will be in Australia data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,326.7,TRXE1AUE-DA-AA,
+B,251-1000,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,292.92,TRXE1AUE-DA-BA,
+C,1001-2000,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,259.13,TRXE1AUE-DA-CA,
+D,2001-5000,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,225.29,TRXE1AUE-DA-DA,
+E,5001-10000,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,214,TRXE1AUE-DA-EA,
+F,10001-+,Trellix Endpnt Sec Suite UPGD(AU) 1:1TE,TRXE1AUE-DA,202.78,TRXE1AUE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,359.4,TRXE11WAUE-DA-AA,
+B,251-1000,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,322.19,TRXE11WAUE-DA-BA,
+C,1001-2000,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,285.04,TRXE11WAUE-DA-CA,
+D,2001-5000,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,247.82,TRXE11WAUE-DA-DA,
+E,5001-10000,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,235.41,TRXE11WAUE-DA-EA,
+F,10001-+,Tlx Endpnt Sec Suite 1W(AU) UPG 1:1 TE,TRXE11WAUE-DA,223.05,TRXE11WAUE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,375.73,TRXE1OFAUE-DA-AA,
+B,251-1000,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,336.83,TRXE1OFAUE-DA-BA,
+C,1001-2000,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,298,TRXE1OFAUE-DA-CA,
+D,2001-5000,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,259.08,TRXE1OFAUE-DA-DA,
+E,5001-10000,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,246.11,TRXE1OFAUE-DA-EA,
+F,10001-+,Tlx Endpnt Sec Suite OF(AU) UPG 1:1 TE,TRXE1OFAUE-DA,233.2,TRXE1OFAUE-DA-FA,
+MV6-AU,"Trellix Protect Plus EDR for Endpoint (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS and Trellix EDR tenancies located in Australia data center. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,243.88,MV6AUE-AA-AA,
+B,251-1000,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,218.68,MV6AUE-AA-BA,
+C,1001-2000,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,193.43,MV6AUE-AA-CA,
+D,2001-5000,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,168.17,MV6AUE-AA-DA,
+E,5001-10000,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,159.8,MV6AUE-AA-EA,
+F,10001-+,Trellix EDR&EPP (AU) 1:1TE,MV6AUE-AA,151.38,MV6AUE-AA-FA,
+MV6U-AU,"Trellix Protect Plus EDR for Endpoint - Upgrade (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Trellix EDR with guided investigations utilizing 30-days of historical endpoint data, Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS: Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 with MA5.6.x ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS.  This entitlement includes ePO - SaaS and Trellix EDR tenancies located in Australia data center. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,243.88,MV6AUE-DA-AA,
+B,251-1000,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,218.68,MV6AUE-DA-BA,
+C,1001-2000,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,193.43,MV6AUE-DA-CA,
+D,2001-5000,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,168.17,MV6AUE-DA-DA,
+E,5001-10000,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,159.8,MV6AUE-DA-EA,
+F,10001-+,Trellix EDR&EPP UPGD (AU) 1:1TE,MV6AUE-DA,151.38,MV6AUE-DA-FA,
+EDREX-AU,"Trellix EDR Data Extension Add-on (Australia Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 90 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-AU, MV6-AU, or TRXE1-AU subscriptions. The number of licenses of EDREX-AU must be equal to the number of licenses of MV4-AU, MV6-AU, or TRXE1-AU.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Extension Add-on (AU) 1:1 TE,EDREXAUE-AA,112.53,EDREXAUE-AA-AA,
+EDREX180-AU,"Trellix EDR Data Extension Add-on 180 Days (Australia Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-AU, MV6-AU, or TRXE1-AU subscriptions. The number of licenses of EDREX180-AU must be equal to the number of licenses of MV4-AU, MV6-AU, or TRXE1-AU.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on (AU) 180 Day 1:1 TE,EDREX180AUE-AA,337.59,EDREX180AUE-AA-AA,FCS Date 05/31/2025
+EDREX180-U-AU,"Trellix EDR Data Extension Add-on 180 Days - Upgarde (Australia Data Center)
+LICENSE: Per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Add-on feature to extend Trellix EDR Guided investigations from 30 to 180 days of historical endpoint data.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: Limited to maximum of 5 devices per User. To be sold to customers with base MV4-AU, MV6-AU, or TRXE1-AU subscriptions. The number of licenses of EDREX180-AU must be equal to the number of licenses of MV4-AU, MV6-AU, or TRXE1-AU.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,EDR Data Ext Add-on (AU)180DayUPGD 1:1TE,EDREX180AUE-DA,344.15,EDREX180AUE-DA-AA,FCS Date 05/31/2025
+EDR-WISE-AU,"Trellix Wise for EDR Add-on (Australia Data Center)
+LICENSE: Per User.
+MANAGEMENT:  Trellix EDR
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+FEATURES INCLUDED: Trellix Wise for EDR uses generative AI capabilities to improve operational efficiency of SOC analyst for Endpoint Detections and Response product. It allows genAI powered capabilities like Multi-lingual threat hunting, Dossier and Interactive modes, as well as threat knowledge graph kind of capabilities.
+PRODUCT REQUIRES: Separate Trellix EDR subscription on endpoints.
+RESTRICTIONS: To be sold to customers with Trellix EDR subscriptions. The number of licenses of Trellix Wise for EDR must be equal to the number of licenses of base Trellix EDR SKU. The allotted usage of genAI powered capabilities is tied to the number of licenses in the Trellix EDR subscriptions.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,43.5,EDRWAUE-AAAA,
+B,251-1000,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,38.93,EDRWAUE-AABA,
+C,1001-2000,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,34.61,EDRWAUE-AACA,
+D,2001-5000,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,30,EDRWAUE-AADA,
+E,5001-10000,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,28.66,EDRWAUE-AAEA,
+F,10001-+,EDR Wise Add-on (AU) 1:1TE,EDRWAUE-AA,27.02,EDRWAUE-AAFA,
+,Protection and EDR (SaaS & On-Premise) - With MDR,,,,,
+TRXE1M1-AU,"Trellix Endpoint Security Suite (Australia Data Center) + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Australia data center only. Cloud HX (if purchased separately) tenancy will be in Australia data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,437.37,TRXE1M12WAUE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,336.7,TRXE1M12WAUE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,260.38,TRXE1M12WAUE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,191.74,TRXE1M12WAUE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,164.11,TRXE1M12WAUE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-AA,147.42,TRXE1M12WAUE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,481.1,TRXE1M11WAUE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,370.38,TRXE1M11WAUE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,286.4,TRXE1M11WAUE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,210.92,TRXE1M11WAUE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,180.54,TRXE1M11WAUE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-AA,162.16,TRXE1M11WAUE-AA-FA,FCS Date 04/30/2025
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,502.97,TRXE1M1OFAUE-AA-AA,FCS Date 04/30/2025
+B,251-1000,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,387.22,TRXE1M1OFAUE-AA-BA,FCS Date 04/30/2025
+C,1001-2000,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,299.42,TRXE1M1OFAUE-AA-CA,FCS Date 04/30/2025
+D,2001-5000,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,220.5,TRXE1M1OFAUE-AA-DA,FCS Date 04/30/2025
+E,5001-10000,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,188.75,TRXE1M1OFAUE-AA-EA,FCS Date 04/30/2025
+F,10001-+,Trellix Endpnt Sec Ste OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-AA,169.53,TRXE1M1OFAUE-AA-FA,FCS Date 04/30/2025
+TRXE1M1U-AU,"Trellix Endpoint Security Suite - Upgrade (Australia Data Center) + Managed Detection & Response
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX) with MDR.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) platform combines Trellix Endpoint Security HX and Trellix EDR, offering advanced detection, investigation, forensics, and response for Windows, macOS, and Linux platforms in both On-Prem and SaaS environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Upto 10 VA for HX included in the subscription but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+Trellix MDR offers continuous 24/7/365 monitoring and rapid threat response, ensuring that organizations stay protected around the clock. With expert-led security operations, Trellix MDR identifies and responds to threats before they can cause significant harm. This service also includes tailored security recommendations and remediation guidance, providing organizations with peace of mind and a worry-free approach to managing endpoint Security. The MDR service primarily relies on North America-based personnel and tools.
+LIMITATIONS and REQUIREMENTS: Customers must initially purchase a minimum of 500 licenses.
+RESTRICTIONS: Limited to maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS and Trellix EDR Cloud tenancies located in Australia data center only. Cloud HX (if purchased separately) tenancy will be in Australia data center only. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,437.37,TRXE1M12WAUE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,336.7,TRXE1M12WAUE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,260.38,TRXE1M12WAUE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,191.74,TRXE1M12WAUE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,164.11,TRXE1M12WAUE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG 2W(AU) MDR1 1:1TE,TRXE1M12WAUE-DA,147.42,TRXE1M12WAUE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,481.1,TRXE1M11WAUE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,370.38,TRXE1M11WAUE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,286.4,TRXE1M11WAUE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,210.92,TRXE1M11WAUE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,180.54,TRXE1M11WAUE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG 1W(AU) MDR1 1:1TE,TRXE1M11WAUE-DA,162.16,TRXE1M11WAUE-DA-FA,FCS Date 04/30/2025
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,502.97,TRXE1M1OFAUE-DA-AA,FCS Date 04/30/2025
+B,251-1000,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,387.22,TRXE1M1OFAUE-DA-BA,FCS Date 04/30/2025
+C,1001-2000,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,299.42,TRXE1M1OFAUE-DA-CA,FCS Date 04/30/2025
+D,2001-5000,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,220.5,TRXE1M1OFAUE-DA-DA,FCS Date 04/30/2025
+E,5001-10000,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,188.75,TRXE1M1OFAUE-DA-EA,FCS Date 04/30/2025
+F,10001-+,Tlx Endpnt Sec Ste UPG OF(AU) MDR1 1:1TE,TRXE1M1OFAUE-DA,169.53,TRXE1M1OFAUE-DA-FA,FCS Date 04/30/2025
+,EDR (SaaS & On-Premise),,,,,
+MV4-AU,"Trellix EDR (Australia Data Center)
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: Trellix EDR automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,137.7,MV4AUE-AA-AA,
+B,251-1000,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,129.01,MV4AUE-AA-BA,
+C,1001-2000,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,118.66,MV4AUE-AA-CA,
+D,2001-5000,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,111.03,MV4AUE-AA-DA,
+E,5001-10000,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,105.26,MV4AUE-AA-EA,
+F,10001-+,Trellix EDR (AU) 1:1 TE 30 Day Storage,MV4AUE-AA,97.4,MV4AUE-AA-FA,
+MV4U-AU,"Trellix EDR - Upgrade (Australia Data Center)
+LICENSE: 12 month Subscription, License is Per User. Each Virtual Instance or Server is equivalent to 1 User.
+MANAGEMENT: ePO - SaaS included to manage Trellix EDR subscriptions.
+DELIVERABLE: For current MAR customers it is an upgrade to Trellix EDR which automatically detects advanced threats from the endpoint or a supported SIEM (optional), maps them to the MITRE ATT&CK® framework and guides you through the investigation to reduce response time. Trellix EDR also gives you the ability to search and hunt for threats via ad-hoc queries on endpoints. Guided investigations utilizing 30-days of historical endpoint data. This is a SaaS service with an activation email and agent download. Please confirm regional data centers are in place for customers that have data residency restrictions.
+PRODUCT REQUIRES: ePO - On-prem for deployment on-premises. Refer to the FAQ’s for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.
+RESTRICTIONS: Limited to maximum of 5 devices per User.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,137.7,MV4AUE-DA-AA,
+B,251-1000,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,129.01,MV4AUE-DA-BA,
+C,1001-2000,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,118.66,MV4AUE-DA-CA,
+D,2001-5000,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,111.03,MV4AUE-DA-DA,
+E,5001-10000,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,105.26,MV4AUE-DA-EA,
+F,10001-+,Trellix EDR UPGD(AU) 1:1TE 30Day Storage,MV4AUE-DA,97.4,MV4AUE-DA-FA,
+,Helix (SaaS),,,,,
+XDR-AU,"Helix Connect (Australia Data Center)
+LICENSE: License per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: Helix Connect
+CONTENT: Helix Connect, a cloud-hosted security operations and XDR platform with alert correlation, threat hunting (search), and SOAR capabilities. Data (event) ingestion of up to 100MB per user per month. Purchase of the Open XDR add-on is required for data ingestion exceeding the per user entitlement. Data is stored and searchable for 90 days. Purchase of XDR Retention add-on required to extend retention beyond 90 days.
+RESTRICTIONS: Minimum 100 users.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Helix Connect (AU) 1:1TE,XDRAUE-AA,141.9,XDRAUE-AA-AA,
+B,251-1000,Helix Connect (AU) 1:1TE,XDRAUE-AA,127.73,XDRAUE-AA-BA,
+C,1001-2000,Helix Connect (AU) 1:1TE,XDRAUE-AA,114.95,XDRAUE-AA-CA,
+D,2001-5000,Helix Connect (AU) 1:1TE,XDRAUE-AA,103.43,XDRAUE-AA-DA,
+E,5001-10000,Helix Connect (AU) 1:1TE,XDRAUE-AA,93.1,XDRAUE-AA-EA,
+F,10001-+,Helix Connect (AU) 1:1TE,XDRAUE-AA,83.76,XDRAUE-AA-FA,
+OXDR-50GB-AU-ADDON,"Helix Connect Open XDR for External Data Add-on - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con OpenXDR ExtDta50GB AO(AU)1:1TE,OX1AUE-AA,49488.28,OX1AUE-AA-AA,
+OXDR-100GB-AU-ADDON,"Helix Connect Open XDR for External Data Add-on - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpenXDR ExtDta100GB AO(AU)1:1TE,OX2AUE-AA,98976.6,OX2AUE-AA-AA,
+OXDR-250GB-AU-ADDON,"Helix Connect Open XDR for External Data Add-on - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOp XDR ExtDta250GB AO(AU)1:1TE,OX3AUE-AA,247441.47,OX3AUE-AA-AA,
+OXDR-1TB-AU-ADDON,"Helix Connect Open XDR for External Data Add-on - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR ExtData 1TB AO(AU)1:1TE,OX4AUE-AA,989765.93,OX4AUE-AA-AA,
+OXDR-50GB-10M-AU-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-50GB-AU-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-50GB-AU-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect  XDR Ret 50GB AO (AU)1:1TE,XM1AUE-AA,167680.79,XM1AUE-AA-AA,
+OXDR-100GB-10M-AU-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-100GB-AU-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-100GB-AU-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 100GB AO (AU)1:1TE,XM2AUE-AA,335361.55,XM2AUE-AA-AA,
+OXDR-250GB-10M-AU-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-250GB-AU-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-250GB-AU-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 250GB AO(AU) 1:1TE,XM3AUE-AA,838403.88,XM3AUE-AA-AA,
+OXDR-1TB-10M-AU-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-1TB-AU-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-1TB-AU-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 1TB AddOn(AU)1:1TE,XM4AUE-AA,3354206.75,XM4AUE-AA-AA,
+OXDRCS-2YR-50GB-ADDON-AU,"Helix Connect 2 Year Cold Storage - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 50GB (AU)1:1TE,XCS21AUE-AA,18019.29,XCS21AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-100GB-ADDON-AU,"Helix Connect 2 Year Cold Storage - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 100GB (AU)1:1TE,XCS22AUE-AA,36038.58,XCS22AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-250GB-ADDON-AU,"Helix Connect 2 Year Cold Storage - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 250GB (AU)1:1TE,XCS23AUE-AA,90096.47,XCS23AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-1TB-ADDON-AU,"Helix Connect 2 Year Cold Storage - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 1TB (AU)1:1TE,XCS24AUE-AA,360385.84,XCS24AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-50GB-ADDON-AU,"Helix Connect 3 Year Cold Storage - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 50GB (AU)1:1TE,XCS31AUE-AA,36038.58,XCS31AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-100GB-ADDON-AU,"Helix Connect 3 Year Cold Storage - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 100GB (AU)1:1TE,XCS32AUE-AA,72077.16,XCS32AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-250GB-ADDON-AU,"Helix Connect 3 Year Cold Storage - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 250GB (AU)1:1TE,XCS33AUE-AA,180192.92,XCS33AUE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-1TB-ADDON-AU,"Helix Connect 3 Year Cold Storage - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 1TB (AU)1:1TE,XCS34AUE-AA,720771.68,XCS34AUE-AA-AA,FCS Date 03/31/2025
+XDRQS8-50GB-ADDON-AU,"Helix Connect 8 Day Index Search Retention - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 50GB (AU)1:1TE,XQS81AUE-AA,22524.11,XQS81AUE-AA-AA,FCS Date 03/31/2025
+XDRQS8-100GB-ADDON-AU,"Helix Connect 8 Day Index Search Retention - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 100GB (AU)1:1TE,XQS82AUE-AA,45048.23,XQS82AUE-AA-AA,FCS Date 03/31/2025
+XDRQS8-250GB-ADDON-AU,"Helix Connect 8 Day Index Search Retention - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 250GB (AU)1:1TE,XQS83AUE-AA,112620.58,XQS83AUE-AA-AA,FCS Date 03/31/2025
+XDRQS8-1TB-ADDON-AU,"Helix Connect 8 Day Index Search Retention - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 1TB (AU)1:1TE,XQS84AUE-AA,450482.31,XQS84AUE-AA-AA,FCS Date 03/31/2025
+XDRQS16-50GB-ADDON-AU,"Helix Connect 16 Day Index Search Retention - 50 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 50GB (AU)1:1TE,XQS161AUE-AA,45048.23,XQS161AUE-AA-AA,FCS Date 03/31/2025
+XDRQS16-100GB-ADDON-AU,"Helix Connect 16 Day Index Search Retention - 100 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 100GB (AU)1:1TE,XQS162AUE-AA,90096.47,XQS162AUE-AA-AA,FCS Date 03/31/2025
+XDRQS16-250GB-ADDON-AU,"Helix Connect 16 Day Index Search Retention - 250 GB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 250GB (AU)1:1TE,XQS163AUE-AA,225241.15,XQS163AUE-AA-AA,FCS Date 03/31/2025
+XDRQS16-1TB-ADDON-AU,"Helix Connect 16 Day Index Search Retention - 1 TB (Australia Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 1TB (AU)1:1TE,XQS164AUE-AA,900964.6,XQS164AUE-AA-AA,FCS Date 03/31/2025
+XDR-JP,"Helix Connect (Tokyo Data Center)
+LICENSE: License per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: Helix Connect
+CONTENT: Helix Connect, a cloud-hosted security operations and XDR platform with alert correlation, threat hunting (search), and SOAR capabilities. Data (event) ingestion of up to 100MB per user per month. Purchase of the Open XDR add-on is required for data ingestion exceeding the per user entitlement. Data is stored and searchable for 90 days. Purchase of XDR Retention add-on required to extend retention beyond 90 days.
+RESTRICTIONS: Minimum 100 users.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Connect (JP) 1:1TE,XDRJPE-AA,141.9,XDRJPE-AA-AA,
+B,251-1000,Helix Connect (JP) 1:1TE,XDRJPE-AA,127.73,XDRJPE-AA-BA,
+C,1001-2000,Helix Connect (JP) 1:1TE,XDRJPE-AA,114.94,XDRJPE-AA-CA,
+D,2001-5000,Helix Connect (JP) 1:1TE,XDRJPE-AA,103.45,XDRJPE-AA-DA,
+E,5001-10000,Helix Connect (JP) 1:1TE,XDRJPE-AA,93.1,XDRJPE-AA-EA,
+F,10001-+,Helix Connect (JP) 1:1TE,XDRJPE-AA,83.76,XDRJPE-AA-FA,
+OXDR-50GB-ADDON-JP,"Helix Connect Open XDR for External Data Add-on - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con OpenXDR ExtDta50GB AO(JP)1:1JP,OX1JPE-AA,49488.28,OX1JPE-AA-AA,
+OXDR-100GB-ADDON-JP,"Helix Connect Open XDR for External Data Add-on - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpenXDR ExtDta100GB AO(JP)1:1TE,OX2JPE-AA,98976.6,OX2JPE-AA-AA,
+OXDR-250GB-ADDON-JP,"Helix Connect Open XDR for External Data Add-on - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOp XDR ExtDta250GB AO(JP)1:1TE,OX3JPE-AA,247441.47,OX3JPE-AA-AA,
+OXDR-1TB-ADDON-JP,"Helix Connect Open XDR for External Data Add-on - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR ExtData 1TB AO(JP)1:1TE,OX4JPE-AA,989765.93,OX4JPE-AA-AA,
+OXDR-50GB-10M-ADDON-JP,"Helix Connect XDR Retention 10 Months Add-On - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-50GB-ADDON-JP subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-50GB-ADDON-JP offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect  XDR Ret 50GB AO (JP)1:1TE,XM1JPE-AA,167680.79,XM1JPE-AA-AA,
+OXDR-100GB-10M-ADDON-JP,"Helix Connect XDR Retention 10 Months Add-On - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-100GB-ADDON-JP subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-100GB-ADDON-JP offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 100GB AO (JP)1:1TE,XM2JPE-AA,335361.55,XM2JPE-AA-AA,
+OXDR-250GB-10M-ADDON-JP,"Helix Connect XDR Retention 10 Months Add-On - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-250GB-ADDON-JP subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-250GB-ADDON-JP offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 250GB AO(JP) 1:1TE,XM3JPE-AA,838403.88,XM3JPE-AA-AA,
+OXDR-1TB-10M-ADDON-JP,"Helix Connect XDR Retention 10 Months Add-On - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-1TB-ADDON-JP subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-1TB-ADDON-JP offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 1TB AddOn(JP)1:1TE,XM4JPE-AA,3354206.75,XM4JPE-AA-AA,
+OXDRCS-2YR-50GB-ADDON-JP,"Helix Connect 2 Year Cold Storage - 50 GB (Tokyo Data Center)
+Helix Connect 2 Year Cold Storage - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 50GB (JP)1:1TE,XCS21JPE-AA,18019.29,XCS21JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-100GB-ADDON-JP,"Helix Connect 2 Year Cold Storage - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 100GB (JP)1:1TE,XCS22JPE-AA,36038.58,XCS22JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-250GB-ADDON-JP,"Helix Connect 2 Year Cold Storage - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 250GB (JP)1:1TE,XCS23JPE-AA,90096.47,XCS23JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-1TB-ADDON-JP,"Helix Connect 2 Year Cold Storage - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 1TB (JP)1:1TE,XCS24JPE-AA,360385.84,XCS24JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-50GB-ADDON-JP,"Helix Connect 3 Year Cold Storage - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 50GB (JP)1:1TE,XCS31JPE-AA,36038.58,XCS31JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-100GB-ADDON-JP,"Helix Connect 3 Year Cold Storage - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 100GB (JP)1:1TE,XCS32JPE-AA,72077.16,XCS32JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-250GB-ADDON-JP,"Helix Connect 3 Year Cold Storage - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 250GB (JP)1:1TE,XCS33JPE-AA,180192.92,XCS33JPE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-1TB-ADDON-JP,"Helix Connect 3 Year Cold Storage - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 1TB (JP)1:1TE,XCS34JPE-AA,720771.68,XCS34JPE-AA-AA,FCS Date 03/31/2025
+XDRQS8-50GB-ADDON-JP,"Helix Connect 8 Day Index Search Retention - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 50GB (JP)1:1TE,XQS81JPE-AA,22524.11,XQS81JPE-AA-AA,FCS Date 03/31/2025
+XDRQS8-100GB-ADDON-JP,"Helix Connect 8 Day Index Search Retention - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 100GB (JP)1:1TE,XQS82JPE-AA,45048.23,XQS82JPE-AA-AA,FCS Date 03/31/2025
+XDRQS8-250GB-ADDON-JP,"Helix Connect 8 Day Index Search Retention - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 250GB (JP)1:1TE,XQS83JPE-AA,112620.58,XQS83JPE-AA-AA,FCS Date 03/31/2025
+XDRQS8-1TB-ADDON-JP,"Helix Connect 8 Day Index Search Retention - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 1TB (JP)1:1TE,XQS84JPE-AA,450482.31,XQS84JPE-AA-AA,FCS Date 03/31/2025
+XDRQS16-50GB-ADDON-JP,"Helix Connect 16 Day Index Search Retention - 50 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 50GB (JP)1:1TE,XQS161JPE-AA,45048.23,XQS161JPE-AA-AA,FCS Date 03/31/2025
+XDRQS16-100GB-ADDON-JP,"Helix Connect 16 Day Index Search Retention - 100 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 100GB (JP)1:1TE,XQS162JPE-AA,45048.23,XQS162JPE-AA-AA,FCS Date 03/31/2025
+XDRQS16-250GB-ADDON-JP,"Helix Connect 16 Day Index Search Retention - 250 GB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 250GB (JP)1:1TE,XQS163JPE-AA,225241.15,XQS163JPE-AA-AA,FCS Date 03/31/2025
+XDRQS16-1TB-ADDON-JP,"Helix Connect 16 Day Index Search Retention - 1 TB (Tokyo Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 1TB (JP)1:1TE,XQS164JPE-AA,900964.6,XQS164JPE-AA-AA,FCS Date 03/31/2025
+,Protection (SaaS & On-Premise),,,,,
+MV1-AU,"Trellix Protect Standard (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard (AU)1:1TE,MV1AUE-AA,85.09,MV1AUE-AA-AA,
+B,251-1000,Trellix Standard (AU)1:1TE,MV1AUE-AA,76.26,MV1AUE-AA-BA,
+C,1001-2000,Trellix Standard (AU)1:1TE,MV1AUE-AA,67.48,MV1AUE-AA-CA,
+D,2001-5000,Trellix Standard (AU)1:1TE,MV1AUE-AA,58.68,MV1AUE-AA-DA,
+E,5001-10000,Trellix Standard (AU)1:1TE,MV1AUE-AA,55.76,MV1AUE-AA-EA,
+F,10001-+,Trellix Standard (AU)1:1TE,MV1AUE-AA,52.78,MV1AUE-AA-FA,
+MV1U-AU,"Trellix Protect Standard - Upgrade (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,85.09,MV1AUE-DA-AA,
+B,251-1000,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,76.26,MV1AUE-DA-BA,
+C,1001-2000,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,67.48,MV1AUE-DA-CA,
+D,2001-5000,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,58.68,MV1AUE-DA-DA,
+E,5001-10000,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,55.76,MV1AUE-DA-EA,
+F,10001-+,Trellix Standard UPGD (AU) 1:1TE,MV1AUE-DA,52.78,MV1AUE-DA-FA,
+MV2-AU,"Trellix Protect Plus (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus (AU) 1:1TE,MV2AUE-AA,168.54,MV2AUE-AA-AA,
+B,251-1000,Trellix Plus (AU) 1:1TE,MV2AUE-AA,151.12,MV2AUE-AA-BA,
+C,1001-2000,Trellix Plus (AU) 1:1TE,MV2AUE-AA,133.67,MV2AUE-AA-CA,
+D,2001-5000,Trellix Plus (AU) 1:1TE,MV2AUE-AA,116.24,MV2AUE-AA-DA,
+E,5001-10000,Trellix Plus (AU) 1:1TE,MV2AUE-AA,110.41,MV2AUE-AA-EA,
+F,10001-+,Trellix Plus (AU) 1:1TE,MV2AUE-AA,104.59,MV2AUE-AA-FA,
+MV2U-AU,"Trellix Protect Plus - Upgrade (Australia Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,168.54,MV2AUE-DA-AA,
+B,251-1000,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,151.12,MV2AUE-DA-BA,
+C,1001-2000,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,133.67,MV2AUE-DA-CA,
+D,2001-5000,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,116.24,MV2AUE-DA-DA,
+E,5001-10000,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,110.41,MV2AUE-DA-EA,
+F,10001-+,Trellix Plus UPGD (AU) 1:1TE,MV2AUE-DA,104.59,MV2AUE-DA-FA,
+,File & Application Control,,,,,
+ACD-S-AU,"Trellix Application Control for PCs - Subscription (Australia Data Center)
+LICENSE: Per Node.
+DELIVERABLE: Software as a Service (SaaS) with activation email
+Management: ePO-SaaS
+PRODUCT CONTENT: Protect endpoints from unauthorized applications and system changes with Trellix Application and Change Control. Create and easily manage allow/deny lists and protect against memory exploits with this cloud-managed application that still works when disconnected from the cloud. Gain deeper visibility into application changes with periodic inventory reports, helping identify gaps in protected endpoints. Not available for embedded systems like ATMs, POS, medical, or other fixed-function devices and servers.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,125.83,ACDAUE-AA-AA,FCS Date 05/29/2025
+B,251-1000,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,119.06,ACDAUE-AA-BA,FCS Date 05/29/2025
+C,1001-2000,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,99.17,ACDAUE-AA-CA,FCS Date 05/29/2025
+D,2001-5000,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,74.42,ACDAUE-AA-DA,FCS Date 05/29/2025
+E,5001-10000,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,55.76,ACDAUE-AA-EA,FCS Date 05/29/2025
+F,10001-+,Trellix App Control PCs (AU) 1:1TE,ACDAUE-AA,41.9,ACDAUE-AA-FA,FCS Date 05/29/2025
+,Endpoint Cloud Deploy Options,,,,,
+HXCL-AU-T,"HX Cloud Hosting Endpoint - Large (Australia Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG (AU) 1:1TE(T),HXCLAUGXE-AA,43680.94,HXCLAUGXE-AA-AA,
+HXCL-JP-T,"HX Cloud Hosting Endpoint - Large (Tokyo Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG (JP) 1:1TE(T),HXCLJPGXE-AA,43680.94,HXCLJPGXE-AA-AA,
+HXCM-AU-T,"HX Cloud Hosting Endpoint - Medium (Australia Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD (AU) 1:1TE(T),HXCMAUGXE-AA,27284.29,HXCMAUGXE-AA-AA,
+HXCM-JP-T,"HX Cloud Hosting Endpoint - Medium (Tokyo Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD (JP) 1:1TE(T),HXCMJPGXE-AA,27284.29,HXCMJPGXE-AA-AA,
+HXGCL-AU-T,"HX Cloud Hosting Endpoint - GCP - Large (Australia Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP LG (AU) 1:1TE(T),HXGCLAUGXE-AA,43680.94,HXGCLAUGXE-AA-AA,FCS Date 05/02/2025
+HXGCM-AU-T,"HX Cloud Hosting Endpoint - GCP - Medium (Australia Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP MD (AU) 1:1TE(T),HXGCMAUGXE-AA,27284.29,HXGCMAUGXE-AA-AA,FCS Date 05/02/2025
+HXGCL-JP-T,"HX Cloud Hosting Endpoint - GCP - Large (Tokyo Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP LG (JP) 1:1TE(T),HXGCLJPGXE-AA,43680.94,HXGCLJPGXE-AA-AA,FCS Date 05/02/2025
+HXGCM-JP-T,"HX Cloud Hosting Endpoint - GCP - Medium (Tokyo Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP MD (JP) 1:1TE(T),HXGCMJPGXE-AA,27284.29,HXGCMJPGXE-AA-AA,FCS Date 05/02/2025
+,Cloud Workload Security EDR,,,,,
+CWSDR-AU,"Trellix Cloud Workload Security Detect and Respond (Australia Data Center)
+LICENSE: Per OS Instance.
+DELIVERABLE: Download.
+MANAGEMENT:  ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT:  Cloud Workload Security for hybrid cloud:  (VMware, OpenStack, AWS and Azure), Endpoint Security for Servers, Endpoint Security Firewall Module, Endpoint Security for Linux, Threat Intelligence Exchange (TIE), MOVE Enterprise (includes:  MOVE AV Agentless and Multi-Platform), Network Visibility and Micro-Segmentation based firewall, Application Control for Servers, Change Control for Servers.  Trellix EDR Guided investigations utilizing 30-days of historical endpoint data.  EDR is a SaaS service with email and agent download.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-25,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,2034.79,CWRAUE-AA-AA,
+B,26-50,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1729.52,CWRAUE-AA-BA,
+C,51-100,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1546.41,CWRAUE-AA-CA,
+D,101-250,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1383.66,CWRAUE-AA-DA,
+E,251-500,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1322.61,CWRAUE-AA-EA,
+F,501-1000,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1241.2,CWRAUE-AA-FA,
+G,1001-2000,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1159.83,CWRAUE-AA-GA,
+H,2001-5000,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,1058.08,CWRAUE-AA-HA,
+I,5001-10000,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,997.02,CWRAUE-AA-IA,
+J,10001-+,Cloud Workload Sec EDR (AU) 1:1TE,CWRAUE-AA,935.98,CWRAUE-AA-JA,
+CWSDRU-AU,"Trellix Cloud Workload Security Detect and Respond - Upgrade (Australia Data Center)
+LICENSE: Per OS Instance.
+DELIVERABLE: Download.
+MANAGEMENT:  ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT:  Cloud Workload Security for hybrid cloud:  (VMware, OpenStack, AWS and Azure), Endpoint Security for Servers, Endpoint Security Firewall Module, Endpoint Security for Linux, Threat Intelligence Exchange (TIE), MOVE Enterprise (includes:  MOVE AV Agentless and Multi-Platform), Network Visibility and Micro-Segmentation based firewall, Application Control for Servers, Change Control for Servers.  Trellix EDR Guided investigations utilizing 30-days of historical endpoint data.  EDR is a SaaS service with email and agent download.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-25,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,2034.79,CWRAUE-DA-AA,
+B,26-50,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1729.52,CWRAUE-DA-BA,
+C,51-100,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1546.41,CWRAUE-DA-CA,
+D,101-250,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1383.66,CWRAUE-DA-DA,
+E,251-500,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1322.61,CWRAUE-DA-EA,
+F,501-1000,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1241.2,CWRAUE-DA-FA,
+G,1001-2000,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1159.83,CWRAUE-DA-GA,
+H,2001-5000,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,1058.08,CWRAUE-DA-HA,
+I,5001-10000,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,997.02,CWRAUE-DA-IA,
+J,10001-+,Cloud Work Sec EDR UPGD (AU) 1:1TE,CWRAUE-DA,935.98,CWRAUE-DA-JA,

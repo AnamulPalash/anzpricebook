@@ -1,0 +1,2974 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Legacy - Email Software Options
+,Regional Data Center,,,,AURL,Attach/URL engine for Email Security(F)
+RDC-US,Data Center - US (ETP),,,,,Legacy - Classic Endpoint Virtual Appliances
+RDC-US-NVIRGINIA,Data Center - US East (N.Virginia),,,,2502HX-VA,2502 HX Virtual Appliance(F)
+RDC-US-OREGON,Data Center - US West (Oregon),,,,2500HX-DMZ-VA,2500 HX DMZ Virtual Appliance(F)
+RDC-US-OHIO,Data Center - US East (Ohio),,,,4500HX-DMZ-VA,4500 HX DMZ Virtual Appliance(F)
+RDC-GOVCLOUD,Data Center - GovCloud,,,,4502HX-VA,4502 HX Virtual Appliance(F)
+RDC-CA-CENTRAL,Data Center - Canada (Central),,,,4600HX-DMZ-VA,4600 HX DMZ Virtual Appliance(F)
+RDC-BR,Data Center - South America (Sao Paulo),,,,4600HX-VA,4600 HX Virtual Appliance(F)
+RDC-EU,Data Center - EU (ETP),,,,,Legacy - Classic Endpoint Hardware Appliances
+RDC-IE,Data Center - EU (Ireland),,,,4502HX-SW,4502 HX Appliance Software(F)
+RDC-DE,Data Center - EU (Frankfurt),,,,4502HX-DMZ-SW,4502 HX DMZ Appliance Software(F)
+RDC-UK,Data Center - UK (London),,,,4600HX,4600 HX Appliance(F)
+RDC-IT,Data Center - Italy (Milan),,,,4600HX-SW,4600 HX Appliance Software(F)
+RDC-FR,Data Center - France (Paris),,,,4600HX-DMZ,4600 HX DMZ Appliance(F)
+RDC-SE,Data Center - Sweden (Stockholm),,,,4600HX-DMZ-SW,4600 HX DMZ Appliance Software(F)
+RDC-BH,Data Center - Middle East (Bahrain),,,,,Legacy - Hermes Network NX Subscriptions
+RDC-ZA,Data Center - South Africa (Cape Town),,,,NWUNX,Network Security NX Edition(F)
+RDC-JP,Data Center - Asia Pacific (Tokyo),,,,NWUNS,Network Security NX Edition (SMB)(F)
+RDC-SG,Data Center - Asia Pacific (Singapore),,,,,Legacy - Classic Network NX Virtual Appliances
+RDC-AU,Data Center - Asia Pacific (Sydney),,,,12550VX-BM-VA,12550 VX BareMetal Virtual Appliance(F)
+RDC-IN,Data Center - Asia Pacific (Mumbai),,,,12550VX-BM-VA-DTI,12550 VX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F)
+RDC-HK,Data Center - Asia Pacific (Hong Kong),,,,1500NXS-VA,1500 NXS Virtual Sensor (50 Mbps)(F)
+RDC-SKR,Data Center - Asia Pacific (Seoul),,,,1500NXS-VA-DTI,1500 NXS Virtual Sensor (50 Mbps) - Dynamic Threat Intelligence(F)
+,Hermes Email Subscriptions,,,,1500VXSC-DTI,1500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+EMUSE,Email Security Server Edition(F),,,,2500NXS-VA,2500 NXS Virtual Sensor (100 Mbps)(F)
+EMUCL,Email Security Cloud Edition(F),,,,2500NXS-VA-DTI,2500 NXS Virtual Sensor (100 Mbps) - Dynamic Threat Intelligence(F)
+EMUCLU,Email Security Cloud Edition - Upgrade(F),,,,2500VXSC-DTI,2500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+EMUCA,Email Security Cloud AntiVirus/AntiSpam Edition(F),,,,2550NXS-VA,2550 NXS Virtual Sensor (250 Mbps)(F)
+EMUCAU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade(F),,,,2550NXS-VA-DTI,2550 NXS Virtual Sensor (250 Mbps) - Dynamic Threat Intelligence(F)
+,Hermes Email Virtual Appliance Deployment Options,,,,2550VXSC-DTI,2550 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+EM-VA,Email Security Sensor Virtual(F),,,,4500NXS-VA,4500 NXS Virtual Sensor (500 Mbps)(F)
+EM7700-BM-VA,Email Security 7700 BareMetal Virtual Appliance(F),,,,4500NXS-VA-DTI,4500 NXS Virtual Sensor (500 Mbps) - Dynamic Threat Intelligence(F)
+,Hermes Email Hardware Appliance Deployment Options,,,,4500VXSC-DTI,4500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+EM3600,EM 3600 Appliance(F),,,,6500NXS-VA,6500 NXS Virtual Sensor (1000 Mbps)(F)
+EM5600,EM 5600 Appliance(F),,,,6500NXS-VA-DTI,6500 NXS Virtual Sensor (1000 Mbps) - Dynamic Threat Intelligence(F)
+EM8600,EM 8600 Appliance(F),,,,6500VXSC-DTI,6500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,Hermes File Protect Subscriptions,,,,7500NXS-VA,7500 NXS Virtual Sensor (2000 Mbps)(F)
+NWEFX,File Security (Enterprise)(F),,,,7500NXS-VA-DTI,7500 NXS Virtual Sensor (2000 Mbps) - Dynamic Threat Intelligence(F)
+,Hermes On-Prem File Protect Hardware Deployment Options,,,,8500NXS-VA,8500 NXS Virtual Sensor (5000 Mbps)(F)
+NWFX6600,File Protect 6600 Appliance(F),,,,8500NXS-VA-DTI,8500 NXS Virtual Sensor (5000 Mbps) - Dynamic Threat Intelligence(F)
+,IVX File Share Connector Virtual Appliance Deployment Options,,,,,Legacy - Classic Network NX Hardware Appliances
+NWFX-VA,IVX File Share Connector(Formerly FX-VA)(F),,,,1500NXS-SW,1500 NXS Sensor Appliance (50Mbps) Software(F)
+,IVX Enterprise On-Prem - Hardware Appliances,,,,1500NXS-DTI,1500 NXS Sensor Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+5600MVX,5600 IVX Enterprise (Formerly MVX Compute) Appliance(F),,,,1500VXSCH-DTI,1500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+5600MVX-SW,5600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F),,,,2500NX1-SW,2500 NX1 Appliance (50Mbps) Software(F)
+5600MVX-DTI,5600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F),,,,2500NX1-DTI,2500 NX1 Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+12600MVX,12600 IVX Enterprise  (Formerly MVX Compute) Appliance(F),,,,2500VXC1-DTI,2500 MVX Cloud (50 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+12600MVX-SW,12600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F),,,,2500NX2-SW,2500 NX2 Appliance (100Mbps) Software(F)
+12600MVX-DTI,12600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F),,,,2500NX2-DTI,2500 NX2 Appliance (100Mbps) - Dynamic Threat Intelligence(F)
+,Legacy - Hermes IVX Enterprise Cloud Subscriptions  (Formerly DOD),,,,2500VXC2-DTI,2500 MVX Cloud (100 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+DOD,IVX Enterprise Cloud (Formely Detection on Demand)(F),,,,2550NX-SW,2550 NX Appliance Software(F)
+,Hermes IVX Investigator Subscriptions (Formerly AX),,,,2550NX-DTI,2550 NX Appliance - Dynamic Threat Intelligence(F)
+NFEAX,IVX Investigator (Formerly AX)(F),,,,2550VXC-DTI,2550 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX),,,,2600NX,2600 NX Appliance(F)
+NFAX5600,IVX Investigator 5600 Appliance  (Formerly AX)(F),,,,2600NX-SW,2600 NX Appliance Software(F)
+,Helix (SaaS),,,,2600NX-DTI,2600 NX Appliance - Dynamic Threat Intelligence(F)
+HLXE,Helix Enterprise Edition(F),,,,3500NX-SW,3500 NX Appliance Software(F)
+HLXS16,Helix Search 16(F),,,,3500NX-DTI,3500 NX Appliance - Dynamic Threat Intelligence(F)
+HLXS30,Helix Search 30(F),,,,3500VXC-DTI,3500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+HLXS60,Helix Search 60(F),,,,3600NX,3600 NX Appliance(F)
+HLXS90,Helix Search 90(F),,,,3600NX-SW,3600 NX Appliance Software(F)
+XDR-FS,XDR Federated Search across Cloud Instances(F),,,,3600NX-DTI,3600 NX Appliance - Dynamic Threat Intelligence(F)
+,Helix (On-Prem),,,,4500NX-SW,4500 NX Appliance Software(F)
+TAR,Trellix Automated Response (TAuR) or Automated Response(F),,,,4500NX-DTI,4500 NX Appliance - Dynamic Threat Intelligence(F)
+NW-EC-VA,Network Evidence Collector - Virtual Appliance Add-on for HLXE Helix(F),,,,4500VXC-DTI,4500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+NW-EC-VA-DTI,Network Evidence Collector - Virtual Appliance for HLXE Helix - DTI(F),,,,4600NX,4600 NX Appliance(F)
+,Hermes Endpoint Subscriptions,,,,4600NX-SW,4600 NX Appliance Software(F)
+EPEES,Endpoint Security Essentials Edition (Enterprise)(F),,,,4600NX-DTI,4600 NX Appliance - Dynamic Threat Intelligence(F)
+EPUES,Endpoint Security Essentials Edition(F),,,,5500NX-SW,5500 NX Appliance Software(F)
+EPEPW,Endpoint Security Power Edition (Enterprise)(F),,,,5500NX-DTI,5500 NX Appliance - Dynamic Threat Intelligence(F)
+EPEPWU,Endpoint Security Power Edition (Enterprise) - UPGRADE(F),,,,5500VXC-DTI,5500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+EPUPW,Endpoint Security Power Edition(F),,,,5600NX,5600 NX Appliance(F)
+EPUPWU,Endpoint Security Power Edition - UPGRADE(F),,,,5600NX-SW,5600 NX Appliance Software(F)
+,Hermes Endpoint Virtual Appliance Deployment Options,,,,5600NX-DTI,5600 NX Appliance - Dynamic Threat Intelligence(F)
+EP-VA,Endpoint Security Virtual(F),,,,6500NX-SW,6500 NX Appliance Software(F)
+EP-DMZ-VA,Endpoint Security DMZ Virtual(F),,,,6500NX-DTI,6500 NX Appliance - Dynamic Threat Intelligence(F)
+,Hermes Endpoint Hardware Appliance Deployment Options,,,,6500VXC-DTI,6500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+EP4600,EP 4600 Appliance(F),,,,6600NX,6600 NX Appliance(F)
+EP4600-DMZ,EP 4600 DMZ Appliance(F),,,,6600NX-SW,6600 NX Appliance Software(F)
+,Endpoint Cloud Deploy Options,,,,6600NX-DTI,6600 NX Appliance - Dynamic Threat Intelligence(F)
+HXCL,HX Cloud Hosting Endpoint - Large (F),,,,8600NX,8600 NX Appliance(F)
+HXCM,HX Cloud Hosting Endpoint - Medium(F),,,,8600NX-SW,8600 NX Appliance Software(F)
+,Hermes NDR Subscriptions,,,,8600NX-DTI,8600 NX Appliance - Dynamic Threat Intelligence(F)
+NDR,Network Detection and Response(F),,,,,Legacy - Classic IVX Enterprise (Formerly MVX Compute) Hardware Appliances
+,Hermes Network NX Subscriptions,,,,5500MVX-SW,5500 MVX Compute Appliance Software(F)
+NWENX,Network Security NX Edition (Enterprise)(F),,,,5500MVX-DTI,5500 MVX Compute - Dynamic Threat Intelligence(F)
+,Hermes Network NX Virtual Appliance Deployment Options,,,,12550MVX-SW,12550 MVX Compute Appliance Software(F)
+NW-VA,Network Security Sensor - Virtual Appliance(F),,,,12550MVX-DTI,12550 MVX Compute - Dynamic Threat Intelligence(F)
+VX12550-BM-VA,Network Security 12550 BareMetal - Virtual Appliance(F),,,,,Legacy - Hermes VX ISO Virtual Appliance Deployment Options
+NSNW-EC-VA,Network Evidence Collector - Virtual Appliance for Network Security(F),,,,NWVXISO-1G-VA-S,Network Security VXISO-1G - Virtual Appliance Subscription(F)
+,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options,,,,NWVXISO-1G-VA,Network Security VXISO-1G - Virtual Appliance(F)
+VX5600,IVX 5600 Enterprise (Formerly SmartGrid) Appliance(F),,,,NWVXISO-5G-VA-S,Network Security VXISO-5G - Virtual Appliance Subscription(F)
+VX12600,IVX 12600 Enterprise (Formerly SmartGrid) Appliance(F),,,,NWVXISO-5G-VA,Network Security VXISO-5G - Virtual Appliance(F)
+,Hermes Network NX Hardware Appliance Deployment Options,,,,NWVXISO-10G-VA-S,Network Security VXISO-10G - Virtual Appliance Subscription(F)
+NW2600,NW 2600 Appliance(F),,,,NWVXISO-10G-VA,Network Security VXISO-10G - Virtual Appliance(F)
+NW3600,NW 3600 Appliance(F),,,,,Legacy - Classic VX ISO Virtual Appliances
+NW4600,NW 4600 Appliance(F),,,,VXISO-1G,VX Software Image 1G(F)
+NW5600,NW 5600 Appliance(F),,,,VXISO-1G-DTI,VX Software Image 1G - Dynamic Threat Intelligence(F)
+NW6600,NW 6600 Appliance(F),,,,VXISO-5G,VX Software Image 5G(F)
+NW8600,NW 8600 Appliance(F),,,,VXISO-5G-DTI,VX Software Image 5G - Dynamic Threat Intelligence(F)
+,Hermes Forensics IA PX Subscrtiptions,,,,VXISO-10G,VX Software Image 10G(F)
+NFEIAPX,Forensics(F),,,,VXISO-10G-DTI,VX Software Image 10G - Dynamic Threat Intelligence(F)
+,Hermes Forensics IA Virtual Appliance Deployment Options,,,,,Legacy - Classic IVX Investigator/Malware Analysis AX Hardware Appliances
+NFIA-VA,Network Forensics Security IA - Virtual Appliance(F),,,,5550AX-SW,5550 AX Appliance Software(F)
+,Hermes Forensics IA Hardware Appliance Deployment Options,,,,5550AX-DTI,5550 AX Appliance - Dynamic Threat Intelligence(F)
+NFIA2600,NFIA 2600 Appliance(F),,,,5600AX,5600 IVX Investigator (Formerly AX) Appliance(F)
+,Hermes Forensics PX Virtual Appliance Deployment Options,,,,5600AX-SW,5600 IVX Investigator (Formerly AX) Appliance Software(F)
+NFPX-VA,Network Forensics Security PX - Virtual Appliance(F),,,,5600AX-DTI,5600 IVX Investigator (Formerly AX) Appliance - Dynamic Threat Intelligence(F)
+,Hermes Forensics PX Hardware Appliance Deployment Options,,,,,Legacy - Forensics IA Virtual Appliances
+NFPX5600,NFPX 5600 Appliance(F),,,,IA-VA,IA Virtual Appliance(F)
+NFPX7600,NFPX 7600 Appliance(F),,,,,Legacy - Classic Forensics IA Hardware Appliances
+NFPX7620,NFPX 7620 Appliance(F),,,,1000DIA-SW,1000D IA Appliance Software(F)
+,Hermes Forensics Storage SX Subscriptions,,,,2100IA-HN48-SW,2100 HN48 IA Appliance Software(F)
+NFE5000SX,Network Forensics Storage 704TB(F),,,,2600IA,2600 IA Appliance(F)
+,Hermes Forensics Storage Hardware Appliance Deployment Options,,,,2600IA-SW,2600 IA Appliance Software(F)
+NFSX5000,NFSX 5000 Appliance(F),,,,,Legacy - Central Management Hardware Appliance
+,Hermes Central Management Virtual Appliance Deployment Options,,,,4500CM-SW,4500 CM Appliance Software(F)
+CM-VA-S,Central Management - Virtual Appliance Subscription(F),,,,4500CM-SW-DTI,4500 CM Appliance Software - Dynamic Threat Intelligence(F)
+CM-VA,Central Management - Virtual Appliance(F),,,,7500CM-SW,7500 CM Appliance Software(F)
+,Central Management  Virtual Appliances,,,,7500CM-SW-DTI,7500 CM Appliance Software - Dynamic Threat Intelligence(F)
+2500CM-VA,2500 CM Virtual Appliance(F),,,,9500CM-SW,9500 CM Appliance Software(F)
+2500CM-VA-DTI,2500 CM Virtual Appliance - Dynamic Threat Intelligence(F),,,,9500CM-SW-DTI,9500 CM Appliance Software - Dynamic Threat Intelligence(F)
+4500CM-VA,4500 CM Virtual Appliance(F),,,,,Legacy - Central Management Cloud
+4500CM-VA-DTI,4500 CM Virtual Appliance - Dynamic Threat Intelligence(F),,,,CM2500-CLOUD,CM 2500 Cloud(F)
+7500CM-VA,7500 CM Virtual Appliance(F),,,,CM2500-CLOUD-DTI,CM 2500 Cloud - Dynamic Threat Intelligence(F)
+7500CM-VA-DTI,7500 CM Virtual Appliance - Dynamic Threat Intelligence(F),,,,,Legacy - Classic Forensics PX Virtual Appliances
+,Central Management Hardware Appliance,,,,PX-VA,PX Virtual Appliance(F)
+4600CM,4600 CM Appliance(F),,,,,Legacy - Classic Forensics PX Hardware Appliances
+4600CM-SW,4600 CM Appliance Software(F),,,,1004SPX-SW,1004 S PX Appliance Software(F)
+4600CM-SW-DTI,4600 CM Appliance Software - Dynamic Threat Intelligence(F),,,,2060PX-ESS96-SW,2060 ESS96 PX  Appliance Software(F)
+7600CM,7600 CM Appliance(F),,,,2060PX-ESS120-SW,2060 ESS120 PX  Appliance Software(F)
+7600CM-SW,7600 CM Appliance Software(F),,,,2060PX-EXT20-SW,2060 EXT 20 PX Appliance Software(F)
+7600CM-SW-DTI,7600 CM Appliance Software - Dynamic Threat Intelligence(F),,,,4000SX-440PX-SW,4000 SX 440 PX  Appliance Software(F)
+9600CM,9600 CM Appliance(F),,,,5600PX,5600 PX Appliance(F)
+9600CM-SW,9600 CM Appliance Software(F),,,,5600PX-SW,5600 PX Appliance Software(F)
+9600CM-SW-DTI,9600 CM Appliance Software - Dynamic Threat Intelligence(F),,,,7600PX,7600 PX Appliance(F)
+,Legacy - Helix,,,,7600PX-SW,7600 PX Appliance Software(F)
+FSO,Security Orchestration(F),,,,7620PX,7620 PX Appliance(F)
+,Legacy - Classic Email Virtual Appliances,,,,7620PX-SW,7620 PX Appliance Software(F)
+7700EX-BM-VA,7700 EX BareMetal Virtual Appliance(F),,,,,Legacy - Classic Forensics Storage Hardware Appliances
+7700EX-BM-VA-DTI,7700 EX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F),,,,5000SX,5000 SX Appliance(F)
+5500EXS-VA,5500 EX Virtual Sensor Appliance(F),,,,5000SX-SW,5000 SX Appliance Software(F)
+5500EXS-VA-DTI,5500 EX Virtual Sensor Appliance - Dynamic Threat Intelligence(F),,,,,Legacy - Classic File Security Virtual Appliances
+,Legacy - Classic Email Hardware Appliances,,,,2500FX-VA,2500 FX Virtual Appliance(F)
+3500EX-SW,3500 EX Appliance Software(F),,,,2500FX-VA-DTI,2500 FX Virtual Appliance - Dynamic Threat Intelligence(F)
+3500EX-DTI,3500 EX Appliance - Dynamic Threat Intelligence(F),,,,,Legacy - Classic File Security Hardware Appliances
+3600EX,3600 EX Appliance(F),,,,6500FX-SW,6500 FX Appliance Software(F)
+3600EX-SW,3600 EX Appliance Software(F),,,,6500FX-DTI,6500 FX Appliance - Dynamic Threat Intelligence(F)
+3600EX-DTI,3600 EX Appliance - Dynamic Threat Intelligence(F),,,,6600FX,6600 FX Appliance(F)
+5500EX-SW,5500 EX Appliance Software(F),,,,6600FX-SW,6600 FX Appliance Software(F)
+5500EX-DTI,5500 EX Appliance - Dynamic Threat Intelligence(F),,,,6600FX-DTI,6600 FX Appliance - Dynamic Threat Intelligence(F)
+5600EX,5600 EX Appliance(F),,,,,
+5600EX-SW,5600 EX Appliance Software(F),,,,,
+5600EX-DTI,5600 EX Appliance - Dynamic Threat Intelligence(F),,,,,
+8500EX-SW,8500 EX Appliance Software(F),,,,,
+8500EX-DTI,8500 EX Appliance - Dynamic Threat Intelligence(F),,,,,
+8600EX,8600 EX Appliance(F),,,,,
+8600EX-SW,8600 EX Appliance Software(F),,,,,
+8600EX-DTI,8600 EX Appliance - Dynamic Threat Intelligence(F),,,,,
+Trellix Legacy (former FireEye),,,,,,
+,Regional Data Center,,,,,
+RDC-US,Data Center - US (ETP),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - US ETP,RDC-US-ETP,0,RDC-US-ETPAA,
+RDC-US-NVIRGINIA,Data Center - US East (N.Virginia),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - US E-NVirginia,RDC-US-NORTHVA,0,RDC-US-NORTHVA-AA,
+RDC-US-OREGON,Data Center - US West (Oregon),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - US W-Oregon,RDC-US-OREGON,0,RDC-US-OREGON-AA,
+RDC-US-OHIO,Data Center - US East (Ohio),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - US E-Ohio,RDC-US-OHIO,0,RDC-US-OHIO-AA,
+RDC-GOVCLOUD,Data Center - GovCloud,,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - GovCloud,RDC-GOVCLOUD,0,RDC-GOVCLOUD-AA,
+RDC-CA-CENTRAL,Data Center - Canada (Central),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - CA-Central,RDC-CA-CENTRAL,0,RDC-CA-CENTRAL-AA,
+RDC-BR,Data Center - South America (Sao Paulo),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - BR-SaoPaulo,RDC-BR-SAO,0,RDC-BR-SAOAA,
+RDC-EU,Data Center - EU (ETP),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - EU ETP,RDC-EU-ETP,0,RDC-EU-ETPAA,
+RDC-IE,Data Center - EU (Ireland),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - EU-IE-Ireland,RDC-EU-IE,0,RDC-EU-IE-AA,
+RDC-DE,Data Center - EU (Frankfurt),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - EU-DE-Frankfurt,RDC-EU-DE,0,RDC-EU-DE-AA,
+RDC-UK,Data Center - UK (London),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - UK-London,RDC-UK-LDN,0,RDC-UK-LDNAA,
+RDC-IT,Data Center - Italy (Milan),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - IT-Milan,RDC-IT-MIL,0,RDC-IT-MILAA,
+RDC-FR,Data Center - France (Paris),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - FR-Paris,RDC-FR-PAR,0,RDC-FR-PARAA,
+RDC-SE,Data Center - Sweden (Stockholm),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - SE-Stockholm,RDC-SE-STH,0,RDC-SE-STHAA,
+RDC-BH,Data Center - Middle East (Bahrain),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - ME-BH-Bahrain,RDC-ME-BH,0,RDC-ME-BH-AA,
+RDC-ZA,Data Center - South Africa (Cape Town),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - ZA-Cape Town,RDC-ZA-CPT,0,RDC-ZA-CPTAA,
+RDC-JP,Data Center - Asia Pacific (Tokyo),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-JP-Tokyo,RDC-AP-JP,0,RDC-AP-JP-AA,
+RDC-SG,Data Center - Asia Pacific (Singapore),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-SG-Singapore,RDC-AP-SG,0,RDC-AP-SG-AA,
+RDC-AU,Data Center - Asia Pacific (Sydney),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-AU-Sydney,RDC-AP-AU,0,RDC-AP-AU-AA,
+RDC-IN,Data Center - Asia Pacific (Mumbai),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-IN-Mumbai,RDC-AP-IN,0,RDC-AP-IN-AA,
+RDC-HK,Data Center - Asia Pacific (Hong Kong),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-HK-HongKong,RDC-AP-HK,0,RDC-AP-HK-AA,
+RDC-SKR,Data Center - Asia Pacific (Seoul),,,,,
+,Standard Offering,,,,,
+,Tenant Platform,,,,,
+A,1-1,RDC - AP-SKR-Seoul,RDC-AP-SKR,0,RDC-AP-SKRAA,
+,Hermes Email Subscriptions,,,,,
+EMUSE,"Email Security Server Edition(F)
+LICENSE: Per User
+DELIVERABLE: Activation email
+CONTENT:  Hermes base Subscription. Activation keys for Agents, DTI Content and Support for Email On-prem.
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys. ",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,107.87,EMSE2WE1E-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,76.41,EMSE2WE1E-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,62.93,EMSE2WE1E-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,58.43,EMSE2WE1E-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,56.18,EMSE2WE1E-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) 2W 1:1TE,EMSE2WE1E-AA,47.19,EMSE2WE1E-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,124.07,EMSE1WE1E-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,87.87,EMSE1WE1E-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,72.36,EMSE1WE1E-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,67.19,EMSE1WE1E-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,64.6,EMSE1WE1E-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) 1W 1:1TE,EMSE1WE1E-AA,54.3,EMSE1WE1E-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,129.46,EMSEOFE1E-AA-AA,
+B,251-1000,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,91.7,EMSEOFE1E-AA-BA,
+C,1001-2000,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,75.51,EMSEOFE1E-AA-CA,
+D,2001-5000,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,70.12,EMSEOFE1E-AA-DA,
+E,5001-10000,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,67.42,EMSEOFE1E-AA-EA,
+F,10001-+,Email Sec Srv Ed (user) OF 1:1TE,EMSEOFE1E-AA,56.64,EMSEOFE1E-AA-FA,
+EMUCL,"Email Security Cloud Edition(F)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud without AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+REQUIREMENTS:  Physical/virtual appliance deployment options are not relevant to the Cloud Service solution 
+NOTE:  Trellix-F IAM hosted only",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,107.87,EMCL2WE1E-AA-AA,
+B,251-1000,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,76.41,EMCL2WE1E-AA-BA,
+C,1001-2000,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,62.93,EMCL2WE1E-AA-CA,
+D,2001-5000,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,58.43,EMCL2WE1E-AA-DA,
+E,5001-10000,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,56.18,EMCL2WE1E-AA-EA,
+F,10001-+,Email Sec Cld Ed (user) 2W 1:1TE,EMCL2WE1E-AA,47.19,EMCL2WE1E-AA-FA,
+EMUCLU,"Email Security Cloud Edition - Upgrade(F)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud without AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+REQUIREMENTS:  Physical/virtual appliance deployment options are not relevant to the Cloud Service solution 
+NOTE:  Trellix-F IAM hosted only",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,107.87,EMCL2WE1E-DA-AA,
+B,251-1000,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,76.41,EMCL2WE1E-DA-BA,
+C,1001-2000,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,62.93,EMCL2WE1E-DA-CA,
+D,2001-5000,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,58.43,EMCL2WE1E-DA-DA,
+E,5001-10000,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,56.18,EMCL2WE1E-DA-EA,
+F,10001-+,Email Sec Cld Ed UP (user) 2W 1:1TE,EMCL2WE1E-DA,47.19,EMCL2WE1E-DA-FA,
+EMUCA,"Email Security Cloud AntiVirus/AntiSpam Edition(F)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+REQUIREMENTS:  Physical/virtual appliance deployment options are not relevant to the Cloud Service solution 
+NOTE:  Trellix-F IAM hosted only",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,158.6,EMCA2WE1E-AA-AA,
+B,251-1000,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,112.33,EMCA2WE1E-AA-BA,
+C,1001-2000,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,92.5,EMCA2WE1E-AA-CA,
+D,2001-5000,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,73.04,EMCA2WE1E-AA-DA,
+E,5001-10000,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,70.25,EMCA2WE1E-AA-EA,
+F,10001-+,Email Sec Cld AVAS Ed (user) 2W 1:1TE,EMCA2WE1E-AA,58.99,EMCA2WE1E-AA-FA,
+EMUCAU,"Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade(F)
+LICENSE: Per User
+DELIVERABLE: SaaS with activation email
+CONTENT: Email Cloud including AntiVirus/AntiSpam functionality.
+MANAGEMENT: Email Cloud has its own console
+REQUIREMENTS:  Physical/virtual appliance deployment options are not relevant to the Cloud Service solution 
+NOTE:  Trellix-F IAM hosted only",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,158.6,EMCA2WE1E-DA-AA,
+B,251-1000,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,112.33,EMCA2WE1E-DA-BA,
+C,1001-2000,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,92.5,EMCA2WE1E-DA-CA,
+D,2001-5000,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,73.04,EMCA2WE1E-DA-DA,
+E,5001-10000,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,70.25,EMCA2WE1E-DA-EA,
+F,10001-+,Email Sec Cld AVAS Ed UP (user) 2W 1:1TE,EMCA2WE1E-DA,58.99,EMCA2WE1E-DA-FA,
+,Hermes Email Virtual Appliance Deployment Options,,,,,
+EM-VA,"Email Security Sensor Virtual(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+CONTENT: Performance up to 1250 unique attachments per hour
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE: Sensor requires VX (virtual execution) in any form factor.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM Virt Appl Sensor SW PERP LIC,VEMSCAE-AT,0,VEMSCAE-ATAA,
+EM7700-BM-VA,"Email Security 7700 BareMetal Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal. Activation code is sent via an email.
+CONTENT: Performance up to 6100 unique attachments per hour.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Email Server Edition subscription.
+NOTE: BareMetal appliance is an integrated appliance like any physical appliance.  No seperate VX (virtual execution) is needed as It runs on c5 metal AWS instance.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EM 7700 BM Virt Appl SW PERP LIC,VEMB7700CAE-AT,0,VEMB7700CAE-AT-AA,
+,Hermes Email Hardware Appliance Deployment Options,,,,,
+EM3600,"EM 3600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 875 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 3600 Appliance,EM-3600,35957.79,EM-3600A,
+EM5600,"EM 5600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 2200 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 5600 Appliance,EM-5600,71915.57,EM-5600A,
+EM8600,"EM 8600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT:  Performance up to 3300 unique attachments per hour
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Email Server Edition subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EM 8600 Appliance,EM-8600,107873.36,EM-8600A,
+,Hermes File Protect Subscriptions,,,,,
+NWEFX,"File Security (Enterprise)(F)
+LICENSE: Per Appliance
+Content: File Security",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security 2W 1:1TE,NWFX2WE1E-AA,142332.9,NWFX2WE1E-AA-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security 1W 1:1TE,NWFX1WE1E-AA,156566.19,NWFX1WE1E-AA-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,File Security OF 1:1TE,NWFXOFE1E-AA,170799.48,NWFXOFE1E-AA-AA,
+,Hermes On-Prem File Protect Hardware Deployment Options,,,,,
+NWFX6600,"File Protect 6600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes File Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,File Protect 6600 Appliance,NWFX-6600,133557.49,NWFX-6600A,
+,IVX File Share Connector Virtual Appliance Deployment Options,,,,,
+NWFX-VA,"IVX File Share Connector(Formerly FX-VA)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with IVX Cloud, IVX Virtual, or IVX On-Prem subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,File Share Connector SW PERP LIC,VNWFXCAE-AT,0,VNWFXCAE-AT-AA,
+,IVX Enterprise On-Prem - Hardware Appliances,,,,,
+5600MVX,"5600 IVX Enterprise (Formerly MVX Compute) Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 IVX Enterprise Appliance,MVX-5600,23099.98,MVX-5600A,
+5600MVX-SW,"5600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5600 IVX Ent Appl SW PERP LIC,MVX5600CAE-AT,124002.41,MVX5600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl SW 1yr TE,MVX5600PTM-AT,31007.38,MVX5600PTM-AT-AA,
+5600MVX-DTI,"5600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl DTI 2W 1:1TE,MVX5600D2WGAEAT,34452.67,MVX5600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl DTI 1W 1:1TE,MVX5600D1WGAEAT,51678.97,MVX5600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Ent Appl DTI OF 1:1TE,MVX5600DOFGAEAT,55124.23,MVX5600DOFGAEAT-AA,
+12600MVX,"12600 IVX Enterprise  (Formerly MVX Compute) Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,12600 IVX Enterprise Appliance,MVX-12600,86800.79,MVX-12600A,
+12600MVX-SW,"12600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 12600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for a base Hermes subscription related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,12600 IVX Ent Appl SW PERP LIC,MVX12600CAE-AT,488236.11,MVX12600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl SW 1yr TE,MVX12600PTM-AT,106279.14,MVX12600PTM-AT-AA,
+12600MVX-DTI,"12600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 12600IVX Enterprise appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl DTI 2W 1:1TE,MVX1260D2WGAEAT,118087.93,MVX1260D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl DTI 1W 1:1TE,MVX1260D1WGAEAT,177131.9,MVX1260D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12600 IVX Ent Appl DTI OF 1:1TE,MVX1260DOFGAEAT,188940.71,MVX1260DOFGAEAT-AA,
+,Legacy - Hermes IVX Enterprise Cloud Subscriptions  (Formerly DOD),,,,,
+DOD,"IVX Enterprise Cloud (Formely Detection on Demand)(F)
+LICENSE: Per User
+DELIVERABLE: IVX Enterprise Cloud
+REQUIREMENTS: Minimum New Sale Order Quantity is 250 Users
+NOTE:  Trellix-F IAM hosted only
+Customer purchasing on a Per-User basis may use the Product for up to twenty (20) submissions per User per month of the Product Term, aggregated across all of Customer’s Users. ""Submissions"" are files or other artefacts submitted to the Product by Customer for processing.  User’s here refers to the employee count of the organization.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,IVX Enterprise Cloud 1:1TE,DODE1E-AA,74.48,DODE1E-AA-AA,
+B,251-1000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,69.34,DODE1E-AA-BA,
+C,1001-2000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,64.21,DODE1E-AA-CA,
+D,2001-5000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,61.63,DODE1E-AA-DA,
+E,5001-10000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,59.08,DODE1E-AA-EA,
+F,10001-20000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,56.5,DODE1E-AA-FA,
+G,20001-50000,IVX Enterprise Cloud 1:1TE,DODE1E-AA,53.94,DODE1E-AA-GA,
+H,50001-+,IVX Enterprise Cloud 1:1TE,DODE1E-AA,51.36,DODE1E-AA-HA,
+,Hermes IVX Investigator Subscriptions (Formerly AX),,,,,
+NFEAX,"IVX Investigator (Formerly AX)(F)
+LICENSE: Per Appliance
+CONTENT: IVX Investigator",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator 2W 1:1TE,NFAX2WE1E-AT,104876.87,NFAX2WE1E-AT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator 1W 1:1TE,NFAX1WE1E-AT,120608.4,NFAX1WE1E-AT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,IVX Investigator OF 1:1TE,NFAXOFE1E-AT,125852.25,NFAXOFE1E-AT-AA,
+,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX),,,,,
+NFAX5600,"IVX Investigator 5600 Appliance  (Formerly AX)(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes IVX Investigator subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX Investigator 5600 Appliance,NFAX-5600,47943.71,NFAX-5600A,
+,Helix (SaaS),,,,,
+HLXE,"Helix Enterprise Edition(F)
+LICENSE: Per EPS (Events Per Second)
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Helix is a cloud-hosted security operations platform that allows organizations to take control of any incident from alert to fix. Helix integrates disparate security tools and augments them with next generation SIEM, orchestration, and threat intelligence capabilities to capture the untapped potential of security investments.
+NOTE:  Trellix-F IAM hosted only",,,,,
+,1Yr Data Retention Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,341.02,HLXER1E1E-AA-AA,
+B,251-1000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,314.74,HLXER1E1E-AA-BA,
+C,1001-2000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,288.53,HLXER1E1E-AA-CA,
+D,2001-5000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,262.29,HLXER1E1E-AA-DA,
+E,5001-10000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,236.01,HLXER1E1E-AA-EA,
+F,10001-20000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,209.79,HLXER1E1E-AA-FA,
+G,20001-50000,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,201.9,HLXER1E1E-AA-GA,
+H,50001-+,Helix Ent Ed 1yr RET 1:1TE,HLXER1E1E-AA,191.41,HLXER1E1E-AA-HA,
+,2Yr Data Retention Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,479.72,HLXER2E1E-AA-AA,
+B,251-1000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,453.49,HLXER2E1E-AA-BA,
+C,1001-2000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,427.23,HLXER2E1E-AA-CA,
+D,2001-5000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,401.01,HLXER2E1E-AA-DA,
+E,5001-10000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,374.78,HLXER2E1E-AA-EA,
+F,10001-20000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,348.52,HLXER2E1E-AA-FA,
+G,20001-50000,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,340.65,HLXER2E1E-AA-GA,
+H,50001-+,Helix Ent Ed 2yr RET 1:1TE,HLXER2E1E-AA,330.16,HLXER2E1E-AA-HA,
+,3Yr Data Retention Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,618.41,HLXER3E1E-AA-AA,
+B,251-1000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,596.98,HLXER3E1E-AA-BA,
+C,1001-2000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,575.56,HLXER3E1E-AA-CA,
+D,2001-5000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,554.11,HLXER3E1E-AA-DA,
+E,5001-10000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,532.71,HLXER3E1E-AA-EA,
+F,10001-20000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,511.27,HLXER3E1E-AA-FA,
+G,20001-50000,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,504.83,HLXER3E1E-AA-GA,
+H,50001-+,Helix Ent Ed 3yr RET 1:1TE,HLXER3E1E-AA,496.26,HLXER3E1E-AA-HA,
+,5Yr Data Retention Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,895.89,HLXER5E1E-AA-AA,
+B,251-1000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,877.94,HLXER5E1E-AA-BA,
+C,1001-2000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,860.08,HLXER5E1E-AA-CA,
+D,2001-5000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,842.13,HLXER5E1E-AA-DA,
+E,5001-10000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,824.23,HLXER5E1E-AA-EA,
+F,10001-20000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,806.32,HLXER5E1E-AA-FA,
+G,20001-50000,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,800.95,HLXER5E1E-AA-GA,
+H,50001-+,Helix Ent Ed 5yr RET 1:1TE,HLXER5E1E-AA,793.78,HLXER5E1E-AA-HA,
+,7Yr Data Retention Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1173.33,HLXER7E1E-AA-AA,
+B,251-1000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1158.97,HLXER7E1E-AA-BA,
+C,1001-2000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1144.61,HLXER7E1E-AA-CA,
+D,2001-5000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1130.26,HLXER7E1E-AA-DA,
+E,5001-10000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1115.88,HLXER7E1E-AA-EA,
+F,10001-20000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1101.52,HLXER7E1E-AA-FA,
+G,20001-50000,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1097.24,HLXER7E1E-AA-GA,
+H,50001-+,Helix Ent Ed 7yr RET 1:1TE,HLXER7E1E-AA,1091.48,HLXER7E1E-AA-HA,
+HLXS16,"Helix Search 16(F)
+LICENSE: Per EPS (Events Per Second)
+DELIVERABLE: Add-on feature to Helix.
+CONTENT: Extends the number of days of Indexed (fast) search to 16.
+REQUIREMENTS:  For HLXE customers only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Search 16 1:1TE,HLXS16GAE-AA,264.11,HLXS16GAE-AA-AA,
+HLXS30,"Helix Search 30(F)
+LICENSE: Per EPS (Events Per Second)
+DELIVERABLE: Add-on feature to Helix.
+CONTENT: Extends the number of days of Indexed (fast) search to 30.
+REQUIREMENTS:  For HLXE customers only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Search 30 1:1TE,HLXS30GAE-AA,674.92,HLXS30GAE-AA-AA,
+HLXS60,"Helix Search 60(F)
+LICENSE: Per EPS (Events Per Second)
+DELIVERABLE: Add-on feature to Helix.
+CONTENT: Extends the number of days of Indexed (fast) search to 60.
+REQUIREMENTS:  For HLXE customers only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Search 60 1:1TE,HLXS60GAE-AA,1555.27,HLXS60GAE-AA-AA,
+HLXS90,"Helix Search 90(F)
+LICENSE: Per EPS (Events Per Second)
+DELIVERABLE: Add-on feature to Helix.
+CONTENT: Extends the number of days of Indexed (fast) search to 90.
+REQUIREMENTS:  For HLXE customers only.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Search 90 1:1TE,HLXS90GAE-AA,2435.59,HLXS90GAE-AA-AA,
+XDR-FS,"XDR Federated Search across Cloud Instances(F)
+LICENSE: Per Helix Instance
+DELIVERABLE: Cloud Instance Feature (Parent to Child Cloud Instance deployment mode)
+CONTENT: Federated Search capability across related HLXE Helix Enterprise Cloud Instances. Available for MSSP, and other pre-authorized Federated Search clients only - for an ability to search across multiple related Helix instances from a parent instance.
+REQUIREMENTS: This option is ONLY available for HLXE Trellix-F IAM Helix Enterprise.  HLXE Subscription must be quoted and ordered in conjunction with this additional XDR-FS SKU included - in all new and subsequent renewals.",,,,,
+,Standard Offering,,,,,
+,Federated Platform,,,,,
+A,1-+,XDR Federated Search,XDR-FS,0,XDR-FS,
+,Helix (On-Prem),,,,,
+TAR,"Trellix Automated Response (TAuR) or Automated Response(F)
+LICENSE: Per Unit (Customer is entitled to 5 users per instance)
+DELIVERABLE: Software download for installation in customer’s hypervisor environment (No hypervisor license or hardware is included)
+CONTENT: On-Prem security orchestration and automated response for Helix and third-party SIEMs
+Additional comments: Trellix recommends purchasing Trellix Consulting Services along with TAuR On-Prem (for Jumpstart services).",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Trellix Automated Response 1:1TE,TARE1E-AA,224917.11,TARE1E-AA-AA,
+NW-EC-VA,"Network Evidence Collector - Virtual Appliance Add-on for HLXE Helix(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Virtual Machine Software
+CONTENT: Evidence Collector Virtual Appliance - for HLXE Helix
+RESTRICTIONS:  Maximum Quantity 10 applies. Refer to Deal Desk for exceptions
+REQUIREMENTS: Only for including as a VM option for customers with a base HLXE Helix subscription. Must additionally purchase DTI subscription option for the virtual appliance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NW Evidence Collector Virt Appl 1:1TE,VNWECGAE-AT,0,VNWECGAE-AT-AA,
+NW-EC-VA-DTI,"Network Evidence Collector - Virtual Appliance for HLXE Helix - DTI(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Content and Support Key
+CONTENT: DTI Subscription and Support for Network Evidence Collector Virtual Appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Evidence Collector Virtual Appliance Subscription.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NW EC Virt Appl DTI 2W 1:1TE,VNWECD2WE1EAT,0,VNWECD2WE1EAT-AA,
+,Hermes Endpoint Subscriptions,,,,,
+EPEES,"Endpoint Security Essentials Edition (Enterprise)(F)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Basic Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Logon Tracker and Device Control for removable storage devices), EDR with basic investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,113.56,EPES2WE1E-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,101.94,EPES2WE1E-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,90.28,EPES2WE1E-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,75.72,EPES2WE1E-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,61.15,EPES2WE1E-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,43.67,EPES2WE1E-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,34.95,EPES2WE1E-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) 2W 1:1TE,EPES2WE1E-AT,29.12,EPES2WE1E-AT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,130.63,EPES1WE1E-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,117.22,EPES1WE1E-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,103.81,EPES1WE1E-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,87.07,EPES1WE1E-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,70.29,EPES1WE1E-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,50.27,EPES1WE1E-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,40.18,EPES1WE1E-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) 1W 1:1TE,EPES1WE1E-AT,33.49,EPES1WE1E-AT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,136.3,EPESOFE1E-AT-AA,
+B,251-1000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,122.31,EPESOFE1E-AT-BA,
+C,1001-2000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,108.33,EPESOFE1E-AT-CA,
+D,2001-5000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,90.85,EPESOFE1E-AT-DA,
+E,5001-10000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,73.37,EPESOFE1E-AT-EA,
+F,10001-20000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,52.43,EPESOFE1E-AT-FA,
+G,20001-50000,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,41.94,EPESOFE1E-AT-GA,
+H,50001-+,Endpoint Sec ES Ed (endpt) OF 1:1TE,EPESOFE1E-AT,34.95,EPESOFE1E-AT-HA,
+EPUES,"Endpoint Security Essentials Edition(F)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Basic Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Logon Tracker and Device Control for removable storage devices), EDR with basic investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,136.85,EPES2WE1E-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,122.31,EPES2WE1E-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,107.74,EPES2WE1E-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,96.1,EPES2WE1E-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,75.72,EPES2WE1E-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) 2W 1:1TE,EPES2WE1E-AA,55.32,EPES2WE1E-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,157.42,EPES1WE1E-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,140.67,EPES1WE1E-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,123.9,EPES1WE1E-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,110.54,EPES1WE1E-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,87.07,EPES1WE1E-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) 1W 1:1TE,EPES1WE1E-AA,63.62,EPES1WE1E-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,164.25,EPESOFE1E-AA-AA,
+B,251-1000,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,146.78,EPESOFE1E-AA-BA,
+C,1001-2000,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,129.3,EPESOFE1E-AA-CA,
+D,2001-5000,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,115.31,EPESOFE1E-AA-DA,
+E,5001-10000,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,90.85,EPESOFE1E-AA-EA,
+F,10001-+,Endpoint Sec ES Ed (user) OF 1:1TE,EPESOFE1E-AA,66.42,EPESOFE1E-AA-FA,
+EPEPW,"Endpoint Security Power Edition (Enterprise)(F)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,170.35,EPPW2WE1E-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,152.88,EPPW2WE1E-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,135.4,EPPW2WE1E-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,113.56,EPPW2WE1E-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,91.73,EPPW2WE1E-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,65.54,EPPW2WE1E-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,52.43,EPPW2WE1E-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) 2W 1:1TE,EPPW2WE1E-AT,43.67,EPPW2WE1E-AT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,187.43,EPPW1WE1E-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,168.19,EPPW1WE1E-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,148.97,EPPW1WE1E-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,124.92,EPPW1WE1E-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,100.89,EPPW1WE1E-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,72.09,EPPW1WE1E-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,57.66,EPPW1WE1E-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) 1W 1:1TE,EPPW1WE1E-AT,48.06,EPPW1WE1E-AT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,193.09,EPPWOFE1E-AT-AA,
+B,251-1000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,173.27,EPPWOFE1E-AT-BA,
+C,1001-2000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,153.45,EPPWOFE1E-AT-CA,
+D,2001-5000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,128.71,EPPWOFE1E-AT-DA,
+E,5001-10000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,103.94,EPPWOFE1E-AT-EA,
+F,10001-20000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,74.25,EPPWOFE1E-AT-FA,
+G,20001-50000,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,59.42,EPPWOFE1E-AT-GA,
+H,50001-+,Endpoint Sec PWR Ed (endpt) OF 1:1TE,EPPWOFE1E-AT,49.51,EPPWOFE1E-AT-HA,
+EPEPWU,"Endpoint Security Power Edition (Enterprise) - UPGRADE(F)
+LICENSE: Per Endpoint
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,170.35,EPPW2WE1E-DT-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,152.88,EPPW2WE1E-DT-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,135.4,EPPW2WE1E-DT-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,113.56,EPPW2WE1E-DT-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,91.73,EPPW2WE1E-DT-EA,
+F,10001-20000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,65.54,EPPW2WE1E-DT-FA,
+G,20001-50000,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,52.43,EPPW2WE1E-DT-GA,
+H,50001-+,Endpoint Sec PWR Ed UP (endpt) 2W 1:1TE,EPPW2WE1E-DT,43.67,EPPW2WE1E-DT-HA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,187.43,EPPW1WE1E-DT-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,168.19,EPPW1WE1E-DT-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,148.97,EPPW1WE1E-DT-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,124.92,EPPW1WE1E-DT-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,100.89,EPPW1WE1E-DT-EA,
+F,10001-20000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,72.09,EPPW1WE1E-DT-FA,
+G,20001-50000,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,57.66,EPPW1WE1E-DT-GA,
+H,50001-+,Endpoint Sec PWR Ed UP (endpt) 1W 1:1TE,EPPW1WE1E-DT,48.06,EPPW1WE1E-DT-HA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,193.09,EPPWOFE1E-DT-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,173.27,EPPWOFE1E-DT-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,153.45,EPPWOFE1E-DT-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,128.71,EPPWOFE1E-DT-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,103.94,EPPWOFE1E-DT-EA,
+F,10001-20000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,74.25,EPPWOFE1E-DT-FA,
+G,20001-50000,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,59.42,EPPWOFE1E-DT-GA,
+H,50001-+,Endpoint Sec PWR Ed UP (endpt) OF 1:1TE,EPPWOFE1E-DT,49.51,EPPWOFE1E-DT-HA,
+EPUPW,"Endpoint Security Power Edition(F)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately.
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,205.29,EPPW2WE1E-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,183.46,EPPW2WE1E-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,161.62,EPPW2WE1E-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,144.16,EPPW2WE1E-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,113.56,EPPW2WE1E-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) 2W 1:1TE,EPPW2WE1E-AA,83,EPPW2WE1E-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,225.83,EPPW1WE1E-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,201.8,EPPW1WE1E-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,177.78,EPPW1WE1E-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,158.56,EPPW1WE1E-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,124.92,EPPW1WE1E-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) 1W 1:1TE,EPPW1WE1E-AA,91.28,EPPW1WE1E-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,232.67,EPPWOFE1E-AA-AA,
+B,251-1000,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,207.92,EPPWOFE1E-AA-BA,
+C,1001-2000,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,183.18,EPPWOFE1E-AA-CA,
+D,2001-5000,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,163.35,EPPWOFE1E-AA-DA,
+E,5001-10000,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,128.71,EPPWOFE1E-AA-EA,
+F,10001-+,Endpoint Sec PWR Ed (user) OF 1:1TE,EPPWOFE1E-AA,94.06,EPPWOFE1E-AA-FA,
+EPUPWU,"Endpoint Security Power Edition - UPGRADE(F)
+LICENSE: Per User
+DELIVERABLE: On-premise or Cloud deployment with license keys for Agents, Content and Support with activation email.
+MANAGEMENT: Trellix Endpoint Security (HX)
+CONTENT: Comprehensive Protection plus Advanced Investigation. Proactively stop advanced threats and attack campaigns at your endpoints to keep your users and data safe. Includes Integrated next-gen AV, exploit detection, behavior monitoring, endpoint containment, optional modules (such as Host Remediation, Logon Tracker and Device Control for removable storage devices), EDR with advanced investigation and forensics for Windows, macOS and Linux platforms. Upto 10 VA licenses included in the subscription but must be quoted separately
+REQUIREMENTS: Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,205.29,EPPW2WE1E-DA-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,183.46,EPPW2WE1E-DA-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,161.62,EPPW2WE1E-DA-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,144.16,EPPW2WE1E-DA-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,113.56,EPPW2WE1E-DA-EA,
+F,10001-+,Endpoint Sec PWR Ed UP (user) 2W 1:1TE,EPPW2WE1E-DA,83,EPPW2WE1E-DA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,225.83,EPPW1WE1E-DA-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,201.8,EPPW1WE1E-DA-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,177.78,EPPW1WE1E-DA-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,158.56,EPPW1WE1E-DA-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,124.92,EPPW1WE1E-DA-EA,
+F,10001-+,Endpoint Sec PWR Ed UP (user) 1W 1:1TE,EPPW1WE1E-DA,91.28,EPPW1WE1E-DA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,232.67,EPPWOFE1E-DA-AA,
+B,251-1000,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,207.92,EPPWOFE1E-DA-BA,
+C,1001-2000,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,183.18,EPPWOFE1E-DA-CA,
+D,2001-5000,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,163.35,EPPWOFE1E-DA-DA,
+E,5001-10000,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,128.71,EPPWOFE1E-DA-EA,
+F,10001-+,Endpoint Sec PWR Ed UP (user) OF 1:1TE,EPPWOFE1E-DA,94.06,EPPWOFE1E-DA-FA,
+,Hermes Endpoint Virtual Appliance Deployment Options,,,,,
+EP-VA,"Endpoint Security Virtual(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Software download for installation in customer's VMware environment (VMware license and hardware not included)
+CONTENT: Integrated Endpoint Detection & Response virtual appliance. Includes software downloads for 4600 VA and 2502 VA. 4600 VA can be deployed as a VMware virtual appliance that protects up to 100,000 endpoints and supports 8 cores CPU, 64 GB RAM, and 5000 GB Disk. Includes 2 VMXNET3 Virtual NIC. 2502 VA can be deployed as a VMware virtual appliance that protects up to 15,000 endpoints and supports 4 cores CPU, 16 GB RAM, and 1200 GB Disk. Includes 2 VMXNET3 Virtual NIC.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EP Virt Appl SW PERP LIC,VEPCAE-AT,0,VEPCAE-AT-AA,
+EP-DMZ-VA,"Endpoint Security DMZ Virtual(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Software download for installation in customer's VMware environment (VMware license and hardware not included)
+CONTENT: Integrated Endpoint Detection & Response virtual appliance. Includes software downloads for 4600 DMZ VA and 2500 DMZ VA. 4600 DMZ VA can be deployed as a VMware virtual appliance in the DMZ that protects up to 100,000 endpoints and supports 8 cores CPU, 64 GB RAM, and 5000 GB Disk. Includes 2 VMXNET3 Virtual NIC. 2500 DMZ VA can be deployed as a VMware virtual appliance in the DMZ protecting up to 15,000 endpoints and supports 4 cores CPU, 16 GB RAM, and 512 GB Disk. Includes 2 VMXNET3 Virtual NIC.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+Purchase/Existing Trellix Endpoint Security Appliance (HX) is required",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,EP DMZ Virt Appl SW PERP LIC,VEPDCAE-AT,0,VEPDCAE-ATAA,
+,Hermes Endpoint Hardware Appliance Deployment Options,,,,,
+EP4600,"EP 4600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EP 4600 Appliance,EP-4600,39312.84,EP-4600A,
+EP4600-DMZ,"EP 4600 DMZ Appliance(F)
+LICENSE: Per Appliance
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS: Only for including as a HW deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription.
+Purchase/Existing Trellix Endpoint Security Appliance (HX) is required.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,EP 4600 DMC Appliance,EP-4600D,39312.84,EP-4600DA,
+,Endpoint Cloud Deploy Options,,,,,
+HXCL,"HX Cloud Hosting Endpoint - Large (F)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG 1:1TE,HXCLGAE-AA,43680.94,HXCLGAE-AAAA,
+HXCM,"HX Cloud Hosting Endpoint - Medium(F)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoints. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD 1:1TE,HXCMGAE-AA,27284.29,HXCMGAE-AAAA,
+,Hermes NDR Subscriptions,,,,,
+NDR,"Network Detection and Response(F)
+LICENSE: Per User
+This subscription will enable NDR capabilities on the IA (Network Forensics Investigator).
+IA is available in both appliance and virtual form factor.  Network sensor subscriptions are different, please refer to NX, IPS and PX subscriptions for their pricing.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,NDR 2W 1:1TE,NDR2WE1E-AA,Call For Quote,NDR2WE1E-AA-AA,
+B,251-1000,NDR 2W 1:1TE,NDR2WE1E-AA,211.25,NDR2WE1E-AA-BA,
+C,1001-2000,NDR 2W 1:1TE,NDR2WE1E-AA,179.75,NDR2WE1E-AA-CA,
+D,2001-5000,NDR 2W 1:1TE,NDR2WE1E-AA,151.96,NDR2WE1E-AA-DA,
+E,5001-10000,NDR 2W 1:1TE,NDR2WE1E-AA,129.72,NDR2WE1E-AA-EA,
+F,10001-+,NDR 2W 1:1TE,NDR2WE1E-AA,111.19,NDR2WE1E-AA-FA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,NDR 1W 1:1TE,NDR1WE1E-AA,Call For Quote,NDR1WE1E-AA-AA,
+B,251-1000,NDR 1W 1:1TE,NDR1WE1E-AA,242.94,NDR1WE1E-AA-BA,
+C,1001-2000,NDR 1W 1:1TE,NDR1WE1E-AA,206.71,NDR1WE1E-AA-CA,
+D,2001-5000,NDR 1W 1:1TE,NDR1WE1E-AA,174.75,NDR1WE1E-AA-DA,
+E,5001-10000,NDR 1W 1:1TE,NDR1WE1E-AA,149.18,NDR1WE1E-AA-EA,
+F,10001-+,NDR 1W 1:1TE,NDR1WE1E-AA,127.86,NDR1WE1E-AA-FA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,NDR OF 1:1TE,NDROFE1E-AA,Call For Quote,NDROFE1E-AA-AA,
+B,251-1000,NDR OF 1:1TE,NDROFE1E-AA,253.51,NDROFE1E-AA-BA,
+C,1001-2000,NDR OF 1:1TE,NDROFE1E-AA,215.7,NDROFE1E-AA-CA,
+D,2001-5000,NDR OF 1:1TE,NDROFE1E-AA,182.35,NDROFE1E-AA-DA,
+E,5001-10000,NDR OF 1:1TE,NDROFE1E-AA,155.66,NDROFE1E-AA-EA,
+F,10001-+,NDR OF 1:1TE,NDROFE1E-AA,133.42,NDROFE1E-AA-FA,
+,Hermes Network NX Subscriptions,,,,,
+NWENX,"Network Security NX Edition (Enterprise)(F)
+LICENSE: Per Mbps Network Bandwidth
+DELIVERABLE: Activation email
+CONTENT:  Network Security is an advanced threat protection platform that provides visibility into and protection against the world’s most sophisticated attacks. Built on the patented Multi-vector Virtual Execution (MVX) engine.
+NOTE: For all New Business Subscriptions or existing customer Subscription Expansions - the Miniumum Purchase Quantity is 500 and Orders must be in 'multiples of 500' (example a customer requiring 800 or 1900 must purchase as a QTY 1000 or 2000 respectively).  This Hermes Subscriptions incorporates and entitles up to 2 Virtual CM and 5 Virtual NX.  Additional Virtual Deploy Quantities require PM Approvals and may be at additional cost.
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys. ",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) 2W 1:1TE,NWNX2WE1E-AT,177.22,NWNX2WE1E-AT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) 1W 1:1TE,NWNX1WE1E-AT,203.83,NWNX1WE1E-AT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (Mbps) OF 1:1TE,NWNXOFE1E-AT,212.68,NWNXOFE1E-AT-AA,
+,Hermes Network NX Virtual Appliance Deployment Options,,,,,
+NW-VA,"Network Security Sensor - Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NW Virt Appl Sensor SW PERP LIC,VNWSCAE-AT,0,VNWSCAE-ATAA,
+VX12550-BM-VA,"Network Security 12550 BareMetal - Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal. Activation code is sent via an email.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX 12550 BM Virt Appl SW PERP LIC,VVXB12550CAE-AT,315029.04,VVXB12550CAE-AT-AA,
+NSNW-EC-VA,"Network Evidence Collector - Virtual Appliance for Network Security(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Virtual Machine Software
+CONTENT: Evidence Collector Virtual Appliance - for Network Security
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NW Evidence Collector Virt Appl PERP LIC,VNWECCAE-AT,0,VNWECCAE-AT-AA,
+,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options,,,,,
+VX5600,"IVX 5600 Enterprise (Formerly SmartGrid) Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security or Hermes Email Security subscriptions.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX 5600 Enterprise Appliance,VX-5600,46025.96,VX-5600A,
+VX12600,"IVX 12600 Enterprise (Formerly SmartGrid) Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security or Hermes Email Security subscriptions..",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,IVX 12600 Enterprise Appliance,VX-12600,165260.53,VX-12600A,
+,Hermes Network NX Hardware Appliance Deployment Options,,,,,
+NW2600,"NW 2600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 2600 Appliance,NW-2600,46231.44,NW-2600A,
+NW3600,"NW 3600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 3600 Appliance,NW-3600,71915.57,NW-3600A,
+NW4600,"NW 4600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 4600 Appliance,NW-4600,92462.88,NW-4600A,
+NW5600,"NW 5600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 5600 Appliance,NW-5600,169515.27,NW-5600A,
+NW6600,"NW 6600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 6600 Appliance,NW-6600,369851.51,NW-6600A,
+NW8600,"NW 8600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Network Security subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NW 8600 Appliance,NW-8600,475156.45,NW-8600A,
+,Hermes Forensics IA PX Subscrtiptions,,,,,
+NFEIAPX,"Forensics(F)
+LICENSE: Per Mbps Network Bandwidth
+CONTENT: Forensics",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Forensics 1:1TE,NFIAPXE1E-AT,116.85,NFIAPXE1E-AT-AA,
+,Hermes Forensics IA Virtual Appliance Deployment Options,,,,,
+NFIA-VA,"Network Forensics Security IA - Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NFIA Virt Appl SW PERP LIC,VNFIACAE-AT,0,VNFIACAE-AT-AA,
+,Hermes Forensics IA Hardware Appliance Deployment Options,,,,,
+NFIA2600,"NFIA 2600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFIA 2600 Appliance,NFIA-2600,269683.39,NFIA-2600A,
+,Hermes Forensics PX Virtual Appliance Deployment Options,,,,,
+NFPX-VA,"Network Forensics Security PX - Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a VM deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,NFPX Virt Appl SW PERP LIC,VNFPXCAE-AT,0,VNFPXCAE-AT-AA,
+,Hermes Forensics PX Hardware Appliance Deployment Options,,,,,
+NFPX5600,"NFPX 5600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 5600 Appliance,NFPX-5600,282525.46,NFPX-5600A,
+NFPX7600,"NFPX 7600 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 7600 Appliance,NFPX-7600,449472.32,NFPX-7600A,
+NFPX7620,"NFPX 7620 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFPX 7620 Appliance,NFPX-7620,308209.59,NFPX-7620A,
+,Hermes Forensics Storage SX Subscriptions,,,,,
+NFE5000SX,"Network Forensics Storage 704TB(F)
+LICENSE: Per Appliance
+CONTENT: Forensics Storage
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of Forensics SX deployment option physical appliances  - for corresponding appliance activation keys.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Forensics SX 704TB 1:1TE,NFE5000SXE1E-AA,256841.32,NFE5000SXE1E-AA-AA,
+,Hermes Forensics Storage Hardware Appliance Deployment Options,,,,,
+NFSX5000,"NFSX 5000 Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Sensor HW unit (Only)
+REQUIREMENTS:  Only for including as a HW deployment option for customers with a base Hermes Forensics Storage SX subscription.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,NFSX 5000 Appliance,NFSX-5000,436630.25,NFSX-5000A,
+,Hermes Central Management Virtual Appliance Deployment Options,,,,,
+CM-VA-S,"Central Management - Virtual Appliance Subscription(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM Virt Appl SW 1:1TE,VCMGAE-AT,23030.95,VCMGAE-AT-AA,
+CM-VA,"Central Management - Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Only for including as a $0 Hermes VM deployment option for customers with a base Hermes subscription (as applicable for Email and Network Security and per the entitled quantity limits). The charged options will, otherwise, apply.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,CM Virt Appl SW PERP LIC,VCMCAE-AT,0,VCMCAE-AT-AA,
+,Central Management  Virtual Appliances,,,,,
+2500CM-VA,"2500 CM Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2500 CM Virt Appl PERP LIC,VCM2500CAE-AT,28766.23,VCM2500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl 1Yr TE,VCM2500PTM-AT,5316.61,VCM2500PTM-AT-AA,
+2500CM-VA-DTI,"2500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI 2W 1:1TE,VCM2500D2WGAEAT,0,VCM2500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI 1W 1:1TE,VCM2500D1WGAEAT,0,VCM2500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 CM Virt Appl DTI OF 1:1TE,VCM2500DOFGAEAT,0,VCM2500DOFGAEAT-AA,
+4500CM-VA,"4500 CM Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4500 CM Virt Appl PERP LIC,VCM4500CAE-AT,34375.63,VCM4500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl 1Yr TE,VCM4500PTM-AT,6353.36,VCM4500PTM-AT-AA,
+4500CM-VA-DTI,"4500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI 2W 1:1TE,VCM4500D2WGAEAT,0,VCM4500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI 1W 1:1TE,VCM4500D1WGAEAT,0,VCM4500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Virt Appl DTI OF 1:1TE,VCM4500DOFGAEAT,0,VCM4500DOFGAEAT-AA,
+7500CM-VA,"7500 CM Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for any base Hermes subscription customers (Email and or Network Security) seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7500 CM Virt Appl PERP LIC,VCM7500CAE-AT,77381.15,VCM7500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl 1Yr TE,VCM7500PTM-AT,14301.69,VCM7500PTM-AT-AA,
+7500CM-VA-DTI,"7500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the virtual appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding virtual appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI 2W 1:1TE,VCM7500D2WGAEAT,0,VCM7500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI 1W 1:1TE,VCM7500D1WGAEAT,0,VCM7500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Virt Appl DTI OF 1:1TE,VCM7500DOFGAEAT,0,VCM7500DOFGAEAT-AA,
+,Central Management Hardware Appliance,,,,,
+4600CM,"4600 CM Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,4600 CM Appliance,CM-4600,24944.25,CM-4600A,
+4600CM-SW,"4600 CM Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 CM Appl SW PERP LIC,CM4600CAE-AT,38341.54,CM4600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW 1yr TE,CM4600PTM-AT,11696.55,CM4600PTM-AT-AA,
+4600CM-SW-DTI,"4600 CM Appliance Software - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 4600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI 2W 1:1TE,CM4600D2WGAEAT,0,CM4600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI 1W 1:1TE,CM4600D1WGAEAT,0,CM4600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 CM Appl SW DTI OF 1:1TE,CM4600DOFGAEAT,0,CM4600DOFGAEAT-AA,
+7600CM,"7600 CM Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,7600 CM Appliance,CM-7600,32299.25,CM-7600A,
+7600CM-SW,"7600 CM Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 7600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7600 CM Appl SW PERP LIC,CM7600CAE-AT,53711.79,CM7600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW 1yr TE,CM7600PTM-AT,15896.67,CM7600PTM-AT-AA,
+7600CM-SW-DTI,"7600 CM Appliance Software - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 7600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI 2W 1:1TE,CM7600D2WGAEAT,0,CM7600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI 1W 1:1TE,CM7600D1WGAEAT,0,CM7600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7600 CM Appl SW DTI OF 1:1TE,CM7600DOFGAEAT,0,CM7600DOFGAEAT-AA,
+9600CM,"9600 CM Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,9600 CM Appliance,CM-9600,44012.34,CM-9600A,
+9600CM-SW,"9600 CM Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 9600CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,9600 CM Appl SW PERP LIC,CM9600CAE-AT,185829.82,CM9600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW 1yr TE,CM9600PTM-AT,42479.75,CM9600PTM-AT-AA,
+9600CM-SW-DTI,"9600 CM Appliance Software - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 9600CM appliance.
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI 2W 1:1TE,CM9600D2WGAEAT,0,CM9600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI 1W 1:1TE,CM9600D1WGAEAT,0,CM9600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9600 CM Appl SW DTI OF 1:1TE,CM9600DOFGAEAT,0,CM9600DOFGAEAT-AA,
+,Legacy - Helix,,,,,
+FSO,"Security Orchestration(F)
+End-of-Sale 10th April 2023.  End-of-Life/Support is 10th April 2026. Support contracts cannot extend past the End-of-Life/Support Date.
+LICENSE: Per Unit
+DELIVERABLE:
+CONTENT:Security Orchestration for Helix",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Security Orch 1:1TE,FSOE1E-AA,0,FSOE1E-AA-AA,
+,Legacy - Classic Email Virtual Appliances,,,,,
+7700EX-BM-VA,"7700 EX BareMetal Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal.
+Activation code is sent via an email.
+CONTENT: Performance up to 6100 unique attachments per hour.
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: BareMetal appliance is an integrated appliance like any physical appliance. No seperate VX (virtual execution) is needed as it runs on c5 metal AWS instance.
+This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7700 EX BM Virt Appl PERP LIC,VEXB7700CAE-AT,306911.68,VEXB7700CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7700 EX BM Virt Appl 1Yr TE,VEXB7700PTM-AT,56723.87,VEXB7700PTM-AT-AA,
+7700EX-BM-VA-DTI,"7700 EX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7700 EX BM Virt Appl DTI 2W 1:1TE,VEXB770D2WGAEAT,63026.5,VEXB770D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7700 EX BM Virt Appl DTI 1W 1:1TE,VEXB770D1WGAEAT,94539.77,VEXB770D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7700 EX BM Virt Appl DTI OF 1:1TE,VEXB770DOFGAEAT,100842.4,VEXB770DOFGAEAT-AA,
+5500EXS-VA,"5500 EX Virtual Sensor Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTE: Sensor requires VX (virtual execution) in any form factor.
+This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5500 EX Virt Ssr Appl PERP LIC,VEX5500CAE-AT,142464.75,VEX5500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5500 EX Virt Ssr Appl 1Yr TE,VEX5500PTM-AT,26330.56,VEX5500PTM-AT-AA,
+5500EXS-VA-DTI,"5500 EX Virtual Sensor Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Virt Ssr Appl DTI 2W 1:1TE,VEX5500D2WGAEAT,29256.16,VEX5500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Virt Ssr Appl DTI 1W 1:1TE,VEX5500D1WGAEAT,43884.26,VEX5500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Virt Ssr Appl DTI OF 1:1TE,VEX5500DOFGAEAT,46809.86,VEX5500DOFGAEAT-AA,
+,Legacy - Classic Email Hardware Appliances,,,,,
+3500EX-SW,"3500 EX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 3500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,3500 EX Appl SW 1yr TE,EX3500PTM-AT,20346.4,EX3500PTM-AT-AA,
+3500EX-DTI,"3500 EX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 3500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 EX Appl DTI 2W 1:1TE,EX3500D2WGAEAT,22607.1,EX3500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 EX Appl DTI 1W 1:1TE,EX3500D1WGAEAT,33910.67,EX3500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 EX Appl DTI OF 1:1TE,EX3500DOFGAEAT,36171.36,EX3500DOFGAEAT-AA,
+3600EX,"3600 EX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Performance up to 875 unique attachments per hour
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,3600 EX Appliance,EX-3600,31028.51,EX-3600A,
+3600EX-SW,"3600 EX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 3600EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,3600 EX Appl SW PERP LIC,EX3600CAE-AT,82141.04,EX3600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,3600 EX Appl SW 1yr TE,EX3600PTM-AT,18577.15,EX3600PTM-AT-AA,
+3600EX-DTI,"3600 EX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 3600EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 EX Appl DTI 2W 1:1TE,EX3600D2WGAEAT,20641.26,EX3600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 EX Appl DTI 1W 1:1TE,EX3600D1WGAEAT,30961.9,EX3600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 EX Appl DTI OF 1:1TE,EX3600DOFGAEAT,33026.04,EX3600DOFGAEAT-AA,
+5500EX-SW,"5500 EX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,5500 EX Appl SW 1yr TE,EX5500PTM-AT,37330.01,EX5500PTM-AT-AA,
+5500EX-DTI,"5500 EX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Appl DTI 2W 1:1TE,EX5500D2WGAEAT,41477.8,EX5500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Appl DTI 1W 1:1TE,EX5500D1WGAEAT,62216.72,EX5500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 EX Appl DTI OF 1:1TE,EX5500DOFGAEAT,66364.48,EX5500DOFGAEAT-AA,
+5600EX,"5600 EX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Performance up to 2200 unique attachments per hour
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 EX Appliance,EX-5600,32299.25,EX-5600A,
+5600EX-SW,"5600 EX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5600 EX Appl SW PERP LIC,EX5600CAE-AT,125771.17,EX5600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5600 EX Appl SW 1yr TE,EX5600PTM-AT,29214.8,EX5600PTM-AT-AA,
+5600EX-DTI,"5600 EX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 EX Appl DTI 2W 1:1TE,EX5600D2WGAEAT,32460.89,EX5600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 EX Appl DTI 1W 1:1TE,EX5600D1WGAEAT,48691.34,EX5600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 EX Appl DTI OF 1:1TE,EX5600DOFGAEAT,51937.42,EX5600DOFGAEAT-AA,
+8500EX-SW,"8500 EX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 8500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,8500 EX Appl SW 1yr TE,EX8500PTM-AT,74694.02,EX8500PTM-AT-AA,
+8500EX-DTI,"8500 EX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 8500EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8500 EX Appl DTI 2W 1:1TE,EX8500D2WGAEAT,82993.35,EX8500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8500 EX Appl DTI 1W 1:1TE,EX8500D1WGAEAT,124490.04,EX8500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8500 EX Appl DTI OF 1:1TE,EX8500DOFGAEAT,132789.36,EX8500DOFGAEAT-AA,
+8600EX,"8600 EX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Performance up to 3300 unique attachments per hour
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,8600 EX Appliance,EX-8600,42992.45,EX-8600A,
+8600EX-SW,"8600 EX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 8600EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Email Server Edition subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,8600 EX Appl SW PERP LIC,EX8600CAE-AT,273292.25,EX8600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,8600 EX Appl SW 1yr TE,EX8600PTM-AT,58456.2,EX8600PTM-AT-AA,
+8600EX-DTI,"8600 EX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 8600EX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 EX Appl DTI 2W 1:1TE,EX8600D2WGAEAT,64951.31,EX8600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 EX Appl DTI 1W 1:1TE,EX8600D1WGAEAT,97426.98,EX8600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 EX Appl DTI OF 1:1TE,EX8600DOFGAEAT,103922.09,EX8600DOFGAEAT-AA,
+,Legacy - Email Software Options,,,,,
+AURL,"Attach/URL engine for Email Security(F)
+LICENSE: Per User
+CONTENT: Attach/URL
+REQUIREMENTS:  For Classic Email customers Only (feature already included in Hermes)",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Attach/URL engine 1:1TE,AURLGAE-AA,110.28,AURLGAE-AAAA,
+B,251-1000,Attach/URL engine 1:1TE,AURLGAE-AA,84.61,AURLGAE-AABA,
+C,1001-2000,Attach/URL engine 1:1TE,AURLGAE-AA,71.78,AURLGAE-AACA,
+D,2001-5000,Attach/URL engine 1:1TE,AURLGAE-AA,53.72,AURLGAE-AADA,
+E,5001-10000,Attach/URL engine 1:1TE,AURLGAE-AA,44.09,AURLGAE-AAEA,
+F,10001-20000,Attach/URL engine 1:1TE,AURLGAE-AA,36.88,AURLGAE-AAFA,
+G,20001-50000,Attach/URL engine 1:1TE,AURLGAE-AA,28.51,AURLGAE-AAGA,
+H,50001-+,Attach/URL engine 1:1TE,AURLGAE-AA,20.77,AURLGAE-AAHA,
+,Legacy - Classic Endpoint Virtual Appliances,,,,,
+2502HX-VA,"2502 HX Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+NOTE:This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2502 HX Virt Appl PERP LIC,VHX2502CAE-AT,29120.62,VHX2502CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2502 HX BM Virt Appl 1Yr TE,VHX2502PTM-AT,5241.7,VHX2502PTM-AT-AA,
+2500HX-DMZ-VA,"2500 HX DMZ Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+NOTE:This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2500 HX DMZ Virt Appl PERP LIC,VHX2500DCAE-AT,19219.61,VHX2500DCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 HX DMZ Virt Appl 1Yr TE,VHX2500DPTM-AT,3459.54,VHX2500DPTM-AT-AA,
+4500HX-DMZ-VA,"4500 HX DMZ Virtual Appliance(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 HX DMZ Virt Appl 1Yr TE,VHX4500DPTM-AT,9891.08,VHX4500DPTM-AT-AA,
+4502HX-VA,"4502 HX Virtual Appliance(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4502 HX Virt Appl 1Yr TE,VHX4502PTM-AT,14779.09,VHX4502PTM-AT-AA,
+4600HX-DMZ-VA,"4600 HX DMZ Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+CONTENT: VA license and support for classic sale option of 4600HX DMZ VA
+",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 HX DMZ Virt Appl PERP LIC,VHX4600DCAE-AT,50087.49,VHX4600DCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 HX DMZ Virt Appl 1Yr TE,VHX4600DPTM-AT,9015.75,VHX4600DPTM-AT-AA,
+4600HX-VA,"4600 HX Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+CONTENT: VA license and support for classic sale option of 4600HX VA",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 HX Virt Appl PERP LIC,VHX4600CAE-AT,74840.01,VHX4600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 HX Virt Appl 1Yr TE,VHX4600PTM-AT,13471.21,VHX4600PTM-AT-AA,
+,Legacy - Classic Endpoint Hardware Appliances,,,,,
+4502HX-SW,"4502 HX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4502 HX Appl SW 1yr TE,HX4502PTM-AT,18863.4,HX4502PTM-AT-AA,
+4502HX-DMZ-SW,"4502 HX DMZ Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4502D HX Appl SW 1yr TE,HX4502DPTM-AT,12565.1,HX4502DPTM-AT-AA,
+4600HX,"4600 HX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,4600 HX Appliance,HX-4600,25488.75,HX-4600A,
+4600HX-SW,"4600 HX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4600HX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 HX Appl SW PERP LIC,HX4600CAE-AT,26928.34,HX4600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 HX Appl SW 1yr TE,HX4600PTM-AT,9435.09,HX4600PTM-AT-AA,
+4600HX-DMZ,"4600 HX DMZ Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+CONTENT: Integrated Endpoint Detection & Response appliance in a 1U chassis. This appliance can be deployed as an on-premise hardware appliance that protects up to 100,000 endpoints. Includes 8 cores CPU E3-2378 @ 2.6GHz, 64 GB RAM DDR4 @ 2666MHz, and 4x 4TB HDD, RAID10, Motherboard Interface Ports: 2x 1GigE BaseT, 1x IPMI, 2x USB2 (rear), 2x USB3 (rear), 1x DB9 Serial, 1x VGA, Power Supply Unit of 400W, 100-240V AC, 50-60 Hz
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,4600D HX Appliance,HX-4600D,25488.78,HX-4600DA,
+4600HX-DMZ-SW,"4600 HX DMZ Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4600HX-DMZ appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Endpoint subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600D HX Appl SW PERP LIC,HX4600DCAE-AT,26928.34,HX4600DCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600D HX Appl SW 1yr TE,HX4600DPTM-AT,6290.05,HX4600DPTM-AT-AA,
+,Legacy - Hermes Network NX Subscriptions,,,,,
+NWUNX,"Network Security NX Edition(F)
+LICENSE: Per User
+DELIVERABLE: Activation email
+CONTENT:  Network Security is an advanced threat protection platform that provides visibility into and protection against the world’s most sophisticated attacks. Built on the patented Multi-vector Virtual Execution (MVX) engine.
+REQUIREMENTS:  Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys. ",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (user) 2W 1:1TE,NWNX2WE1E-AA,177.22,NWNX2WE1E-AA-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (user) 1W 1:1TE,NWNX1WE1E-AA,203.83,NWNX1WE1E-AA-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Network Sec NX Ed (user) OF 1:1TE,NWNXOFE1E-AA,212.68,NWNXOFE1E-AA-AA,
+NWUNS,"Network Security NX Edition (SMB)(F)
+LICENSE: Per User
+DELIVERABLE: Activation email
+CONTENT:  Network Security is an advanced threat protection platform that provides visibility into and protection against the world’s most sophisticated attacks. Built on the patented Multi-vector Virtual Execution (MVX) engine.
+REQUIREMENTS:
+Available to Small Business ( up to 2000 users Only)
+Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances  - for corresponding appliance activation keys. ",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-2000,Network Sec NX SMB Ed (user) 2W 1:1TE,NWNS2WE1E-AA,100.16,NWNS2WE1E-AA-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-2000,Network Sec NX SMB Ed (user) 1W 1:1TE,NWNS1WE1E-AA,115.2,NWNS1WE1E-AA-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-2000,Network Sec NX SMB Ed (user) OF 1:1TE,NWNSOFE1E-AA,120.21,NWNSOFE1E-AA-AA,
+,Legacy - Classic Network NX Virtual Appliances,,,,,
+12550VX-BM-VA,"12550 VX BareMetal Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: AMI image that can be downloaded from Trellix Cloud portal. Activation code is sent via an email.
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking Virtual Appliance Deployment Option.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,12550 VX BM Virt Appl PERP LIC,VVXB1255CCAE-AT,501730.97,VVXB1255CCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,12550 VX BM Virt Appl 1Yr TE,VVXB12550PTM-AT,92730.64,VVXB12550PTM-AT-AA,
+12550VX-BM-VA-DTI,"12550 VX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 VX BM Virt Appl DTI 2W 1:1TE,VB12550D2WGAEAT,103034.05,VB12550D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 VX BM Virt Appl DTI 1W 1:1TE,VB12550D1WGAEAT,154551.05,VB12550D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 VX BM Virt Appl DTI OF 1:1TE,VB12550DOFGAEAT,164854.45,VB12550DOFGAEAT-AA,
+1500NXS-VA,"1500 NXS Virtual Sensor (50 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,1500 NXS Virt Ssr Appl PERP LIC,VNXS1500CAE-AT,16780.3,VNXS1500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl 1Yr TE,VNXS1500PTM-AT,3101.37,VNXS1500PTM-AT-AA,
+1500NXS-VA-DTI,"1500 NXS Virtual Sensor (50 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 1500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS150D2WGAEAT,3445.95,VNXS150D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS150D1WGAEAT,5168.95,VNXS150D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS150DOFGAEAT,5513.53,VNXS150DOFGAEAT-AA,
+1500VXSC-DTI,"1500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / Virtual 1500NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 MVX Cld for Appl 2W DTI 1:1TE,VXSC15002WE1EAT,11899.57,VXSC15002WE1EAT-AA,
+2500NXS-VA,"2500 NXS Virtual Sensor (100 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2500 NXS Virt Ssr Appl PERP LIC,VNXS2500CAE-AT,29365.52,VNXS2500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 NXS Virt Ssr Appl 1Yr TE,VNXS2500PTM-AT,5427.39,VNXS2500PTM-AT-AA,
+2500NXS-VA-DTI,"2500 NXS Virtual Sensor (100 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 2500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS250D2WGAEAT,6030.41,VNXS250D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS250D1WGAEAT,9045.63,VNXS250D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS250DOFGAEAT,9648.68,VNXS250DOFGAEAT-AA,
+2500VXSC-DTI,"2500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / Virtual 2500NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 MVX Cld for VA Snr 2W DTI 1:1TE,VXSC25002WE1EAT,23799.15,VXSC25002WE1EAT-AA,
+2550NXS-VA,"2550 NXS Virtual Sensor (250 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2550 NXS Virt Ssr Appl PERP LIC,VNXS2550CAE-AT,58731.05,VNXS2550CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2550 NXS Virt Ssr Appl 1Yr TE,VNXS2550PTM-AT,10854.76,VNXS2550PTM-AT-AA,
+2550NXS-VA-DTI,"2550 NXS Virtual Sensor (250 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 2550NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS255D2WGAEAT,12060.86,VNXS255D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS255D1WGAEAT,18091.27,VNXS255D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS255DOFGAEAT,19297.35,VNXS255DOFGAEAT-AA,
+2550VXSC-DTI,"2550 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / Virtual 2550NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 MVX Cld for VA Snr 2W DTI 1:1TE,VXSC25502WE1EAT,49580.4,VXSC25502WE1EAT-AA,
+4500NXS-VA,"4500 NXS Virtual Sensor (500 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4500 NXS Virt Ssr Appl PERP LIC,VNXS4500CAE-AT,162768.91,VNXS4500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 NXS Virt Ssr Appl 1Yr TE,VNXS4500PTM-AT,30083.17,VNXS4500PTM-AT-AA,
+4500NXS-VA-DTI,"4500 NXS Virtual Sensor (500 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 4500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS450D2WGAEAT,33425.77,VNXS450D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS450D1WGAEAT,50138.63,VNXS450D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS450DOFGAEAT,53481.21,VNXS450DOFGAEAT-AA,
+4500VXSC-DTI,"4500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / Virtual 4500NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 MVX Cld for VA Snr 2W DTI 1:1TE,VXSC45002WE1EAT,85004.81,VXSC45002WE1EAT-AA,
+6500NXS-VA,"6500 NXS Virtual Sensor (1000 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,6500 NXS Virt Ssr Appl PERP LIC,VNXS6500CAE-AT,249858.67,VNXS6500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,6500 NXS Virt Ssr Appl 1Yr TE,VNXS6500PTM-AT,46179.24,VNXS6500PTM-AT-AA,
+6500NXS-VA-DTI,"6500 NXS Virtual Sensor (1000 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 6500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS650D2WGAEAT,51310.26,VNXS650D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS650D1WGAEAT,76965.41,VNXS650D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS650DOFGAEAT,82096.41,VNXS650DOFGAEAT-AA,
+6500VXSC-DTI,"6500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / Virtual 6500NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 MVX Cld for VA Snr 2W DTI 1:1TE,VXSC65002WE1EAT,170009.61,VXSC65002WE1EAT-AA,
+7500NXS-VA,"7500 NXS Virtual Sensor (2000 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7500 NXS Virt Ssr Appl PERP LIC,VNXS7500CAE-AT,369166.6,VNXS7500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7500 NXS Virt Ssr Appl 1Yr TE,VNXS7500PTM-AT,68229.9,VNXS7500PTM-AT-AA,
+7500NXS-VA-DTI,"7500 NXS Virtual Sensor (2000 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 7500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS750D2WGAEAT,75811,VNXS750D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS750D1WGAEAT,113716.5,VNXS750D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS750DOFGAEAT,121297.59,VNXS750DOFGAEAT-AA,
+8500NXS-VA,"8500 NXS Virtual Sensor (5000 Mbps)(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,8500 NXS Virt Ssr Appl PERP LIC,VNXS8500CAE-AT,671211.99,VNXS8500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,8500 NXS Virt Ssr Appl 1Yr TE,VNXS8500PTM-AT,124054.36,VNXS8500PTM-AT-AA,
+8500NXS-VA-DTI,"8500 NXS Virtual Sensor (5000 Mbps) - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 8500NXS Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8500 NXS Virt Ssr Appl DTI 2W 1:1TE,VNXS850D2WGAEAT,137838.18,VNXS850D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8500 NXS Virt Ssr Appl DTI 1W 1:1TE,VNXS850D1WGAEAT,206757.27,VNXS850D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Virt Ssr Appl DTI OF 1:1TE,VNXS850DOFGAEAT,220541.08,VNXS850DOFGAEAT-AA,
+,Legacy - Classic Network NX Hardware Appliances,,,,,
+1500NXS-SW,"1500 NXS Sensor Appliance (50Mbps) Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 1500NXS sensor appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Appl SW 1yr TE,NXS1500PTM-AT,3877.05,NXS1500PTM-AT-AA,
+1500NXS-DTI,"1500 NXS Sensor Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 1500NXS sensor appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Appl DTI 2W 1:1TE,NXS1500D2WGAEAT,4307.81,NXS1500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Appl DTI 1W 1:1TE,NXS1500D1WGAEAT,6461.69,NXS1500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 NXS Appl DTI OF 1:1TE,NXS1500DOFGAEAT,6892.46,NXS1500DOFGAEAT-AA,
+1500VXSCH-DTI,"1500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 1500NXS
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,1500 MVX Cld for HW Snr 2W DTI 1:1TE,VXSCH1502WE1EAT,13032.86,VXSCH1502WE1EAT-AA,
+2500NX1-SW,"2500 NX1 Appliance (50Mbps) Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2500NX1 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 NX1 Appl SW 1yr TE,NX12500PTM-AT,6785.29,NX12500PTM-AT-AA,
+2500NX1-DTI,"2500 NX1 Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 2500NX1 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX1 Appl DTI 2W 1:1TE,NX12500D2WGAEAT,7539.22,NX12500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX1 Appl DTI 1W 1:1TE,NX12500D1WGAEAT,11308.83,NX12500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX1 Appl DTI OF 1:1TE,NX12500DOFGAEAT,12062.76,NX12500DOFGAEAT-AA,
+2500VXC1-DTI,"2500 MVX Cloud (50 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 2500NX1
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 MVX Cld 50 for Appl 2W DTI 1:1TE,VXC125002WE1EAT,26065.75,VXC125002WE1EAT-AA,
+2500NX2-SW,"2500 NX2 Appliance (100Mbps) Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2500NX2 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 NX2 Appl SW 1yr TE,NX22500PTM-AT,13569.91,NX22500PTM-AT-AA,
+2500NX2-DTI,"2500 NX2 Appliance (100Mbps) - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 2500NX2 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX2 Appl DTI 2W 1:1TE,NX22500D2WGAEAT,15077.69,NX22500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX2 Appl DTI 1W 1:1TE,NX22500D1WGAEAT,22616.55,NX22500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 NX2 Appl DTI OF 1:1TE,NX22500DOFGAEAT,24124.29,NX22500DOFGAEAT-AA,
+2500VXC2-DTI,"2500 MVX Cloud (100 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 2500NX2
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 MVX Cld 100 for Appl 2W DTI 1:1TE,VXC225002WE1EAT,54302.33,VXC225002WE1EAT-AA,
+2550NX-SW,"2550 NX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2550NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Securty subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2550 NX Appl SW 1yr TE,NX2550PTM-AT,29891.19,NX2550PTM-AT-AA,
+2550NX-DTI,"2550 NX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 2550NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 NX Appl DTI 2W 1:1TE,NX2550D2WGAEAT,33212.43,NX2550D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 NX Appl DTI 1W 1:1TE,NX2550D1WGAEAT,49818.66,NX2550D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 NX Appl DTI OF 1:1TE,NX2550DOFGAEAT,53139.9,NX2550DOFGAEAT-AA,
+2550VXC-DTI,"2550 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 2550NX
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2550 MVX Cld for Appl 2W DTI 1:1TE,VXC25502WE1EAT,111720.59,VXC25502WE1EAT-AA,
+2600NX,"2600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,2600 NX Appliance,NX-2600,Call For Quote,NX-2600A,
+2600NX-SW,"2600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2600 NX Appl SW PERP LIC,NX2600CAE-AT,Call For Quote,NX2600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2600 NX Appl SW 1yr TE,NX2600PTM-AT,Call For Quote,NX2600PTM-AT-AA,
+2600NX-DTI,"2600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 2600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2600 NX Appl DTI 2W 1:1TE,NX2600D2WGAEAT,Call For Quote,NX2600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2600 NX Appl DTI 1W 1:1TE,NX2600D1WGAEAT,Call For Quote,NX2600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2600 NX Appl DTI OF 1:1TE,NX2600DOFGAEAT,Call For Quote,NX2600DOFGAEAT-AA,
+3500NX-SW,"3500 NX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 3500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,3500 NX Appl SW 1yr TE,NX3500PTM-AT,44157.45,NX3500PTM-AT-AA,
+3500NX-DTI,"3500 NX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 3500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 NX Appl DTI 2W 1:1TE,NX3500D2WGAEAT,49063.83,NX3500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 NX Appl DTI 1W 1:1TE,NX3500D1WGAEAT,73595.76,NX3500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 NX Appl DTI OF 1:1TE,NX3500DOFGAEAT,78502.12,NX3500DOFGAEAT-AA,
+3500VXC-DTI,"3500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 3500NX
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3500 MVX Cld for Appl 2W DTI 1:1TE,VXC35002WE1EAT,186201,VXC35002WE1EAT-AA,
+3600NX,"3600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,3600 NX Appliance,NX-3600,Call For Quote,NX-3600A,
+3600NX-SW,"3600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 3600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,3600 NX Appl SW PERP LIC,NX3600CAE-AT,Call For Quote,NX3600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,3600 NX Appl SW 1yr TE,NX3600PTM-AT,Call For Quote,NX3600PTM-AT-AA,
+3600NX-DTI,"3600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 3600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 NX Appl DTI 2W 1:1TE,NX3600D2WGAEAT,Call For Quote,NX3600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 NX Appl DTI 1W 1:1TE,NX3600D1WGAEAT,Call For Quote,NX3600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,3600 NX Appl DTI OF 1:1TE,NX3600DOFGAEAT,Call For Quote,NX3600DOFGAEAT-AA,
+4500NX-SW,"4500 NX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 NX Appl SW 1yr TE,NX4500PTM-AT,76426.34,NX4500PTM-AT-AA,
+4500NX-DTI,"4500 NX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 4500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 NX Appl DTI 2W 1:1TE,NX4500D2WGAEAT,84918.18,NX4500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 NX Appl DTI 1W 1:1TE,NX4500D1WGAEAT,127377.25,NX4500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 NX Appl DTI OF 1:1TE,NX4500DOFGAEAT,135869.06,NX4500DOFGAEAT-AA,
+4500VXC-DTI,"4500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 4500NX
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 MVX Cld for Appl 2W DTI 1:1TE,VXC45002WE1EAT,260687.44,VXC45002WE1EAT-AA,
+4600NX,"4600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,4600 NX Appliance,NX-4600,Call For Quote,NX-4600A,
+4600NX-SW,"4600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,4600 NX Appl SW PERP LIC,NX4600CAE-AT,Call For Quote,NX4600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,4600 NX Appl SW 1yr TE,NX4600PTM-AT,Call For Quote,NX4600PTM-AT-AA,
+4600NX-DTI,"4600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 4600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 NX Appl DTI 2W 1:1TE,NX4600D2WGAEAT,Call For Quote,NX4600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 NX Appl DTI 1W 1:1TE,NX4600D1WGAEAT,Call For Quote,NX4600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4600 NX Appl DTI OF 1:1TE,NX4600DOFGAEAT,Call For Quote,NX4600DOFGAEAT-AA,
+5500NX-SW,"5500 NX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Secuirty subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,5500 NX Appl SW 1yr TE,NX5500PTM-AT,155909.74,NX5500PTM-AT-AA,
+5500NX-DTI,"5500 NX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 NX Appl DTI 2W 1:1TE,NX5500D2WGAEAT,173233.06,NX5500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 NX Appl DTI 1W 1:1TE,NX5500D1WGAEAT,259849.57,NX5500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 NX Appl DTI OF 1:1TE,NX5500DOFGAEAT,277172.9,NX5500DOFGAEAT-AA,
+5500VXC-DTI,"5500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 5500NX
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 MVX Cld for Appl 2W DTI 1:1TE,VXC55002WE1EAT,566724.94,VXC55002WE1EAT-AA,
+5600NX,"5600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 NX Appliance,NX-5600,Call For Quote,NX-5600A,
+5600NX-SW,"5600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5600 NX Appl SW PERP LIC,NX5600CAE-AT,Call For Quote,NX5600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5600 NX Appl SW 1yr TE,NX5600PTM-AT,Call For Quote,NX5600PTM-AT-AA,
+5600NX-DTI,"5600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 NX Appl DTI 2W 1:1TE,NX5600D2WGAEAT,Call For Quote,NX5600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 NX Appl DTI 1W 1:1TE,NX5600D1WGAEAT,Call For Quote,NX5600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 NX Appl DTI OF 1:1TE,NX5600DOFGAEAT,Call For Quote,NX5600DOFGAEAT-AA,
+6500NX-SW,"6500 NX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 6500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,6500 NX Appl SW 1yr TE,NX6500PTM-AT,237057.53,NX6500PTM-AT-AA,
+6500NX-DTI,"6500 NX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 6500NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 NX Appl DTI 2W 1:1TE,NX6500D2WGAEAT,263397.26,NX6500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 NX Appl DTI 1W 1:1TE,NX6500D1WGAEAT,395095.91,NX6500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 NX Appl DTI OF 1:1TE,NX6500DOFGAEAT,421435.63,NX6500DOFGAEAT-AA,
+6500VXC-DTI,"6500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for MVX Cloud / 6500NX
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding HW Appliance Unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 MVX Cld for Appl 2W DTI 1:1TE,VXC65002WE1EAT,1303210.74,VXC65002WE1EAT-AA,
+6600NX,"6600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,6600 NX Appliance,NX-6600,Call For Quote,NX-6600A,
+6600NX-SW,"6600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 6600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,6600 NX Appl SW PERP LIC,NX6600CAE-AT,Call For Quote,NX6600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,6600 NX Appl SW 1yr TE,NX6600PTM-AT,Call For Quote,NX6600PTM-AT-AA,
+6600NX-DTI,"6600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 6600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6600 NX Appl DTI 2W 1:1TE,NX6600D2WGAEAT,Call For Quote,NX6600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6600 NX Appl DTI 1W 1:1TE,NX6600D1WGAEAT,Call For Quote,NX6600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6600 NX Appl DTI OF 1:1TE,NX6600DOFGAEAT,Call For Quote,NX6600DOFGAEAT-AA,
+8600NX,"8600 NX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,8600 NX Appliance,NX-8600,Call For Quote,NX-8600A,
+8600NX-SW,"8600 NX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 8600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,8600 NX Appl SW PERP LIC,NX8600CAE-AT,Call For Quote,NX8600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,8600 NX Appl SW 1yr TE,NX8600PTM-AT,Call For Quote,NX8600PTM-AT-AA,
+8600NX-DTI,"8600 NX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 8600NX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 NX Appl DTI 2W 1:1TE,NX8600D2WGAEAT,Call For Quote,NX8600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 NX Appl DTI 1W 1:1TE,NX8600D1WGAEAT,Call For Quote,NX8600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,8600 NX Appl DTI OF 1:1TE,NX8600DOFGAEAT,Call For Quote,NX8600DOFGAEAT-AA,
+,Legacy - Classic IVX Enterprise (Formerly MVX Compute) Hardware Appliances,,,,,
+5500MVX-SW,"5500 MVX Compute Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5500MVX Compute appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,5500 MVX Compute Appl SW 1yr TE,MVX5500PTM-AT,33960.47,MVX5500PTM-AT-AA,
+5500MVX-DTI,"5500 MVX Compute - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5500MVX Compute appliance
+REQUIREMENTS: Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 MVX Compute Appl DTI 2W 1:1TE,MVX5500D2WGAEAT,37733.87,MVX5500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 MVX Compute Appl DTI 1W 1:1TE,MVX5500D1WGAEAT,56600.79,MVX5500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5500 MVX Compute Appl DTI OF 1:1TE,MVX5500DOFGAEAT,60374.17,MVX5500DOFGAEAT-AA,
+12550MVX-SW,"12550 MVX Compute Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 12550MVX Compute appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,12550 MVX Compute Appl SW 1yr TE,MVX12550PTM-AT,135862.27,MVX12550PTM-AT-AA,
+12550MVX-DTI,"12550 MVX Compute - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 12550MVX Compute appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 MVX Compute Appl DTI 2W 1:1TE,MVX1255D2WGAEAT,150958.09,MVX1255D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 MVX Compute Appl DTI 1W 1:1TE,MVX1255D1WGAEAT,226437.11,MVX1255D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,12550 MVX Compute Appl DTI OF 1:1TE,MVX1255DOFGAEAT,241532.92,MVX1255DOFGAEAT-AA,
+,Legacy - Hermes VX ISO Virtual Appliance Deployment Options,,,,,
+NWVXISO-1G-VA-S,"Network Security VXISO-1G - Virtual Appliance Subscription(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX ISO 1G Virt Appl SW 1:1TE,NWVISO1GGAE-AT,Call For Quote,NWVISO1GGAE-AT-AA,
+NWVXISO-1G-VA,"Network Security VXISO-1G - Virtual Appliance(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX ISO 1G Virt Appl SW PERP LIC,NWVISO1GCAE-AT,Call For Quote,NWVISO1GCAE-AT-AA,
+NWVXISO-5G-VA-S,"Network Security VXISO-5G - Virtual Appliance Subscription(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX ISO 5G Virt Appl SW 1:1TE,NWVISO5GGAE-AT,Call For Quote,NWVISO5GGAE-AT-AA,
+NWVXISO-5G-VA,"Network Security VXISO-5G - Virtual Appliance(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX ISO 5G Virt Appl SW PERP LIC,NWVISO5GCAE-AT,Call For Quote,NWVISO5GCAE-AT-AA,
+NWVXISO-10G-VA-S,"Network Security VXISO-10G - Virtual Appliance Subscription(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX ISO 10G Virt Appl SW 1:1TE,NWVISO10GGAE-AT,Call For Quote,NWVISO10GGAE-AT-AA,
+NWVXISO-10G-VA,"Network Security VXISO-10G - Virtual Appliance(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Download
+CONTENT: ISO Image
+REQUIREMENTS:  Restricted Product.  Requires a Trellix Approved Quote.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX ISO 10G Virt Appl SW PERP LIC,NWVISO10GCAE-AT,Call For Quote,NWVISO10GCAE-AT-AA,
+,Legacy - Classic VX ISO Virtual Appliances,,,,,
+VXISO-1G,"VX Software Image 1G(F)
+LICENSE: Per VM Instance
+DELIVERABLE: ISO for Virtual Machine
+REQUIREMENTS: Restricted Product. Requires a Trellix Approved Quote. Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking Virtual Appliance Deployment Option.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX SW Image 1G PERP LIC,VXISO1GCAE-AT,Call For Quote,VXISO1GCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 1G 1Yr TE,VXISO1GPTM-AT,Call For Quote,VXISO1GPTM-AT-AA,
+VXISO-1G-DTI,"VX Software Image 1G - Dynamic Threat Intelligence(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance VXISO-1G
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 1G DTI 2W 1:1TE,VXISO1GD2WGAEAT,Call For Quote,VXISO1GD2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 1G DTI 1W 1:1TE,VXISO1GD1WGAEAT,Call For Quote,VXISO1GD1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 1G  DTI OF 1:1TE,VXISO1GDOFGAEAT,Call For Quote,VXISO1GDOFGAEAT-AA,
+VXISO-5G,"VX Software Image 5G(F)
+LICENSE: Per VM Instance
+DELIVERABLE: ISO for Virtual Machine
+REQUIREMENTS: Restricted Product. Requires a Trellix Approved Quote. Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking Virtual Appliance Deployment Option.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX SW Image 5G PERP LIC,VXISO5GCAE-AT,Call For Quote,VXISO5GCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 5G 1Yr TE,VXISO5GPTM-AT,Call For Quote,VXISO5GPTM-AT-AA,
+VXISO-5G-DTI,"VX Software Image 5G - Dynamic Threat Intelligence(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance VXISO-5G
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 5G DTI 2W 1:1TE,VXISO5GD2WGAEAT,Call For Quote,VXISO5GD2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 5G DTI 1W 1:1TE,VXISO5GD1WGAEAT,Call For Quote,VXISO5GD1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 5G  DTI OF 1:1TE,VXISO5GDOFGAEAT,Call For Quote,VXISO5GDOFGAEAT-AA,
+VXISO-10G,"VX Software Image 10G(F)
+LICENSE: Per VM Instance
+DELIVERABLE: ISO for Virtual Machine
+REQUIREMENTS: Restricted Product. Requires a Trellix Approved Quote. Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Network Security subscription customers seeking Virtual Appliance Deployment Option.",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,VX SW Image 10G PERP LIC,VXISO10GCAE-AT,Call For Quote,VXISO10GCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 10G 1Yr TE,VXISO10GPTM-AT,Call For Quote,VXISO10GPTM-AT-AA,
+VXISO-10G-DTI,"VX Software Image 10G - Dynamic Threat Intelligence(F)
+LICENSE: Per VM Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the Virtual appliance VXISO-10G
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 10G DTI 2W 1:1TE,VXIS10GD2WGAEAT,Call For Quote,VXIS10GD2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 10G DTI 1W 1:1TE,VXIS10GD1WGAEAT,Call For Quote,VXIS10GD1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,VX SW Image 10G  DTI OF 1:1TE,VXIS10GDOFGAEAT,Call For Quote,VXIS10GDOFGAEAT-AA,
+,Legacy - Classic IVX Investigator/Malware Analysis AX Hardware Appliances,,,,,
+5550AX-SW,"5550 AX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5550AX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Malware subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,5550 AX Appl SW 1yr TE,AX5550PTM-AT,39996.46,AX5550PTM-AT-AA,
+5550AX-DTI,"5550 AX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5550AX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5550 AX Appl DTI 2W 1:1TE,AX5550D2WGAEAT,44440.51,AX5550D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5550 AX Appl DTI 1W 1:1TE,AX5550D1WGAEAT,66660.76,AX5550D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5550 AX Appl DTI OF 1:1TE,AX5550DOFGAEAT,71104.82,AX5550DOFGAEAT-AA,
+5600AX,"5600 IVX Investigator (Formerly AX) Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes IVX Investigator customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 IVX Investigator Appliance,AX-5600,27476.83,AX-5600A,
+5600AX-SW,"5600 IVX Investigator (Formerly AX) Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5600IVX Investigator appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes IVX Investigator customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5600 IVX Invgtr Appl SW PERP LIC,AX5600CAE-AT,136088.99,AX5600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Invgtr Appl SW 1yr TE,AX5600PTM-AT,36518.51,AX5600PTM-AT-AA,
+5600AX-DTI,"5600 IVX Investigator (Formerly AX) Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 5600IVX Investigator appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Invgtr Appl DTI 2W 1:1TE,AX5600D2WGAEAT,40576.13,AX5600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Invgtr Appl DTI 1W 1:1TE,AX5600D1WGAEAT,60864.17,AX5600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,5600 IVX Invgtr Appl DTI OF 1:1TE,AX5600DOFGAEAT,64921.77,AX5600DOFGAEAT-AA,
+,Legacy - Forensics IA Virtual Appliances,,,,,
+IA-VA,"IA Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,IA Virt Appl PERP LIC,VIACAE-AT,161386.63,VIACAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,IA Virt Appl 1Yr TE,VIAPTM-AT,29827.71,VIAPTM-AT-AA,
+,Legacy - Classic Forensics IA Hardware Appliances,,,,,
+1000DIA-SW,"1000D IA Appliance Software(F)
+LICENSE: Per Appliance
+End-of-Sale 31st March 2022.  End-of-Life/Support is 31st March 2027. Support contracts cannot extend past the End-of-Life/Support Date.",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,1000D IA Appl SW 1yr TE,IAD1000PTM-AT,21023.06,IAD1000PTM-AT-AA,
+2100IA-HN48-SW,"2100 HN48 IA Appliance Software(F)
+LICENSE: Per Appliance
+End-of-Sale 31st March 2022.  End-of-Life/Support is 31st March 2027. Support contracts cannot extend past the End-of-Life/Support Date.",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2100 HN48 IA Appl SW 1yr TE,IA2100PTM-AT,63778.22,IA2100PTM-AT-AA,
+2600IA,"2600 IA Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,2600 IA Appliance,IA-2600,98065.98,IA-2600A,
+2600IA-SW,"2600 IA Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2600IA appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2600 IA Appl SW PERP LIC,IA2600CAE-AT,333427.45,IA2600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2600 IA Appl SW 1yr TE,IA2600PTM-AT,79749.23,IA2600PTM-AT-AA,
+,Legacy - Central Management Hardware Appliance,,,,,
+4500CM-SW,"4500 CM Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 4500CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4500 CM Appl SW 1yr TE,CM4500PTM-AT,8705.33,CM4500PTM-AT-AA,
+4500CM-SW-DTI,"4500 CM Appliance Software - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 4500CM appliance.
+REQUIREMENTS: Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Appl SW DTI 2W 1:1TE,CM4500D2WGAEAT,0,CM4500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Appl SW DTI 1W 1:1TE,CM4500D1WGAEAT,0,CM4500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,4500 CM Appl SW DTI OF 1:1TE,CM4500DOFGAEAT,0,CM4500DOFGAEAT-AA,
+7500CM-SW,"7500 CM Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 7500CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,7500 CM Appl SW 1yr TE,CM7500PTM-AT,17410.65,CM7500PTM-AT-AA,
+7500CM-SW-DTI,"7500 CM Appliance Software - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 7500CM appliance.
+REQUIREMENTS: Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Appl SW DTI 2W 1:1TE,CM7500D2WGAEAT,0,CM7500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Appl SW DTI 1W 1:1TE,CM7500D1WGAEAT,0,CM7500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,7500 CM Appl SW DTI OF 1:1TE,CM7500DOFGAEAT,0,CM7500DOFGAEAT-AA,
+9500CM-SW,"9500 CM Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 9500CM appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,9500 CM Appl SW 1yr TE,CM9500PTM-AT,46525.45,CM9500PTM-AT-AA,
+9500CM-SW-DTI,"9500 CM Appliance Software - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance Instance
+DELIVERABLE:  Content key.
+CONTENT:  DTI subscription for the 9500CM appliance.
+REQUIREMENTS: Must be ordered in conjunction with the corresponding appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9500 CM Appl SW DTI 2W 1:1TE,CM9500D2WGAEAT,0,CM9500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9500 CM Appl SW DTI 1W 1:1TE,CM9500D1WGAEAT,0,CM9500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,9500 CM Appl SW DTI OF 1:1TE,CM9500DOFGAEAT,0,CM9500DOFGAEAT-AA,
+,Legacy - Central Management Cloud,,,,,
+CM2500-CLOUD,"CM 2500 Cloud(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 December 2025. Subscriptions cannot extend past the End of Life/ Support Date. Customers should move to a Virtual CMS (as part of Hermes Subscription inclusion)
+LICENSE: Per Cloud Instance
+DELIVERABLE: Cloud based Central Management",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM 2500 Cloud 1Yr 1:1TE(F),CM2500CLGAE-AT,116459.19,CM2500CLGAE-AT-AA,
+CM2500-CLOUD-DTI,"CM 2500 Cloud - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 December 2025. Subscriptions cannot extend past the End of Life/ Support Date.
+LICENSE: Per Cloud Instance
+DELIVERABLE: Cloud based Central Management
+CONTENT: DTI Subscription and Support for CM 2500 Cloud
+REQUIREMENTS:  Must be ordered in conjunction with CM2500-CLOUD (CM 2500 Cloud).",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,CM 2500 Cloud DTI 2W 1:1TE(F),CM2500CD2WE1EAT,0,CM2500CD2WE1EAT-AA,
+,Legacy - Classic Forensics PX Virtual Appliances,,,,,
+PX-VA,"PX Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual appliance image. Virtual appliance image contains activation code.
+This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,PX Virt Appl PERP LIC,VPXCAE-AT,175178.23,VPXCAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,PX Virt Appl 1Yr TE,VPXPTM-AT,32376.68,VPXPTM-AT-AA,
+,Legacy - Classic Forensics PX Hardware Appliances,,,,,
+1004SPX-SW,"1004 S PX Appliance Software(F)
+End of Sale is 31 March 2023, End of Life/Support is 31 March 2028
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 1004SPX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unitNOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,1004S PX  Appl SW 1yr TE,PX1004SPTM-AT,19477.8,PX1004SPTM-AT-AA,
+2060PX-ESS96-SW,"2060 ESS96 PX  Appliance Software(F)
+End of Sale is 31 March 2023, End of Life/Support is 31 March 2028
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2060-PX-ESS96 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2060 ESS96 PX  Appl SW 1yr TE,PX2060APTM-AT,69228.53,PX2060APTM-AT-AA,
+2060PX-ESS120-SW,"2060 ESS120 PX  Appliance Software(F)
+End of Sale is 31 March 2023, End of Life/Support is 31 March 2028
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 2060PX-ESS120 appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2060 ESS120 PX  Appl SW 1yr TE,PX2060BPTM-AT,133696.09,PX2060BPTM-AT-AA,
+2060PX-EXT20-SW,"2060 EXT 20 PX Appliance Software(F)
+LICENSE: Per Appliance
+End-of-Sale 31st March 2022.  End-of-Life/Support is 31st March 2027. Support contracts cannot extend past the End-of-Life/Support Date.",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,2060 EXT20 PX  Appl SW 1yr TE,PX2060CPTM-AT,109832.67,PX2060CPTM-AT-AA,
+4000SX-440PX-SW,"4000 SX 440 PX  Appliance Software(F)
+LICENSE: Per Appliance
+End-of-Sale 31st March 2022.  End-of-Life/Support is 31st March 2027. Support contracts cannot extend past the End-of-Life/Support Date.",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,4000 SX 440 PX Appl SW 1yr TE,SXPX4000BPTM-AT,158893.48,SXPX4000BPTM-AT-AA,
+5600PX,"5600 PX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5600 PX Appliance,PX-5600,93477.16,PX-5600A,
+5600PX-SW,"5600 PX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5600PX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5600 PX  Appl SW PERP LIC,PX5600CAE-AT,568146.09,PX5600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5600 PX  Appl SW 1yr TE,PX5600PTM-AT,122282.15,PX5600PTM-AT-AA,
+7600PX,"7600 PX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,7600 PX Appliance,PX-7600,159933.33,PX-7600A,
+7600PX-SW,"7600 PX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 7600PX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7600 PX  Appl SW PERP LIC,PX7600CAE-AT,832501.55,PX7600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7600 PX  Appl SW 1yr TE,PX7600PTM-AT,183423.23,PX7600PTM-AT-AA,
+7620PX,"7620 PX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,7620 PX Appliance,PX-7620,109172.23,PX-7620A,
+7620PX-SW,"7620 PX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 7620PX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,7620 PX  Appl SW PERP LIC,PX7620CAE-AT,667515.93,PX7620CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,7620 PX  Appl SW 1yr TE,PX7620PTM-AT,143548.62,PX7620PTM-AT-AA,
+,Legacy - Classic Forensics Storage Hardware Appliances,,,,,
+5000SX,"5000 SX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics Storage SX subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,5000 SX Appliance,SX-5000,178722.4,SX-5000A,
+5000SX-SW,"5000 SX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 5000SX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is  NOT applicable for base Hermes Forensics Storage SX subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,5000 SX  Appl SW PERP LIC,SX5000CAE-AT,766453.67,SX5000CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,5000 SX  Appl SW 1yr TE,SX5000PTM-AT,174688.79,SX5000PTM-AT-AA,
+,Legacy - Classic File Security Virtual Appliances,,,,,
+2500FX-VA,"2500 FX Virtual Appliance(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Virtual Appliance Software Activation email
+REQUIREMENTS: Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is  NOT applicable for base Hermes File Security subscription customers using Virtual Appliance Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,2500 FX Virt Appl PERP LIC,VFX2500CAE-AT,0,VFX2500CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,2500 FX Virt Appl 1Yr TE,VFX2500PTM-AT,0,VFX2500PTM-AT-AA,
+2500FX-VA-DTI,"2500 FX Virtual Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance Instance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for the 2500FX Virtual appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Virtual Appliance license.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 FX Virt Appl DTI 2W 1:1TE,VFX2500D2WGAEAT,0,VFX2500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 FX Virt Appl DTI 1W 1:1TE,VFX2500D1WGAEAT,0,VFX2500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,2500 FX Virt Appl Appl DTI OF 1:1TE,VFX2500DOFGAEAT,0,VFX2500DOFGAEAT-AA,
+,Legacy - Classic File Security Hardware Appliances,,,,,
+6500FX-SW,"6500 FX Appliance Software(F)
+End of Sale is 31 March 2023 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 6500FX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is NOT applicable for base Hermes File Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl SW 1yr TE,FX6500PTM-AT,61832.54,FX6500PTM-AT-AA,
+6500FX-DTI,"6500 FX Appliance - Dynamic Threat Intelligence(F)
+End of Sale is 31 March 2028 End of Life/Support is 31 March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 6500FX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI 2W 1:1TE,FX6500D2WGAEAT,68702.85,FX6500D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI 1W 1:1TE,FX6500D1WGAEAT,103054.26,FX6500D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI OF 1:1TE,FX6500DOFGAEAT,109924.55,FX6500DOFGAEAT-AA,
+6600FX,"6600 FX Appliance(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance HW unit (Only)
+REQUIREMENTS:
+Must be ordered in conjunction with the corresponding Appliance License option as required for the SW activation code.
+Must additionally purchase DTI subscription and Support options for the appliance.
+NOTES: This Classic sale option is NOT applicable for base Hermes File Security subscription customers seeking HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,6600 FX Appliance,FX-6600,Call For Quote,FX-6600A,
+6600FX-SW,"6600 FX Appliance Software(F)
+LICENSE: Per Appliance
+DELIVERABLE: Appliance Activation
+CONTENT: SW License for 6600FX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit
+NOTES: This Classic sale option is NOT applicable for base Hermes File Security subscription customers and related HW Deployment Option",,,,,
+,Standard Offering,,,,,
+,Perpetual Software License,,,,,
+A,1-+,6600 FX Appl SW PERP LIC,FX6600CAE-AT,Call For Quote,FX6600CAE-AT-AA,
+,1yr Thrive Essential,,,,,
+A,1-+,6600 FX Appl SW 1yr TE,FX6600PTM-AT,Call For Quote,FX6600PTM-AT-AA,
+6600FX-DTI,"6600 FX Appliance - Dynamic Threat Intelligence(F)
+LICENSE: Per Appliance
+DELIVERABLE: Content Key
+CONTENT: DTI Subscription for 6600FX appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Appliance HW unit",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI 2W 1:1TE,FX6600D2WGAEAT,Call For Quote,FX6600D2WGAEAT-AA,
+,1 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI 1W 1:1TE,FX6600D1WGAEAT,Call For Quote,FX6600D1WGAEAT-AA,
+,Offline Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,6500 FX Appl DTI OF 1:1TE,FX6600DOFGAEAT,Call For Quote,FX6600DOFGAEAT-AA,

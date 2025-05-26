@@ -1,0 +1,275 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Helix (On-Prem)
+,Helix (SaaS),,,,TAR-T,Trellix Automated Response (TAuR) or Automated Response(T)
+XDR,Helix Connect,,,,NW-EC-VA-T,Network Evidence Collector - Virtual Appliance Add-on for Helix Connect (T)
+OXDR-50GB-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB,,,,NW-EC-VA-DTI-T,Network Evidence Collector - Virtual Appliance for Helix Connect - DTI(T)
+OXDR-100GB-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB,,,,,
+OXDR-250GB-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB,,,,,
+OXDR-1TB-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB,,,,,
+OXDR-50GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB,,,,,
+OXDR-100GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB,,,,,
+OXDR-250GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB,,,,,
+OXDR-1TB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB,,,,,
+OXDRCS-2YR-50GB-ADDON,Helix Connect 2 Year Cold Storage - 50 GB,,,,,
+OXDRCS-2YR-100GB-ADDON,Helix Connect 2 Year Cold Storage - 100 GB,,,,,
+OXDRCS-2YR-250GB-ADDON,Helix Connect 2 Year Cold Storage - 250 GB,,,,,
+OXDRCS-2YR-1TB-ADDON,Helix Connect 2 Year Cold Storage - 1 TB,,,,,
+OXDRCS-3YR-50GB-ADDON,Helix Connect 3 Year Cold Storage - 50 GB,,,,,
+OXDRCS-3YR-100GB-ADDON,Helix Connect 3 Year Cold Storage - 100 GB,,,,,
+OXDRCS-3YR-250GB-ADDON,Helix Connect 3 Year Cold Storage - 250 GB,,,,,
+OXDRCS-3YR-1TB-ADDON,Helix Connect 3 Year Cold Storage - 1 TB,,,,,
+XDRQS8-50GB-ADDON,Helix Connect 8 Day Index Search Retention - 50 GB,,,,,
+XDRQS8-100GB-ADDON,Helix Connect 8 Day Index Search Retention - 100 GB,,,,,
+XDRQS8-250GB-ADDON,Helix Connect 8 Day Index Search Retention - 250 GB,,,,,
+XDRQS8-1TB-ADDON,Helix Connect 8 Day Index Search Retention - 1 TB,,,,,
+XDRQS16-50GB-ADDON,Helix Connect 16 Day Index Search Retention - 50 GB,,,,,
+XDRQS16-100GB-ADDON,Helix Connect 16 Day Index Search Retention - 100 GB,,,,,
+XDRQS16-250GB-ADDON,Helix Connect 16 Day Index Search Retention - 250 GB,,,,,
+XDRQS16-1TB-ADDON,Helix Connect 16 Day Index Search Retention - 1 TB,,,,,
+XDR-FS-T,XDR Federated Search across Cloud Instances (T),,,,,
+Trellix Helix,,,,,,
+,Helix (SaaS),,,,,
+XDR,"Helix Connect
+LICENSE: License per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: Helix Connect
+CONTENT: Helix Connect, a cloud-hosted security operations and XDR platform with alert correlation, threat hunting (search), and SOAR capabilities. Data (event) ingestion of up to 100MB per user per month. Purchase of the Open XDR add-on is required for data ingestion exceeding the per user entitlement. Data is stored and searchable for 90 days. Purchase of XDR Retention add-on required to extend retention beyond 90 days.
+RESTRICTIONS: Minimum 100 users.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Helix Connect 1:1TE,XDRECE-AA,113.52,XDRECE-AA-AA,
+B,251-1000,Helix Connect 1:1TE,XDRECE-AA,102.17,XDRECE-AA-BA,
+C,1001-2000,Helix Connect 1:1TE,XDRECE-AA,91.95,XDRECE-AA-CA,
+D,2001-5000,Helix Connect 1:1TE,XDRECE-AA,82.77,XDRECE-AA-DA,
+E,5001-10000,Helix Connect 1:1TE,XDRECE-AA,74.5,XDRECE-AA-EA,
+F,10001-+,Helix Connect 1:1TE,XDRECE-AA,67.02,XDRECE-AA-FA,
+OXDR-50GB-ADDON,"Helix Connect Open XDR for External Data Add-on - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con OpenXDR ExtDta 50GB AO 1:1TE,OX1ECE-AA,39590.64,OX1ECE-AA-AA,
+OXDR-100GB-ADDON,"Helix Connect Open XDR for External Data Add-on - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpenXDR ExtDta 100GB AddOn1:1TE,OX2ECE-AA,79181.28,OX2ECE-AA-AA,
+OXDR-250GB-ADDON,"Helix Connect Open XDR for External Data Add-on - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR ExtDta 250GB AddOn1:1TE,OX3ECE-AA,197953.19,OX3ECE-AA-AA,
+OXDR-1TB-ADDON,"Helix Connect Open XDR for External Data Add-on - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR Ext Dta 1TB AddOn 1:1TE,OX4ECE-AA,791812.74,OX4ECE-AA-AA,
+OXDR-50GB-10M-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-50GB-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-50GB-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 50GB AddOn 1:1TE,XM1ECE-AA,134144.62,XM1ECE-AA-AA,
+OXDR-100GB-10M-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-100GB-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-100GB-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 100GB AddOn 1:1TE,XM2ECE-AA,268289.23,XM2ECE-AA-AA,
+OXDR-250GB-10M-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-250GB-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-250GB-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 250GB AddOn 1:1TE,XM3ECE-AA,670723.09,XM3ECE-AA-AA,
+OXDR-1TB-10M-ADDON,"Helix Connect XDR Retention 10 Months Add-On - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-1TB-ADDON subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-1TB-ADDON offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 1TB AddOn 1:1TE,XM4ECE-AA,2683365.4,XM4ECE-AA-AA,
+OXDRCS-2YR-50GB-ADDON,"Helix Connect 2 Year Cold Storage - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 50GB 1:1TE,XCS21ECE-AA,14415.44,XCS21ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-100GB-ADDON,"Helix Connect 2 Year Cold Storage - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 100GB 1:1TE,XCS22ECE-AA,28830.87,XCS22ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-250GB-ADDON,"Helix Connect 2 Year Cold Storage - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 250GB 1:1TE,XCS23ECE-AA,72077.16,XCS23ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-1TB-ADDON,"Helix Connect 2 Year Cold Storage - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 1TB 1:1TE,XCS24ECE-AA,288308.68,XCS24ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-50GB-ADDON,"Helix Connect 3 Year Cold Storage - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 50GB 1:1TE,XCS31ECE-AA,28830.87,XCS31ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-100GB-ADDON,"Helix Connect 3 Year Cold Storage - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 100GB 1:1TE,XCS32ECE-AA,57661.74,XCS32ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-250GB-ADDON,"Helix Connect 3 Year Cold Storage - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 250GB 1:1TE,XCS33ECE-AA,144154.34,XCS33ECE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-1TB-ADDON,"Helix Connect 3 Year Cold Storage - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 1TB 1:1TE,XCS34ECE-AA,576617.34,XCS34ECE-AA-AA,FCS Date 03/31/2025
+XDRQS8-50GB-ADDON,"Helix Connect 8 Day Index Search Retention - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 50GB 1:1TE,XQS81ECE-AA,18019.29,XQS81ECE-AA-AA,FCS Date 03/31/2025
+XDRQS8-100GB-ADDON,"Helix Connect 8 Day Index Search Retention - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 100GB 1:1TE,XQS82ECE-AA,36038.58,XQS82ECE-AA-AA,FCS Date 03/31/2025
+XDRQS8-250GB-ADDON,"Helix Connect 8 Day Index Search Retention - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 250GB 1:1TE,XQS83ECE-AA,90096.47,XQS83ECE-AA-AA,FCS Date 03/31/2025
+XDRQS8-1TB-ADDON,"Helix Connect 8 Day Index Search Retention - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 1TB 1:1TE,XQS84ECE-AA,360385.84,XQS84ECE-AA-AA,FCS Date 03/31/2025
+XDRQS16-50GB-ADDON,"Helix Connect 16 Day Index Search Retention - 50 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 50GB 1:1TE,XQS161ECE-AA,36038.58,XQS161ECE-AA-AA,FCS Date 03/31/2025
+XDRQS16-100GB-ADDON,"Helix Connect 16 Day Index Search Retention - 100 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 100GB 1:1TE,XQS162ECE-AA,72077.16,XQS162ECE-AA-AA,FCS Date 03/31/2025
+XDRQS16-250GB-ADDON,"Helix Connect 16 Day Index Search Retention - 250 GB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 250GB 1:1TE,XQS163ECE-AA,180192.92,XQS163ECE-AA-AA,FCS Date 03/31/2025
+XDRQS16-1TB-ADDON,"Helix Connect 16 Day Index Search Retention - 1 TB
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 1TB 1:1TE,XQS164ECE-AA,720771.68,XQS164ECE-AA-AA,FCS Date 03/31/2025
+XDR-FS-T,"XDR Federated Search across Cloud Instances (T)
+LICENSE: Per Helix Instance
+DELIVERABLE: Cloud Instance Feature (Parent to Child Cloud Instance deployment mode)
+CONTENT: Federated Search capability across related Helix Connect and Helix Connect (EPS) Cloud Instances. Available for MSSP, and other pre-authorized Federated Search clients only - for an ability to search across multiple related Helix instances from a parent instance.
+REQUIREMENTS: This option is ONLY available for Trellix(T) IAM customers. Helix Connect or Helix Connect (EPS) subscription must be quoted and ordered in conjunction with this additional XDR-FS-T SKU included - in all new and subsequent renewals.",,,,,
+,Standard Offering,,,,,
+,Federated Platform,,,,,
+A,1-+,XDR Federated Search (T),XDR-FS-T,0.0,XDR-FS-T,FCS Date 03/31/2025
+,Helix (On-Prem),,,,,
+TAR-T,"Trellix Automated Response (TAuR) or Automated Response(T)
+LICENSE: Per Unit (Customer is entitled to 5 users per instance)
+DELIVERABLE: Software download for installation in customer’s hypervisor environment (No hypervisor license or hardware is included)
+CONTENT: On-Prem security orchestration and automated response for Helix and third-party SIEMs
+Additional comments: Trellix recommends purchasing Trellix Consulting Services along with TAuR On-Prem (for Jumpstart services).",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Trellix Automated Response 1:1TE(T),TARECE-AA,224917.11,TARECE-AA-AA,
+NW-EC-VA-T,"Network Evidence Collector - Virtual Appliance Add-on for Helix Connect (T)
+LICENSE: Per VM Instance
+DELIVERABLE: Virtual Machine Software
+CONTENT: Evidence Collector Virtual Appliance - for Helix Connect and Helix Connect (EPS)
+RESTRICTIONS: Maximum Quantity 10 applies. Refer to Deal Desk for exceptions
+REQUIREMENTS: Only for including as a VM option for customers with a base Helix Connect and Helix Connect (EPS) subscriptions. Must additionally purchase DTI subscription option for the virtual appliance.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NW Evidence Collector Virt Appl 1:1TE(T),VNWECGXE-AT,0.0,VNWECGXE-AT-AA,
+NW-EC-VA-DTI-T,"Network Evidence Collector - Virtual Appliance for Helix Connect - DTI(T)
+LICENSE: Per VM Instance
+DELIVERABLE: Content and Support Key
+CONTENT: DTI Subscription and Support for Network Evidence Collector Virtual Appliance
+REQUIREMENTS:  Must be ordered in conjunction with the corresponding Evidence Collector Virtual Appliance Subscription.",,,,,
+,2 Way Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,NW EC Virt Appl DTI 2W 1:1TE(T),VNWECD2WECEAT,0.0,VNWECD2WECEAT-AA,

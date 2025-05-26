@@ -1,0 +1,794 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Private Global Threat Intelligence (pGTI)
+,Trellix Thrive Success Packages,,,,PGTI,Trellix Private Global Threat Intelligence
+THRIVE-ADV,Thrive Advanced,,,,PGTI-LTE,Trellix Private Global Threat Intelligence Lite
+THRIVE-ELITE,Thrive Elite,,,,,Threat Intelligence
+THRIVE-FLEX,Thrive Flex Credits,,,,TIG-INTAAS-LG,Trellix Threat Intelligence-as-a-Service Large - Upfront Billing
+THRIVE-FLEX-ADDON,Thrive Flex Credits Add-On,,,,TIG-INTAAS-MD,Trellix Threat Intelligence-as-a-Service Medium - Upfront Billing
+THRIVE-ESS-DG,Thrive Essential Downgrade,,,,TIG-INTAAS-SM,Trellix Threat Intelligence-as-a-Service Small - Upfront Billing
+,Trellix Thrive Success Packages - For Legacy CSP,,,,TIG-QTE-UB,Trellix Tailored Threat Intelligence Services Upfront Billing
+THRIVE-ADV-CSP,Thrive Advanced for Legacy CSP,,,,TIG-QTE-MB,Trellix Tailored Threat Intelligence Services Monthly Billing
+THRIVE-ELITE-CSP,Thrive Elite for Legacy CSP,,,,TIG-THREAT-REPORTS,Trellix Threat Reports - Upfront Billing
+,Consulting Services: Solution Services,,,,,Advanced Threat Landscape Analysis System (ATLAS)
+CONS-DY,Custom Consulting Daily,,,,TIG-ATLAS,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Upfront Billing
+CONS-DY-PP,Custom Consulting Daily - Prepaid,,,,TIG-ATLAS-PH,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Private Hosting - Upfront Billing
+ASSESS-HR,Assessment Consulting,,,,TIG-ATLAS-OP,Trellix Advanced Threat Landscape Analysis System (ATLAS) - On Premises - Upfont Billing
+CONS-HR-MT,Midterm Hourly Consulting,,,,TIG-ATLAS-DO,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Data Only
+TS-ONSITE-DAY,Daily Onsite Assistance,,,,,TIG Resident Analyst
+TS-REMOTE-COREPP,Remote Assistance Core - Prepaid,,,,TIG-RESIDENT-ANALYST-UB,Trellix Resident Analyst - Upfront Billing
+DEPLOY,Deployment Consulting,,,,TIG-RESIDENT-ANALYST-MB,Trellix Resident Analyst - Monthy Billing
+DEPLOY-PP,Deployment Consulting - Prepaid,,,,,Managed Security Services
+DEPLOY-REMLOC,Deployment Consulting - Remote Location,,,,HWA-MSP-RS4-PP,Health Watch - Managed Security Service Provider Prepaid
+DEPLOY-REMLOC-PP,Deployment Consulting - Remote Location - Prepaid,,,,,Education Services: Instructor-led Training
+CONS-HR,Custom Consulting Hourly,,,,TRN-VOUCHER,"Training Voucher, Prepaid"
+CONS-HR-PP,Custom Consulting Hourly - Prepaid,,,,FS-TRN-OS-4DY,Foundstone 4 day Foundstone PS Onsite Course
+CONS-VOUCHER,Consulting Voucher,,,,FS-TRN-OS-4DY-ST,Foundstone 4 day Foundstone PS ADDITIONAL STUDENT
+CONS-HR-LT,Longterm Hourly Consulting,,,,FS-TRN-CL-4DY,Foundstone 4 day Foundstone PS PUBLIC COURSE Prepaid
+CONS-PM-DY,Program/Project Management Consulting Daily,,,,TRN-IL-PRI-1DPP,"Instructor-Led Training - 1 Day Private Class, Virtual, Prepaid"
+CONS-PM-HR,Program/Project Management Consulting Hourly,,,,TRN-IL-PRI-1D,"Instructor-Led Training - 1 Day Private Class, Virtual, Invoice on delivery"
+CONS-SA-DY,Security Architect Consulting Daily,,,,TRN-IL-PUB-1DPP,"Instructor-Led Training - 1 Day Public Class, Virtual, Prepaid"
+CONS-SA-HR,Security Architect Consulting Hourly,,,,TRN-IL-PRI-1DASPP,"Instructor-Led Training - Additional Student, 1 Day Private Class, Prepaid​"
+CONS-SS-DY-CMBO,Solution Services Daily Consulting and Travel Combo,,,,TRN-IL-PRI-2DASPP,"Instructor-Led Training - Additional Student, 2 Days Private Class, Prepaid​"
+RESIDENT1DAY-UB,1 Day/Week Resident - 1 year Subscription Upfront Billing,,,,TRN-IL-PRI-3DASPP,"Instructor-Led Training - Additional Student, 3 Days Private Class, Prepaid​"
+RESIDENT1DAY-MB,1 Day/Week Resident - 1 year Subscription Monthly Billing,,,,TRN-IL-PRI-4DASPP,"Instructor-Led Training - Additional Student, 4 Days Private Class, Prepaid​"
+RESIDENT2DAY-UB,2 Day/Week Resident - 1 year Subscription Upfront Billing,,,,TRN-IL-PRI-5DASPP,"Instructor-Led Training - Additional Student, 5 Days Private Class, Prepaid​"
+RESIDENT2DAY-MB,2 Day/Week Resident - 1 year Subscription Monthly Billing,,,,TRN-IL-PRI-1DAS,"Instructor-Led Training - Additional Student, 1 Day Private Class, Invoice on delivery​"
+RESIDENT3DAY-UB,3 Day/Week Resident - 1 year Subscription Upfront Billing,,,,TRN-IL-PRI-2DAS,"Instructor-Led Training - Additional Student, 2 Days Private Class, Invoice on delivery​"
+RESIDENT3DAY-MB,3 Days/Week Resident - 1 year Subscription Monthly Billing,,,,TRN-IL-PRI-3DAS,"Instructor-Led Training - Additional Student, 3 Days Private Class, Invoice on delivery​"
+RESIDENT4DAY-UB,4 Day/Week Resident - 1 year Subscription Upfront Billing,,,,TRN-IL-PRI-4DAS,"Instructor-Led Training - Additional Student, 4 Days Private Class, Invoice on delivery​"
+RESIDENT4DAY-MB,4 Day/Week Resident - 1 year Subscription Monthly Billing,,,,TRN-IL-PRI-5DAS,"Instructor-Led Training - Additional Student, 5 Days Private Class, Invoice on delivery​"
+MAXRESIDENT-UB,Max Resident - 1 year Subscription Upfront Billing,,,,TRN-TRAVEL,Training Travel
+MAXRESIDENT-MB,Max Resident - 1 year Subscription Monthly Billing,,,,,Education Services:  Custom Training
+XPERTSVCSL1-UB,Expert Services - 1 year Subscription Upfront Billing,,,,TRN-CUSTOM-HRPP,"Custom Training Hourly, Prepaid"
+XPERTSVCSL1-MB,Expert Services - 1 year Subscription Monthly Billing,,,,TRN-CUSTOM-HR,"Custom Training Hourly, Invoice on delivery"
+XPERTCUSTOM-UB,Expert Custom Services - 1 year Upfront Billing,,,,,General Consulting
+XPERTCUSTOM-MB,Expert Custom Services - 1 year Monthly Billing,,,,CS-DI-HR-L1,D&I T&M Service - Level1
+CONS-TRAVEL,Solution Services Travel,,,,CS-DI-HR-L2,D&I T&M Service - Level2
+HWA-OHC-RS1-PP,Health Watch - Onsite Prepaid,,,,CS-DI-HR-L3,D&I T&M Service - Level3
+HWA-QTR-RS4-PP,Health Watch - Quarterly Prepaid,,,,,Packaged Services
+HWA-LTE-RS1-PP,Health Watch - Lite Prepaid,,,,CS-DI-ABPB-2D,Analysis Best Practices - 2 Days
+SPE,Support Escalation Management  - Remote Escalation Mgt for VSE to ENS or MVISION migration assistance only,,,,CS-DI-ABPB-3D,Analysis Best Practices - 3 Days
+DEPLOY-REMDY-PP,Deployment Consulting - Remote migration assistance for VSE to ENS or MVision Endpoint migrations only,,,,CS-DI-ABPB-4D,Analysis Best Practices - 4 Days
+,Consulting Services: Foundstone Services,,,,CS-DI-ABPB-5D,Analysis Best Practices - 5 Days
+FS-CTIA,Context Threat Intell Subscription,,,,CS-DI-IVB,Install Validation
+FS-CTIB,Context Threat Intell Basic Subscription,,,,,Deployment Services
+FS-CONS-HR,Foundstone Consulting Hourly,,,,CS-DI-FIXED,Deployment Fixed Price Service
+FS-CONS-HR-D,Foundstone Consulting Hourly D,,,,CS-DI-STAFF-L1,D&I Staff Aug Services L1
+FS-TRN-HR,Custom Foundstone Training Development Hourly,,,,CS-DI-STAFF-L2,D&I Staff Aug Services L2
+FS-IR-HR-A-PP,Foundstone Consulting Incident Response Hourly A,,,,CS-DI-OS-NT,FireEye Remote Deployment Services
+FS-IR-HR,Foundstone Hourly Emergency Incident Response (EIR) Retainers,,,,CS-DI-OS-T,FireEye Remote Deployment Services (Travel Included)
+FS-IR-WKSP,IR Readiness Assessment,,,,,Technical Support
+FS-TRAVEL,Foundstone Travel,,,,COMPLY-NODE,Out of Compliance Charges- Software Node/User
+FS-PCI-50,Foundstone Quarterly External PCI Scan less than 50 live hosts,,,,COMPLY-HW,Out of Compliance Charges- Hardware Device
+,Consulting Services: Mandiant Services,,,,MEDIA-RET,Single Media Retention Item/Service Fee
+IR-MANDIANT-PP,Mandiant Incident Response (IR) Retainer - Prepaid,,,,NRHDDGEN2,Non-returnable HDD Program - GEN2
+,,,,,NRSSDGEN2,Non-returnable SSD Program - GEN2
+Trellix Success Services,,,,,,
+,Trellix Thrive Success Packages,,,,,
+THRIVE-ADV,"Thrive Advanced
+Thrive Advanced is a holistic services offering focused on helping customers derive the full value from their investments in solutions and optimize their security operations. Thrive Advanced includes Flex Credits that unlock a menu of adoption focused modular services as well as existing traditional consulting, education, and expert support services. Thrive Advanced additionally provides Advanced Routing for S1 issues, 24/7/365 phone support, live chat and email case submission, Case Prioritization and improved Response SLOs over Thrive Essential. The price of Thrive Advanced is determined based on Trellix software product spend. Flex Credits quantity is determined by the final price of Thrive Advanced.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+ ,1-1,Thrive Advanced Prepaid,THRIVE-ADV,Call for Quote,THRIVE-ADVA,
+THRIVE-ELITE,"Thrive Elite
+Thrive Elite is a holistic services offering focused on helping customers derive the full value from their investments in solutions and optimize their security operations. Thrive Elite includes Flex Credits that unlock a menu of adoption focused modular services as well as existing traditional consulting, education, and expert support services. Thrive Elite additionally provides Advanced Routing for all issues, 24/7/365 phone support, live chat and email case submission, Case Prioritization and improved Response SLOs over Thrive Advanced. The price of Thrive Elite is determined based on Trellix software product spend. Flex Credits quantity is determined by the final price of Thrive Elite.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+ ,1-1,Thrive Elite Prepaid,THRIVE-ELITE,Call for Quote,THRIVE-ELITEA,
+THRIVE-FLEX,"Thrive Flex Credits
+For systems use in quoting included Flex Credit entitlement Quantity to Thrive Advanced and Thrive Elite packages only.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,Flex Credits,THRIVE-FLEX,0,THRIVE-FLEXA,
+THRIVE-FLEX-ADDON,"Thrive Flex Credits Add-On
+Additional Flex Credits available to be used for the Trellix Thrive services menu.  Customers must be Thrive Advanced or Thrive Elite to purchase add-on Flex Credits.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,Flex Credits Addon Prepaid,THRIVE-FLEX-ADDON,857.91,THRIVE-FLEX-ADDONA,
+THRIVE-ESS-DG,"Thrive Essential Downgrade
+Must be used when customers move from either Thrive Advanced or Thrive Elite package to Thrive Essential. Must be completed at time of product renewal.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+ ,1-1,Thrive Essential Downgrade,THRIVE-ESS-DG,0,THRIVE-ESS-DGA,
+,Trellix Thrive Success Packages - For Legacy CSP,,,,,
+THRIVE-ADV-CSP,"Thrive Advanced for Legacy CSP
+Thrive Advanced is a holistic services offering focused on helping customers derive the full value from their investments in solutions and optimize their security operations. Thrive Advanced includes Flex Credits that unlock a menu of adoption focused modular services as well as existing traditional consulting, education, and expert support services. Thrive Advanced additionally provides Advanced Routing for S1 issues, 24/7/365 phone support, live chat and email case submission, Case Prioritization and improved Response SLOs over Thrive Essential. The price of Thrive Advanced will be manually determined by Trellix Deal Desk case-by-case. Flex Credits quantity is determined by the final price of Thrive Advanced. This SKU is restricted use solely for renewals of former Trellix Customer Success Plans SKUs.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+ ,1-1,Thrive Advanced f/CSP Prepaid,THRIVE-ADV-CSP,Call for Quote,THRIVE-ADV-CSPA,
+THRIVE-ELITE-CSP,"Thrive Elite for Legacy CSP
+Thrive Elite is a holistic services offering focused on helping customers derive the full value from their investments in solutions and optimize their security operations. Thrive Elite includes Flex Credits that unlock a menu of adoption focused modular services as well as existing traditional consulting, education, and expert support services. Thrive Elite additionally provides Advanced Routing for all issues, 24/7/365 phone support, live chat and email case submission, Case Prioritization and improved Response SLOs over Thrive Advanced. The price of Thrive Elite will be manually determined by Trellix Deal Desk case-by-case. Flex Credits quantity is determined by the final price of Thrive Elite. This SKU is restricted use solely for renewals of former Trellix Customer Success Plans SKUs.",,,,,
+,Standard Offering,,,,,
+,Technical Support Service,,,,,
+ ,1-1,Thrive Elite f/CSP Prepaid,THRIVE-ELITE-CSP,Call for Quote,THRIVE-ELITE-CSPA,
+,"Consulting Services: Solution Services
+Please refer to the Quoting Handbook for further customer guidance involved in the quoting process for any Assess, Deploy or Operate Packaged Consulting.",,,,,
+CONS-DY,"Custom Consulting Daily
+Note: A consulting day is defined as 8 hours.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sol Services Custom Consult Daily,MD-CONSULT-DAILY,4531.35,MD-CONSULT-DAILYA,
+CONS-DY-PP,"Custom Consulting Daily - Prepaid
+Note: A consulting day is defined as 8 hours.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sol Services Custom Consult Daily Ppd,MD-CONSLT-DAILYPP,4274.84,MD-CONSLT-DAILYPPA,
+ASSESS-HR,"Assessment Consulting
+Price is per hour. Provides 2 consultants on-site for SME Services and 1 Project Manager who will address people, processes and technology. SOW Required. Travel & Expense billed separately. Minimum sale of 240 hours.
+For a custom offer, please contact your Professional Services Sales Representative.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Assessment Consulting,MD-ASSESS-HOUR,636.7,MD-ASSESS-HOURA,
+CONS-HR-MT,"Midterm Hourly Consulting
+Price is per Hour. Minimum of 800 hours required.
+See Quotation Handbook for Regional clarification.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sol Ser Midterm Hourly Consulting,MD-MIDTERM-HOUR,457.67,MD-MIDTERM-HOURA,
+TS-ONSITE-DAY,"Daily Onsite Assistance
+Provides for an onsite presence at the customer site to assist IT systems and network security staffs with preventive and reactive tasks to avoid unplanned downtime events. The Customer must maintain a valid Technical Support entitlement. This service does not include travel or other expense (the customer is responsible for T/E). Requires a minimum order quantity of three (3). An approved quote is required. Availability varies by region. The use of this SKU and any exceptions requires approval of Customer Success Group Product Management prior to ordering.",,,,,
+,Standard Offering,,,,,
+,Day Rate Service,,,,,
+ ,1-+,Onsite Assistance 1 Day Contract,TS-ONSITE-DAILY,4531.35,TS-ONSITE-DAILYA,
+TS-REMOTE-COREPP,"Remote Assistance Core - Prepaid
+Provides 3 days remote services to assist configuration, strategy and consultation. It can be used for new products purchases under $30K. Requires a minimum order quantity of one (1).",,,,,
+,Standard Offering,,,,,
+,3 Day Rate Service,,,,,
+ ,1-+,Remote Assistance 3 Day Contract Prepaid,TS-RMTE-COREPP,9252.54,TS-RMTE-COREPPA,
+DEPLOY,"Deployment Consulting
+Provides 40 hours of Consulting Services and 5 hours of Project Manager time. Includes T&E in North America, EMEA, and APAC only.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Deployment Consulting,MD-DEPLOY,35581.25,MD-DEPLOYA,
+DEPLOY-PP,"Deployment Consulting - Prepaid
+Provides 40 hours of Consulting Services and 5 hours of Project Manager time. Includes T&E in North America, EMEA, and APAC only.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Deployment Consult Prepaid,MD-DEPLOYPP,35581.25,MD-DEPLOYPPA,
+DEPLOY-REMLOC,"Deployment Consulting - Remote Location
+Provides consulting using a local resource or remotely (no travel to client required). Includes 40 hours of consulting and 8 hours of PM and no T&E. No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Solution Services Remote Location,MD-REMLOC,29868.26,MD-REMLOCA,
+DEPLOY-REMLOC-PP,"Deployment Consulting - Remote Location - Prepaid
+Provides consulting using a local resource or remotely (no travel to client required). Includes 40 hours of consulting and 8 hours of PM and no T&E. No SOW required. Prepaid version of MD-REMLOC.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Solution Services Remote Location Ppd,MD-REMLOCPP,29868.26,MD-REMLOCPPA,
+CONS-HR,"Custom Consulting Hourly
+Price is per Hour.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Solution Services CustConsult Hourly,MD-CONSULT-HOUR,571.64,MD-CONSULT-HOURA,
+CONS-HR-PP,"Custom Consulting Hourly - Prepaid
+Price is per Hour.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Solution Services CustConsult Hourly Ppd,MD-CONSULT-HOURPP,571.64,MD-CONSULT-HOURPPA,
+CONS-VOUCHER,"Consulting Voucher
+Price is per voucher. Prepaid time and material consulting services. No SOW required. This Consulting Voucher offering can be used for travel & expense as well as rental.
+Reference Quoting Handbook for more information.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,10-+,Sol Serv Consult Voucher Ppd 12Mo Expire,CONSULT-VOUCHER,139.57,CONSULT-VOUCHERA,
+CONS-HR-LT,"Longterm Hourly Consulting
+Price is per Hour. Minimum of 1600 hours required.
+See Quotation Handbook for Regional clarification.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sol Serv Longterm Hourly Consulting,MD-LONGTERM-HOUR,406.84,MD-LONGTERM-HOURA,
+CONS-PM-DY,"Program/Project Management Consulting Daily
+Per Day Price.
+Note: A consulting day is defined as 8 hours.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Prgm/Project Mgmt Consulting Daily,MD-PM-SECC,3358.5,MD-PM-SECCA,
+CONS-PM-HR,"Program/Project Management Consulting Hourly
+Per Hour Price.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Prgm/Project Mgmt Consulting Hourly,MD-PM-HOUR,420.47,MD-PM-HOURA,
+CONS-SA-DY,"Security Architect Consulting Daily
+Per Day Price.
+Note: A consulting day is defined as 8 hours.
+SOW required.
+",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sec Architect Consulting Daily,MD-SA-SECC,5085.68,MD-SA-SECCA,
+CONS-SA-HR,"Security Architect Consulting Hourly
+Per Hour Price.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Sec Architect Consulting Hourly,MD-SA-HOUR,636.7,MD-SA-HOURA,
+CONS-SS-DY-CMBO,"Solution Services Daily Consulting and Travel Combo
+Note: A consulting day is defined as 8 hours.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,Solution Service Consulting Day&Trvl,MD-SS-COMBO,5325.74,MD-SS-COMBOA,
+RESIDENT1DAY-UB,"1 Day/Week Resident - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription residency. Residency is 1 day/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 1 Day Upfront Billing 1:1 TE,RESIDENT1-UB,235029.36,RESIDENT1-UB-AA,
+RESIDENT1DAY-MB,"1 Day/Week Resident - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription residency. Residency is 1 day/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 1 Day Monthly Billing 1:1 TE,RESIDENT1-MB,246780.84,RESIDENT1-MB-AA,
+RESIDENT2DAY-UB,"2 Day/Week Resident - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription residency. Residency is 2 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 2 Day Upfront Billing 1:1 TE,RESIDENT2-UB,455595.38,RESIDENT2-UB-AA,
+RESIDENT2DAY-MB,"2 Day/Week Resident - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription residency. Residency is 2 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 2 Day Monthly Billing 1:1 TE,RESIDENT2-MB,478375.16,RESIDENT2-MB-AA,
+RESIDENT3DAY-UB,"3 Day/Week Resident - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription residency. Residency is 3 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 3 Day Upfront Billing 1:1 TE,RESIDENT3-UB,661698.07,RESIDENT3-UB-AA,
+RESIDENT3DAY-MB,"3 Days/Week Resident - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription residency. Residency is 3 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 3 Day Monthly Billing 1:1 TE,RESIDENT3-MB,694782.96,RESIDENT3-MB-AA,
+RESIDENT4DAY-UB,"4 Day/Week Resident - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription residency. Residency is 4 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 4 Day Upfront Billing 1:1 TE,RESIDENT4-UB,853337.4,RESIDENT4-UB-AA,
+RESIDENT4DAY-MB,"4 Day/Week Resident - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription residency. Residency is 4 days/week over the 12 month period. On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Resident 4 Day Monthly Billing 1:1 TE,RESIDENT4-MB,896004.27,RESIDENT4-MB-AA,
+MAXRESIDENT-UB,"Max Resident - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription residency.  Residency is 5 days/week over the 12 month period.  On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Max Resident Upfront Billing 1:1 TE,MAXRESIDENT-UB,1016954,MAXRESIDENT-UB-AA,
+MAXRESIDENT-MB,"Max Resident - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription residency.  Residency is 5 days/week over the 12 month period.  On-site or remote delivery. No SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Max Resident Monthly Billing 1:1 TE,MAXRESIDENT-MB,1016954,MAXRESIDENT-MB-AA,
+XPERTSVCSL1-UB,"Expert Services - 1 year Subscription Upfront Billing
+Provides a prepaid, 12-month subscription for services to analyze, tune, report and provide knowledge transfer to maximize the  value of Trellix solutions. SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Xpert Svcs Upfront Billing 1:1 TE,XPERTL1-UB,282487.22,XPERTL1-UBAA,
+XPERTSVCSL1-MB,"Expert Services - 1 year Subscription Monthly Billing
+Provides a monthly paid, 12-month subscription for services to analyze, tune, report and provide knowledge transfer to maximize the value of Trellix solutions. SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Xpert Svcs Monthly Billing 1:1 TE,XPERTL1-MB,296611.58,XPERTL1-MBAA,
+XPERTCUSTOM-UB,"Expert Custom Services - 1 year Upfront Billing
+Provides a prepaid, 12-month subscription for flexible consulting services to perform defined tasks for customers. Scoping document(s) will describe the deliverable(s) of the service and will be mutually agreed to prior to the start of the subscription. On-site or Remote delivery. SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Xpert Custom Upfront Billing 1:1 TE,ADVISORCUST-UB,Call For Quote,ADVISORCUST-UB-AA,
+XPERTCUSTOM-MB,"Expert Custom Services - 1 year Monthly Billing
+Provides a monthly paid, 12-month subscription for flexible consulting services to perform defined tasks for customers remotely. Scoping document(s) will describe the deliverable(s) of the service and will be mutually agreed to prior to the start of the subscription. On-site or Remote delivery. SOW Required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Xpert Custom Monthly Billing 1:1 TE,ADVISORCUST-MB,Call For Quote,ADVISORCUST-MB-AA,
+CONS-TRAVEL,"Solution Services Travel
+Travel (Per Day).
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,Solution Services Travel (Per Day),MD-SS-TRAVEL,641.02,MD-SS-TRAVELA,
+HWA-OHC-RS1-PP,"Health Watch - Onsite Prepaid
+The Health Watch Onsite provides customers with an initial assessment to evaluate the overall operational environment without ongoing assessments.  During the initial assessment, subject matter experts (SMEs) will review product implementation and security infrastructure.  The initial assessment is a one-time, one-week on-site review (limited to not more than five days of the current operational and planned environment). This service does not provide ongoing assessments.  SMEs will review the various Trellix products deployed, integration/automation needs and changes/upgrades in the environment. SME’s will use a diagnostic tool to aid in the assessments/reviews to provide a comprehensive review of the overall environment.  The deliverable is an initial assessment report. The assessment report contains at a minimum an executive overview, technical and operational findings, technical issues, key action items and recommendations.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Health Watch OnsiteHealthChkPpd,MD-HW-OHC-RS1-PP,37293.51,MD-HW-OHC-RS1-PPA,
+HWA-QTR-RS4-PP,"Health Watch - Quarterly Prepaid
+The Health Watch Quarterly service provides customers with an initial assessment to evaluate the overall operational environment with ongoing quarterly assessments.  During the initial assessment, subject matter experts (SMEs) will review product implementation and security infrastructure.  The initial assessment is an Online, a one-time, one-week onsite review (limited to not more than five days) of the current operational and planned environment. This service also provides ongoing assessments with SMEs to review the various Trellix products purchased and deployed with a focus on ePO and other products (e.g. endpoints).  The initial assessment is followed up with three one-day quarterly remote assessments/sessions.  Quarterly assessment services follow the organizations progress toward improving the overall ePO and the customer’s detection/protection environment. SMEs will review the various products deployed, integration/automation needs and changes/upgrades in the environment. SME’s will use a diagnostic tool to aid in the assessments/reviews to provide a comprehensive review of the overall environment. The deliverables include an initial assessment report followed by three subsequent quarterly reports. Assessment reports contains at a minimum an executive overview, technical and operational findings, technical issues, progress/plan notes and  recommendations. Quarterly assessments will also address outstanding or newly discovered items since the initial or other executed assessments.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Health Watch - Quarterly Ppd,MD-HWA-QTR-RS4-PP,74588.9,MD-HWA-QTR-RS4-PPA,
+HWA-LTE-RS1-PP,"Health Watch - Lite Prepaid
+The Health Watch Lite provides customers with an initial assessment to evaluate the overall operational environment without ongoing assessments.  During the initial assessment, subject matter experts (SMEs) will review product implementation, analyze current product footprint and Trellix product security infrastructure.  The initial assessment is a one-time engagement, and is limited to a one-day (8 hour) review. This service does not provide ongoing assessments.  SMEs will review the various products deployed, integration/automation needs and changes/upgrades in the environment.  SME’s will use a diagnostic analytical tool to aid in the assessment/review to provide a comprehensive review of the overall environment.  The sole deliverable is a Health Watch assessment report. The assessment report contains at a minimum an executive overview, technical and operational findings, identified technical issues, key action items needed and recommendations.  The report is delivered in electronic format (PDF).
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Health Watch - Lite Ppd,MD-HWA-LTE-RS1-PP,18645.83,MD-HWA-LTE-RS1-PPA,
+SPE,"Support Escalation Management  - Remote Escalation Mgt for VSE to ENS or MVISION migration assistance only
+Provides remote escalation management, quarterly adoption/migration reviews and migration SR escalation management using a remote resource only. This DOES NOT replace the clients Technical Support entitlement. All Quotes requiring a Support Escalation Manager must be referred to the Customer Success Group (CSG) Product Management or the Deal Desk for review and approval.",,,,,
+,Standard Offering,,,,,
+,1yr Software Support,,,,,
+A,1-+,Support Escalation Management 1yr,SPEYCM-AT,28813.84,SPEYCM-AT-AA,
+DEPLOY-REMDY-PP,"Deployment Consulting - Remote migration assistance for VSE to ENS or MVision Endpoint migrations only
+Provides remote consulting using a remote resource (no travel to client required). Includes 8 hours of remote consulting. No T&E. No SOW required. For accounts greater than $150K ACV, please use a quantity of 13 days. For accounts greater than $125K, but less than $150K ACV, please use a quantity of 9 days. All Quotes requiring Remote migration assistance must be referred to the Customer Success Group (CSG) Product Management or the CSG Regional Professional Services Director for review and approval.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Solution Service Remote Daily Prepaid,MD-REMDAILYPP,2350.29,MD-REMDAILYPPA,
+,Consulting Services: Foundstone Services,,,,,
+FS-CTIA,"Context Threat Intell Subscription
+Subscription for 24/7 threat intelligence surveillance, malware detection, domain/network tracking, and threat landscape reporting.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Context Threat Intell Adv Subscription,ES-FS-CTIPADV,610282.36,ES-FS-CTIPADVA,
+FS-CTIB,"Context Threat Intell Basic Subscription
+Subscription for 24/7 threat intelligence surveillance, malware detection, domain/network tracking, and threat landscape reporting.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Context Threat Intell Basic Subscription,ES-FS-CTIPBSC,345826.68,ES-FS-CTIPBSCA,
+FS-CONS-HR,"Foundstone Consulting Hourly
+Per Hour Price.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,FDSN ES-Hourly rate for Consultant,ES-FS-HOUR,508.57,ES-FS-HOURA,
+FS-CONS-HR-D,"Foundstone Consulting Hourly D
+Per Hour Price.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,FDSN ES-Hourly rate for Consultant D,ES-FS-HOURD,305.16,ES-FS-HOURDA,
+FS-TRN-HR,"Custom Foundstone Training Development Hourly
+Custom Foundstone training development: Hourly rate for custom curriculum development by a Foundstone specialist (for private training).
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Training,,,,,
+ ,1-+,FDSN ES-Hrly Rte for Cust Curriculum Dev,ES-FS-CONS-HR,479.79,ES-FS-CONS-HRA,
+FS-IR-HR-A-PP,"Foundstone Consulting Incident Response Hourly A
+Per Hour Price Pre-paid.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,FDSN Incident Response Hourly A Ppd,ES-FS-IRHOURA-PP,508.57,ES-FS-IRHOURA-PPA,
+FS-IR-HR,"Foundstone Hourly Emergency Incident Response (EIR) Retainers
+All tiers are EIR rates.
+HOURA - Customer choose zero-dollar retainer model.
+HOURB - Customer purchase the IR Readiness Assessment with no budget of hours as retainer.
+HOURC  - Customer purchasing a bucket of EIR hours. Min. 40 hours. Customer can use hours for non-urgent, other FS services.  Add additional SKU ES-FS-HOUR for non-urgent.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,1st Tier - EIR Rate,FS-IR-HOURA,959.57,FS-IR-HOURAA,
+ ,1-+,2nd Tier - EIR Rate,FS-IR-HOURB,767.65,FS-IR-HOURBA,
+ ,1-+,3rd Tier - EIR Rate,FS-IR-HOURC,671.69,FS-IR-HOURCA,
+FS-IR-WKSP,"IR Readiness Assessment
+For understanding current client IR capability and maturity and producing basic client-specific IR Program documentation, etc. Can be sold in multiples if client desires additional depth and scope. Scope with FS IR team.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,IR Readiness Assessment Prepaid,FS-IR-WRKSHP,28786.72,FS-IR-WRKSHPA,
+FS-TRAVEL,"Foundstone Travel
+Consulting Travel Expenses.
+No SOW required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,FSDN Consulting Travel Expenses,ES-FS-TRAVEL,861.98,ES-FS-TRAVELA,
+FS-PCI-50,"Foundstone Quarterly External PCI Scan less than 50 live hosts
+Quarterly External PCI Scan less than 50 live hosts.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,FDSN QtrlyExtrnl PCIScan <50 LvHosts,ES-FS-PCI,4068.54,ES-FS-PCIA,
+,Consulting Services: Mandiant Services,,,,,
+IR-MANDIANT-PP,"Mandiant Incident Response (IR) Retainer - Prepaid
+The Mandiant Incident Response (IR) Retainer is a proactive service designed to provide organizations with priority access to Mandiant’s world-class experts in the event of a cybersecurity incident. With this retainer, customers can secure rapid response times, expert guidance during crises, and ongoing readiness through pre-approved hours for incident response and advisory services. No SOW required. Prepaid.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,Mandiant IR Retainer Prepaid 12MO EXP,IR-MANDIANT-PP,169868.6,IR-MANDIANT-PPA,
+,Private Global Threat Intelligence (pGTI),,,,,
+PGTI,"Trellix Private Global Threat Intelligence
+This subscription includes 5 distinct pGTI instances to be built for the customer. Each instance is licensed to support up to 50,000 connections from endpoints such as workstations, servers, or security appliances. In no case shall this license be extended beyond 250,000 total connections (up to 5 POPs X 50,000 = 250,000 ). Can be hosted on bare-metal hardware, virtual machines, or customer private cloud. Customer provides hosting infrastructure. Trellix services and data terms and conditions apply. Upfront billing.
+INCLUDES: Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: Customer access to the system is limited to security scans.
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required. Requires Professional Services using ADVISORCUSTOM. ** Services attach is not required if the customer has active Resident Trellix Professional Services.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Private Glbl Thrt Intel 1:1TE Lrg,PGTIGIE-LRG,2813827.68,PGTIGIE-LRG-AA,
+PGTI-LTE,"Trellix Private Global Threat Intelligence Lite
+This subscription includes 2 distinct pGTI instances to be built for the customer. Each instance is licensed to support up to 50,000 connections from endpoints such as workstations, servers, or security appliances. In no case shall this license be extended beyond 100,000 total connections (up to 2 POPs X 50,000 = 100,000 ). Can be hosted on bare-metal hardware, virtual machines, or customer private cloud. Customer provides hosting infrastructure.. Trellix services and data terms and conditions apply.  Upfront billing.
+INCLUDES: Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: Customer access to the system is limited to security scans.
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.Requires Professional Services using ADVISORCUSTOM. ** Services attach is not required if the customer has active Resident Trellix Professional Services.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Private Glbl Thrt Intel 1:1TE Lte,PGTIGIE-LTE,1915732.36,PGTIGIE-LTE-AA,
+,Threat Intelligence,,,,,
+TIG-INTAAS-LG,"Trellix Threat Intelligence-as-a-Service Large - Upfront Billing
+1 year Subscription. Upfront Billing. Subscription provides advanced all-source research, analysis, and reporting in response to customer requests for intelligence (RFIs).
+INCLUDES:  This service provides: 1) Up to five minor requests per month; and 2) One major request per month, 3) Quarterly Executive Level Threat Briefings 4) Weekly Micro Reports and 5) Monthly Threat Trends Reports.    Minor requests are limited in scope, noncomplex, and are fulfilled within hours or days, dependent upon scope, by querying Trellix tools and data sets to provide information on tactical level questions or atomic level threat and telemetry.  Responses are not based on in-depth research but pulled from raw data sources and curated by Trellix researchers.  Minor requests are relatively simple and straightforward questions that require little to no scoping dialogue with the customer and do not require extensive research and analysis.  Major requests are broader in scope and complexity and are fulfilled within days, weeks, or months, depending on the scope, scale, and complexity, through extensive research and analysis using Trellix and third-party tools and datasets combined with all-source intelligence gathering.  Trellix researchers develop curated reporting that is peer-reviewed and provides strategic and operational level information.  Major request questions may be simple or complex and require the researcher to engage in continuous scoping dialogue with the customer team throughout the production process.   Executive Level Threat Briefings provide an overview of information relevant or potentially relevant to the customer organization. The overview includes a strategic view of threat actor presence, behavior, patterns, and trends - globally, by country, or by specified area of interest based on Trellix’ global data and analytics.  It also includes information developed through previous major and minor requests.  The composition of this information is intended to provide executives with an understanding of actual and potential threats that will aid decision-making to improve protection and readiness of the organization.
+LIMITATIONS:  N/A
+REQUIREMENT:  SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Threat INTaaS 1:1TE Lrg,TIG-INTAAS-LRG,991964.97,TIG-INTAAS-LRG-AA,
+TIG-INTAAS-MD,"Trellix Threat Intelligence-as-a-Service Medium - Upfront Billing
+1 year Subscription. Upfront Billing. Subscription provides advanced all-source research, analysis, and reporting in response to customer requests for intelligence (RFIs).
+INCLUDES: This service provides: 1) Up to four minor requests per month; and 2) One major request for every two months, 3) Quarterly Executive Level Threat Briefings 4) Weekly Micro Reports and 5) Monthly Threat Trends Reports.    Minor requests are limited in scope, noncomplex, and are fulfilled within hours or days, dependent upon scope, by querying Trellix tools and data sets to provide information on tactical level questions or atomic level threat and telemetry.  Responses are not based on in-depth research but pulled from raw data sources and curated by Trellix researchers.  Minor requests are relatively simple and straightforward questions that require little to no scoping dialogue with the customer and do not require extensive research and analysis.  Major requests are broader in scope and complexity and are fulfilled within days, weeks, or months, depending on the scope, scale, and complexity, through extensive research and analysis using Trellix and third-party tools and datasets combined with all-source intelligence gathering.  Trellix researchers develop curated reporting that is peer-reviewed and provides strategic and operational level information.  Major request questions may be simple or complex and require the researcher to engage in continuous scoping dialogue with the customer team throughout the production process. Executive Level Threat Briefings provide an overview of information relevant or potentially relevant to the customer organization.    The overview includes a strategic view of threat actor presence, behavior, patterns, and trends - globally, by country, or by specified area of interest based on Trellix’ global data and analytics.  It also includes information developed through previous major and minor requests.  The composition of this information is intended to provide executives with an understanding of actual and potential threats that will aid decision-making to improve protection and readiness of the organization.
+LIMITATIONS:  N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Threat INTaaS 1:1TE Md,TIG-INTAAS-MED,743973.72,TIG-INTAAS-MED-AA,
+TIG-INTAAS-SM,"Trellix Threat Intelligence-as-a-Service Small - Upfront Billing
+1 year Subscription. Upfront Billing. Subscription provides advanced all-source research, analysis, and reporting in response to customer requests for intelligence (RFIs).
+INCLUDES: This service provides: 1) Up to three minor requests per month; and 2) One major request per quarter, 3) Quarterly Executive Level Threat Briefings.    Minor requests are limited in scope, noncomplex, and are fulfilled within hours or days, dependent upon scope, by querying Trellix tools and data sets to provide information on tactical level questions or atomic level threat and telemetry.  Responses are not based on in-depth research but pulled from raw data sources and curated by Trellix researchers.  Minor requests are relatively simple and straightforward questions that require little to no scoping dialogue with the customer and do not require extensive research and analysis.  Major requests are broader in scope and complexity and are fulfilled within days, weeks, or months, depending on the scope, scale, and complexity, through extensive research and analysis using Trellix and third-party tools and datasets combined with all-source intelligence gathering.  Trellix researchers develop curated reporting that is peer-reviewed and provides strategic and operational level information.  Major request questions may be simple or complex and require the researcher to engage in continuous scoping dialogue with the customer team throughout the production process.       Executive Level Threat Briefings provide an overview of information relevant or potentially relevant to the customer organization.    The overview includes a strategic view of threat actor presence, behavior, patterns, and trends - globally, by country, or by specified area of interest based on Trellix’ global data and analytics.  It also includes information developed through previous major and minor requests.  The composition of this information is intended to provide executives with an understanding of actual and potential threats that will aid decision-making to improve protection and readiness of the organization.
+LIMITATIONS:  N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Threat INTaaS 1:1TE Sm,TIG-INTAAS-SML,578646.24,TIG-INTAAS-SML-AA,
+TIG-QTE-UB,"Trellix Tailored Threat Intelligence Services Upfront Billing
+1 year Subscription. Upfront Billing. Subscription provides advanced all-source research, analysis, and reporting in response to customer requests for intelligence (RFIs).
+INCLUDES: Custom Threat intelligence Services based defined scope of work. Scoping and pricing provided and approved by Threat Intelligence Services Senior Director.
+LIMITATIONS:  N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Tailored Thrt Intel Servs Upft Bil 1:1TE,TIG-QTE-UB,Call for Quote,TIG-QTE-UBAA,
+TIG-QTE-MB,"Trellix Tailored Threat Intelligence Services Monthly Billing
+1 year Subscription. Monthly Billing. Subscription provides advanced all-source research, analysis, and reporting in response to customer requests for intelligence (RFIs).
+INCLUDES: Custom Threat intelligence Services based defined scope of work. Scoping and pricing provided and approved by Threat Intelligence Services Senior Director.
+LIMITATIONS: N/A
+REQUIREMENT:  SOW approved by Threat Intelligence Services Senior Director required.
+",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,Tailored Thrt Intel Servs Mo Bil 1:1TE,TIG-QTE-MB,Call for Quote,TIG-QTE-MBAA,
+TIG-THREAT-REPORTS,"Trellix Threat Reports - Upfront Billing
+1 year Subscription. Upfront Billing.
+INCLUDES: This service provides: 1) Weekly micro threat reports and 2) Monthly threat trends reports delivered in written format via email for a period of 1 year.  Customers may request reports on specific threats or receive reports on threats chosen by Trellix.  Micro Threat Reports: The Micro Threat Intel Reports offer a concise, high-level overview of specific cybersecurity campaigns, threats, or vulnerabilities, tailored to provide quick and targeted insights. This service is particularly valuable for organizations needing a rapid understanding of a particular threat landscape without the commitment to extensive research. Leveraging Trellix’s existing, robust database of analyzed and cataloged data, each report distills essential information, presenting it in an easily digestible format. Ideal for making informed decisions in a timely manner, this service enables your team to stay ahead of emerging threats by providing crucial intelligence exactly when it’s needed. Whether for strategic planning, risk assessment, or simply staying informed on the latest cybersecurity trends, our Micro Threat Intel Report ensures you have the focused intelligence at your fingertips, aiding in maintaining a proactive security posture.  Threat Trends Reports:  A  report on prevalent threats and associated trends with regional or global focus. Provides highlights and trends concerning recent threat activity, globally or regionally, information regarding major vulnerabilities and associated exploits, and information related to APT activity to include infrastructure, tactics, techniques, and procedures. The reports may include information about cyber activity associated with geopolitical conflicts and crises. These reports may also include vulnerability research.
+LIMITATIONS: N/A
+REQUIREMENT: N/A",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG Threat Reports Upft Billing 1:1 TE,TIGTHREATRPT-UB,247991.25,TIGTHREATRPT-UB-AA,
+,Advanced Threat Landscape Analysis System (ATLAS),,,,,
+TIG-ATLAS,"Trellix Advanced Threat Landscape Analysis System (ATLAS) - Upfront Billing
+This is a 12-month subscription, with upfront billing, that provides access to malicious Worldwide threat detections in a Geo-spatially enabled dashboard hosted by Trellix via cloud service provider, accessible to multiple customers. Trellix services and data terms and conditions apply.
+INCLUDES: Access to a standard instance of cloud-hosted ATLAS.  Maximum of 20 active user accounts. Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG ATLAS Upfront Billing 1:1 TE,TIGATLAS-UB,988705.27,TIGATLAS-UB-AA,
+TIG-ATLAS-PH,"Trellix Advanced Threat Landscape Analysis System (ATLAS) - Private Hosting - Upfront Billing
+This is a 12-month subscription, with upfront billing, that provides access to malicious Worldwide threat detections in a Geo-spatially enabled dashboard hosted by Trellix via cloud service provider. Trellix services and data terms and conditions apply.
+INCLUDES: Access to a standard instance of cloud-hosted ATLAS that is restricted to the customer.  Maximum of 20 active user accounts. Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required. Requires attached Professional Services ADVISORCUSTOM.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG ATLAS Private Hosting UpftBill 1:1TE,TIGATLASPH-UB,988705.27,TIGATLASPH-UB-AA,
+TIG-ATLAS-OP,"Trellix Advanced Threat Landscape Analysis System (ATLAS) - On Premises - Upfont Billing
+This is a 12-month subscription, with upfront billing, that provides access to malicious Worldwide threat detections in a Geo-spatially enabled dashboard hosted on the customer's premises as a private instance accessible only to the customer. Can be hosted on bare-metal hardware, virtual machines, or customer private cloud. Customer is responsible for hosting infrastructure. Prepaid. Trellix services and data terms and conditions apply. Requires professional services attach in support of deployment, operations, and sustainment.
+INCLUDES: Access to a standard instance of cloud-hosted ATLAS that is restricted to the customer.  Maximum of 20 active user accounts. Critical bug fixes and Security updates. Does not include new feature releases.
+LIMITATIONS: N/A
+REQIREMENT: SOW approved by Threat Intelligence Services Senior Director required. Requires attached Professional Services ADVISORCUSTOM.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG ATLAS On Premises Upfront Bill 1:1TE,TIGATLASOP-UB,988705.27,TIGATLASOP-UB-AA,
+TIG-ATLAS-DO,"Trellix Advanced Threat Landscape Analysis System (ATLAS) - Data Only
+This is a 12-month subscription that provides access to malicious Worldwide threat detections in raw data format via .json files.
+INCLUDES: Raw data delivered via cloud hosted storage. Data updates are provided every 24-hours. Trellix services and data terms and conditions apply.
+LIMITATIONS: Data retention is limited to 180 days.
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG ATLAS Data Only Upfront Bill 1:1TE,TIGATLASDO-UB,549280.71,TIGATLASDO-UB-AA,
+,TIG Resident Analyst,,,,,
+TIG-RESIDENT-ANALYST-UB,"Trellix Resident Analyst - Upfront Billing
+1 year Subscription. Upfront Billing. Residency is 5 days/week over the 12-month period.  On-site, remote, or hybrid delivery.
+INCLUDES: All-source research, analysis, and reporting on cyber threats. Resident analysts immerse themselves into customer security operations to help identify and prioritize cyber threat intelligence requirements.  They perform research, analysis, and reporting to provide customers with deep insights into active or emerging cyber threats.
+LIMITATIONS: N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG Resident Analyst 5 Day UpftBill1:1TE,TIGRESIDENT5-UB,1124888.28,TIGRESIDENT5-UB-AA,
+TIG-RESIDENT-ANALYST-MB,"Trellix Resident Analyst - Monthy Billing
+1 year Subscription. Monthly Billing. Residency is 5 days/week over the 12-month period.  On-site, remote, or hybrid delivery.
+INCLUDES: All-source research, analysis, and reporting on cyber threats. Resident analysts immerse themselves into customer security operations to help identify and prioritize cyber threat intelligence requirements.  They perform research, analysis, and reporting to provide customers with deep insights into active or emerging cyber threats.
+LIMITATIONS: N/A
+REQUIREMENT: SOW approved by Threat Intelligence Services Senior Director required.",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+A,1-+,TIG Resident Analyst 5 Day Mo Bill1:1TE,TIGRESIDENT5-MB,1124888.28,TIGRESIDENT5-MB-AA,
+,Managed Security Services,,,,,
+HWA-MSP-RS4-PP,"Health Watch - Managed Security Service Provider Prepaid
+A Health Watch Managed Security Service Provider service provides customers with an initial assessment to evaluate the overall operational environment with ongoing quarterly assessments.  During the initial assessment, subject matter experts (SMEs) will review product implementation and security infrastructure.  The initial assessment is an Online, 8 hour remote review of the current operational and planned environment. This service also provides ongoing assessments with SMEs to review the various Trellix products purchased and deployed with a focus on ePO and other Trellix products (e.g. endpoints).  The initial assessment is followed up with three one-day quarterly remote assessments/sessions.  Quarterly assessment services follow the organizations progress toward improving the overall ePO and the customer’s detection/protection environment. SMEs will review the various products deployed, integration/automation needs and changes/upgrades in the environment. SME’s will use a diagnostic tool to aid in the assessments/reviews to provide a comprehensive review of the overall environment. The deliverables include an initial assessment report followed by three subsequent quarterly reports. Assessment reports contains at a minimum an executive overview, technical and operational findings, technical issues, progress/plan notes and recommendations. Quarterly assessments will also address outstanding or newly discovered items since the initial or other executed assessments. Service only applicable to a single customer.No SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Sol Svcs Health Watch - MSP Ppd,MD-HWA-MSP-RS4-PP,37293.51,MD-HWA-MSP-RS4-PPA,
+,Education Services: Instructor-led Training,,,,,
+TRN-VOUCHER,"Training Voucher, Prepaid
+Price is per voucher. Can be used for both public and private instructor-led training and T&E.
+No SOW required. Expires 12 months from purchase.
+Standard offering
+Prepaid Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,10-+,EduServ Training Voucher Prepaid,TRN-VOUCHER,108.1,TRN-VOUCHERA,
+FS-TRN-OS-4DY,"Foundstone 4 day Foundstone PS Onsite Course
+For the first 6 Students on 4 day classes.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,4 DAY FOUNDSTONE PS ONSITE COURSE,TRN-FS-4DAY-SITE,40034.18,TRN-FS-4DAY-SITEA,
+FS-TRN-OS-4DY-ST,"Foundstone 4 day Foundstone PS ADDITIONAL STUDENT
+For ONSITE 4 day classes.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,4 DAY FOUNDSTONE PS ADDITIONAL STUDENT,TRN-FS-4DAY-STUD,3695.45,TRN-FS-4DAY-STUDA,
+FS-TRN-CL-4DY,"Foundstone 4 day Foundstone PS PUBLIC COURSE Prepaid
+PUBLIC 4 DAY COURSE Prepaid.
+SOW required.",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,4DAY FOUNDSTONE PS PUBLIC COURSE Prepaid,TRN-FS-4DAY-TCL,7390.84,TRN-FS-4DAY-TCLA,
+TRN-IL-PRI-1DPP,"Instructor-Led Training - 1 Day Private Class, Virtual, Prepaid
+Instructor-Led Training: 1 Day, virtual, private class, up to 6 students.
+Order quantity must reflect number of class days required.
+For Onsite training, add TRN-TRAVEL SKU.  For additional students over 6, add appropriate TRN-IL-PRI-*DASPP SKU.
+No SOW required. Expires 12 months from purchase.
+Standard offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 1 Day Prepaid,TRN-IL-PRI-1DPP,7865.77,TRN-IL-PRI-1DPPA,
+TRN-IL-PRI-1D,"Instructor-Led Training - 1 Day Private Class, Virtual, Invoice on delivery
+Instructor-Led Training: 1 Day, virtual, private class, up to 6 students.
+Order quantity must reflect number of class days required.
+For Onsite, add TRN-TRAVEL SKU.  For additional students over 6, add appropriate TRN-IL-PRI-*DAS SKU.
+No SOW required. Expires 12 months from purchase.
+Standard offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 1 Day,TRN-IL-PRI-1D,7865.77,TRN-IL-PRI-1DA,
+TRN-IL-PUB-1DPP,"Instructor-Led Training - 1 Day Public Class, Virtual, Prepaid
+Instructor-Led Training: 1 Day, virtual, public class, per student (seat)
+Order quantity must reflect number of class days and students (seats) required.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Prepaid Public Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Public ILT 1 Day Prepaid,TRN-IL-PUB-1DPP,1191.78,TRN-IL-PUB-1DPPA,
+TRN-IL-PRI-1DASPP,"Instructor-Led Training - Additional Student, 1 Day Private Class, Prepaid​
+Instructor-Led Training: Per additional student for 1 day private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1DPP is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 1 Day AddStu Prepaid,TRN-IL-PRI-1DASPP,595.9,TRN-IL-PRI-1DASPPA,
+TRN-IL-PRI-2DASPP,"Instructor-Led Training - Additional Student, 2 Days Private Class, Prepaid​
+Instructor-Led Training: Per additional student for 2 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1DPP with quantity 2 is also included.
+No SOW required.  Expires 12 months from purchase.
+Standard Offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 2 Day AddStu Prepaid,TRN-IL-PRI-2DASPP,1191.78,TRN-IL-PRI-2DASPPA,
+TRN-IL-PRI-3DASPP,"Instructor-Led Training - Additional Student, 3 Days Private Class, Prepaid​
+Instructor-Led Training: Per additional student for 3 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1DPP with quantity 3 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 3 Day AddStu Prepaid,TRN-IL-PRI-3DASPP,1787.68,TRN-IL-PRI-3DASPPA,
+TRN-IL-PRI-4DASPP,"Instructor-Led Training - Additional Student, 4 Days Private Class, Prepaid​
+Instructor-Led Training: Per additional student for 4 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1DPP with quantity 4 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 4 Day AddStu Prepaid,TRN-IL-PRI-4DASPP,2383.57,TRN-IL-PRI-4DASPPA,
+TRN-IL-PRI-5DASPP,"Instructor-Led Training - Additional Student, 5 Days Private Class, Prepaid​
+Instructor-Led Training: Per additional student for 5 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1DPP with quantity 5 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Prepaid Private Training",,,,,
+,Standard Offering,,,,,
+,Pre-Paid Training,,,,,
+ ,1-+,EduServ Private ILT 5 Day AddStu Prepaid,TRN-IL-PRI-5DASPP,2979.46,TRN-IL-PRI-5DASPPA,
+TRN-IL-PRI-1DAS,"Instructor-Led Training - Additional Student, 1 Day Private Class, Invoice on delivery​
+Instructor-Led Training: Per additional student for 1 day private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1D is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 1 Day AddStu,TRN-IL-PRI-1DAS,595.9,TRN-IL-PRI-1DASA,
+TRN-IL-PRI-2DAS,"Instructor-Led Training - Additional Student, 2 Days Private Class, Invoice on delivery​
+Instructor-Led Training: Per additional student for 2 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1D with quantity 2 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 2 Day AddStu,TRN-IL-PRI-2DAS,1191.78,TRN-IL-PRI-2DASA,
+TRN-IL-PRI-3DAS,"Instructor-Led Training - Additional Student, 3 Days Private Class, Invoice on delivery​
+Instructor-Led Training: Per additional student for 3 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1D with quantity 3 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 3 Day AddStu,TRN-IL-PRI-3DAS,1787.68,TRN-IL-PRI-3DASA,
+TRN-IL-PRI-4DAS,"Instructor-Led Training - Additional Student, 4 Days Private Class, Invoice on delivery​
+Instructor-Led Training: Per additional student for 4 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1D with quantity 4 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 4 Day AddStu,TRN-IL-PRI-4DAS,2383.57,TRN-IL-PRI-4DASA,
+TRN-IL-PRI-5DAS,"Instructor-Led Training - Additional Student, 5 Days Private Class, Invoice on delivery​
+Instructor-Led Training: Per additional student for 5 days private class.
+Order quantity must reflect number of additional students over 6.
+Can only be quoted if TRN-IL-PRI-1D with quantity 5 is also included.
+No SOW required. Expires 12 months from purchase.
+Standard Offering
+Private Training",,,,,
+,Standard Offering,,,,,
+,Private Training,,,,,
+ ,1-+,EduServ Private ILT 5 Day AddStu,TRN-IL-PRI-5DAS,2979.46,TRN-IL-PRI-5DASA,
+TRN-TRAVEL,"Training Travel
+Travel (per day). Non-discountable. Quote quantity must be the number of instructor-led class days onsite + 1.
+No SOW required.
+Standard Offering
+General Item",,,,,
+,Standard Offering,,,,,
+,General Item,,,,,
+ ,1-+,EduServ Travel (Per Day),TRN-TRAVEL,1327.99,TRN-TRAVELA,
+,Education Services:  Custom Training,,,,,
+TRN-CUSTOM-HRPP,"Custom Training Hourly, Prepaid
+Price is per hour. Contact Education Services.
+SOW required.
+Standard Offering
+Prepaid Custom Training",,,,,
+,Standard Offering,,,,,
+,Custom Training,,,,,
+ ,1-+,EduServ Custom Training Hourly Prepaid,TRN-CUSTOM-HRPP,595.9,TRN-CUSTOM-HRPPA,
+TRN-CUSTOM-HR,"Custom Training Hourly, Invoice on delivery
+Price is per hour. Contact Education Services.
+SOW required.
+Standard Offering
+Custom Training",,,,,
+,Standard Offering,,,,,
+,Custom Training,,,,,
+ ,1-+,EduServ Custom Training Hourly,TRN-CUSTOM-HR,595.9,TRN-CUSTOM-HRA,
+,General Consulting,,,,,
+CS-DI-HR-L1,"D&I T&M Service - Level1
+Hourly service fee to help architect, engineer, implement, and manage security solution. Travel expenses not included. If travel is required, travel expenses will be billed separately. SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,D&I T&M Serv Hourly Level 1 Prepaid,CS-DI-HR-L1,414.31,CS-DI-HR-L1A,
+CS-DI-HR-L2,"D&I T&M Service - Level2
+Hourly service fee to help architect, engineer, implement, and manage security solution. Travel expenses not included. If travel is required, travel expenses will be billed separately. SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,D&I T&M Serv Hourly Level 2 Prepaid,CS-DI-HR-L2,621.47,CS-DI-HR-L2A,
+CS-DI-HR-L3,"D&I T&M Service - Level3
+Hourly service fee to help architect, engineer, implement, and manage security solution. Travel expenses not included. If travel is required, travel expenses will be billed separately. SOW required.",,,,,
+,Standard Offering,,,,,
+,Custom Consulting,,,,,
+ ,1-+,D&I T&M Serv Hourly Level 3 Prepaid,CS-DI-HR-L3,828.63,CS-DI-HR-L3A,
+,Packaged Services,,,,,
+CS-DI-ABPB-2D,"Analysis Best Practices - 2 Days
+Analysis Best Practices: Up to 2 consecutive days of an Analysis Best Practices workshop per attached agenda. Fixed price with travel included for up to 1 onsite visit.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Analysis Best Practices 2Day Prepaid,CS-DI-ABPB-2D,24858.88,CS-DI-ABPB-2DA,
+CS-DI-ABPB-3D,"Analysis Best Practices - 3 Days
+Analysis Best Practices: Up to 3 consecutive days of an Analysis Best Practices workshop per attached agenda. Fixed price with travel included for up to 1 onsite visit.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Analysis Best Practices 3Day Prepaid,CS-DI-ABPB-3D,37288.32,CS-DI-ABPB-3DA,
+CS-DI-ABPB-4D,"Analysis Best Practices - 4 Days
+Analysis Best Practices: Up to 4 consecutive days of an Analysis Best Practices workshop per attached agenda. Fixed price with travel included for up to 1 onsite visit.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Analysis Best Practices 4Day Prepaid,CS-DI-ABPB-4D,49717.74,CS-DI-ABPB-4DA,
+CS-DI-ABPB-5D,"Analysis Best Practices - 5 Days
+Analysis Best Practices: Up to 5 consecutive days of an Analysis Best Practices workshop per attached agenda. Fixed price with travel included for up to 1 onsite visit.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Analysis Best Practices 5ay Prepaid,CS-DI-ABPB-5D,62147.18,CS-DI-ABPB-5DA,
+CS-DI-IVB,"Install Validation
+Up to 2 consecutive days of services for a remote health check or install validation. Fixed price engagement.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Install Validation Prepaid,CS-DI-IVB,12988.76,CS-DI-IVBA,
+,Deployment Services,,,,,
+CS-DI-FIXED,"Deployment Fixed Price Service
+Custom scoped D&I fixed price service. SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,Deployment Fixed Price Service Prepaid,CS-DI-FIXED,1.42,CS-DI-FIXEDA,
+CS-DI-STAFF-L1,"D&I Staff Aug Services L1
+Prepaid D&I services for one month of services to be performed during standard business hours Monday to Friday (40-hour work week), excluding government holidays and pre-arranged time off.  Travel expenses not included.  If travel is required, travel expenses will be billed separately.  Fixed fee per month, per person. SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,D&I Staff Aug Services L1 Prepaid,CS-DI-STAFF-L1,66290.34,CS-DI-STAFF-L1A,
+CS-DI-STAFF-L2,"D&I Staff Aug Services L2
+Prepaid D&I services for one month of services to be performed during standard business hours Monday to Friday (40-hour work week), excluding government holidays and pre-arranged time off.  Travel expenses not included.  If travel is required, travel expenses will be billed separately.  Fixed fee per month, per person. SOW required.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,D&I Staff Aug Services L2 Prepaid,CS-DI-STAFF-L2,99435.5,CS-DI-STAFF-L2A,
+CS-DI-OS-NT,"FireEye Remote Deployment Services
+Up to 5 consecutive days of FireEye product deployment services. Travel expenses not included.  If travel is required, travel expenses will be billed separately. Fixed price engagement.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,FireEye Remote Deploy Srv Prepaid,CS-DI-OS-NT,25894.66,CS-DI-OS-NTA,
+CS-DI-OS-T,"FireEye Remote Deployment Services (Travel Included)
+Up to 5 consecutive days of FireEye product deployment services including travel expenses.  Fixed price engagement with travel included for up to one onsite visit.",,,,,
+,Standard Offering,,,,,
+,Packaged Consulting,,,,,
+ ,1-+,FireEye RemoteDeploy SrvInc TRVL Prepaid,CS-DI-OS-T,31073.6,CS-DI-OS-TA,
+,Technical Support,,,,,
+COMPLY-NODE,"Out of Compliance Charges- Software Node/User
+Administration, setup and re-instatement fee for customers who are out of compliance regarding license usage and/or support or subscription license lapses. Use COMPLY-HW for products sold on a ""per unit, seat or appliance"" basis. Use COMPLY-NODE for products sold on a ""per node"" basis. This fee is in addition to the standard support.  To determine the Quantity chargeable you must multiply the Nodes or Unit count by the number of months that the lapse has existed for.  Example:  A 200 node support lapsed for 3 months requires 600 units of charge to be applied.  All Quotes requiring an Out of Compliance Charge must be referred to the License Compliance Team [LCS] for review and approval.",,,,,
+,Standard Offering,,,,,
+,Software Support Fee,,,,,
+ ,1-+,Out of Comply (Node Based) Penalty,COMPLY-NODE,2.19,COMPLY-NODEA,
+COMPLY-HW,"Out of Compliance Charges- Hardware Device
+Administration, setup and re-instatement fee for customers who are out of compliance regarding license usage and/or support or subscription license lapses. Use COMPLY-HW for products sold on a ""per unit, seat or appliance"" basis. This fee is in addition to the standard support.  To determine the Quantity chargeable you must multiply the Unit count by the number of months that the lapse has existed for.  Example:  A 10 unit support lapsed for 3 months requires 30 units of charge to be applied.  All Quotes requiring an Out of Compliance Charge must be referred to the License Compliance Team [LCS] for review and approval.",,,,,
+,Standard Offering,,,,,
+,Hardware Support Fee,,,,,
+ ,1-+,Out of Comply (Unit Based) Penalty,COMPLY-HW,219.56,COMPLY-HWA,
+MEDIA-RET,"Single Media Retention Item/Service Fee
+Organizations who require Media Retention, and do not have a hardware support level which includes this service, may use the Single Media Retention Item/Service Fee for each item retained. The hardware appliance must be returned in accordance to standard policy once the media items have been removed. Please reference the Quoting Handbook and Hardware Handbook (Media Retention Policy) for more information.",,,,,
+,Standard Offering,,,,,
+,Hardware Support Fee,,,,,
+ ,1-+,Single Media Retention Item/Service,MR-ITEM-SER,1306.63,MR-ITEM-SERA,
+NRHDDGEN2,"Non-returnable HDD Program - GEN2
+LICENSE: Per Device",,,,,
+,Standard Offering,,,,,
+,Hardware Support Fee,,,,,
+A,1-+,Non-returnable HDD GEN2 1Yr,NRHDDGEN2-AT,1172.09,NRHDDGEN2-AT-AA,
+NRSSDGEN2,"Non-returnable SSD Program - GEN2
+LICENSE: Per Device",,,,,
+,Standard Offering,,,,,
+,Hardware Support Fee,,,,,
+A,1-+,Non-returnable SSD GEN2 1Yr,NRSSDGEN2-AT,1758.14,NRSSDGEN2-AT-AA,

@@ -1,0 +1,458 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Legacy - Secure Web Gateway
+,CASB: Custom Apps,,,,WG5500-E2,Skyhigh SWG WG5500-E2 Appliance
+C28-DE,Skyhigh CASB  for Custom Apps (Germany Data Center),,,,WG5000-E2,Skyhigh SWG WG5000-E2 Appliance
+C28,Skyhigh CASB  for Custom Apps,,,,WG4500-E,Skyhigh SWG WG4500-E Appliance
+,Legacy - CASB: Business Apps,,,,WG5500-E,Skyhigh SWG WG5500-E Appliance
+C03-DE,Skyhigh CASB for Salesforce Sales Cloud (Germany Data Center),,,,WG5500-D,Web Gateway WG5500-D Appliance
+C03,Skyhigh CASB for Salesforce Sales Cloud,,,,WG5000-E,Skyhigh SWG WG5000-E Appliance
+C05-DE,Skyhigh CASB for Salesforce Service Cloud (Germany Data Center),,,,WG5000-D,Web Gateway WG5000-D Appliance
+C05,Skyhigh CASB for Salesforce Service Cloud,,,,WG4500-D,Web Gateway WG4500-D Appliance
+C07-DE,Skyhigh CASB for ServiceNow (Germany Data Center),,,,WSG,Skyhigh SWG Software
+C07,Skyhigh CASB for ServiceNow,,,,WPS2,Skyhigh Web Protection Suite 2 - WPS2
+C39-DE,Skyhigh CASB for Workday (Germany Data Center),,,,WPS2-DE,Skyhigh Web Protection Suite 2 - WPS2  (Germany Data Center)
+C39,Skyhigh CASB for Workday,,,,,Legacy - Secure Web Gateway Reverse Proxy Appliances
+,Legacy - CASB: Collaboration Apps,,,,WG5500-E-RP,Skyhigh SWG WG5500-E Reverse Proxy Appliance
+C14-DE,Skyhigh CASB for Box (Germany Data Center),,,,WG5000-E-RP,Skyhigh SWG WG5000-E Reverse Proxy Appliance
+C14,Skyhigh CASB for Box,,,,WG4500-E-RP,Skyhigh SWG WG4500-E Reverse Proxy Appliance
+C16-DE,Skyhigh CASB for Dropbox (Germany Data Center),,,,WG5500-D-RP,Web Gateway WG5500-D Reverse Proxy Appliance
+C16,Skyhigh CASB for Dropbox,,,,WG5000-D-RP,Web Gateway WG5000-D Reverse Proxy Appliance
+C17-DE,Skyhigh CASB for SLACK (Germany Data Center),,,,WG4500-D-RP,Web Gateway WG4500-D Reverse Proxy Appliance
+C17,Skyhigh CASB for SLACK,,,,,Legacy - Secure Web Gateway Accessories
+C18-DE,Skyhigh CASB for Google Drive (Germany Data Center),,,,PCIE-10GB-FBR-2-LR,Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Long Range Transceivers
+C18,Skyhigh CASB for Google Drive,,,,PCIE-10GB-FBR-2-SR,Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Short Range Transceivers
+C29-DE,Skyhigh CASB for Google Mail (Germany Data Center),,,,PCIE-10GB-FBR-2,10 Gigabit Fiber PCIe Card - E Model Appliances
+C29,Skyhigh CASB for Google Mail,,,,PCIE-10GB-FBR-1,10 Gigabit Fiber PCIe Card - D Model Appliances
+,,,,,,Legacy - Customer Care Plans
+,,,,,CSPLAN-CLDATC-ADDON,Technical Account Manager (TAM-C) Add on for Skyhigh Care Plans
+,,,,,,Legacy - Remote Cloud Success
+,,,,,MVC-REMOTE-CSM-CATC,SSE Remote CSM and C-ATC
+"Skyhigh Legacy
+Skyhigh Security SKUs are limited to Skyhigh Security Authorized Distributors Only.",,,,,,
+,CASB: Custom Apps,,,,,
+C28-DE,"Skyhigh CASB  for Custom Apps (Germany Data Center)
+End of Sale is 15th January 2024 End of Life 16th January 2026
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can map service actions for their custom applications.  Once the service actions are mapped and deployed, enterprises can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts and view audit trail of user activity.
+Includes activity monitoring, threat analytics, data loss prevention and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Custom Apps Other (DE) 1:1 BZ,C28DEE-AA,31.29,C28DEE-AA-AA,
+C28,"Skyhigh CASB  for Custom Apps
+End of Sale is 15th January 2024 End of Life 16th January 2026
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can map service actions for their custom applications.  Once the service actions are mapped and deployed, enterprises can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts and view audit trail of user activity.
+Includes activity monitoring, threat analytics, data loss prevention and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Custom Apps Other 1:1 BZ,C28ECE-AA,27.18,C28ECE-AA-AA,
+,Legacy - CASB: Business Apps,,,,,
+C03-DE,"Skyhigh CASB for Salesforce Sales Cloud (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, enforce access control policies, and use Skyhigh CASB's Bring Your Own Key (BYOK) capabilities with Salesforce Shield Encryption.
+Includes activity monitoring, threat analytics, data loss prevention, access control, and Bring Your Own Key (BYOK) capabilities.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SalesCloud (DE) 1:1 BZ,C03DEE-AA,51.39,C03DEE-AA-AA,
+C03,"Skyhigh CASB for Salesforce Sales Cloud
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, enforce access control policies, and use Skyhigh CASB's Bring Your Own Key (BYOK) capabilities with Salesforce Shield Encryption.
+Includes activity monitoring, threat analytics, data loss prevention, access control, and Bring Your Own Key (BYOK) capabilities.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SalesCloud 1:1 BZ,C03ECE-AA,44.68,C03ECE-AA-AA,
+C05-DE,"Skyhigh CASB for Salesforce Service Cloud (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes data loss prevention, activity monitoring, threat analytics and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh ServiceCloud (DE) 1:1 BZ,C05DEE-AA,51.39,C05DEE-AA-AA,
+C05,"Skyhigh CASB for Salesforce Service Cloud
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, enforce access control policies, and use Skyhigh CASB's Bring Your Own Key (BYOK) capabilities with Salesforce Shield Encryption.
+Includes activity monitoring, threat analytics, data loss prevention, access control, and Bring Your Own Key (BYOK) capabilities.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh ServiceCloud 1:1 BZ,C05ECE-AA,44.68,C05ECE-AA-AA,
+C07-DE,"Skyhigh CASB for ServiceNow (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes data loss prevention, activity monitoring, threat analytics and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh ServiceNow (DE) 1:1 BZ,C07DEE-AA,51.39,C07DEE-AA-AA,
+C07,"Skyhigh CASB for ServiceNow
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes data loss prevention, activity monitoring, threat analytics and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh ServiceNow 1:1 BZ,C07ECE-AA,44.68,C07ECE-AA-AA,
+C39-DE,"Skyhigh CASB for Workday (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Workday (DE) 1:1BZ,C39DEE-AA,51.39,C39DEE-AA-AA,
+C39,"Skyhigh CASB for Workday
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Workday 1:1BZ,C39ECE-AA,44.68,C39ECE-AA-AA,
+,Legacy - CASB: Collaboration Apps,,,,,
+C14-DE,"Skyhigh CASB for Box (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, perform on-demand scans, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Box (DE) 1:1 BZ,C14DEE-AA,51.39,C14DEE-AA-AA,
+C14,"Skyhigh CASB for Box
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, perform on-demand scans, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, collaboration control, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Box 1:1 BZ,C14ECE-AA,44.68,C14ECE-AA-AA,
+C16-DE,"Skyhigh CASB for Dropbox (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, and view audit trail of user and admin activity.
+Includes activity monitoring, threat analytics, data loss prevention, and collaboration control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Dropbox (DE) 1:1 BZ,C16DEE-AA,51.39,C16DEE-AA-AA,
+C16,"Skyhigh CASB for Dropbox
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, and view audit trail of user and admin activity.
+Includes activity monitoring, threat analytics, data loss prevention, and collaboration control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Dropbox 1:1 BZ,C16ECE-AA,44.68,C16ECE-AA-AA,
+C17-DE,"Skyhigh CASB for SLACK (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SLACK (DE) 1:1 BZ,C17DEE-AA,51.39,C17DEE-AA-AA,
+C17,"Skyhigh CASB for SLACK
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs. Customers can enforce data loss prevention policies, enforce data sharing policies, detect anomalous activity indicative of insider threats and compromised accounts, view an audit trail of user activity, and enforce access control policies.
+Includes activity monitoring, threat analytics, data loss prevention, and access control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh SLACK 1:1 BZ,C17ECE-AA,44.68,C17ECE-AA-AA,
+C18-DE,"Skyhigh CASB for Google Drive (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, enforce data sharing policies, perform on-demand scans, detect anomalous activity indicative of insider threats and compromised accounts, and view audit trail of user and admin activity.
+Includes activity monitoring, threat analytics, data loss prevention, and collaboration control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Google Drive (DE) 1:1 BZ,C18DEE-AA,51.39,C18DEE-AA-AA,
+C18,"Skyhigh CASB for Google Drive
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, enforce data sharing policies, perform on-demand scans, detect anomalous activity indicative of insider threats and compromised accounts, and view audit trail of user and admin activity.
+Includes activity monitoring, threat analytics, data loss prevention, and collaboration control.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Google Drive 1:1 BZ,C18ECE-AA,44.68,C18ECE-AA-AA,
+C29-DE,"Skyhigh CASB for Google Mail (Germany Data Center)
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, view policy violations, capture detailed user login and admin activity, and enforce access control policies.
+Includes activity monitoring, data loss prevention, threat analytics, and access control for Google Suite (admin/login activities).",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Google Mail (DE) 1:1 BZ,C29DEE-AA,51.39,C29DEE-AA-AA,
+C29,"Skyhigh CASB for Google Mail
+End of Sale is 17th July 2023. Existing customers can renew and expand their subscription quantity but should consider transitioning to Skyhigh for SaaS Pooled [C41] subscriptions
+LICENSE: Per User.
+DELIVERABLE: Welcome email.
+PRODUCT CONTENT: A product designed to support security, compliance and governance programs.  Customers can enforce data loss prevention policies, view policy violations, capture detailed user login and admin activity, and enforce access control policies.
+Includes activity monitoring, data loss prevention, threat analytics, and access control for Google Suite (admin/login activities).",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,1-+,Skyhigh Google Mail 1:1 BZ,C29ECE-AA,44.68,C29ECE-AA-AA,
+,Legacy - Secure Web Gateway,,,,,
+WG5500-E2,"Skyhigh SWG WG5500-E2 Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit
+DELIVERABLE Skyhigh Secure Web Gateway Appliance.
+PRODUCT CONTENT: Hardware only. Requires either subscription (WPS (legacy) or WPS2), Perpetual (WSG), Skyhigh SWG, or Skyhigh Security Service Edge Essentials per-user software license to use at a minimum.This appliance ships with 4 10Gbit Copper Ports only, customer can purchase supply based on their own purchase of supported NICS, see KB: 95027",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 5500 Appl-E2 1Yr NBD,WBG5500E2NBD,13240.36,WBG5500E2NBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 5500 Appl-E2 1Yr SD,WBG5500E2SD,16550.47,WBG5500E2SDA,
+WG5000-E2,"Skyhigh SWG WG5000-E2 Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit
+DELIVERABLE Skyhigh Secure Web Gateway Appliance.
+PRODUCT CONTENT: Hardware only. Requires either subscription (WPS (legacy) or WPS2), Perpetual (WSG), Skyhigh SWG, or Skyhigh Security Service Edge Essentials per-user software license to use at a minimum.This appliance ships with 4 10Gbit Copper Ports only, customer can purchase supply Essentialsd on their own purchase of supported NICS, see KB: 95027",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 5000 Appl-E2 1Yr NBD,WBG5000E2NBD,8605.47,WBG5000E2NBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 5000 Appl-E2 1Yr SD,WBG5000E2SD,10756.84,WBG5000E2SDA,
+WG4500-E,"Skyhigh SWG WG4500-E Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit
+DELIVERABLE Skyhigh Secure Web Gateway Appliance.
+PRODUCT CONTENT: Hardware only. Requires either subscription (WPS (legacy) or WPS2), Perpetual (WSG), Skyhigh SWG, or Skyhigh Security Service Edge Essentials per-user software license to use at a minimum.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 4500 Appl-E 1Yr NBD,WBG4500ENBD,4411.98,WBG4500ENBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 4500 Appl-E 1Yr SD,WBG4500ESD,5514.98,WBG4500ESDA,
+WG5500-E,"Skyhigh SWG WG5500-E Appliance
+End of Sale is 11th January 2022, End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit
+DELIVERABLE Skyhigh Secure Web Gateway Appliance.
+PRODUCT CONTENT: Hardware only. Requires either subscription (WPS (legacy) or WPS2), Perpetual (WSG), Skyhigh SWG (MVW) or Skyhigh Security Service Edge Essentials per-user software license to use at a minimum.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,SWG 5500 Appl-E 1Yr NBD,WBG5500ENBD,13240.36,WBG5500ENBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,SWG 5500 Appl-E 1Yr SD,WBG5500ESD,16550.47,WBG5500ESDA,
+WG5500-D,"Web Gateway WG5500-D Appliance
+End of Sale is Oct 15th 2020. End of Life/Support is 30th Sep 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 5500 Appl-D 1Yr NBD,WBG5500DNBD,15404.64,WBG5500DNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 5500 Appl-D 1Yr SD,WBG5500DSD,19255.81,WBG5500DSDA,
+WG5000-E,"Skyhigh SWG WG5000-E Appliance
+End of Sale is 11th January 2022, End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit
+DELIVERABLE Skyhigh Secure Web Gateway Appliance.
+PRODUCT CONTENT: Hardware only. Requires either subscription (WPS (legacy) or WPS2), Perpetual (WSG), Skyhigh SWG or Skyhigh Security Service Edge Essentials per-user software license to use at a minimum.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,SWG 5000 Appl-E 1Yr NBD,WBG5000ENBD,8605.47,WBG5000ENBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,SWG 5000 Appl-E 1Yr SD,WBG5000ESD,10756.84,WBG5000ESDA,
+WG5000-D,"Web Gateway WG5000-D Appliance
+End of Sale is Oct 15th 2020. End of Life/Support is 30th Sep 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 5000 Appl-D 1Yr NBD,WBG5000DNBD,10012.13,WBG5000DNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 5000 Appl-D 1Yr SD,WBG5000DSD,12515.13,WBG5000DSDA,
+WG4500-D,"Web Gateway WG4500-D Appliance
+End of Sale is January 11th 2021. End of Life/Support is December 31st 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 4500 Appl-D 1Yr NBD,WBG4500DNBD,4806.52,WBG4500DNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 4500 Appl-D 1Yr SD,WBG4500DSD,6008.14,WBG4500DSDA,
+WSG,"Skyhigh SWG Software
+End of Sale is 15th January 2024 for the Perpetual license offering.  Net new license purchases should use the Subscription SKU [WSGECE-AA].
+DELIVERABLE: License key via email.
+PRODUCT CONTENT: Skyhigh SWG Software license enables the following functionality on Skyhigh Secure Web Gateway Appliances: category-based and reputation-based web filtering, Trellix anti-virus, proxy, cache, authentication, SSL scanning, content control filters and Trellix Content Security Reporter. Skyhigh SWG Software license purchase includes the first year of software support.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Business Software Support,,,,,
+A,5-25,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,139.71,WSGCKE-AA-AA,
+B,26-50,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,121.02,WSGCKE-AA-BA,
+C,51-100,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,102.45,WSGCKE-AA-CA,
+D,101-250,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,85.23,WSGCKE-AA-DA,
+E,251-500,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,66.97,WSGCKE-AA-EA,
+F,501-1000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,53.28,WSGCKE-AA-FA,
+G,1001-2000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,45.79,WSGCKE-AA-GA,
+H,2001-5000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,39.41,WSGCKE-AA-HA,
+I,5001-10000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,34.58,WSGCKE-AA-IA,
+J,10001-20000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,29.51,WSGCKE-AA-JA,
+K,20001-50000,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,25.5,WSGCKE-AA-KA,
+L,50001-+,Skyhigh SWG SW P:1 BZ,WSGCKE-AA,20.96,WSGCKE-AA-LA,
+,1yr Business Software Support,,,,,
+A,5-25,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,29.05,WSGYCM-AA-AA,
+B,26-50,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,25.13,WSGYCM-AA-BA,
+C,51-100,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,21.28,WSGYCM-AA-CA,
+D,101-250,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,17.7,WSGYCM-AA-DA,
+E,251-500,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,13.91,WSGYCM-AA-EA,
+F,501-1000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,11.04,WSGYCM-AA-FA,
+G,1001-2000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,9.5,WSGYCM-AA-GA,
+H,2001-5000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,8.18,WSGYCM-AA-HA,
+I,5001-10000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,7.18,WSGYCM-AA-IA,
+J,10001-20000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,6.1,WSGYCM-AA-JA,
+K,20001-50000,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,5.28,WSGYCM-AA-KA,
+L,50001-+,Skyhigh SWG SW 1Yr BZ,WSGYCM-AA,4.37,WSGYCM-AA-LA,
+WPS2,"Skyhigh Web Protection Suite 2 - WPS2
+End of Sale is 1st March 2024 End of Life/Support is TBA
+LICENSE: Per User.
+DELIVERABLE: Welcome email. License via email and software per download.
+PRODUCT CONTENT: A product that enables users to use their MWG appliance-based policy in the cloud with the same feature set used on appliances, incl. GAM.
+This SKU replaces the WPS SKU and provides a like for like feature set in Skyhigh CASB. Customers will manage their Policy on appliances and sync it to the SSE SWG Proxy POPs. It provides analytics and dashboards in Skyhigh CASB for traffic handled by the cloud proxies, tunnel configuration and Client Proxy management in Skyhigh CASB. It doesn’t offer cloud-based policy management or any other CASB features. On premise ePO, CSR and Client Proxy are included through the on-premise licenses. MVISION ePO is an available add-on via the UCEMEPO SKU.
+SKU can only be used for existing WPS customer. New customer in desire of a Hybrid deployment need to purchase Skyhigh SWG.
+Appliance license contractually permits the customer to deploy upto 5 VMs with a max core of 4 CPUs in a test or development environment . Available for any new customer onboarded post Q1 2024",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-25,Web Protection Suite V2 1:1BZ,WP2ECE-AA,129.69,WP2ECE-AA-AA,
+B,26-50,Web Protection Suite V2 1:1BZ,WP2ECE-AA,119.29,WP2ECE-AA-BA,
+C,51-100,Web Protection Suite V2 1:1BZ,WP2ECE-AA,108.92,WP2ECE-AA-CA,
+D,101-250,Web Protection Suite V2 1:1BZ,WP2ECE-AA,99.6,WP2ECE-AA-DA,
+E,251-500,Web Protection Suite V2 1:1BZ,WP2ECE-AA,91.28,WP2ECE-AA-EA,
+F,501-1000,Web Protection Suite V2 1:1BZ,WP2ECE-AA,83.0,WP2ECE-AA-FA,
+G,1001-2000,Web Protection Suite V2 1:1BZ,WP2ECE-AA,77.82,WP2ECE-AA-GA,
+H,2001-5000,Web Protection Suite V2 1:1BZ,WP2ECE-AA,71.59,WP2ECE-AA-HA,
+I,5001-10000,Web Protection Suite V2 1:1BZ,WP2ECE-AA,64.33,WP2ECE-AA-IA,
+J,10001-+,Web Protection Suite V2 1:1BZ,WP2ECE-AA,59.15,WP2ECE-AA-JA,
+WPS2-DE,"Skyhigh Web Protection Suite 2 - WPS2  (Germany Data Center)
+End of Sale is 1st March 2024 End of Life/Support is TBA
+LICENSE: Per User.
+DELIVERABLE: Welcome email. License via email and software per download.
+PRODUCT CONTENT: A product that enables users to use their MWG appliance-based policy in the cloud with the same feature set used on appliances, incl. GAM.
+This SKU replaces the WPS SKU and provides a like for like feature set in Skyhigh CASB. Customers will manage their Policy on appliances and sync it to the SSE SWG Proxy POPs. It provides analytics and dashboards in Skyhigh CASB for traffic handled by the cloud proxies, tunnel configuration and Client Proxy management in Skyhigh CASB. It doesn’t offer cloud-based policy management or any other CASB features. On premise ePO, CSR and Client Proxy are included through the on-premise licenses. MVISION ePO is an available add-on via the UCEMEPO SKU.
+SKU can only be used for existing WPS customer. New customer in desire of a Hybrid deployment need to purchase Skyhigh SWG.
+Appliance license contractually permits the customer to deploy upto 5 VMs with a max core of 4 CPUs in a test or development environment . Available for any new customer onboarded post Q1 2024",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Business Software Support,,,,,
+A,5-25,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,149.16,WP2DEE-AA-AA,
+B,26-50,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,137.18,WP2DEE-AA-BA,
+C,51-100,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,125.27,WP2DEE-AA-CA,
+D,101-250,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,114.55,WP2DEE-AA-DA,
+E,251-500,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,104.98,WP2DEE-AA-EA,
+F,501-1000,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,95.45,WP2DEE-AA-FA,
+G,1001-2000,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,89.49,WP2DEE-AA-GA,
+H,2001-5000,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,82.34,WP2DEE-AA-HA,
+I,5001-10000,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,73.97,WP2DEE-AA-IA,
+J,10001-+,Web Protection Suite (DE) V2 1:1BZ,WP2DEE-AA,68.02,WP2DEE-AA-JA,
+,Legacy - Secure Web Gateway Reverse Proxy Appliances,,,,,
+WG5500-E-RP,"Skyhigh SWG WG5500-E Reverse Proxy Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Skyhigh Secure Web Gateway Appliance for use as a Reverse Proxy. May not be used as a forward proxy for user internet access.
+PRODUCT CONTENT: Hardware appliance with Skyhigh SWG Software, Gateway Edition software licenses and SWG Anti-Malware and  Skyhigh SWG Anti-Malware Third Party enabled. The corresponding Skyhigh Hardware and Business Software Support SKU is required to be sold with the appliance and provided to Skyhigh on one consolidated purchase order.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 5500 RP Appl-E 1Yr NBD,WBG5500ERPXNBD,51646.0,WBG5500ERPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 5500 RevProx Appl-E 1Yr SD,WBG5500ERPXSD,64557.5,WBG5500ERPXSDA,
+WG5000-E-RP,"Skyhigh SWG WG5000-E Reverse Proxy Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Skyhigh Secure Web Gateway Appliance for use as a Reverse Proxy. May not be used as a forward proxy for user internet access.
+PRODUCT CONTENT: Hardware appliance with Skyhigh SWG Software, Gateway Edition software licenses and  SWG Anti-Malware and  Skyhigh SWG Anti-Malware Third Party enabled. The corresponding Skyhigh Hardware and Business Software Support SKU is required to be sold with the appliance and provided to Skyhigh on one consolidated purchase order.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 5000 RP Appl-E 1Yr NBD,WBG5000ERPXNBD,22512.38,WBG5000ERPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 5000 RevProx Appl-E 1Yr SD,WBG5000ERPXSD,28140.43,WBG5000ERPXSDA,
+WG4500-E-RP,"Skyhigh SWG WG4500-E Reverse Proxy Appliance
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Skyhigh Secure Web Gateway Appliance for use as a Reverse Proxy. May not be used as a forward proxy for user internet access.
+PRODUCT CONTENT: Hardware appliance with Skyhigh SWG Software, Gateway Edition software licenses and SWG Anti-Malware and Skyhigh SWG Anti-Malware Third Party enabled. The corresponding Skyhigh Hardware and Business Software Support SKU is required to be sold with the appliance and provided to Skyhigh on one consolidated purchase order.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Skyhigh SWG 4500 RP Appl-E 1YrNBD,WBG4500ERPXNBD,9269.81,WBG4500ERPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Skyhigh SWG 4500 RevProx Appl-E 1Yr SD,WBG4500ERPXSD,11587.23,WBG4500ERPXSDA,
+WG5500-D-RP,"Web Gateway WG5500-D Reverse Proxy Appliance
+End of Sale is Oct 15th 2020. End of Life/Support is 30th Sep 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 5500 RevProx Appl-D 1Yr NBD,WBG5500DRPXNBD,60088.16,WBG5500DRPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 5500 RevProx Appl-D 1Yr SD,WBG5500DRPXSD,75110.18,WBG5500DRPXSDA,
+WG5000-D-RP,"Web Gateway WG5000-D Reverse Proxy Appliance
+End of Sale is Oct 15th 2020. End of Life/Support is 30th Sep 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 5000 RevProx Appl-D 1Yr NBD,WBG5000DRPXNBD,26192.27,WBG5000DRPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 5000 RevProx Appl-D 1Yr SD,WBG5000DRPXSD,32740.33,WBG5000DRPXSDA,
+WG4500-D-RP,"Web Gateway WG4500-D Reverse Proxy Appliance
+End of Sale is January 11th 2021. End of Life/Support is December 31, 2025. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.",,,,,
+,Standard Offering,,,,,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,Web GW 4500 RevProx Appl-D 1Yr NBD,WBG4500DRPXNBD,10098.72,WBG4500DRPXNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,Web GW 4500 RevProx Appl-D 1Yr SD,WBG4500DRPXSD,12623.43,WBG4500DRPXSDA,
+,Legacy - Secure Web Gateway Accessories,,,,,
+PCIE-10GB-FBR-2-LR,"Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Long Range Transceivers
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Non-Stockable H/W Units.
+PRODUCT CONTENT: Optional card, to be used in a WG5500E or WG5000E appliance, one per appliance, installed by customer. Card has four connectors, includes required SFPs.",,,,,
+,Standard Offering,,,,,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,10GB Fbr PCIe Card LR E Model 1YrRMA,RB10G4LRFBRE,884.0,RB10G4LRFBREA,
+PCIE-10GB-FBR-2-SR,"Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Short Range Transceivers
+End of Sale is 31st March 2023. End of Life/Support is 31st March 2028. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Non-Stockable H/W Units.
+PRODUCT CONTENT: Optional card, to be used in a WG5500E or WG5000E appliance, one per appliance, installed by customer. Card has four connectors, includes required SFPs.",,,,,
+,Standard Offering,,,,,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,10GB Fbr PCIe Card SR E Model 1YrRMA,RB10G4SRFBRE,802.52,RB10G4SRFBREA,
+PCIE-10GB-FBR-2,"10 Gigabit Fiber PCIe Card - E Model Appliances
+End of Sale is October 11th 2021. End of Life/Support is 31st March 2028
+LICENSE: Per Unit.
+DELIVERABLE: Non-Stockable H/W Units. PRODUCT CONTENT: Optional card, to be used in a WG5500E or WG5000E appliance, one per appliance, installed by customer. Card has four connectors, includes required SFPs.",,,,,
+,Standard Offering,,,,,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+ ,1-+,10GB Fbr PCIe Card - E Model 1Yr RMA,RB10G4FBRE,802.52,RB10G4FBREA,
+PCIE-10GB-FBR-1,"10 Gigabit Fiber PCIe Card - D Model Appliances
+End of Life/Support is January 11th 2026. Support contracts cannot extend past the End of Life/ Support Date.
+LICENSE: Per Unit.
+DELIVERABLE: Non-Stockable H/W Units. PRODUCT CONTENT: Optional card, to be used in a WG5500D or WG5000D appliance, one per appliance, installed by customer. Card has four connectors, includes required SFPs.",,,,,
+,Standard Offering,,,,,
+,1yr Advanced RMA (next business day ship) Hardware Support,,,,,
+A,1-+,10GB Fbr PCIe Card - D Model 1Yr RMA,RB10G4FBRD,869.63,RB10G4FBRDAA,
+,Legacy - Customer Care Plans,,,,,
+CSPLAN-CLDATC-ADDON,"Technical Account Manager (TAM-C) Add on for Skyhigh Care Plans
+A TAM is technical resource assigned to an account and who is responsible for  case triage and escalation support; on going operationalization of the Customer USE case, Training customer on new features/releases, configuration services; tenant health check; upgrade planning and driving customer founder defects to closure in collaboration with the engg team Activation by Sales Rep required. Customer must have a valid Skyhigh Care Plan entitlement. The TAM is a Skyhigh CASB Support resource.",,,,,
+,Add On Offering,,,,,
+,1yr Software Support,,,,,
+A,1-+,CASB Technical Contact Add-On 1yr,CLDTCM-AT,47086.31,CLDTCM-AT-AA,
+,Legacy - Remote Cloud Success,,,,,
+MVC-REMOTE-CSM-CATC,"SSE Remote CSM and C-ATC
+Skyhigh CASB Remote CSM and C-ATC is designed for Skyhigh CASB only clients who require a single contact for proactive communication and case management.  The Skyhigh CASB Remote CSM and C-ATC provides access to a remotely located Success Manager and remote Cloud Technical Contact.  Skyhigh CASB Remote CSM and C-ATC only covers Skyhigh CASB.  The standard entitlement term is one year.",,,,,
+,Standard Offering,,,,,
+,1yr Software Support,,,,,
+A,1-+,SSE Remote CSM and C-ATC 1yr,RCSTCM-AT,83239.95,RCSTCM-AT-AA,

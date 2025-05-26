@@ -1,0 +1,408 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Protection (SaaS & On-Premise)
+,Protection and EDR (SaaS & On-Premise),,,,MV1-SG,Trellix Protect Standard (Singapore Data Center)
+TRXHX-SG,Trellix Advanced Endpoint Security with Forensics (Singapore Data Center),,,,MV1U-SG,Trellix Protect Standard - Upgrade (Singapore Data Center)
+TRXHXU-SG,Trellix Advanced Endpoint Security with Forensics - Upgrade (Singapore Data Center),,,,MV2-SG,Trellix Protect Plus (Singapore Data Center)
+,Helix (SaaS),,,,MV2U-SG,Trellix Protect Plus - Upgrade (Singapore Data Center)
+XDR-SG,Helix Connect (Singapore Data Center),,,,,File & Application Control
+OXDR-50GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 50 GB (Singapore Data Center),,,,ACD-S-SG,Trellix Application Control for PCs - Subscription (Singapore Data Center)
+OXDR-100GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 100 GB (Singapore Data Center),,,,,Endpoint Cloud Deploy Options
+OXDR-250GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 250 GB (Singapore Data Center),,,,HXCL-SG-T,HX Cloud Hosting Endpoint - Large (Singapore Data Center)(T)
+OXDR-1TB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 1 TB (Singapore Data Center),,,,HXCM-SG-T,HX Cloud Hosting Endpoint - Medium (Singapore Data Center)(T)
+OXDR-50GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Singapore Data Center),,,,HXGCL-SG-T,HX Cloud Hosting Endpoint - GCP - Large (Singapore Data Center)(T)
+OXDR-100GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Singapore Data Center),,,,HXGCM-SG-T,HX Cloud Hosting Endpoint - GCP - Medium (Singapore Data Center)(T)
+OXDR-250GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Singapore Data Center),,,,,
+OXDR-1TB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Singapore Data Center),,,,,
+OXDRCS-2YR-50GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 50 GB (Singapore Data Center),,,,,
+OXDRCS-2YR-100GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 100 GB (Singapore Data Center),,,,,
+OXDRCS-2YR-250GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 250 GB (Singapore Data Center),,,,,
+OXDRCS-2YR-1TB-ADDON-SG,Helix Connect 2 Year Cold Storage - 1 TB (Singapore Data Center),,,,,
+OXDRCS-3YR-50GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 50 GB (Singapore Data Center),,,,,
+OXDRCS-3YR-100GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 100 GB (Singapore Data Center),,,,,
+OXDRCS-3YR-250GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 250 GB (Singapore Data Center),,,,,
+OXDRCS-3YR-1TB-ADDON-SG,Helix Connect 3 Year Cold Storage - 1 TB (Singapore Data Center),,,,,
+XDRQS8-50GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 50 GB (Singapore Data Center),,,,,
+XDRQS8-100GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 100 GB (Singapore Data Center),,,,,
+XDRQS8-250GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 250 GB (Singapore Data Center),,,,,
+XDRQS8-1TB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 1 TB (Singapore Data Center),,,,,
+XDRQS16-50GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 50 GB (Singapore Data Center),,,,,
+XDRQS16-100GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 100 GB (Singapore Data Center),,,,,
+XDRQS16-250GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 250 GB (Singapore Data Center),,,,,
+XDRQS16-1TB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 1 TB (Singapore Data Center),,,,,
+Trellix SG Data Center,,,,,,
+,Protection and EDR (SaaS & On-Premise),,,,,
+TRXHX-SG,"Trellix Advanced Endpoint Security with Forensics (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Singapore data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(SG) 2W 1:1TE,TRXHX2WSGE-AA,Call For Quote,TRXHX2WSGE-AA-FA,
+,Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(SG) 1W 1:1TE,TRXHX1WSGE-AA,Call For Quote,TRXHX1WSGE-AA-FA,
+,Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Frnsics(SG) OF 1:1TE,TRXHXOFSGE-AA,Call For Quote,TRXHXOFSGE-AA-FA,
+TRXHXU-SG,"Trellix Advanced Endpoint Security with Forensics - Upgrade (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment. IaaS in AWS for Trellix Endpoint Security (HX)
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Endpoint Security (HX)- Cloud HX, Endpoint Security (HX) – vHX, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Unified Trellix EDR with Forensics (EDRF) client combines Trellix Endpoint Security HX and Trellix EDR traces, offering comprehensive detection, investigation, forensics, and response for Windows, macOS, and Linux platforms for on-prem environments, Protection for Native Security, Endpoint Security for Windows, macOS, and Linux Platforms, Device Control, Command Line Scanner, Application Control for PCs, Trellix Insights for profiling ""Top Attacks"" with guidance to improve protection, and access to deploy Strategic Innovation Alliance (SIA) partner products. HX Controller deployment options include HW, HW DMZ, Virtual Appliance (VA), VA DMZ and Cloud. Up to 10 VA for HX  included in the subscription cost but must be quoted separately. HW appliance and Cloud HX deployment SKUs need to be purchased separately. Quotes and Orders must additionally include the required number of deployment option physical/virtual appliances if required by customer - for corresponding appliance activation keys.
+RESTRICTIONS: Limited to a maximum of 5 devices per User. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. This entitlement includes ePO - SaaS Cloud tenancy located in Singapore data center only. EDR Cloud Capabilities are not part of the offering. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering - 2 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(SG) 2W UPG 1:1 TE,TRXHX2WSGE-DA,Call For Quote,TRXHX2WSGE-DA-FA,
+,Upgrade Subscription Offering - 1 Way,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(SG) 1W UPG 1:1 TE,TRXHX1WSGE-DA,Call For Quote,TRXHX1WSGE-DA-FA,
+,Upgrade Subscription Offering - Offline,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,100-250,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-AA,
+B,251-1000,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-BA,
+C,1001-2000,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-CA,
+D,2001-5000,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-DA,
+E,5001-10000,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-EA,
+F,10001-+,Tlx Adv EP Sec w/ Fnsc(SG) OF UPG 1:1 TE,TRXHXOFSGE-DA,Call For Quote,TRXHXOFSGE-DA-FA,
+,Helix (SaaS),,,,,
+XDR-SG,"Helix Connect (Singapore Data Center)
+LICENSE: License per User.
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+MANAGEMENT: Helix Connect
+CONTENT: Helix Connect, a cloud-hosted security operations and XDR platform with alert correlation, threat hunting (search), and SOAR capabilities. Data (event) ingestion of up to 100MB per user per month. Purchase of the Open XDR add-on is required for data ingestion exceeding the per user entitlement. Data is stored and searchable for 90 days. Purchase of XDR Retention add-on required to extend retention beyond 90 days.
+RESTRICTIONS: Minimum 100 users.  For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-250,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-AA,
+B,251-1000,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-BA,
+C,1001-2000,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-CA,
+D,2001-5000,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-DA,
+E,5001-10000,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-EA,
+F,10001-+,Helix Connect (SG) 1:1TE,XDRSGE-AA,Call For Quote,XDRSGE-AA-FA,
+OXDR-50GB-ADDON-SG,"Helix Connect Open XDR for External Data Add-on - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con OpenXDR ExtDta50GB AO(SG)1:1TE,OX1SGE-AA,Call For Quote,OX1SGE-AA-AA,
+OXDR-100GB-ADDON-SG,"Helix Connect Open XDR for External Data Add-on - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpenXDR ExtDta100GB AO(SG)1:1TE,OX2SGE-AA,Call For Quote,OX2SGE-AA-AA,
+OXDR-250GB-ADDON-SG,"Helix Connect Open XDR for External Data Add-on - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOp XDR ExtDta250GB AO(SG)1:1TE,OX3SGE-AA,Call For Quote,OX3SGE-AA-AA,
+OXDR-1TB-ADDON-SG,"Helix Connect Open XDR for External Data Add-on - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email.
+CONTENT: Extends Helix Connect's capabilities to allow ingestion of events beyond the per user entitlement. Units of storage calculation determines amount of event ingestion allowed per day. Incidents created from events, such as alerts and their corresponding events to the incidents, are kept for 13 months.​
+RESTRICTIONS: Must already own the Helix Connect offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix ConOpn XDR ExtData 1TB AO(SG)1:1TE,OX4SGE-AA,Call For Quote,OX4SGE-AA-AA,
+OXDR-50GB-10M-ADDON-SG,"Helix Connect XDR Retention 10 Months Add-On - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-50GB-ADDON-SG subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-50GB-ADDON-SG offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect  XDR Ret 50GB AO (SG)1:1TE,XM1SGE-AA,Call For Quote,XM1SGE-AA-AA,
+OXDR-100GB-10M-ADDON-SG,"Helix Connect XDR Retention 10 Months Add-On - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-100GB-ADDON-SG subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-100GB-ADDON-SG offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 100GB AO (SG)1:1TE,XM2SGE-AA,Call For Quote,XM2SGE-AA-AA,
+OXDR-250GB-10M-ADDON-SG,"Helix Connect XDR Retention 10 Months Add-On - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-250GB-ADDON-SG subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-250GB-ADDON-SG offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 250GB AO(SG) 1:1TE,XM3SGE-AA,Call For Quote,XM3SGE-AA-AA,
+OXDR-1TB-10M-ADDON-SG,"Helix Connect XDR Retention 10 Months Add-On - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's data retention from 3 months to 13 months.You must have the corresponding OXDR-1TB-ADDON-SG subscription (that includes 90 days) for this 10 month add-on, which provides a full 13 months in total.
+FEATURES INCLUDED: 13 month retention of customer logs.
+RESTRICTIONS: Must already own the Trellix OXDR-1TB-ADDON-SG offering. For further exceptions, please refer to the quoting handbook.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Connect XDR Ret 1TB AddOn(SG)1:1TE,XM4SGE-AA,Call For Quote,XM4SGE-AA-AA,
+OXDRCS-2YR-50GB-ADDON-SG,"Helix Connect 2 Year Cold Storage - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 50GB (SG)1:1TE,XCS21SGE-AA,Call For Quote,XCS21SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-100GB-ADDON-SG,"Helix Connect 2 Year Cold Storage - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 100GB (SG)1:1TE,XCS22SGE-AA,Call For Quote,XCS22SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-250GB-ADDON-SG,"Helix Connect 2 Year Cold Storage - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 250GB (SG)1:1TE,XCS23SGE-AA,Call For Quote,XCS23SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-2YR-1TB-ADDON-SG,"Helix Connect 2 Year Cold Storage - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 2 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 2Yr 1TB (SG)1:1TE,XCS24SGE-AA,Call For Quote,XCS24SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-50GB-ADDON-SG,"Helix Connect 3 Year Cold Storage - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 50GB (SG)1:1TE,XCS31SGE-AA,Call For Quote,XCS31SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-100GB-ADDON-SG,"Helix Connect 3 Year Cold Storage - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 100GB (SG)1:1TE,XCS32SGE-AA,Call For Quote,XCS32SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-250GB-ADDON-SG,"Helix Connect 3 Year Cold Storage - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 250GB (SG)1:1TE,XCS33SGE-AA,Call For Quote,XCS33SGE-AA-AA,FCS Date 03/31/2025
+OXDRCS-3YR-1TB-ADDON-SG,"Helix Connect 3 Year Cold Storage - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's cold storage data archiving from 1 year to 3 years.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 2 and 3 yr options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Cold Stg 3Yr 1TB (SG)1:1TE,XCS34SGE-AA,Call For Quote,XCS34SGE-AA-AA,FCS Date 03/31/2025
+XDRQS8-50GB-ADDON-SG,"Helix Connect 8 Day Index Search Retention - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 50GB (SG)1:1TE,XQS81SGE-AA,Call For Quote,XQS81SGE-AA-AA,FCS Date 03/31/2025
+XDRQS8-100GB-ADDON-SG,"Helix Connect 8 Day Index Search Retention - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 100GB (SG)1:1TE,XQS82SGE-AA,Call For Quote,XQS82SGE-AA-AA,FCS Date 03/31/2025
+XDRQS8-250GB-ADDON-SG,"Helix Connect 8 Day Index Search Retention - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 250GB (SG)1:1TE,XQS83SGE-AA,Call For Quote,XQS83SGE-AA-AA,FCS Date 03/31/2025
+XDRQS8-1TB-ADDON-SG,"Helix Connect 8 Day Index Search Retention - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 8 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 8d 1TB (SG)1:1TE,XQS84SGE-AA,Call For Quote,XQS84SGE-AA-AA,FCS Date 03/31/2025
+XDRQS16-50GB-ADDON-SG,"Helix Connect 16 Day Index Search Retention - 50 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-50GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 50GB (SG)1:1TE,XQS161SGE-AA,Call For Quote,XQS161SGE-AA-AA,FCS Date 03/31/2025
+XDRQS16-100GB-ADDON-SG,"Helix Connect 16 Day Index Search Retention - 100 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-100GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 100GB (SG)1:1TE,XQS162SGE-AA,Call For Quote,XQS162SGE-AA-AA,FCS Date 03/31/2025
+XDRQS16-250GB-ADDON-SG,"Helix Connect 16 Day Index Search Retention - 250 GB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-250GB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 250GB (SG)1:1TE,XQS163SGE-AA,Call For Quote,XQS163SGE-AA-AA,FCS Date 03/31/2025
+XDRQS16-1TB-ADDON-SG,"Helix Connect 16 Day Index Search Retention - 1 TB (Singapore Data Center)
+LICENSE: Units of Storage Per Day
+DELIVERABLE: Software as a Service (SaaS) with activation email
+CONTENT: Extends Helix Connect's Index Search feature from 3 days to 16 days of event data.
+RESTRICTIONS: Must already own the OXDR-1TB-ADDON offering. Cannot be stacked. Cannot purchase multiples and/or mixes of 8 and 16 Day options.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,Helix Con Idx Search 16d 1TB (SG)1:1TE,XQS164SGE-AA,Call For Quote,XQS164SGE-AA-AA,FCS Date 03/31/2025
+,Protection (SaaS & On-Premise),,,,,
+MV1-SG,"Trellix Protect Standard (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-AA,
+B,251-1000,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-BA,
+C,1001-2000,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-CA,
+D,2001-5000,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-DA,
+E,5001-10000,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-EA,
+F,10001-+,Trellix Standard (SG)1:1TE,MV1SGE-AA,Call For Quote,MV1SGE-AA-FA,
+MV1U-SG,"Trellix Protect Standard - Upgrade (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS, ePO - On-prem, ePO - IaaS, and Data Exchange Layer (DXL).
+FEATURES INCLUDED:  Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner
+RESTRICTIONS: Limited to maximum of 5 devices per User.  Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-AA,
+B,251-1000,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-BA,
+C,1001-2000,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-CA,
+D,2001-5000,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-DA,
+E,5001-10000,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-EA,
+F,10001-+,Trellix Standard UPGD (SG) 1:1TE,MV1SGE-DA,Call For Quote,MV1SGE-DA-FA,
+MV2-SG,"Trellix Protect Plus (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-AA,
+B,251-1000,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-BA,
+C,1001-2000,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-CA,
+D,2001-5000,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-DA,
+E,5001-10000,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-EA,
+F,10001-+,Trellix Plus (SG) 1:1TE,MV2SGE-AA,Call For Quote,MV2SGE-AA-FA,
+MV2U-SG,"Trellix Protect Plus - Upgrade (Singapore Data Center)
+LICENSE: Per User
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT:  ePO - SaaS, ePO - On-prem, ePO - IaaS, Threat Intelligence Exchange (TIE), Threat Intelligence Exchange - SaaS and Data Exchange Layer (DXL).
+FEATURES INCLUDED: Protection for Native Security, Endpoint Security for Windows, Endpoint Security for macOS, Endpoint Security for Linux, Device Control is only currently supported in this region with ePO - On-prem management, Command Line Scanner, Application Control for PCs, Trellix Insights for proactive prioritization of threats, prediction of countermeasure impacts and prescriptive improvements and access to deploy Strategic Innovation Alliance (SIA) partner products.
+RESTRICTIONS:  Limited to maximum of 5 devices per User. Features included are not ideal for deployments in physical, virtual, and/or cloud server environments; separate Server Security SKUs should be purchased. Trellix Insights requires ENS 10.7, ePO 5.10 cu7 (on-prem or hosted) or ePO - SaaS. ePO - SaaS does not support all product features. Refer to specific product documentation for the latest compatibility with ePO - SaaS. For further exceptions, please refer to the Quoting Handbook.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-AA,
+B,251-1000,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-BA,
+C,1001-2000,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-CA,
+D,2001-5000,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-DA,
+E,5001-10000,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-EA,
+F,10001-+,Trellix Plus UPGD (SG) 1:1TE,MV2SGE-DA,Call For Quote,MV2SGE-DA-FA,
+,File & Application Control,,,,,
+ACD-S-SG,"Trellix Application Control for PCs - Subscription (Singapore Data Center)
+LICENSE: Per Node.
+DELIVERABLE: Software as a Service (SaaS) with activation email
+Management: ePO-SaaS
+PRODUCT CONTENT: Protect endpoints from unauthorized applications and system changes with Trellix Application and Change Control. Create and easily manage allow/deny lists and protect against memory exploits with this cloud-managed application that still works when disconnected from the cloud. Gain deeper visibility into application changes with periodic inventory reports, helping identify gaps in protected endpoints. Not available for embedded systems like ATMs, POS, medical, or other fixed-function devices and servers.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-AA,FCS Date 05/29/2025
+B,251-1000,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-BA,FCS Date 05/29/2025
+C,1001-2000,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-CA,FCS Date 05/29/2025
+D,2001-5000,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-DA,FCS Date 05/29/2025
+E,5001-10000,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-EA,FCS Date 05/29/2025
+F,10001-+,Trellix App Control PCs (SG) 1:1TE,ACDSGE-AA,Call For Quote,ACDSGE-AA-FA,FCS Date 05/29/2025
+,Endpoint Cloud Deploy Options,,,,,
+HXCL-SG-T,"HX Cloud Hosting Endpoint - Large (Singapore Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt LG (SG) 1:1TE(T),HXCLSGGXE-AA,43680.94,HXCLSGGXE-AA-AA,
+HXCM-SG-T,"HX Cloud Hosting Endpoint - Medium (Singapore Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance.
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hosting Endpt MD (SG) 1:1TE(T),HXCMSGGXE-AA,27284.29,HXCMSGGXE-AA-AA,
+HXGCL-SG-T,"HX Cloud Hosting Endpoint - GCP - Large (Singapore Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with greater than 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP LG (SG) 1:1TE(T),HXGCLSGGXE-AA,43680.94,HXGCLSGGXE-AA-AA,FCS Date 05/02/2025
+HXGCM-SG-T,"HX Cloud Hosting Endpoint - GCP - Medium (Singapore Data Center)(T)
+LICENSE: Per Instance
+DELIVERABLE: Additional Hosting of Cloud Instance on Google Cloud Platform (GCP)
+CONTENT: Suitable for customers with upto 5,000 endpoints. Each device with a HX agent deployed should be considered as an endpoint.
+REQUIREMENTS: An add-on to Endpoint Subscription for HX Cloud Hosting Instance - as a standalone subscription for the instances of HX Cloud Hosting. Each instance can support upto 5,000 endpoint. To be included as a Cloud deployment option for customers with a base Hermes Endpoint Security Essentials, Hermes Endpoint Security Power, TRXHX, TRXE1 or SS4 subscription OR to be sold to customers with these existing base Hermes subscriptions.",,,,,
+,Standard Upgrade Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,HX Cloud Hstg Endpt GCP MD (SG) 1:1TE(T),HXGCMSGGXE-AA,27284.29,HXGCMSGGXE-AA-AA,FCS Date 05/02/2025

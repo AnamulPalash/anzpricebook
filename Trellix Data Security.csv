@@ -1,0 +1,944 @@
+Band,Range,Description,PartNo,MSRP List Price,Standard Channel SKU,Unnamed: 6
+,,,,,,Database Security (Subscription)
+,Data Security Suites (Subscription),,,,DCD-S,Trellix Database Security - Subscription
+DATA-S,Trellix Data Security Suite - Subscription,,,,,Data Security Suites (Perpetual + Support)
+DATAU-S,Trellix Data Security Suite Upgrade  - Subscription,,,,DATA,Trellix Data Security Suite
+TDL-S,Trellix Data Loss Prevention Suite - Subscription,,,,DATAU,Trellix Data Security Suite - Upgrade
+DATA-DB-S,Trellix Database Security for Data Security Suite - Subscription,,,,DATA-DB,Trellix Database Security for Data Security Suite
+NDLP-S,Trellix Data Security Network Suite- Subscription,,,,NDLP,Trellix Data Security Network Suite
+NDLPU-S,Trellix Data Security Network Suite Upgrade - Subscription,,,,NDLPU,Trellix Data Security Network Suite Upgrade
+CDA-S,Trellix Data Security Endpoint Protection Suite - Subscription,,,,TDL,Trellix Data Loss Prevention Suite
+CDAU-S,Trellix Data Security Endpoint Protection Suite Upgrade  - Subscription,,,,CDA,Trellix Data Security Endpoint Protection Suite
+CDB-S,Trellix Data Encryption Suite  - Subscription,,,,CDAU,Trellix Data Security Endpoint Protection Suite - Upgrade
+CDBU-S,Trellix Data Encryption Suite - Subscription Upgrade,,,,CDB,Trellix Data Encryption Suite
+,Data Loss Prevention (DLP) (Subscription),,,,CDBU,Trellix Data Encryption Suite - Upgrade
+DLP-S,Trellix Data Loss Prevention Endpoint Complete - Subscription,,,,,Data Loss Prevention (DLP) (Perpetual + Support)
+DLPU-S,Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription,,,,DLP,Trellix Data Loss Prevention Endpoint Complete
+DLS,Trellix Data Loss Prevention Extended Data Retention (Add On),,,,DLPU,Trellix Data Loss Prevention Endpoint Complete Upgrade
+DEC-S,Trellix Device Control - Subscription,,,,DEC,Trellix Device Control
+DDS-S,Trellix Data Loss Prevention Discover - Subscription,,,,DDS,Trellix Data Loss Prevention Discover
+DDSU-S,Trellix Data Loss Prevention Discover Upgrade - Subscription,,,,DMO,Trellix Data Loss Prevention Network Monitor
+DMO-S,Trellix Data Loss Prevention Network Monitor - Subscription,,,,DPV,Trellix Data Loss Prevention Network Prevent
+DMOU-S,Trellix Data Loss Prevention Network Monitor Upgrade - Subscription,,,,OCR,Trellix Data Loss Prevention OCR Network (Add-on)
+DPV-S,Trellix Data Loss Prevention Network Prevent - Subscription,,,,,Data Encryption (Perpetual + Support)
+DPVU-S,Trellix Data Loss Prevention Network Prevent Upgrade - Subscription,,,,TDE,Trellix Drive Encryption
+OCR-S,Trellix Data Loss Prevention OCR Network (Add-on) - Subscription,,,,TNE,Trellix Native Drive Encryption
+OCRE-S,Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription,,,,FRP,Trellix File and Removable Media Protection
+OCREN-S,Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription,,,,,Database Security (Perpetual + Support)
+,Data Encryption (Subscription),,,,DCD,Trellix Database Security
+TDE-S,Trellix Drive Encryption - Subscription,,,,,Data Loss Prevention (DLP) Appliances (Perpetual + Support)
+TNE-S,Trellix Native Drive Encryption - Subscription,,,,8800DLP-A,Trellix DLP 8800-A Appliance
+FRP-S,Trellix File and Removable Media Protection - Subscription,,,,CSADLP-B,Trellix Data Loss Prevention Network Forensics Array
+Trellix Data Security,,,,,,
+,"Data Security Suites (Subscription)
+All new/ initial Data Security Suite opportunities (for Suites containing DLP content) require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance. ",,,,,
+DATA-S,"Trellix Data Security Suite - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.
+",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Security Suite 1:1TE,DATAECE-AT,264.08,DATAECE-ATAA,
+B,251-1000,Data Security Suite 1:1TE,DATAECE-AT,226.76,DATAECE-ATBA,
+C,1001-2000,Data Security Suite 1:1TE,DATAECE-AT,191.92,DATAECE-ATCA,
+D,2001-5000,Data Security Suite 1:1TE,DATAECE-AT,163.09,DATAECE-ATDA,
+E,5001-10000,Data Security Suite 1:1TE,DATAECE-AT,136.25,DATAECE-ATEA,
+F,10001-+,Data Security Suite 1:1TE,DATAECE-AT,104.75,DATAECE-ATFA,
+DATAU-S,"Trellix Data Security Suite Upgrade  - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Security Suite 1:1TE UPG,DATAECE-DT,264.08,DATAECE-DTAA,
+B,251-1000,Data Security Suite 1:1TE UPG,DATAECE-DT,226.76,DATAECE-DTBA,
+C,1001-2000,Data Security Suite 1:1TE UPG,DATAECE-DT,191.92,DATAECE-DTCA,
+D,2001-5000,Data Security Suite 1:1TE UPG,DATAECE-DT,163.09,DATAECE-DTDA,
+E,5001-10000,Data Security Suite 1:1TE UPG,DATAECE-DT,136.25,DATAECE-DTEA,
+F,10001-+,Data Security Suite 1:1TE UPG,DATAECE-DT,104.75,DATAECE-DTFA,
+TDL-S,"Trellix Data Loss Prevention Suite - Subscription
+LICENSE: 12 Month Subscription, License Per Endpoint (Total number of Laptops, Workstation and Servers). Each Virtual Instance or Workstation is equivalent to 1 Endpoint.
+DELIVERABLE:  Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+Management: ePO - SaaS and ePO - On-prem.
+PRODUCT CONTENT: Available as an add on to DLP Appliances or can be used in a virtual appliance environment. Includes DLP Monitor, DLP Discover, DLP Prevent and DLP Endpoint and Device Control.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Loss Prevention Suite 1:1TE,TDLECE-AA,120.28,TDLECE-AA-AA,FCS Date 05/06/2025
+B,5001-10000,Data Loss Prevention Suite 1:1TE,TDLECE-AA,102.65,TDLECE-AA-BA,FCS Date 05/06/2025
+C,10001-25000,Data Loss Prevention Suite 1:1TE,TDLECE-AA,85.75,TDLECE-AA-CA,FCS Date 05/06/2025
+D,25001-50000,Data Loss Prevention Suite 1:1TE,TDLECE-AA,68.81,TDLECE-AA-DA,FCS Date 05/06/2025
+E,50001-100000,Data Loss Prevention Suite 1:1TE,TDLECE-AA,55.25,TDLECE-AA-EA,FCS Date 05/06/2025
+F,100001-+,Data Loss Prevention Suite 1:1TE,TDLECE-AA,41.74,TDLECE-AA-FA,FCS Date 05/06/2025
+DATA-DB-S,"Trellix Database Security for Data Security Suite - Subscription
+LICENSE: Per Database Instance.
+DELIVERABLE: Download.
+PRODUCT CONTENT: Trellix Database Security finds and protects sensitive information in databases from accidental leakage or intentional exploitation while maintaining database performance and managing user access. Adding this protection to the Data Security Suite will provide the most comprehensive protection for sensitive information across the environment. Products included are Databases Activity Monitoring which provides real-time database activity monitoring, intrusion prevention, Virtual Patching for databases which helps ensure patches are applied quickly when available and adds security when patches can’t be applied, and Vulnerability Manager for Databases which scans databases and reports on patch levels, detected vulnerabilities, insecure code, weak passwords, rootkits and other malware.
+REQUIREMENT: To be sold only as an add-on to customers with DATA licenses or subscription",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,6774.13,DDBECE-AA-AA,
+B,251-1000,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,3720.34,DDBECE-AA-BA,
+C,1001-2000,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,2700.8,DDBECE-AA-CA,
+D,2001-5000,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,2135.37,DDBECE-AA-DA,
+E,5001-10000,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,1620.5,DDBECE-AA-EA,
+F,10001-+,Database Sec f/DataSecSte 1:1TE,DDBECE-AA,1095.33,DDBECE-AA-FA,
+NDLP-S,"Trellix Data Security Network Suite- Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On–prem included to manage appliances and virtual appliances and Discover.  Data Loss Prevention Endpoint IS NOT included.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Also includes Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On–prem for on-premises management. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Sec Network Suite 1:1TE,NDLECE-AT,128.45,NDLECE-AT-AA,
+B,5001-10000,Data Sec Network Suite 1:1TE,NDLECE-AT,109.64,NDLECE-AT-BA,
+C,10001-25000,Data Sec Network Suite 1:1TE,NDLECE-AT,91.57,NDLECE-AT-CA,
+D,25001-50000,Data Sec Network Suite 1:1TE,NDLECE-AT,73.49,NDLECE-AT-DA,
+E,50001-100000,Data Sec Network Suite 1:1TE,NDLECE-AT,59.04,NDLECE-AT-EA,
+F,100001-+,Data Sec Network Suite 1:1TE,NDLECE-AT,44.57,NDLECE-AT-FA,
+NDLPU-S,"Trellix Data Security Network Suite Upgrade - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On–prem included to manage appliances and virtual appliances and Discover.  Data Loss Prevention Endpoint IS NOT included.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Also includes Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On–prem for on-premises management. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,128.45,NDLECE-DT-AA,
+B,5001-10000,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,109.64,NDLECE-DT-BA,
+C,10001-25000,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,91.57,NDLECE-DT-CA,
+D,25001-50000,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,73.49,NDLECE-DT-DA,
+E,50001-100000,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,59.04,NDLECE-DT-EA,
+F,100001-+,Data Sec Network Suite UPG 1:1TE,NDLECE-DT,44.57,NDLECE-DT-FA,
+CDA-S,"Trellix Data Security Endpoint Protection Suite - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,149.52,CDAECE-AT-AA,
+B,251-1000,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,129.07,CDAECE-AT-BA,
+C,1001-2000,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,110.46,CDAECE-AT-CA,
+D,2001-5000,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,98.18,CDAECE-AT-DA,
+E,5001-10000,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,84.39,CDAECE-AT-EA,
+F,10001-+,Data Sec Endpt Prot Suite 1:1TE,CDAECE-AT,65.69,CDAECE-AT-FA,
+CDAU-S,"Trellix Data Security Endpoint Protection Suite Upgrade  - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Upgrade from CDB (Data Encryption Suite) that provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,149.52,CDAECE-DT-AA,
+B,251-1000,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,129.07,CDAECE-DT-BA,
+C,1001-2000,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,110.46,CDAECE-DT-CA,
+D,2001-5000,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,98.18,CDAECE-DT-DA,
+E,5001-10000,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,84.39,CDAECE-DT-EA,
+F,10001-+,Data Sec Endpt Prot Suite UPG 1:1TE,CDAECE-DT,65.69,CDAECE-DT-FA,
+CDB-S,"Trellix Data Encryption Suite  - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs. 
+Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices. 
+Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance. 
+All three solutions are managed from within the same unified ePO console.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises of Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Encryption Suite 1:1TE,CDBECE-AT,115.59,CDBECE-AT-AA,
+B,251-1000,Data Encryption Suite 1:1TE,CDBECE-AT,99.7,CDBECE-AT-BA,
+C,1001-2000,Data Encryption Suite 1:1TE,CDBECE-AT,82.03,CDBECE-AT-CA,
+D,2001-5000,Data Encryption Suite 1:1TE,CDBECE-AT,69.71,CDBECE-AT-DA,
+E,5001-10000,Data Encryption Suite 1:1TE,CDBECE-AT,56.03,CDBECE-AT-EA,
+F,10001-+,Data Encryption Suite 1:1TE,CDBECE-AT,42.48,CDBECE-AT-FA,
+CDBU-S,"Trellix Data Encryption Suite - Subscription Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Drive Encryption, File & Removable Media Protection and Native Drive Encryption Subscriptions.
+PRODUCT CONTENT: Upgrade from CDE (Complete Data Protection Essentials) to the Trellix Data Encryption Suite.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises of Drive Encryption, File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated)",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Encryption Suite UPG 1:1TE,CDBECE-DT,115.59,CDBECE-DT-AA,
+B,251-1000,Data Encryption Suite UPG 1:1TE,CDBECE-DT,99.7,CDBECE-DT-BA,
+C,1001-2000,Data Encryption Suite UPG 1:1TE,CDBECE-DT,82.03,CDBECE-DT-CA,
+D,2001-5000,Data Encryption Suite UPG 1:1TE,CDBECE-DT,69.71,CDBECE-DT-DA,
+E,5001-10000,Data Encryption Suite UPG 1:1TE,CDBECE-DT,56.03,CDBECE-DT-EA,
+F,10001-+,Data Encryption Suite UPG 1:1TE,CDBECE-DT,42.48,CDBECE-DT-FA,
+,"Data Loss Prevention (DLP) (Subscription)
+All new/ initial DLP opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance.",,,,,
+DLP-S,"Trellix Data Loss Prevention Endpoint Complete - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem
+PRODUCT CONTENT: A comprehensive data loss prevention solution comprised DLP Endpoint & Device Control that can be installed on endpoints across the enterprise.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of Data Loss Prevention Endpoint. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,100.36,DLPECE-AT-AA,
+B,251-1000,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,75.42,DLPECE-AT-BA,
+C,1001-2000,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,62.37,DLPECE-AT-CA,
+D,2001-5000,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,54.87,DLPECE-AT-DA,
+E,5001-10000,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,46.16,DLPECE-AT-EA,
+F,10001-+,Data Loss Prvtn Endpt Comp 1:1TE,DLPECE-AT,38.62,DLPECE-AT-FA,
+DLPU-S,"Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+Upgrade from DLP (Data Loss Prevention Endpoint).
+MANAGEMENT: ePO - SaaS and ePO - On-prem
+PRODUCT CONTENT: A comprehensive data loss prevention solution comprised DLP Endpoint & Device Control that can be installed on endpoints across the enterprise.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of Data Loss Prevention Endpoint. Refer to the FAQs for latest product compatibility matrix  for the latest version requirements. Does not require Endpoint protection, but will require the Trellix Agent.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,100.36,DLPECE-DT-AA,
+B,251-1000,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,75.42,DLPECE-DT-BA,
+C,1001-2000,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,62.37,DLPECE-DT-CA,
+D,2001-5000,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,54.87,DLPECE-DT-DA,
+E,5001-10000,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,46.16,DLPECE-DT-EA,
+F,10001-+,Data Loss Prvtn Endpt Comp UPG 1:1TE,DLPECE-DT,38.62,DLPECE-DT-FA,
+DLS,"Trellix Data Loss Prevention Extended Data Retention (Add On)
+LICENSE: 12 Month Subscription.  Increases retention duration of DLP incidents stored in the cloud from 100 days to 1 year.
+DELIVERABLE: None, this is a change to the SaaS service, an activation email is sent
+MANAGEMENT: Only required if using ePO (SaaS) for management.
+PRODUCT CONTENT: Increases duration  of DLP incidents stored in ePO - SaaS from 100 days to 1 year.  Also increases the maximum number of incidents stored from 2 million to 7 million.  Note storage SKU can only be purchased once per customer, multiples are not allowed.  Once purchased, if subscription is not renewed in subsequent years the storage will revert back to 100 day retention (max 2 million incidents) and the oldest incidents will be deleted.
+PRODUCT REQUIRES: ePO - SaaS and DLP.PRICED AS:  10% of the price of the applicable base DLP subscription product being sold or renewed. DLS addon is subject to a minumum charge of $20k per year.  Where the annualized DLP subscription value of a deal is less than $200k the DLS addon annual mininum price must be observed",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,1-+,DLP Extended Data Rtn AddOn 1:1TE,DLSECE-AT,Call For Quote,DLSECE-AT-AA,
+DEC-S,"Trellix Device Control - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Device Control provides policy management for device and data control and blocking.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Device Control 1:1TE,DECECE-AT,37.59,DECECE-AT-AA,
+B,251-1000,Device Control 1:1TE,DECECE-AT,29.57,DECECE-AT-BA,
+C,1001-2000,Device Control 1:1TE,DECECE-AT,24.97,DECECE-AT-CA,
+D,2001-5000,Device Control 1:1TE,DECECE-AT,22.72,DECECE-AT-DA,
+E,5001-10000,Device Control 1:1TE,DECECE-AT,18.76,DECECE-AT-EA,
+F,10001-+,Device Control 1:1TE,DECECE-AT,15.91,DECECE-AT-FA,
+DDS-S,"Trellix Data Loss Prevention Discover - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment (agent and Discover software installed on a Windows ® Server).
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Discover software.
+PRODUCT CONTENT: DLP Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover 1:1TE,DDSECE-AT,53.22,DDSECE-AT-AA,
+B,5001-10000,DLP Network Discover 1:1TE,DDSECE-AT,44.74,DDSECE-AT-BA,
+C,10001-25000,DLP Network Discover 1:1TE,DDSECE-AT,37.48,DDSECE-AT-CA,
+D,25001-50000,DLP Network Discover 1:1TE,DDSECE-AT,30.24,DDSECE-AT-DA,
+E,50001-100000,DLP Network Discover 1:1TE,DDSECE-AT,24.2,DDSECE-AT-EA,
+F,100001-+,DLP Network Discover 1:1TE,DDSECE-AT,18.15,DDSECE-AT-FA,
+DDSU-S,"Trellix Data Loss Prevention Discover Upgrade - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-poremises deployment (agent and Discover software installed on a Windows ® Server).
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage Discover software.
+PRODUCT CONTENT: Upgrade from DDS.  DLP Discover software.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover UPG 1:1TE,DDSECE-DT,53.22,DDSECE-DT-AA,
+B,5001-10000,DLP Network Discover UPG 1:1TE,DDSECE-DT,44.74,DDSECE-DT-BA,
+C,10001-25000,DLP Network Discover UPG 1:1TE,DDSECE-DT,37.48,DDSECE-DT-CA,
+D,25001-50000,DLP Network Discover UPG 1:1TE,DDSECE-DT,30.24,DDSECE-DT-DA,
+E,50001-100000,DLP Network Discover UPG 1:1TE,DDSECE-DT,24.2,DDSECE-DT-EA,
+F,100001-+,DLP Network Discover UPG 1:1TE,DDSECE-DT,18.15,DDSECE-DT-FA,
+DMO-S,"Trellix Data Loss Prevention Network Monitor - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: DLP Monitor Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor 1:1TE,DMOECE-AT,53.22,DMOECE-AT-AA,
+B,5001-10000,DLP Network Monitor 1:1TE,DMOECE-AT,44.74,DMOECE-AT-BA,
+C,10001-25000,DLP Network Monitor 1:1TE,DMOECE-AT,37.48,DMOECE-AT-CA,
+D,25001-50000,DLP Network Monitor 1:1TE,DMOECE-AT,30.24,DMOECE-AT-DA,
+E,50001-100000,DLP Network Monitor 1:1TE,DMOECE-AT,24.2,DMOECE-AT-EA,
+F,100001-+,DLP Network Monitor 1:1TE,DMOECE-AT,18.15,DMOECE-AT-FA,
+DMOU-S,"Trellix Data Loss Prevention Network Monitor Upgrade - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: Upgrade from DMO.  DLP Monitor Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor UPG 1:1TE,DMOECE-DT,53.22,DMOECE-DT-AA,
+B,5001-10000,DLP Network Monitor UPG 1:1TE,DMOECE-DT,44.74,DMOECE-DT-BA,
+C,10001-25000,DLP Network Monitor UPG 1:1TE,DMOECE-DT,37.48,DMOECE-DT-CA,
+D,25001-50000,DLP Network Monitor UPG 1:1TE,DMOECE-DT,30.24,DMOECE-DT-DA,
+E,50001-100000,DLP Network Monitor UPG 1:1TE,DMOECE-DT,24.2,DMOECE-DT-EA,
+F,100001-+,DLP Network Monitor UPG 1:1TE,DMOECE-DT,18.15,DMOECE-DT-FA,
+DPV-S,"Trellix Data Loss Prevention Network Prevent - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+PRODUCT CONTENT: DLP Prevent Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent 1:1TE,DPVECE-AT,26.59,DPVECE-AT-AA,
+B,5001-10000,DLP Network Prevent 1:1TE,DPVECE-AT,22.39,DPVECE-AT-BA,
+C,10001-25000,DLP Network Prevent 1:1TE,DPVECE-AT,18.78,DPVECE-AT-CA,
+D,25001-50000,DLP Network Prevent 1:1TE,DPVECE-AT,15.13,DPVECE-AT-DA,
+E,50001-100000,DLP Network Prevent 1:1TE,DPVECE-AT,12.06,DPVECE-AT-EA,
+F,100001-+,DLP Network Prevent 1:1TE,DPVECE-AT,9.08,DPVECE-AT-FA,
+DPVU-S,"Trellix Data Loss Prevention Network Prevent Upgrade - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+MANAGEMENT: ePO - SaaS and ePO - On-prem included to manage appliances and virtual appliances.
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+PRODUCT CONTENT: Upgrade from DPV.  DLP Prevent Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management.  Refer to the FAQs for latest product compatibility matrix  for the latest version requirements.",,,,,
+,Upgrade Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent UPG 1:1TE,DPVECE-DT,26.59,DPVECE-DT-AA,
+B,5001-10000,DLP Network Prevent UPG 1:1TE,DPVECE-DT,22.39,DPVECE-DT-BA,
+C,10001-25000,DLP Network Prevent UPG 1:1TE,DPVECE-DT,18.78,DPVECE-DT-CA,
+D,25001-50000,DLP Network Prevent UPG 1:1TE,DPVECE-DT,15.13,DPVECE-DT-DA,
+E,50001-100000,DLP Network Prevent UPG 1:1TE,DPVECE-DT,12.06,DPVECE-DT-EA,
+F,100001-+,DLP Network Prevent UPG 1:1TE,DPVECE-DT,9.08,DPVECE-DT-FA,
+OCR-S,"Trellix Data Loss Prevention OCR Network (Add-on) - Subscription
+LICENSE:  Per Endpoint (Total number of Laptops, Workstation and Servers). 12 Month Subscription. Note: License count should be equal to that of Discover / Prevent / Monitor license.
+DELIVERABLE:  License key download and software download for on-premises deployment.
+PRODUCT CONTENT: To use the OCR scanning Add-on, you must have one of the following products: Trellix Data Securty Network Suite -Subscription (NDLECE-AA) or its upgrade SKUs  or DLP Discover -Subscription (DDSECE-AA), DLP Network Monitor -Subscription (DMOECE-AA) and/or DLP Network Prevent -Subscription (DPVECE-AA). OCR scanning add-on license for Network DLP Discover, DLP Prevent and DLP Monitor. Subscriptions allows customer to inspect embedded graphic files for sensitive content across network resources including file shares, SharePoint, Databases, email and web content.
+NOTE: For supported file formats, refer product documentation.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,6.24,OCRECE-AT-AA,
+B,5001-10000,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,5.31,OCRECE-AT-BA,
+C,10001-25000,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,4.46,OCRECE-AT-CA,
+D,25001-50000,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,3.55,OCRECE-AT-DA,
+E,50001-100000,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,2.89,OCRECE-AT-EA,
+F,100001-+,OCR Scanning for DLPn SW 1:1TE,OCRECE-AT,2.15,OCRECE-AT-FA,
+OCRE-S,"Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers). 12 Month Subscription.
+DELIVERABLE:  License key download and software download for on-premises deployment
+PRODUCT CONTENT: To use the OCR scanning Add-on, you must have one of the following products: Trellix Data Loss Prevention Endpoint Complete - Subscription (DLPECE-AT), Trellix Data Loss Prevention Suite -Subscription (TDLECE-AA) and Trellix Data Security Endpoint Protection Suite - Subscription (CDAECE-AT) or its Upgrade SKUs. The OCR Endpoint feature is supported  on DLP Endpoint (WindowsOS only). This allows the customer to inspect embedded graphic files and .pdf documents for senstive information across endpoint data loss vectors, including storage, email, and web content.
+For supported file formats, refer product documentation.
+Note: License count should be equal to that of DLP Endpoint license.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,6.24,OCREECE-ATAA,FCS Date 05/06/2025
+B,5001-10000,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,5.31,OCREECE-ATBA,FCS Date 05/06/2025
+C,10001-25000,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,4.46,OCREECE-ATCA,FCS Date 05/06/2025
+D,25001-50000,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,3.55,OCREECE-ATDA,FCS Date 05/06/2025
+E,50001-100000,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,2.89,OCREECE-ATEA,FCS Date 05/06/2025
+F,100001-+,OCR Scanning for DLPe SW 1:1TE,OCREECE-AT,2.15,OCREECE-ATFA,FCS Date 05/06/2025
+OCREN-S,"Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription
+LICENSE:  Per Endpoint (Total number of Laptops, Workstation and Servers) 12 Month Subscription.
+DELIVERABLE: License key download and software download for on-premises deployment
+PRODUCT CONTENT:  This suite includes both OCR Endpoint and OCR Network entitlements.This allows the customer to inspect embedded graphic files and .pdf documents for sensitive content across both endpoint and network data loss vectors - including storage, email, web and database content. For supported file formats, refer product documentation.
+To use the OCR scanning Add-on, you must have one of the following products combination:  Trellix Data Loss Prevention Suite (TDLECE-AA) or Combination of DLP Endpoint Subscription SKUs with Discover or Network Subscription SKUs.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,11.84,OCRENECE-AT-AA,FCS Date 05/06/2025
+B,5001-10000,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,10.08,OCRENECE-AT-BA,FCS Date 05/06/2025
+C,10001-25000,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,8.46,OCRENECE-AT-CA,FCS Date 05/06/2025
+D,25001-50000,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,6.76,OCRENECE-AT-DA,FCS Date 05/06/2025
+E,50001-100000,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,5.48,OCRENECE-AT-EA,FCS Date 05/06/2025
+F,100001-+,OCR Scanning for DLPen SW 1:1TE,OCRENECE-AT,4.09,OCRENECE-AT-FA,FCS Date 05/06/2025
+,Data Encryption (Subscription),,,,,
+TDE-S,"Trellix Drive Encryption - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs. With this product, customers also receive Trellix Native Drive Encryption, a solution that enables Microsoft BitLocker and Apple FileVault protection to devices. Both solutions are integrated into a unified ePO console.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Drive Encryption 1:1TE,TDEECE-AT,90.18,TDEECE-AT-AA,
+B,251-1000,Drive Encryption 1:1TE,TDEECE-AT,77.77,TDEECE-AT-BA,
+C,1001-2000,Drive Encryption 1:1TE,TDEECE-AT,63.99,TDEECE-AT-CA,
+D,2001-5000,Drive Encryption 1:1TE,TDEECE-AT,54.36,TDEECE-AT-DA,
+E,5001-10000,Drive Encryption 1:1TE,TDEECE-AT,43.72,TDEECE-AT-EA,
+F,10001-+,Drive Encryption 1:1TE,TDEECE-AT,33.16,TDEECE-AT-FA,
+TNE-S,"Trellix Native Drive Encryption - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance. The solution is managed from within the unified ePO console.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Native Drive Encrpn 1:1TE,TNEECE-AT,40.07,TNEECE-AT-AA,
+B,251-1000,Native Drive Encrpn 1:1TE,TNEECE-AT,34.56,TNEECE-AT-BA,
+C,1001-2000,Native Drive Encrpn 1:1TE,TNEECE-AT,28.45,TNEECE-AT-CA,
+D,2001-5000,Native Drive Encrpn 1:1TE,TNEECE-AT,24.17,TNEECE-AT-DA,
+E,5001-10000,Native Drive Encrpn 1:1TE,TNEECE-AT,19.43,TNEECE-AT-EA,
+F,10001-+,Native Drive Encrpn 1:1TE,TNEECE-AT,14.73,TNEECE-AT-FA,
+FRP-S,"Trellix File and Removable Media Protection - Subscription
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software as a Service (SaaS) with activation email and/or software download for on-premises deployment.
+MANAGEMENT: ePO - On-prem, ePO - SaaS
+PRODUCT CONTENT: Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices. 
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.",,,,,
+,Add On Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,File and Rem Media Ptxn 1:1TE,FRPECE-AT,50.11,FRPECE-AT-AA,
+B,251-1000,File and Rem Media Ptxn 1:1TE,FRPECE-AT,43.21,FRPECE-AT-BA,
+C,1001-2000,File and Rem Media Ptxn 1:1TE,FRPECE-AT,35.55,FRPECE-AT-CA,
+D,2001-5000,File and Rem Media Ptxn 1:1TE,FRPECE-AT,30.22,FRPECE-AT-DA,
+E,5001-10000,File and Rem Media Ptxn 1:1TE,FRPECE-AT,24.29,FRPECE-AT-EA,
+F,10001-+,File and Rem Media Ptxn 1:1TE,FRPECE-AT,18.42,FRPECE-AT-FA,
+,Database Security (Subscription),,,,,
+DCD-S,"Trellix Database Security - Subscription
+LICENSE: Per Database Instance.
+DELIVERABLE: Download.
+PRODUCT CONTENT: Trellix Database Security finds and protects sensitive information in databases from accidental leakage or intentional exploitation while maintaining database performance and managing user access. Adding this protection to the Data Security Suite will provide the most comprehensive protection for sensitive information across the environment. Products included are Databases Activity Monitoring which provides real-time database activity monitoring, intrusion prevention, Virtual Patching for databases which helps ensure patches are applied quickly when available and adds security when patches can’t be applied, and Vulnerability Manager for Databases which scans databases and reports on patch levels, detected vulnerabilities, insecure code, weak passwords, rootkits and other malware.",,,,,
+,Subscription Offering,,,,,
+,1yr Subscription with 1yr Thrive Essential,,,,,
+A,5-250,Database Security 1:1TE,DCDECE-AA,9677.34,DCDECE-AA-AA,
+B,251-1000,Database Security 1:1TE,DCDECE-AA,5314.76,DCDECE-AA-BA,
+C,1001-2000,Database Security 1:1TE,DCDECE-AA,3858.29,DCDECE-AA-CA,
+D,2001-5000,Database Security 1:1TE,DCDECE-AA,3050.53,DCDECE-AA-DA,
+E,5001-10000,Database Security 1:1TE,DCDECE-AA,2314.98,DCDECE-AA-EA,
+F,10001-+,Database Security 1:1TE,DCDECE-AA,1564.77,DCDECE-AA-FA,
+,"Data Security Suites (Perpetual + Support)
+All new/ initial Data Security Suite opportunities (for Suites containing DLP content) require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance. ",,,,,
+DATA,"Trellix Data Security Suite
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download Only.
+MANAGEMENT: ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Security Suite P:1 TE,DATACKE-AA,517.84,DATACKE-AAAA,
+B,26-50,Data Security Suite P:1 TE,DATACKE-AA,505.42,DATACKE-AABA,
+C,51-100,Data Security Suite P:1 TE,DATACKE-AA,492.6,DATACKE-AACA,
+D,101-250,Data Security Suite P:1 TE,DATACKE-AA,472.28,DATACKE-AADA,
+E,251-500,Data Security Suite P:1 TE,DATACKE-AA,455.45,DATACKE-AAEA,
+F,501-1000,Data Security Suite P:1 TE,DATACKE-AA,403.9,DATACKE-AAFA,
+G,1001-2000,Data Security Suite P:1 TE,DATACKE-AA,368.75,DATACKE-AAGA,
+H,2001-5000,Data Security Suite P:1 TE,DATACKE-AA,327.72,DATACKE-AAHA,
+I,5001-10000,Data Security Suite P:1 TE,DATACKE-AA,281.66,DATACKE-AAIA,
+J,10001-+,Data Security Suite P:1 TE,DATACKE-AA,219.13,DATACKE-AAJA,
+,1yr Thrive Essential,,,,,
+A,5-25,Data Security Suite 1Yr TE,DATAYCM-AA,111.99,DATAYCM-AAAA,
+B,26-50,Data Security Suite 1Yr TE,DATAYCM-AA,109.27,DATAYCM-AABA,
+C,51-100,Data Security Suite 1Yr TE,DATAYCM-AA,106.75,DATAYCM-AACA,
+D,101-250,Data Security Suite 1Yr TE,DATAYCM-AA,102.12,DATAYCM-AADA,
+E,251-500,Data Security Suite 1Yr TE,DATAYCM-AA,98.65,DATAYCM-AAEA,
+F,501-1000,Data Security Suite 1Yr TE,DATAYCM-AA,87.34,DATAYCM-AAFA,
+G,1001-2000,Data Security Suite 1Yr TE,DATAYCM-AA,79.71,DATAYCM-AAGA,
+H,2001-5000,Data Security Suite 1Yr TE,DATAYCM-AA,70.84,DATAYCM-AAHA,
+I,5001-10000,Data Security Suite 1Yr TE,DATAYCM-AA,60.95,DATAYCM-AAIA,
+J,10001-+,Data Security Suite 1Yr TE,DATAYCM-AA,47.53,DATAYCM-AAJA,
+DATAU,"Trellix Data Security Suite - Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download Only.
+MANAGEMENT: ePO - On-prem.
+PRODUCT CONTENT: Trellix Data Security Suite combines the Trellix Data Encryption Suite of protection options to safeguard data and devices from unauthorized access with the Trellix Data Loss Prevention (DLP) Suite of solutions to discover, identify, classify, monitor and protect sensitive data on endpoints, in email, on the web and in network storage. Products included are Trellix Drive Encryption, Trellix Native Drive Encryption, Trellix File & Removable Media Protection, Trellix DLP Endpoint Complete, Trellix Device Control, Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover.",,,,,
+,Standard Upgrade Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Security Suite P:1 TE UPG,DATACKE-DA,517.84,DATACKE-DAAA,
+B,26-50,Data Security Suite P:1 TE UPG,DATACKE-DA,505.42,DATACKE-DABA,
+C,51-100,Data Security Suite P:1 TE UPG,DATACKE-DA,492.6,DATACKE-DACA,
+D,101-250,Data Security Suite P:1 TE UPG,DATACKE-DA,472.28,DATACKE-DADA,
+E,251-500,Data Security Suite P:1 TE UPG,DATACKE-DA,455.45,DATACKE-DAEA,
+F,501-1000,Data Security Suite P:1 TE UPG,DATACKE-DA,403.9,DATACKE-DAFA,
+G,1001-2000,Data Security Suite P:1 TE UPG,DATACKE-DA,368.75,DATACKE-DAGA,
+H,2001-5000,Data Security Suite P:1 TE UPG,DATACKE-DA,327.72,DATACKE-DAHA,
+I,5001-10000,Data Security Suite P:1 TE UPG,DATACKE-DA,281.66,DATACKE-DAIA,
+J,10001-+,Data Security Suite P:1 TE UPG,DATACKE-DA,219.13,DATACKE-DAJA,
+DATA-DB,"Trellix Database Security for Data Security Suite
+LICENSE: Per Database Instance.
+DELIVERABLE: Download.
+PRODUCT CONTENT: Trellix Database Security finds and protects sensitive information in databases from accidental leakage or intentional exploitation while maintaining database performance and managing user access. Adding this protection to the Data Security Suite will provide the most comprehensive protection for sensitive information across the environment. Products included are Databases Activity Monitoring which provides real-time database activity monitoring, intrusion prevention, Virtual Patching for databases which helps ensure patches are applied quickly when available and adds security when patches can’t be applied, and Vulnerability Manager for Databases which scans databases and reports on patch levels, detected vulnerabilities, insecure code, weak passwords, rootkits and other malware.
+REQUIREMENT: To be sold only as an add-on to customers with DATA licenses or subscription",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,16950.68,DDBCKE-AA-AA,
+B,26-50,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,14144.2,DDBCKE-AA-BA,
+C,51-100,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,13334.61,DDBCKE-AA-CA,
+D,101-250,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,10228.1,DDBCKE-AA-DA,
+E,251-500,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,8960.11,DDBCKE-AA-EA,
+F,501-1000,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,6575.8,DDBCKE-AA-FA,
+G,1001-2000,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,5639.21,DDBCKE-AA-GA,
+H,2001-5000,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,4458.62,DDBCKE-AA-HA,
+I,5001-10000,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,3383.52,DDBCKE-AA-IA,
+J,10001-+,Database Sec f/DataSecSte P:1TE,DDBCKE-AA,2287,DDBCKE-AA-JA,
+,1yr Thrive Essential,,,,,
+A,5-25,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,3702.02,DDBYCM-AA-AA,
+B,26-50,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,3089.09,DDBYCM-AA-BA,
+C,51-100,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,2912.29,DDBYCM-AA-CA,
+D,101-250,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,2233.85,DDBYCM-AA-DA,
+E,251-500,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,1956.9,DDBYCM-AA-EA,
+F,501-1000,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,1436.16,DDBYCM-AA-FA,
+G,1001-2000,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,1231.61,DDBYCM-AA-GA,
+H,2001-5000,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,973.76,DDBYCM-AA-HA,
+I,5001-10000,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,738.96,DDBYCM-AA-IA,
+J,10001-+,Database Sec f/DataSecSte 1Yr TE,DDBYCM-AA,499.49,DDBYCM-AA-JA,
+NDLP,"Trellix Data Security Network Suite
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download Only for on-premises deployment.
+MANAGEMENT: ePO (On-Prem) included to manage appliances and virtual appliances
+PRODUCT CONTENT: Trellix Data Security Network Suite combines Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover to discover, identify, classify, monitor and protect sensitive data as it is in motion throughout your network and at rest in your data centers. Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Note: This does not include Trellix Data Loss Prevention Endpoint Complete.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Network Data Sec Suite P:1 TE,NDLCKE-AA,220.38,NDLCKE-AA-AA,
+B,26-50,Network Data Sec Suite P:1 TE,NDLCKE-AA,215.12,NDLCKE-AA-BA,
+C,51-100,Network Data Sec Suite P:1 TE,NDLCKE-AA,209.68,NDLCKE-AA-CA,
+D,101-250,Network Data Sec Suite P:1 TE,NDLCKE-AA,201.02,NDLCKE-AA-DA,
+E,251-500,Network Data Sec Suite P:1 TE,NDLCKE-AA,193.85,NDLCKE-AA-EA,
+F,501-1000,Network Data Sec Suite P:1 TE,NDLCKE-AA,172.71,NDLCKE-AA-FA,
+G,1001-2000,Network Data Sec Suite P:1 TE,NDLCKE-AA,156.96,NDLCKE-AA-GA,
+H,2001-5000,Network Data Sec Suite P:1 TE,NDLCKE-AA,139.48,NDLCKE-AA-HA,
+I,5001-10000,Network Data Sec Suite P:1 TE,NDLCKE-AA,119.87,NDLCKE-AA-IA,
+J,10001-+,Network Data Sec Suite P:1 TE,NDLCKE-AA,93.23,NDLCKE-AA-JA,
+,1yr Thrive Essential,,,,,
+A,1-25,Network Data Sec Suite 1Yr TE,NDLYCM-AA,47.67,NDLYCM-AA-AA,
+B,26-50,Network Data Sec Suite 1Yr TE,NDLYCM-AA,46.51,NDLYCM-AA-BA,
+C,51-100,Network Data Sec Suite 1Yr TE,NDLYCM-AA,45.45,NDLYCM-AA-CA,
+D,101-250,Network Data Sec Suite 1Yr TE,NDLYCM-AA,43.46,NDLYCM-AA-DA,
+E,251-500,Network Data Sec Suite 1Yr TE,NDLYCM-AA,41.99,NDLYCM-AA-EA,
+F,501-1000,Network Data Sec Suite 1Yr TE,NDLYCM-AA,37.4,NDLYCM-AA-FA,
+G,1001-2000,Network Data Sec Suite 1Yr TE,NDLYCM-AA,33.91,NDLYCM-AA-GA,
+H,2001-5000,Network Data Sec Suite 1Yr TE,NDLYCM-AA,30.14,NDLYCM-AA-HA,
+I,5001-10000,Network Data Sec Suite 1Yr TE,NDLYCM-AA,25.94,NDLYCM-AA-IA,
+J,10001-+,Network Data Sec Suite 1Yr TE,NDLYCM-AA,20.23,NDLYCM-AA-JA,
+NDLPU,"Trellix Data Security Network Suite Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download Only for on-premises deployment.
+MANAGEMENT: ePO (On-Prem) included to manage appliances and virtual appliances
+PRODUCT CONTENT: Trellix Data Security Network Suite combines Trellix DLP Network Monitor, Trellix DLP Network Prevent and Trellix DLP Discover to discover, identify, classify, monitor and protect sensitive data as it is in motion throughout your network and at rest in your data centers. Appliance software available as an add on to DLP appliances (Prevent and Monitor) or can be used in a virtual appliance environment.  Note: This does not include Trellix Data Loss Prevention Endpoint Complete.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,220.38,NDLCKE-DA-AA,
+B,26-50,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,215.12,NDLCKE-DA-BA,
+C,51-100,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,209.68,NDLCKE-DA-CA,
+D,101-250,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,201.02,NDLCKE-DA-DA,
+E,251-500,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,193.85,NDLCKE-DA-EA,
+F,501-1000,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,172.71,NDLCKE-DA-FA,
+G,1001-2000,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,156.96,NDLCKE-DA-GA,
+H,2001-5000,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,139.48,NDLCKE-DA-HA,
+I,5001-10000,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,119.87,NDLCKE-DA-IA,
+J,10001-+,Network Data Sec Suite P:1 TE UPG,NDLCKE-DA,93.23,NDLCKE-DA-JA,
+TDL,"Trellix Data Loss Prevention Suite
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download Only.
+PRODUCT CONTENT: Available as an add on to DLP Appliances or can be used in a virtual appliance environment. Includes DLP Monitor, DLP Discover, DLP Prevent and DLP Endpoint and Device Control.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-5000,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,249.71,TDLCKE-AA-AA,
+B,5001-10000,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,214.34,TDLCKE-AA-BA,
+C,10001-25000,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,179.03,TDLCKE-AA-CA,
+D,25001-50000,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,143.68,TDLCKE-AA-DA,
+E,50001-100000,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,115.43,TDLCKE-AA-EA,
+F,100001-+,Data Loss Prevention Suite P:1 TE,TDLCKE-AA,87.13,TDLCKE-AA-FA,
+,1yr Thrive Essential,,,,,
+A,5-5000,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,55.56,TDLYCM-AA-AA,
+B,5001-10000,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,46.81,TDLYCM-AA-BA,
+C,10001-25000,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,39.1,TDLYCM-AA-CA,
+D,25001-50000,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,31.38,TDLYCM-AA-DA,
+E,50001-100000,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,25.19,TDLYCM-AA-EA,
+F,100001-+,Data Loss Prevention Suite1Yr TE,TDLYCM-AA,19.04,TDLYCM-AA-FA,
+CDA,"Trellix Data Security Endpoint Protection Suite
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers).
+DELIVERABLE: Download.
+PRODUCT CONTENT: Provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - SaaS or ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption , File & Removable Media Protection and Native Drive Encryption. Does not require Endpoint protection, but will require the Trellix Agent.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,290.17,CDACDE-AA-AA,
+B,26-50,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,283.2,CDACDE-AA-BA,
+C,51-100,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,276.22,CDACDE-AA-CA,
+D,101-250,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,264.62,CDACDE-AA-DA,
+E,251-500,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,255.33,CDACDE-AA-EA,
+F,501-1000,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,227.48,CDACDE-AA-FA,
+G,1001-2000,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,206.61,CDACDE-AA-GA,
+H,2001-5000,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,183.61,CDACDE-AA-HA,
+I,5001-10000,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,157.85,CDACDE-AA-IA,
+J,10001-+,Data Sec Endpt Prot Suite P:1TE [P+],CDACDE-AA,122.91,CDACDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,63.35,CDAYFM-AA-AA,
+B,26-50,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,61.85,CDAYFM-AA-BA,
+C,51-100,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,60.33,CDAYFM-AA-CA,
+D,101-250,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,57.82,CDAYFM-AA-DA,
+E,251-500,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,55.76,CDAYFM-AA-EA,
+F,501-1000,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,49.69,CDAYFM-AA-FA,
+G,1001-2000,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,45.12,CDAYFM-AA-GA,
+H,2001-5000,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,40.1,CDAYFM-AA-HA,
+I,5001-10000,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,34.45,CDAYFM-AA-IA,
+J,10001-+,Data Sec Endpt Prot Suite 1yr TE [P+],CDAYFM-AA,26.82,CDAYFM-AA-JA,
+CDAU,"Trellix Data Security Endpoint Protection Suite - Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers).
+DELIVERABLE: Download.
+PRODUCT CONTENT: Upgrade from CDB (Data Encryption Suite) that provides the core features of the Data Security Encryption Suite, along with DLP Endpoint Complete. Includes DLP Endpoint Complete, Drive Encryption, File & Removable Media Protection and Native Drive Encryption.
+PRODUCT REQUIRES: ePO - On-prem for on-premises management of DLP Endpoint Complete, Drive Encryption, File & and Removable Media Protection and Native Drive Encryption.
+Note: Trellix File & Removable Media Protection in ePO SaaS is currently limited to removable media offsite encryption.
+Note: Trellix Native Drive Encryption in ePO SaaS does not support network unlock or AD preboot authentication (deprecated).",,,,,
+,Suite Upgrade Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,82.88,CDACDE-DA-AA,
+B,26-50,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,81.09,CDACDE-DA-BA,
+C,51-100,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,79.44,CDACDE-DA-CA,
+D,101-250,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,77.88,CDACDE-DA-DA,
+E,251-500,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,76.97,CDACDE-DA-EA,
+F,501-1000,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,70.26,CDACDE-DA-FA,
+G,1001-2000,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,65.45,CDACDE-DA-GA,
+H,2001-5000,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,58.91,CDACDE-DA-HA,
+I,5001-10000,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,54.76,CDACDE-DA-IA,
+J,10001-+,Data Sec Endpt Prot Suite UPG P:1TE[P+],CDACDE-DA,38.11,CDACDE-DA-JA,
+CDB,"Trellix Data Encryption Suite
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs.
+Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices.
+Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance.
+All three solutions are managed from within the same unified ePO console.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,237.2,CDBCDE-AA-AA,
+B,26-50,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,230.47,CDBCDE-AA-BA,
+C,51-100,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,221.51,CDBCDE-AA-CA,
+D,101-250,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,212.63,CDBCDE-AA-DA,
+E,251-500,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,203.67,CDBCDE-AA-EA,
+F,501-1000,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,186.21,CDBCDE-AA-FA,
+G,1001-2000,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,160.4,CDBCDE-AA-GA,
+H,2001-5000,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,136.23,CDBCDE-AA-HA,
+I,5001-10000,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,109.52,CDBCDE-AA-IA,
+J,10001-+,Data Encryption Suite P:1 TE [P+],CDBCDE-AA,83.03,CDBCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,51.84,CDBYFM-AA-AA,
+B,26-50,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,50.34,CDBYFM-AA-BA,
+C,51-100,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,48.37,CDBYFM-AA-CA,
+D,101-250,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,46.44,CDBYFM-AA-DA,
+E,251-500,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,44.51,CDBYFM-AA-EA,
+F,501-1000,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,40.64,CDBYFM-AA-FA,
+G,1001-2000,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,35.02,CDBYFM-AA-GA,
+H,2001-5000,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,29.79,CDBYFM-AA-HA,
+I,5001-10000,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,23.95,CDBYFM-AA-IA,
+J,10001-+,Data Encryption Suite 1Yr TE [P+],CDBYFM-AA,18.16,CDBYFM-AA-JA,
+CDBU,"Trellix Data Encryption Suite - Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePO - On-prem, ePO - IaaS.
+PRODUCT CONTENT: Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs.
+Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices.
+Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance.
+All three solutions are managed from within the same unified ePO console.",,,,,
+,Suite Upgrade Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,126.17,CDBCDE-DA-AA,
+B,26-50,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,121.89,CDBCDE-DA-BA,
+C,51-100,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,121.7,CDBCDE-DA-CA,
+D,101-250,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,121.52,CDBCDE-DA-DA,
+E,251-500,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,121.27,CDBCDE-DA-EA,
+F,501-1000,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,118,CDBCDE-DA-FA,
+G,1001-2000,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,98.42,CDBCDE-DA-GA,
+H,2001-5000,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,80.07,CDBCDE-DA-HA,
+I,5001-10000,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,57.91,CDBCDE-DA-IA,
+J,10001-+,Data Encryption Suite UPG P:1TE[P+],CDBCDE-DA,37.71,CDBCDE-DA-JA,
+,"Data Loss Prevention (DLP) (Perpetual + Support)
+All new/ initial DLP opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance.",,,,,
+DLP,"Trellix Data Loss Prevention Endpoint Complete
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: Managed by: ePolicy Orchestrator (on-premises or public cloud)
+PRODUCT CONTENT: A comprehensive data loss prevention solution, comprised DLP Endpoint & Device Control that can be installed on end-stations across the enterprise, and a logging and analysis server, through which centrally-managed policies are deployed, real-time events are monitored and reports are generated. Centrally managed security policies are applied on end-stations and are used to monitor and restrict the usage and transfer of sensitive data. The result is a cost-effective and flexible solution that offers innovative methods for preventing classified information from leaking out of the organization and effectively addresses data loss problems.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,224.24,DLPCDE-AA-AA,
+B,26-50,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,202.53,DLPCDE-AA-BA,
+C,51-100,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,185.67,DLPCDE-AA-CA,
+D,101-250,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,168.77,DLPCDE-AA-DA,
+E,251-500,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,154.33,DLPCDE-AA-EA,
+F,501-1000,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,137.45,DLPCDE-AA-FA,
+G,1001-2000,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,120.58,DLPCDE-AA-GA,
+H,2001-5000,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,106.11,DLPCDE-AA-HA,
+I,5001-10000,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,89.21,DLPCDE-AA-IA,
+J,10001-+,Data Loss Prvtn Endpt Comp P:1TE[P+],DLPCDE-AA,74.74,DLPCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,46.02,DLPYFM-AA-AA,
+B,26-50,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,41.56,DLPYFM-AA-BA,
+C,51-100,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,38.08,DLPYFM-AA-CA,
+D,101-250,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,34.62,DLPYFM-AA-DA,
+E,251-500,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,31.67,DLPYFM-AA-EA,
+F,501-1000,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,28.2,DLPYFM-AA-FA,
+G,1001-2000,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,24.75,DLPYFM-AA-GA,
+H,2001-5000,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,21.77,DLPYFM-AA-HA,
+I,5001-10000,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,18.3,DLPYFM-AA-IA,
+J,10001-+,Data Loss Prvtn Endpt Comp 1YRTE[P+],DLPYFM-AA,15.35,DLPYFM-AA-JA,
+DLPU,"Trellix Data Loss Prevention Endpoint Complete Upgrade
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: Managed by: ePolicy Orchestrator (on-premises or public cloud)
+PRODUCT CONTENT: A comprehensive data loss prevention solution, comprised DLP Endpoint & Device Control that can be installed on end-stations across the enterprise, and a logging and analysis server, through which centrally-managed policies are deployed, real-time events are monitored and reports are generated. Centrally managed security policies are applied on end-stations and are used to monitor and restrict the usage and transfer of sensitive data. The result is a cost-effective and flexible solution that offers innovative methods for preventing classified information from leaking out of the organization and effectively addresses data loss problems.",,,,,
+,Standard Upgrade Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,113.26,DLPCDE-DA-AA,
+B,26-50,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,102.31,DLPCDE-DA-BA,
+C,51-100,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,93.77,DLPCDE-DA-CA,
+D,101-250,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,85.23,DLPCDE-DA-DA,
+E,251-500,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,77.92,DLPCDE-DA-EA,
+F,501-1000,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,69.43,DLPCDE-DA-FA,
+G,1001-2000,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,60.89,DLPCDE-DA-GA,
+H,2001-5000,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,53.6,DLPCDE-DA-HA,
+I,5001-10000,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,45.03,DLPCDE-DA-IA,
+J,10001-+,DataLoss Prvtn Endpt Comp UPG P:1TE[P+],DLPCDE-DA,37.77,DLPCDE-DA-JA,
+DEC,"Trellix Device Control
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePolicy Orchestrator (on-premises or public cloud).
+PRODUCT CONTENT: Agent solution for device and data control and blocking.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Device Control P:1TE [P+],DECCDE-AA,95.13,DECCDE-AA-AA,
+B,26-50,Device Control P:1TE [P+],DECCDE-AA,76.12,DECCDE-AA-BA,
+C,51-100,Device Control P:1TE [P+],DECCDE-AA,75.19,DECCDE-AA-CA,
+D,101-250,Device Control P:1TE [P+],DECCDE-AA,68.41,DECCDE-AA-DA,
+E,251-500,Device Control P:1TE [P+],DECCDE-AA,64.38,DECCDE-AA-EA,
+F,501-1000,Device Control P:1TE [P+],DECCDE-AA,59.44,DECCDE-AA-FA,
+G,1001-2000,Device Control P:1TE [P+],DECCDE-AA,52.32,DECCDE-AA-GA,
+H,2001-5000,Device Control P:1TE [P+],DECCDE-AA,47.58,DECCDE-AA-HA,
+I,5001-10000,Device Control P:1TE [P+],DECCDE-AA,39.26,DECCDE-AA-IA,
+J,10001-+,Device Control P:1TE [P+],DECCDE-AA,33.29,DECCDE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,5-25,Device Control 1yr TE [P+],DECYFM-AA,20.57,DECYFM-AA-AA,
+B,26-50,Device Control 1yr TE [P+],DECYFM-AA,16.45,DECYFM-AA-BA,
+C,51-100,Device Control 1yr TE [P+],DECYFM-AA,16.31,DECYFM-AA-CA,
+D,101-250,Device Control 1yr TE [P+],DECYFM-AA,14.79,DECYFM-AA-DA,
+E,251-500,Device Control 1yr TE [P+],DECYFM-AA,13.94,DECYFM-AA-EA,
+F,501-1000,Device Control 1yr TE [P+],DECYFM-AA,12.88,DECYFM-AA-FA,
+G,1001-2000,Device Control 1yr TE [P+],DECYFM-AA,11.3,DECYFM-AA-GA,
+H,2001-5000,Device Control 1yr TE [P+],DECYFM-AA,10.3,DECYFM-AA-HA,
+I,5001-10000,Device Control 1yr TE [P+],DECYFM-AA,8.49,DECYFM-AA-IA,
+J,10001-+,Device Control 1yr TE [P+],DECYFM-AA,7.21,DECYFM-AA-JA,
+DDS,"Trellix Data Loss Prevention Discover
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Software installed on a Windows ® Server.
+PRODUCT CONTENT: DLP Discover software.  Scans all data sources across your data center and network, helping you quickly classify and categorize your data according to security rules.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover P:1 TE,DDSCKE-AA,104.19,DDSCKE-AA-AA,
+B,5001-10000,DLP Network Discover P:1 TE,DDSCKE-AA,87.62,DDSCKE-AA-BA,
+C,10001-25000,DLP Network Discover P:1 TE,DDSCKE-AA,73.4,DDSCKE-AA-CA,
+D,25001-50000,DLP Network Discover P:1 TE,DDSCKE-AA,59.21,DDSCKE-AA-DA,
+E,50001-100000,DLP Network Discover P:1 TE,DDSCKE-AA,47.39,DDSCKE-AA-EA,
+F,100001-+,DLP Network Discover P:1 TE,DDSCKE-AA,35.5,DDSCKE-AA-FA,
+,1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Discover 1Yr TE,DDSYCM-AA,22.62,DDSYCM-AA-AA,
+B,5001-10000,DLP Network Discover 1Yr TE,DDSYCM-AA,19.04,DDSYCM-AA-BA,
+C,10001-25000,DLP Network Discover 1Yr TE,DDSYCM-AA,15.94,DDSYCM-AA-CA,
+D,25001-50000,DLP Network Discover 1Yr TE,DDSYCM-AA,12.88,DDSYCM-AA-DA,
+E,50001-100000,DLP Network Discover 1Yr TE,DDSYCM-AA,10.3,DDSYCM-AA-EA,
+F,100001-+,DLP Network Discover 1Yr TE,DDSYCM-AA,7.74,DDSYCM-AA-FA,
+DMO,"Trellix Data Loss Prevention Network Monitor
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Installed on the DLP Appliance. Maintenance available via Download Only.
+PRODUCT CONTENT: DLP Monitor Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment.  Scans and evaluates all content traveling over the network according to defined security rules identifying and reporting on incidents that could lead to data loss.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor P:1 TE,DMOCKE-AA,104.19,DMOCKE-AA-AA,
+B,5001-10000,DLP Network Monitor P:1 TE,DMOCKE-AA,87.62,DMOCKE-AA-BA,
+C,10001-25000,DLP Network Monitor P:1 TE,DMOCKE-AA,73.4,DMOCKE-AA-CA,
+D,25001-50000,DLP Network Monitor P:1 TE,DMOCKE-AA,59.21,DMOCKE-AA-DA,
+E,50001-100000,DLP Network Monitor P:1 TE,DMOCKE-AA,47.39,DMOCKE-AA-EA,
+F,100001-+,DLP Network Monitor P:1 TE,DMOCKE-AA,35.5,DMOCKE-AA-FA,
+,1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Monitor 1Yr TE,DMOYCM-AA,22.62,DMOYCM-AA-AA,
+B,5001-10000,DLP Network Monitor 1Yr TE,DMOYCM-AA,19.04,DMOYCM-AA-BA,
+C,10001-25000,DLP Network Monitor 1Yr TE,DMOYCM-AA,15.94,DMOYCM-AA-CA,
+D,25001-50000,DLP Network Monitor 1Yr TE,DMOYCM-AA,12.88,DMOYCM-AA-DA,
+E,50001-100000,DLP Network Monitor 1Yr TE,DMOYCM-AA,10.3,DMOYCM-AA-EA,
+F,100001-+,DLP Network Monitor 1Yr TE,DMOYCM-AA,7.74,DMOYCM-AA-FA,
+DPV,"Trellix Data Loss Prevention Network Prevent
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Installed on the DLP Appliance. Maintenance available via Download Only.
+PRODUCT CONTENT: DLP Prevent Appliance software is available as an add on to DLP Appliances or can be used in a virtual appliance environment. Scans and evaluates all content traveling over the network actively blocking network communications that could lead to data loss based upon defined security policies. DLP Prevent for Mobile now specifically scans email content travelling to/from Mobile devices.s",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent P:1 TE,DPVCKE-AA,52.09,DPVCKE-AA-AA,
+B,5001-10000,DLP Network Prevent P:1 TE,DPVCKE-AA,43.83,DPVCKE-AA-BA,
+C,10001-25000,DLP Network Prevent P:1 TE,DPVCKE-AA,36.72,DPVCKE-AA-CA,
+D,25001-50000,DLP Network Prevent P:1 TE,DPVCKE-AA,29.59,DPVCKE-AA-DA,
+E,50001-100000,DLP Network Prevent P:1 TE,DPVCKE-AA,23.64,DPVCKE-AA-EA,
+F,100001-+,DLP Network Prevent P:1 TE,DPVCKE-AA,17.79,DPVCKE-AA-FA,
+,1yr Thrive Essential,,,,,
+A,5-5000,DLP Network Prevent 1Yr TE,DPVYCM-AA,11.3,DPVYCM-AA-AA,
+B,5001-10000,DLP Network Prevent 1Yr TE,DPVYCM-AA,9.53,DPVYCM-AA-BA,
+C,10001-25000,DLP Network Prevent 1Yr TE,DPVYCM-AA,8.01,DPVYCM-AA-CA,
+D,25001-50000,DLP Network Prevent 1Yr TE,DPVYCM-AA,6.47,DPVYCM-AA-DA,
+E,50001-100000,DLP Network Prevent 1Yr TE,DPVYCM-AA,5.14,DPVYCM-AA-EA,
+F,100001-+,DLP Network Prevent 1Yr TE,DPVYCM-AA,3.86,DPVYCM-AA-FA,
+OCR,"Trellix Data Loss Prevention OCR Network (Add-on)
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers). Note: License count should be equal to that of Discover / Prevent / Monitor license.
+DELIVERABLE: License key download and software download for on-premises deployment.
+PRODUCT CONTENT: To use the OCR scanning Add-on, you must have one of the following products: Trellix Data Securty Network Suite (NDLCKE-AA) or its upgrade SKUs  or DLP Discover (DDSCKE-AA), DLP Network Monitor (DMOCKE-AA) and/or DLP Network Prevent (DPVCKE-AA). OCR scanning add-on license for Network DLP Discover, DLP Prevent, and DLP Monitor. Allows customer to inspect embedded graphic files for sensitive content across network resources including files shares, SharePoint, Databases, email, and web content.
+NOTE: For supported file formats, refer product documentation.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,12.14,OCRCKE-AA-AA,
+B,5001-10000,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,10.39,OCRCKE-AA-BA,
+C,10001-25000,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,8.68,OCRCKE-AA-CA,
+D,25001-50000,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,6.98,OCRCKE-AA-DA,
+E,50001-100000,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,5.62,OCRCKE-AA-EA,
+F,100001-+,OCR Scanning for DLPn SW P:1 TE,OCRCKE-AA,4.22,OCRCKE-AA-FA,
+,1yr Thrive Essential,,,,,
+A,5-5000,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,2.72,OCRYCM-AA-AA,
+B,5001-10000,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,2.27,OCRYCM-AA-BA,
+C,10001-25000,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,1.9,OCRYCM-AA-CA,
+D,25001-50000,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,1.51,OCRYCM-AA-DA,
+E,50001-100000,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,1.24,OCRYCM-AA-EA,
+F,100001-+,OCR Scanning for DLPn SW 1Yr TE,OCRYCM-AA,0.91,OCRYCM-AA-FA,
+,Data Encryption (Perpetual + Support),,,,,
+TDE,"Trellix Drive Encryption
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePO - On-prem
+PRODUCT CONTENT:  Trellix Drive Encryption offers a full disk encryption solution with user and role-based access control, end user self-service recovery options, and full auditing capabilities for compliance needs. With this product, customers also receive Trellix Native Drive Encryption, a solution that enables Microsoft BitLocker and Apple FileVault protection to devices. Both solutions are integrated into a unified ePO console.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Drive Encryption P:1 TE,TDECKE-AA,163.91,TDECKE-AA-AA,
+B,26-50,Drive Encryption P:1 TE,TDECKE-AA,159.99,TDECKE-AA-BA,
+C,51-100,Drive Encryption P:1 TE,TDECKE-AA,155.94,TDECKE-AA-CA,
+D,101-250,Drive Encryption P:1 TE,TDECKE-AA,149.5,TDECKE-AA-DA,
+E,251-500,Drive Encryption P:1 TE,TDECKE-AA,144.16,TDECKE-AA-EA,
+F,501-1000,Drive Encryption P:1 TE,TDECKE-AA,128.45,TDECKE-AA-FA,
+G,1001-2000,Drive Encryption P:1 TE,TDECKE-AA,116.73,TDECKE-AA-GA,
+H,2001-5000,Drive Encryption P:1 TE,TDECKE-AA,103.73,TDECKE-AA-HA,
+I,5001-10000,Drive Encryption P:1 TE,TDECKE-AA,89.15,TDECKE-AA-IA,
+J,10001-+,Drive Encryption P:1 TE,TDECKE-AA,69.34,TDECKE-AA-JA,
+,1yr Thrive Essential,,,,,
+A,5-25,Drive Encryption 1Yr TE,TDEYCM-AA,35.44,TDEYCM-AA-AA,
+B,26-50,Drive Encryption 1Yr TE,TDEYCM-AA,34.59,TDEYCM-AA-BA,
+C,51-100,Drive Encryption 1Yr TE,TDEYCM-AA,33.8,TDEYCM-AA-CA,
+D,101-250,Drive Encryption 1Yr TE,TDEYCM-AA,32.34,TDEYCM-AA-DA,
+E,251-500,Drive Encryption 1Yr TE,TDEYCM-AA,31.21,TDEYCM-AA-EA,
+F,501-1000,Drive Encryption 1Yr TE,TDEYCM-AA,27.83,TDEYCM-AA-FA,
+G,1001-2000,Drive Encryption 1Yr TE,TDEYCM-AA,25.23,TDEYCM-AA-GA,
+H,2001-5000,Drive Encryption 1Yr TE,TDEYCM-AA,22.42,TDEYCM-AA-HA,
+I,5001-10000,Drive Encryption 1Yr TE,TDEYCM-AA,19.29,TDEYCM-AA-IA,
+J,10001-+,Drive Encryption 1Yr TE,TDEYCM-AA,15.04,TDEYCM-AA-JA,
+TNE,"Trellix Native Drive Encryption
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePO - On-prem
+PRODUCT CONTENT: Trellix Native Drive Encryption offers a light-weight, centralized solution for managing the native full disk encryption technology of Microsoft (BitLocker) and Apple (FileVault) devices, with a focus on low maintenance and quick time-to-compliance. The solution is managed from within the unified ePO console.",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,Native Drive Encrpn P:1 TE,TNECKE-AA,72.84,TNECKE-AA-AA,
+B,26-50,Native Drive Encrpn P:1 TE,TNECKE-AA,71.1,TNECKE-AA-BA,
+C,51-100,Native Drive Encrpn P:1 TE,TNECKE-AA,69.31,TNECKE-AA-CA,
+D,101-250,Native Drive Encrpn P:1 TE,TNECKE-AA,66.45,TNECKE-AA-DA,
+E,251-500,Native Drive Encrpn P:1 TE,TNECKE-AA,64.07,TNECKE-AA-EA,
+F,501-1000,Native Drive Encrpn P:1 TE,TNECKE-AA,57.11,TNECKE-AA-FA,
+G,1001-2000,Native Drive Encrpn P:1 TE,TNECKE-AA,51.87,TNECKE-AA-GA,
+H,2001-5000,Native Drive Encrpn P:1 TE,TNECKE-AA,46.1,TNECKE-AA-HA,
+I,5001-10000,Native Drive Encrpn P:1 TE,TNECKE-AA,39.61,TNECKE-AA-IA,
+J,10001-+,Native Drive Encrpn P:1 TE,TNECKE-AA,30.82,TNECKE-AA-JA,
+,1yr Thrive Essential,,,,,
+A,5-25,Native Drive Encrpn 1Yr TE,TNEYCM-AA,15.75,TNEYCM-AA-AA,
+B,26-50,Native Drive Encrpn 1Yr TE,TNEYCM-AA,15.38,TNEYCM-AA-BA,
+C,51-100,Native Drive Encrpn 1Yr TE,TNEYCM-AA,15.03,TNEYCM-AA-CA,
+D,101-250,Native Drive Encrpn 1Yr TE,TNEYCM-AA,14.38,TNEYCM-AA-DA,
+E,251-500,Native Drive Encrpn 1Yr TE,TNEYCM-AA,13.88,TNEYCM-AA-EA,
+F,501-1000,Native Drive Encrpn 1Yr TE,TNEYCM-AA,12.35,TNEYCM-AA-FA,
+G,1001-2000,Native Drive Encrpn 1Yr TE,TNEYCM-AA,11.23,TNEYCM-AA-GA,
+H,2001-5000,Native Drive Encrpn 1Yr TE,TNEYCM-AA,9.98,TNEYCM-AA-HA,
+I,5001-10000,Native Drive Encrpn 1Yr TE,TNEYCM-AA,8.57,TNEYCM-AA-IA,
+J,10001-+,Native Drive Encrpn 1Yr TE,TNEYCM-AA,6.69,TNEYCM-AA-JA,
+FRP,"Trellix File and Removable Media Protection
+LICENSE: Per Endpoint (Total number of Laptops, Workstation and Servers)
+DELIVERABLE: Download.
+MANAGEMENT: ePO - On-prem
+PRODUCT CONTENT: Trellix File & Removable Media Protection offers an encryption solution for files, folders, network shares, removable media and optical media, with the ability to define compartments of data that can only be accessed by authorized personnel or managed devices.
+",,,,,
+,Standard Offering,,,,,
+,Perpetual License with 1yr Thrive Essential,,,,,
+A,5-25,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,91.07,FRPCKE-AA-AA,
+B,26-50,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,88.87,FRPCKE-AA-BA,
+C,51-100,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,86.63,FRPCKE-AA-CA,
+D,101-250,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,83.08,FRPCKE-AA-DA,
+E,251-500,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,80.1,FRPCKE-AA-EA,
+F,501-1000,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,71.34,FRPCKE-AA-FA,
+G,1001-2000,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,64.86,FRPCKE-AA-GA,
+H,2001-5000,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,57.65,FRPCKE-AA-HA,
+I,5001-10000,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,49.52,FRPCKE-AA-IA,
+J,10001-+,File and Rem Media Ptxn P:1 TE,FRPCKE-AA,38.51,FRPCKE-AA-JA,
+,1yr Thrive Essential,,,,,
+A,5-25,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,19.7,FRPYCM-AA-AA,
+B,26-50,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,19.23,FRPYCM-AA-BA,
+C,51-100,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,18.79,FRPYCM-AA-CA,
+D,101-250,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,17.96,FRPYCM-AA-DA,
+E,251-500,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,17.36,FRPYCM-AA-EA,
+F,501-1000,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,15.44,FRPYCM-AA-FA,
+G,1001-2000,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,14.02,FRPYCM-AA-GA,
+H,2001-5000,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,12.46,FRPYCM-AA-HA,
+I,5001-10000,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,10.7,FRPYCM-AA-IA,
+J,10001-+,File and Rem Media Ptxn  1Yr TE,FRPYCM-AA,8.37,FRPYCM-AA-JA,
+,Database Security (Perpetual + Support),,,,,
+DCD,"Trellix Database Security
+LICENSE: Per Database Instance.
+DELIVERABLE: Download.
+PRODUCT CONTENT: Trellix Database Security finds and protects sensitive information in databases from accidental leakage or intentional exploitation while maintaining database performance and managing user access. Adding this protection to the Data Security Suite will provide the most comprehensive protection for sensitive information across the environment. Products included are Databases Activity Monitoring which provides real-time database activity monitoring, intrusion prevention, Virtual Patching for databases which helps ensure patches are applied quickly when available and adds security when patches can’t be applied, and Vulnerability Manager for Databases which scans databases and reports on patch levels, detected vulnerabilities, insecure code, weak passwords, rootkits and other malware.",,,,,
+,Standard Offering,,,,,
+,ProtectPLUS Perpetual License with 1yr Thrive Essential,,,,,
+A,1-25,Database Security P:1TE,DCDCKE-AA,24215.25,DCDCKE-AA-AA,
+B,26-50,Database Security P:1TE,DCDCKE-AA,20206.02,DCDCKE-AA-BA,
+C,51-100,Database Security P:1TE,DCDCKE-AA,19049.45,DCDCKE-AA-CA,
+D,101-250,Database Security P:1TE,DCDCKE-AA,14611.57,DCDCKE-AA-DA,
+E,251-500,Database Security P:1TE,DCDCKE-AA,12800.17,DCDCKE-AA-EA,
+F,501-1000,Database Security P:1TE,DCDCKE-AA,9394.01,DCDCKE-AA-FA,
+G,1001-2000,Database Security P:1TE,DCDCKE-AA,8056.03,DCDCKE-AA-GA,
+H,2001-5000,Database Security P:1TE,DCDCKE-AA,6369.44,DCDCKE-AA-HA,
+I,5001-10000,Database Security P:1TE,DCDCKE-AA,4833.61,DCDCKE-AA-IA,
+J,10001-+,Database Security P:1TE,DCDCKE-AA,3267.14,DCDCKE-AA-JA,
+,ProtectPLUS 1yr Thrive Essential,,,,,
+A,1-25,Database Security 1Yr TE,DCDYCM-AA,5288.61,DCDYCM-AA-AA,
+B,26-50,Database Security 1Yr TE,DCDYCM-AA,4413.02,DCDYCM-AA-BA,
+C,51-100,Database Security 1Yr TE,DCDYCM-AA,4160.42,DCDYCM-AA-CA,
+D,101-250,Database Security 1Yr TE,DCDYCM-AA,3191.2,DCDYCM-AA-DA,
+E,251-500,Database Security 1Yr TE,DCDYCM-AA,2795.57,DCDYCM-AA-EA,
+F,501-1000,Database Security 1Yr TE,DCDYCM-AA,2051.66,DCDYCM-AA-FA,
+G,1001-2000,Database Security 1Yr TE,DCDYCM-AA,1759.41,DCDYCM-AA-GA,
+H,2001-5000,Database Security 1Yr TE,DCDYCM-AA,1391.1,DCDYCM-AA-HA,
+I,5001-10000,Database Security 1Yr TE,DCDYCM-AA,1055.67,DCDYCM-AA-IA,
+J,10001-+,Database Security 1Yr TE,DCDYCM-AA,713.56,DCDYCM-AA-JA,
+,"Data Loss Prevention (DLP) Appliances (Perpetual + Support)
+All new/ initial DLP opportunities require Professional Services. Reference the Quoting Handbook Product Requirements General Guidance, under Data Security section, for detailed quote and order guidance.",,,,,
+8800DLP-A,"Trellix DLP 8800-A Appliance
+LICENSE: Per Unit.
+DELIVERABLE: DLP Appliance 8800. DLP appliance software sold separately.
+PRODUCT CONTENT: Hardware appliance platform for DLP Monitor and Prevent appliance software. Requires DLP Monitor V11 or Prevent v11 or Total Protection for Data Loss Prevention appliance software licenses. Support required to be purchased with all appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,DLP 8800A Appliance,DLP-8800-A,29889.29,DLP-8800-AA,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,DLP 8800A Appliance 1Yr NBD,DLP8800ANBD,6276.74,DLP8800ANBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,DLP 8800A Appliance 1Yr SD,DLP8800ASD,7845.95,DLP8800ASDA,
+CSADLP-B,"Trellix Data Loss Prevention Network Forensics Array
+LICENSE: Per Unit.
+PRODUCT CONTENT: DLP - B Capture Storage Array provides 16TB of storage for the Network DLP Capture database in a 2U fault tolerant rack mount unit with hot swappable disks.  Capture Storage Array is supplied with additional RAID card to be installed in Network DLP 6600 / 7700 / 8800 appliance; data cable to connect the two devices together; rack mounting rail kit and lockable bezel.
+REQUIREMENTS: Capture Storage Array is only compatible with Network DLP 6600 / 7700 / 8800 appliances.  Customers must be using Network DLP Prevent or Monitor versions 11.1 or later.  SKU can be sold either separately for existing DLP 6600 / DLP 7700 customers or optionally combined with DLP 8800 appliances for new customers. Support required to be purchased with all appliances.",,,,,
+,Standard Offering,,,,,
+,Hardware,,,,,
+ ,1-+,DLP Network Forensics Array,DLP-CSA-B,21989.97,DLP-CSA-BA,
+,1yr Next Business Day Ship Hardware Support,,,,,
+ ,1-+,DLP Network Forensics Array 1Yr NBD,DLPCSABNBD,4617.91,DLPCSABNBDA,
+,1yr Same Day 24x7 Hardware Support (CRU Only),,,,,
+ ,1-+,DLP Network Forensics Array 1Yr SD,DLPCSABSD,5772.37,DLPCSABSDA,

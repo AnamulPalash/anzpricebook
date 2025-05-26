@@ -1,0 +1,1903 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2
+,,
+,Trellix Helix,
+,,Helix (SaaS)
+,XDR,Helix Connect
+,OXDR-50GB-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB
+,OXDR-100GB-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB
+,OXDR-250GB-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB
+,OXDR-1TB-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB
+,OXDR-50GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB
+,OXDR-100GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB
+,OXDR-250GB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB
+,OXDR-1TB-10M-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB
+,OXDRCS-2YR-50GB-ADDON,Helix Connect 2 Year Cold Storage - 50 GB
+,OXDRCS-2YR-100GB-ADDON,Helix Connect 2 Year Cold Storage - 100 GB
+,OXDRCS-2YR-250GB-ADDON,Helix Connect 2 Year Cold Storage - 250 GB
+,OXDRCS-2YR-1TB-ADDON,Helix Connect 2 Year Cold Storage - 1 TB
+,OXDRCS-3YR-50GB-ADDON,Helix Connect 3 Year Cold Storage - 50 GB
+,OXDRCS-3YR-100GB-ADDON,Helix Connect 3 Year Cold Storage - 100 GB
+,OXDRCS-3YR-250GB-ADDON,Helix Connect 3 Year Cold Storage - 250 GB
+,OXDRCS-3YR-1TB-ADDON,Helix Connect 3 Year Cold Storage - 1 TB
+,XDRQS8-50GB-ADDON,Helix Connect 8 Day Index Search Retention - 50 GB
+,XDRQS8-100GB-ADDON,Helix Connect 8 Day Index Search Retention - 100 GB
+,XDRQS8-250GB-ADDON,Helix Connect 8 Day Index Search Retention - 250 GB
+,XDRQS8-1TB-ADDON,Helix Connect 8 Day Index Search Retention - 1 TB
+,XDRQS16-50GB-ADDON,Helix Connect 16 Day Index Search Retention - 50 GB
+,XDRQS16-100GB-ADDON,Helix Connect 16 Day Index Search Retention - 100 GB
+,XDRQS16-250GB-ADDON,Helix Connect 16 Day Index Search Retention - 250 GB
+,XDRQS16-1TB-ADDON,Helix Connect 16 Day Index Search Retention - 1 TB
+,XDR-FS-T,XDR Federated Search across Cloud Instances (T)
+,,Helix (On-Prem)
+,TAR-T,Trellix Automated Response (TAuR) or Automated Response(T)
+,NW-EC-VA-T,Network Evidence Collector - Virtual Appliance Add-on for Helix Connect (T)
+,NW-EC-VA-DTI-T,Network Evidence Collector - Virtual Appliance for Helix Connect - DTI(T)
+,,
+,Trellix Email Security,
+,,Email Security
+,EMCL,Email Security Cloud Edition
+,EMCA,Email Security Cloud AntiVirus/AntiSpam Edition
+,EMCAU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade
+,TPS,Trellix Phishing Simulator
+,EMCLVX,Email Security for Office 365
+,,Hermes Email Subscriptions
+,EMUSE-T,Email Security Server Edition(T)
+,,Hermes Email Virtual Appliance Deployment Options
+,EM-VA-T,Email Security Sensor Virtual(T)
+,EM2500-VA-T,Email Security Virtual 16 Core Appliance(T)
+,EM2500-VA-32-T,Email Security Virtual 32 Core Appliance(T)
+,EM2500-VA-48-T,Email Security Virtual 48 Core Appliance(T)
+,EM2500-VA-64-T,Email Security Virtual 64 Core Appliance(T)
+,EM7700-BM-VA-T,Email Security 7700 BareMetal Virtual Appliance(T)
+,,Hermes Email Hardware Appliance Deployment Options
+,EM3600-T,EM 3600 Appliance(T)
+,EM5600-T,EM 5600 Appliance(T)
+,EM8600-T,EM 8600 Appliance(T)
+,,
+,Trellix Endpoint Security,
+,,Device to Cloud Defense (SaaS Only)
+,MVA,Trellix Advanced
+,MVAU,Trellix Advanced - Upgrade
+,MVP,Trellix Premium
+,MVPU,Trellix Premium - Upgrade
+,,Protection and EDR (SaaS & On-Premise)
+,MDR1,Managed Detection & Response Service 1
+,TRXHX,Trellix Advanced Endpoint Security with Forensics
+,TRXHXU,Trellix Advanced Endpoint Security with Forensics - Upgrade
+,TRXE1,Trellix Endpoint Security Suite
+,TRXE1U,Trellix Endpoint Security Suite - Upgrade
+,SS4,Trellix Secure Schools Endpoint Security Suite
+,SS4U,Trellix Secure Schools Endpoint Security Suite - UPGRADE
+,MV6,Trellix Protect Plus EDR for Endpoint
+,MV6U,Trellix Protect Plus EDR for Endpoint - Upgrade
+,EDREX,Trellix EDR Data Extension Add-on
+,EDREX180,Trellix EDR Data Extension Add-on 180 Days
+,EDREX180-U,Trellix EDR Data Extension Add-on 180 Days - Upgrade
+,EDR-WISE,Trellix Wise for EDR Add-on
+,,Protection and EDR (SaaS & On-Premise) - With MDR
+,TRXE1M1,Trellix Endpoint Security Suite + Managed Detection & Response
+,TRXE1M1U,Trellix Endpoint Security Suite - Upgrade + Managed Detection & Response
+,,EDR (SaaS & On-Premise)
+,MV4,Trellix EDR
+,MV4U,Trellix EDR - Upgrade
+,,Protection (SaaS & On-Premise)
+,MV1,Trellix Protect Standard
+,MV1U,Trellix Protect Standard - Upgrade
+,MV2,Trellix Protect Plus
+,MV2U,Trellix Protect Plus - Upgrade
+,MV3,Trellix Mobile Security Advanced
+,VPC,Trellix Mobile Security Advanced - Public Cloud VPC
+,SS1,Trellix Secure Schools Protect Standard
+,OPVA,Trellix Mobile Security Advanced - On-Prem
+,SS2,Trellix Secure Schools Protect Plus
+,SS3,Trellix Secure Schools Protect Standard with EDR for Endpoint
+,,Insights (SaaS & On-Premise)
+,MVI,Trellix Insights
+,,Endpoint Protection On Premises
+,CEB,Trellix Complete EndPoint Protection - Business
+,CEB-S,Trellix Complete EndPoint Protection - Business Subscription
+,CEBU,Trellix Complete EndPoint Protection - Business Upgrade
+,CEBU-S,Trellix Complete EndPoint Protection - Business Upgrade Subscription
+,PSM-N,Trellix Security for Microsoft SharePoint
+,,File & Application Control
+,CCD,Trellix Change Control for PCs
+,ACD,Trellix Application Control for PCs
+,ACD-S,Trellix Application Control for PCs - Subscription
+,ICD,Trellix Integrity Control for Fixed Function Devices
+,,Security Management
+,EPO,Trellix ePolicy Orchestrator On-Prem
+,,Threat Intelligence Exchange
+,MVT,Trellix Threat Intelligence Exchange - SaaS
+,MVT-U,Trellix Threat Intelligence Exchange - SaaS Upgrade
+,TIE,Trellix Threat Intelligence Exchange
+,,Risk Management
+,HPD,Trellix Policy Auditor for Desktops
+,,Platform API
+,PL1,Trellix API
+,,Extended and Custom Software Support
+,CUST-SPPT-ENS-C,Trellix Software Support on Windows 7 - ENS-Client
+,CUST-SPPT-ENS-S,Trellix Software Support on Legacy Windows Server - ENS-Server
+,CUST-SPPT-WIN-HIPS-C,Trellix Software Support on Legacy Windows - HIPS-Client
+,CUST-SPPT-WIN-HIPS-S,Trellix Software Support on Legacy Windows Server - HIPS-Server
+,CUST-SPPT-W7-MAC-S,Trellix Software Support on Legacy Windows Server - TAC-Server
+,CUST-SPPT-W7-MAC-C,Trellix Software Support on Windows 7 - TAC-Client
+,CUST-SPPT-W7-MCC-C,Trellix Software Support on Windows 7 - TCC-Client
+,CUST-SPPT-W7-MCC-S,Trellix Software Support on Legacy Windows Server - TCC-Server
+,CUST-SPPT-WIN-VSE-C,Trellix Software Support on Legacy Windows - VSE-Client
+,CUST-SPPT-WIN-VSE-S,Trellix Software Support on Legacy Windows Server - VSE-Server
+,CUST-SPPT-ACD,Trellix Legacy Support for Application and Change Control - Desktop
+,CUST-SPPT-ACS,Trellix Legacy Support for Application and Change Control - Server
+,CUST-SPPT-WIN-HX,Trellix Software Support on Legacy Windows - HX
+,CUST-SPPT-EDR,Trellix Software Extended Support on Windows - EDR
+,,Hermes Endpoint Subscriptions
+,EPEES-T,Endpoint Security Essentials Edition (Enterprise)(T)
+,EPUES-T,Endpoint Security Essentials Edition(T)
+,EPEPW-T,Endpoint Security Power Edition (Enterprise)(T)
+,EPEPWU-T,Endpoint Security Power Edition (Enterprise) - UPGRADE(T)
+,EPUPW-T,Endpoint Security Power Edition(T)
+,EPUPWU-T,Endpoint Security Power Edition - UPGRADE(T)
+,,Hermes Endpoint Virtual Appliance Deployment Options
+,EP-VA-T,Endpoint Security Virtual(T)
+,EP-DMZ-VA-T,Endpoint Security DMZ Virtual(T)
+,,Hermes Endpoint Hardware Appliance Deployment Options
+,EP4600-T,EP 4600 Appliance(T)
+,EP4600-DMZ-T,EP 4600 DMZ Appliance(T)
+,,Endpoint Cloud Deploy Options
+,HXCL-T,HX Cloud Hosting Endpoint - Large (T)
+,HXCM-T,HX Cloud Hosting Endpoint - Medium(T)
+,HXGCL-T,HX Cloud Hosting Endpoint - GCP - Large (T)
+,HXGCM-T,HX Cloud Hosting Endpoint - GCP - Medium(T)
+,,
+,Trellix Server Security,
+,,Cloud Workload Security EDR
+,CWSDR,Trellix Cloud Workload Security Detect and Respond
+,CWSDRU,Trellix Cloud Workload Security Detect and Respond - Upgrade
+,,Server Security Suites
+,CWSB,Trellix Cloud Workload Security - Basic
+,CWSB-S,Trellix Cloud Workload Security - Basic Subscription
+,CWSBU-S,Trellix Cloud Workload Security Basic - Transition Subscription
+,CWSE,Trellix Cloud Workload Security - Essentials
+,CWSE-S,Trellix Cloud Workload Security - Essentials Subscription
+,CWSEU-S,Trellix Cloud Workload Security Essentials - Transition Subscription
+,CWSA,Trellix Cloud Workload Security - Advanced
+,CWSA-S,Trellix Cloud Workload Security - Advanced Subscription
+,CWSAU-S,Trellix Cloud Workload Security Advanced - Transition Subscription
+,,Server Security Solutions
+,MOD,Trellix MOVE AntiVirus for Virtual Desktops (VDI)
+,MOV,Trellix MOVE AntiVirus for Virtual Servers
+,PAS,Trellix Policy Auditor for Servers
+,,File & Application Control - Server
+,CHS,Trellix Change Control for Servers
+,ACS,Trellix Application Control for Servers
+,,
+,Trellix Data Security,
+,,Data Security Suites (Subscription)
+,DATA-S,Trellix Data Security Suite - Subscription
+,DATAU-S,Trellix Data Security Suite Upgrade  - Subscription
+,TDL-S,Trellix Data Loss Prevention Suite - Subscription
+,DATA-DB-S,Trellix Database Security for Data Security Suite - Subscription
+,NDLP-S,Trellix Data Security Network Suite- Subscription
+,NDLPU-S,Trellix Data Security Network Suite Upgrade - Subscription
+,CDA-S,Trellix Data Security Endpoint Protection Suite - Subscription
+,CDAU-S,Trellix Data Security Endpoint Protection Suite Upgrade  - Subscription
+,CDB-S,Trellix Data Encryption Suite  - Subscription
+,CDBU-S,Trellix Data Encryption Suite - Subscription Upgrade
+,,Data Loss Prevention (DLP) (Subscription)
+,DLP-S,Trellix Data Loss Prevention Endpoint Complete - Subscription
+,DLPU-S,Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription
+,DLS,Trellix Data Loss Prevention Extended Data Retention (Add On)
+,DEC-S,Trellix Device Control - Subscription
+,DDS-S,Trellix Data Loss Prevention Discover - Subscription
+,DDSU-S,Trellix Data Loss Prevention Discover Upgrade - Subscription
+,DMO-S,Trellix Data Loss Prevention Network Monitor - Subscription
+,DMOU-S,Trellix Data Loss Prevention Network Monitor Upgrade - Subscription
+,DPV-S,Trellix Data Loss Prevention Network Prevent - Subscription
+,DPVU-S,Trellix Data Loss Prevention Network Prevent Upgrade - Subscription
+,OCR-S,Trellix Data Loss Prevention OCR Network (Add-on) - Subscription
+,OCRE-S,Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription
+,OCREN-S,Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription
+,,Data Encryption (Subscription)
+,TDE-S,Trellix Drive Encryption - Subscription
+,TNE-S,Trellix Native Drive Encryption - Subscription
+,FRP-S,Trellix File and Removable Media Protection - Subscription
+,,Database Security (Subscription)
+,DCD-S,Trellix Database Security - Subscription
+,,Data Security Suites (Perpetual + Support)
+,DATA,Trellix Data Security Suite
+,DATAU,Trellix Data Security Suite - Upgrade
+,DATA-DB,Trellix Database Security for Data Security Suite
+,NDLP,Trellix Data Security Network Suite
+,NDLPU,Trellix Data Security Network Suite Upgrade
+,TDL,Trellix Data Loss Prevention Suite
+,CDA,Trellix Data Security Endpoint Protection Suite
+,CDAU,Trellix Data Security Endpoint Protection Suite - Upgrade
+,CDB,Trellix Data Encryption Suite
+,CDBU,Trellix Data Encryption Suite - Upgrade
+,,Data Loss Prevention (DLP) (Perpetual + Support)
+,DLP,Trellix Data Loss Prevention Endpoint Complete
+,DLPU,Trellix Data Loss Prevention Endpoint Complete Upgrade
+,DEC,Trellix Device Control
+,DDS,Trellix Data Loss Prevention Discover
+,DMO,Trellix Data Loss Prevention Network Monitor
+,DPV,Trellix Data Loss Prevention Network Prevent
+,OCR,Trellix Data Loss Prevention OCR Network (Add-on)
+,,Data Encryption (Perpetual + Support)
+,TDE,Trellix Drive Encryption
+,TNE,Trellix Native Drive Encryption
+,FRP,Trellix File and Removable Media Protection
+,,Database Security (Perpetual + Support)
+,DCD,Trellix Database Security
+,,Data Loss Prevention (DLP) Appliances (Perpetual + Support)
+,8800DLP-A,Trellix DLP 8800-A Appliance
+,CSADLP-B,Trellix Data Loss Prevention Network Forensics Array
+,,
+,Trellix EU_DE Data Center,
+,,Email Security
+,EMCL-EU,Email Security Cloud Edition (European Data Center)
+,EMCA-EU,Email Security Cloud AntiVirus/AntiSpam Edition (European Data Center)
+,EMCAU-EU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (European Data Center)
+,TPS-EU,Trellix Phishing Simulator (European Data Center)
+,EMCLVX-DE,Email Security for Office 365 (German Data Center)
+,,Data Security Suites (Subscription)
+,DATA-S-DE,Trellix Data Security Suite - Subscription (Germany Data Center)
+,DATAU-S-DE,Trellix Data Security Suite Upgrade  - Subscription (Germany Data Center)
+,TDL-S-DE,Trellix Data Loss Prevention Suite - Subscription (Germany Data Center)
+,NDLP-S-DE,Trellix Data Security Network Suite - Subscription (Germany Data Center)
+,NDLPU-S-DE,Trellix Data Security Network Suite Upgrade - Subscription (Germany Data Center)
+,CDA-S-DE,Trellix Data Security Endpoint Protection Suite - Subscription (Germany Data Center)
+,CDAU-S-DE,Trellix Data Security Endpoint Protection Suite Upgrade - Subscription (Germany Data Center)
+,CDB-S-DE,Trellix Data Encryption Suite - Subscription (Germany Data Center)
+,CDBU-S-DE,Trellix Data Encryption Suite - Subscription Upgrade (Germany Data Center)
+,,Data Loss Prevention (DLP) (Subscription)
+,DLP-S-DE,Trellix Data Loss Prevention Endpoint Complete - Subscription (Germany Data Center)
+,DLPU-S-DE,Trellix Data Loss Prevention Endpoint Complete Upgrade - Subscription (Germany Data Center)
+,DLS-DE,Trellix Data Loss Prevention Extended Data Retention (Add On) (Germany Data Center)
+,DEC-S-DE,Trellix Device Control - Subscription (Germany Data Center)
+,DDS-S-DE,Trellix Data Loss Prevention Discover - Subscription (Germany Data Center)
+,DDSU-S-DE,Trellix Data Loss Prevention Discover Upgrade - Subscription (Germany Data Center)
+,DMO-S-DE,Trellix Data Loss Prevention Network Monitor - Subscription (Germany Data Center)
+,DMOU-S-DE,Trellix Data Loss Prevention Network Monitor Upgrade - Subscription (Germany Data Center)
+,DPV-S-DE,Trellix Data Loss Prevention Network Prevent - Subscription (Germany Data Center)
+,DPVU-S-DE,Trellix Data Loss Prevention Network Prevent Upgrade - Subscription (Germany Data Center)
+,OCR-S-DE,Trellix Data Loss Prevention OCR Network (Add-on) - Subscription (Germany Data Center)
+,OCRE-S-DE,Trellix Data Loss Prevention OCR Endpoint (Add-on) - Subscription (Germany Data Center)
+,OCREN-S-DE,Trellix Data Loss Prevention OCR Suite (Add-on) - Subscription (Germany Data Center)
+,,Data Encryption (Subscription)
+,TDE-S-DE,Trellix Drive Encryption - Subscription (German Data Center)
+,TNE-S-DE,Trellix Native Drive Encryption - Subscription (German Data Center)
+,FRP-S-DE,Trellix File and Removable Media Protection - Subscription (German Data Center)
+,,IVX Enterprise Cloud
+,IVX-DE,IVX Enterprise Cloud (Germany Data Center)
+,IVX-DE-BP,IVX Enterprise Cloud -Banded Submission Pack (Germany Data Center)
+,,Device to Cloud Defense (SaaS Only)
+,MVA-DE,Trellix Advanced (Germany Data Center)
+,MVAU-DE,Trellix Advanced - Upgrade (Germany Data Center)
+,MVP-DE,Trellix Premium (Germany Data Center)
+,MVPU-DE,Trellix Premium - Upgrade (Germany Data Center)
+,,Protection and EDR (SaaS & On-Premise)
+,TRXHX-DE,Trellix Advanced Endpoint Security with Forensics (Germany Data Center)
+,TRXHXU-DE,Trellix Advanced Endpoint Security with Forensics - Upgrade (Germany Data Center)
+,TRXE1-DE,Trellix Endpoint Security Suite (Germany Data Center)
+,TRXE1U-DE,Trellix Endpoint Security Suite - Upgrade (Germany Data Center)
+,SS4-DE,Trellix Secure Schools Endpoint Security Suite  (Germany Data Center)
+,SS4U-DE,Trellix Secure Schools Endpoint Security Suite - UPGRADE  (Germany Data Center)
+,MV6-DE,Trellix Protect Plus EDR for Endpoint (Germany Data Center)
+,MV6U-DE,Trellix Protect Plus EDR for Endpoint - Upgrade (Germany Data Center)
+,EDREX-DE,Trellix EDR Data Extension Add-on (Germany Data Center)
+,EDREX180-DE,Trellix EDR Data Extension Add-on 180 Days (Germany Data Center)
+,EDREX180-U-DE,Trellix EDR Data Extension Add-on 180 Days - Upgarde (Germany Data Center)
+,EDR-WISE-DE,Trellix Wise for EDR Add-on (Germany Data Center)
+,,Protection and EDR (SaaS & On-Premise) - With MDR
+,TRXE1M1-DE,Trellix Endpoint Security Suite (Germany Data Center) + Managed Detection & Response
+,TRXE1M1U-DE,Trellix Endpoint Security Suite - Upgrade (Germany Data Center) + Managed Detection & Response
+,,EDR (SaaS & On-Premise)
+,MV4-DE,Trellix EDR (Germany Data Center)
+,MV4U-DE,Trellix EDR - Upgrade (Germany Data Center)
+,,Helix (SaaS)
+,XDR-DE,Helix Connect (Germany Data Center)
+,OXDR-50GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB (Germany Data Center)
+,OXDR-100GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB (Germany Data Center)
+,OXDR-250GB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB (Germany Data Center)
+,OXDR-1TB-DE-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB (Germany Data Center)
+,OXDR-50GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Germany Data Center)
+,OXDR-100GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Germany Data Center)
+,OXDR-250GB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Germany Data Center)
+,OXDR-1TB-10M-DE-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Germany Data Center)
+,OXDRCS-2YR-50GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 50 GB (Germany Data Center)
+,OXDRCS-2YR-100GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 100 GB (Germany Data Center)
+,OXDRCS-2YR-250GB-ADDON-DE,Helix Connect 2 Year Cold Storage - 250 GB (Germany Data Center)
+,OXDRCS-2YR-1TB-ADDON-DE,Helix Connect 2 Year Cold Storage - 1 TB (Germany Data Center)
+,OXDRCS-3YR-50GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 50 GB (Germany Data Center)
+,OXDRCS-3YR-100GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 100 GB (Germany Data Center)
+,OXDRCS-3YR-250GB-ADDON-DE,Helix Connect 3 Year Cold Storage - 250 GB (Germany Data Center)
+,OXDRCS-3YR-1TB-ADDON-DE,Helix Connect 3 Year Cold Storage - 1 TB (Germany Data Center)
+,XDRQS8-50GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 50 GB (Germany Data Center)
+,XDRQS8-100GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 100 GB (Germany Data Center)
+,XDRQS8-250GB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 250 GB (Germany Data Center)
+,XDRQS8-1TB-ADDON-DE,Helix Connect 8 Day Index Search Retention - 1 TB (Germany Data Center)
+,XDRQS16-50GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 50 GB (Germany Data Center)
+,XDRQS16-100GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 100 GB (Germany Data Center)
+,XDRQS16-250GB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 250 GB (Germany Data Center)
+,XDRQS16-1TB-ADDON-DE,Helix Connect 16 Day Index Search Retention - 1 TB (Germany Data Center)
+,,Protection (SaaS & On-Premise)
+,MV1-DE,Trellix Protect Standard (Germany Data Center)
+,MV1U-DE,Trellix Protect Standard - Upgrade (Germany Data Center)
+,MV2-DE,Trellix Protect Plus (Germany Data Center)
+,MV2U-DE,Trellix Protect Plus - Upgrade (Germany Data Center)
+,MV3-DE,Trellix Mobile Security Advanced (Germany Data Center)
+,VPC-DE,Trellix Mobile Security Advanced - Public Cloud VPC (European Data Center)
+,SS1-DE,Trellix Secure Schools Protect Standard - (Germany Data Center)
+,SS2-DE,Trellix Secure Schools Protect Plus (Germany Data Center)
+,SS3-DE,Trellix Secure Schools Protect Standard with EDR for Endpoint (Germany Data Center)
+,,File & Application Control
+,ACD-S-DE,Trellix Application Control for PCs - Subscription (Germany Data Center)
+,,Endpoint Cloud Deploy Options
+,HXCL-DE-T,HX Cloud Hosting Endpoint - Large (Germany Data Center)(T)
+,HXCM-DE-T,HX Cloud Hosting Endpoint - Medium (Germany Data Center)(T)
+,HXGCL-DE-T,HX Cloud Hosting Endpoint - GCP - Large (Germany Data Center)(T)
+,HXGCM-DE-T,HX Cloud Hosting Endpoint - GCP - Medium (Germany Data Center)(T)
+,,Cloud Workload Security EDR
+,CWSDR-DE,Trellix Cloud Workload Security Detect and Respond (Germany Data Center)
+,CWSDRU-DE,Trellix Cloud Workload Security Detect and Respond - Upgrade (Germany Data Center)
+,,
+,Trellix JP_ AU Data Centers,
+,,Email Security
+,EMCL-JP,Email Security Cloud Edition (Tokyo Data Center)
+,EMCA-JP,Email Security Cloud AntiVirus/AntiSpam Edition (Tokyo Data Center)
+,EMCAU-JP,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade (Tokyo Data Center)
+,TPS-JP,Trellix Phishing Simulator (Tokyo Data Center)
+,EMCLVX-JP,Email Security for Office 365 (Tokyo Data Center)
+,,IVX Enterprise Cloud
+,IVX-JP,IVX Enterprise Cloud (Tokyo Data Center)
+,IVX-JP-BP,IVX Enterprise Cloud -Banded Submission Pack (Tokyo Data Center)
+,,Protection and EDR (SaaS & On-Premise)
+,TRXHX-AU,Trellix Advanced Endpoint Security with Forensics (Australia Data Center)
+,TRXHXU-AU,Trellix Advanced Endpoint Security with Forensics - Upgrade (Australia Data Center)
+,TRXE1-AU,Trellix Endpoint Security Suite (Australia Data Center)
+,TRXE1U-AU,Trellix Endpoint Security Suite - Upgrade (Australia Data Center)
+,MV6-AU,Trellix Protect Plus EDR for Endpoint (Australia Data Center)
+,MV6U-AU,Trellix Protect Plus EDR for Endpoint - Upgrade (Australia Data Center)
+,EDREX-AU,Trellix EDR Data Extension Add-on (Australia Data Center)
+,EDREX180-AU,Trellix EDR Data Extension Add-on 180 Days (Australia Data Center)
+,EDREX180-U-AU,Trellix EDR Data Extension Add-on 180 Days - Upgarde (Australia Data Center)
+,EDR-WISE-AU,Trellix Wise for EDR Add-on (Australia Data Center)
+,,Protection and EDR (SaaS & On-Premise) - With MDR
+,TRXE1M1-AU,Trellix Endpoint Security Suite (Australia Data Center) + Managed Detection & Response
+,TRXE1M1U-AU,Trellix Endpoint Security Suite - Upgrade (Australia Data Center) + Managed Detection & Response
+,,EDR (SaaS & On-Premise)
+,MV4-AU,Trellix EDR (Australia Data Center)
+,MV4U-AU,Trellix EDR - Upgrade (Australia Data Center)
+,,Helix (SaaS)
+,XDR-AU,Helix Connect (Australia Data Center)
+,OXDR-50GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 50 GB (Australia Data Center)
+,OXDR-100GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 100 GB (Australia Data Center)
+,OXDR-250GB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 250 GB (Australia Data Center)
+,OXDR-1TB-AU-ADDON,Helix Connect Open XDR for External Data Add-on - 1 TB (Australia Data Center)
+,OXDR-50GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Australia Data Center)
+,OXDR-100GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Australia Data Center)
+,OXDR-250GB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Australia Data Center)
+,OXDR-1TB-10M-AU-ADDON,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Australia Data Center)
+,OXDRCS-2YR-50GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 50 GB (Australia Data Center)
+,OXDRCS-2YR-100GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 100 GB (Australia Data Center)
+,OXDRCS-2YR-250GB-ADDON-AU,Helix Connect 2 Year Cold Storage - 250 GB (Australia Data Center)
+,OXDRCS-2YR-1TB-ADDON-AU,Helix Connect 2 Year Cold Storage - 1 TB (Australia Data Center)
+,OXDRCS-3YR-50GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 50 GB (Australia Data Center)
+,OXDRCS-3YR-100GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 100 GB (Australia Data Center)
+,OXDRCS-3YR-250GB-ADDON-AU,Helix Connect 3 Year Cold Storage - 250 GB (Australia Data Center)
+,OXDRCS-3YR-1TB-ADDON-AU,Helix Connect 3 Year Cold Storage - 1 TB (Australia Data Center)
+,XDRQS8-50GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 50 GB (Australia Data Center)
+,XDRQS8-100GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 100 GB (Australia Data Center)
+,XDRQS8-250GB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 250 GB (Australia Data Center)
+,XDRQS8-1TB-ADDON-AU,Helix Connect 8 Day Index Search Retention - 1 TB (Australia Data Center)
+,XDRQS16-50GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 50 GB (Australia Data Center)
+,XDRQS16-100GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 100 GB (Australia Data Center)
+,XDRQS16-250GB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 250 GB (Australia Data Center)
+,XDRQS16-1TB-ADDON-AU,Helix Connect 16 Day Index Search Retention - 1 TB (Australia Data Center)
+,XDR-JP,Helix Connect (Tokyo Data Center)
+,OXDR-50GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 50 GB (Tokyo Data Center)
+,OXDR-100GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 100 GB (Tokyo Data Center)
+,OXDR-250GB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 250 GB (Tokyo Data Center)
+,OXDR-1TB-ADDON-JP,Helix Connect Open XDR for External Data Add-on - 1 TB (Tokyo Data Center)
+,OXDR-50GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Tokyo Data Center)
+,OXDR-100GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Tokyo Data Center)
+,OXDR-250GB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Tokyo Data Center)
+,OXDR-1TB-10M-ADDON-JP,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Tokyo Data Center)
+,OXDRCS-2YR-50GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 50 GB (Tokyo Data Center)
+,OXDRCS-2YR-100GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 100 GB (Tokyo Data Center)
+,OXDRCS-2YR-250GB-ADDON-JP,Helix Connect 2 Year Cold Storage - 250 GB (Tokyo Data Center)
+,OXDRCS-2YR-1TB-ADDON-JP,Helix Connect 2 Year Cold Storage - 1 TB (Tokyo Data Center)
+,OXDRCS-3YR-50GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 50 GB (Tokyo Data Center)
+,OXDRCS-3YR-100GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 100 GB (Tokyo Data Center)
+,OXDRCS-3YR-250GB-ADDON-JP,Helix Connect 3 Year Cold Storage - 250 GB (Tokyo Data Center)
+,OXDRCS-3YR-1TB-ADDON-JP,Helix Connect 3 Year Cold Storage - 1 TB (Tokyo Data Center)
+,XDRQS8-50GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 50 GB (Tokyo Data Center)
+,XDRQS8-100GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 100 GB (Tokyo Data Center)
+,XDRQS8-250GB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 250 GB (Tokyo Data Center)
+,XDRQS8-1TB-ADDON-JP,Helix Connect 8 Day Index Search Retention - 1 TB (Tokyo Data Center)
+,XDRQS16-50GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 50 GB (Tokyo Data Center)
+,XDRQS16-100GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 100 GB (Tokyo Data Center)
+,XDRQS16-250GB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 250 GB (Tokyo Data Center)
+,XDRQS16-1TB-ADDON-JP,Helix Connect 16 Day Index Search Retention - 1 TB (Tokyo Data Center)
+,,Protection (SaaS & On-Premise)
+,MV1-AU,Trellix Protect Standard (Australia Data Center)
+,MV1U-AU,Trellix Protect Standard - Upgrade (Australia Data Center)
+,MV2-AU,Trellix Protect Plus (Australia Data Center)
+,MV2U-AU,Trellix Protect Plus - Upgrade (Australia Data Center)
+,,File & Application Control
+,ACD-S-AU,Trellix Application Control for PCs - Subscription (Australia Data Center)
+,,Endpoint Cloud Deploy Options
+,HXCL-AU-T,HX Cloud Hosting Endpoint - Large (Australia Data Center)(T)
+,HXCL-JP-T,HX Cloud Hosting Endpoint - Large (Tokyo Data Center)(T)
+,HXCM-AU-T,HX Cloud Hosting Endpoint - Medium (Australia Data Center)(T)
+,HXCM-JP-T,HX Cloud Hosting Endpoint - Medium (Tokyo Data Center)(T)
+,HXGCL-AU-T,HX Cloud Hosting Endpoint - GCP - Large (Australia Data Center)(T)
+,HXGCM-AU-T,HX Cloud Hosting Endpoint - GCP - Medium (Australia Data Center)(T)
+,HXGCL-JP-T,HX Cloud Hosting Endpoint - GCP - Large (Tokyo Data Center)(T)
+,HXGCM-JP-T,HX Cloud Hosting Endpoint - GCP - Medium (Tokyo Data Center)(T)
+,,Cloud Workload Security EDR
+,CWSDR-AU,Trellix Cloud Workload Security Detect and Respond (Australia Data Center)
+,CWSDRU-AU,Trellix Cloud Workload Security Detect and Respond - Upgrade (Australia Data Center)
+,,
+,Trellix SG Data Center,
+,,Protection and EDR (SaaS & On-Premise)
+,TRXHX-SG,Trellix Advanced Endpoint Security with Forensics (Singapore Data Center)
+,TRXHXU-SG,Trellix Advanced Endpoint Security with Forensics - Upgrade (Singapore Data Center)
+,,Helix (SaaS)
+,XDR-SG,Helix Connect (Singapore Data Center)
+,OXDR-50GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 50 GB (Singapore Data Center)
+,OXDR-100GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 100 GB (Singapore Data Center)
+,OXDR-250GB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 250 GB (Singapore Data Center)
+,OXDR-1TB-ADDON-SG,Helix Connect Open XDR for External Data Add-on - 1 TB (Singapore Data Center)
+,OXDR-50GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 50 GB (Singapore Data Center)
+,OXDR-100GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 100 GB (Singapore Data Center)
+,OXDR-250GB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 250 GB (Singapore Data Center)
+,OXDR-1TB-10M-ADDON-SG,Helix Connect XDR Retention 10 Months Add-On - 1 TB (Singapore Data Center)
+,OXDRCS-2YR-50GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 50 GB (Singapore Data Center)
+,OXDRCS-2YR-100GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 100 GB (Singapore Data Center)
+,OXDRCS-2YR-250GB-ADDON-SG,Helix Connect 2 Year Cold Storage - 250 GB (Singapore Data Center)
+,OXDRCS-2YR-1TB-ADDON-SG,Helix Connect 2 Year Cold Storage - 1 TB (Singapore Data Center)
+,OXDRCS-3YR-50GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 50 GB (Singapore Data Center)
+,OXDRCS-3YR-100GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 100 GB (Singapore Data Center)
+,OXDRCS-3YR-250GB-ADDON-SG,Helix Connect 3 Year Cold Storage - 250 GB (Singapore Data Center)
+,OXDRCS-3YR-1TB-ADDON-SG,Helix Connect 3 Year Cold Storage - 1 TB (Singapore Data Center)
+,XDRQS8-50GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 50 GB (Singapore Data Center)
+,XDRQS8-100GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 100 GB (Singapore Data Center)
+,XDRQS8-250GB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 250 GB (Singapore Data Center)
+,XDRQS8-1TB-ADDON-SG,Helix Connect 8 Day Index Search Retention - 1 TB (Singapore Data Center)
+,XDRQS16-50GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 50 GB (Singapore Data Center)
+,XDRQS16-100GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 100 GB (Singapore Data Center)
+,XDRQS16-250GB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 250 GB (Singapore Data Center)
+,XDRQS16-1TB-ADDON-SG,Helix Connect 16 Day Index Search Retention - 1 TB (Singapore Data Center)
+,,Protection (SaaS & On-Premise)
+,MV1-SG,Trellix Protect Standard (Singapore Data Center)
+,MV1U-SG,Trellix Protect Standard - Upgrade (Singapore Data Center)
+,MV2-SG,Trellix Protect Plus (Singapore Data Center)
+,MV2U-SG,Trellix Protect Plus - Upgrade (Singapore Data Center)
+,,File & Application Control
+,ACD-S-SG,Trellix Application Control for PCs - Subscription (Singapore Data Center)
+,,Endpoint Cloud Deploy Options
+,HXCL-SG-T,HX Cloud Hosting Endpoint - Large (Singapore Data Center)(T)
+,HXCM-SG-T,HX Cloud Hosting Endpoint - Medium (Singapore Data Center)(T)
+,HXGCL-SG-T,HX Cloud Hosting Endpoint - GCP - Large (Singapore Data Center)(T)
+,HXGCM-SG-T,HX Cloud Hosting Endpoint - GCP - Medium (Singapore Data Center)(T)
+,,
+,Trellix Network Security,
+,,Network IPS Management Solutions
+,NSM,"Trellix Network Security Manager Next Generation Appliance-Only for Standard, Global, Failover and Central manager"
+,NMG,Trellix Network Security Manager Software Subscription Global Edition
+,NMS,Trellix Network Security Manager Software Subscription Standard Edition
+,NMT,Trellix Network Security Manager Software Subscription Starter Edition
+,,Next Generation Network IPS Virtual Appliances
+,IPS-VM1000-CLD-SUB,Trellix Virtual Network Security Platform Appliance - IPS-VM1000-CLD-SUB
+,IPS-VM1000-SSL-CLD-SUB,Trellix Virtual Network Security Platform Appliance with Inbound/Outbound SSL enabled
+,,Network IPS Appliances: NS9600 Series
+,IPS NS9600,Trellix Network Security IPS NS9600 Appliance
+,NS9600-20GBPS-S,Trellix IPS NS9600 - 20Gbps Software license (Throughput based entitlement)
+,NS9600-40GBPS-S,Trellix IPS NS9600 - 40Gbps Software license (Throughput based entitlement)
+,NS9600-60GBPS-S,Trellix IPS NS9600 - 60Gbps Software license (Throughput based entitlement)
+,NS9600-20GBPS FO-S,Trellix IPS NS9600 - 20Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9600-40GBPS FO-S,Trellix IPS NS9600 - 40Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9600-60GBPS FO-S,Trellix IPS NS9600 - 60Gbps Failover (HA) Software license (Throughput based entitlement)
+,IPS NS9600 SSL,Trellix Network Security IPS NS9600 Appliance - Inbound/Outbound SSL
+,,Network IPS Appliances: NS9500 Series
+,IPS NS9500,Trellix Network Security IPS NS9500 Appliance
+,NS9500-10GBPS-S,Trellix IPS NS9500 - 10Gbps Software license (Throughput based entitlement)
+,NS9500-20GBPS-S,Trellix IPS NS9500 - 20Gbps Software license (Throughput based entitlement)
+,NS9500-30GBPS-S,Trellix IPS NS9500 - 30Gbps Software license (Throughput based entitlement)
+,NS9500-40GBPS-S,Trellix IPS NS9500 - 40Gbps Software license (Throughput based entitlement)
+,NS9500-60GBPS-S,Trellix IPS NS9500 - 60Gbps Software license (Throughput based entitlement)
+,NS9500-100GBPS-S,Trellix IPS NS9500 - 100Gbps Software license (Throughput based entitlement)
+,NS9500-10GBPS FO-S,Trellix IPS NS9500 - 10Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-20GBPS FO-S,Trellix IPS NS9500 - 20Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-30GBPS FO-S,Trellix IPS NS9500 - 30Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-40GBPS FO-S,Trellix IPS NS9500 - 40Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-60GBPS FO-S,Trellix IPS NS9500 - 60Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-100GBPS FO-S,Trellix IPS NS9500 - 100Gbps Failover (HA) Software license (Throughput based entitlement)
+,IPS NS9500 10GB-SSL,Trellix Network Security IPS NS9500 10GB Appliance - Inbound/Outbound SSL
+,IPS NS9500 20GB-SSL,Trellix Network Security IPS NS9500 20GB Appliance - Inbound/Outbound SSL
+,IPS NS9500 30GB-SSL,Trellix Network Security IPS NS9500 30GB Appliance - Inbound/Outbound SSL
+,,Network IPS Appliances: NS7600 Series
+,IPS NS7600,Trellix Network Security IPS NS7600 Appliance
+,NS7600-5GBPS-S,Trellix IPS NS7600 - 5Gbps Software license (Throughput based entitlement)
+,NS7600-10GBPS-S,Trellix IPS NS7600 - 10Gbps Software license (Throughput based entitlement)
+,NS7600-15GBPS-S,Trellix IPS NS7600 - 15Gbps Software license (Throughput based entitlement)
+,NS7600-5GBPS FO-S,Trellix IPS NS7600 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7600-10GBPS FO-S,Trellix IPS NS7600 - 10Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7600-15GBPS FO-S,Trellix IPS NS7600 - 15Gbps Failover (HA) Software license (Throughput based entitlement)
+,IPS NS7600 SSL,Trellix Network Security IPS NS7600 Appliance - Inbound/Outbound SSL
+,,Network IPS Appliances: NS3600 Series
+,IPS NS3600,Trellix Network Security IPS NS3600 Appliance
+,NS3600-1GBPS-S,Trellix IPS NS3600 - 1Gbps Software license (Throughput based entitlement)
+,NS3600-3GBPS-S,Trellix IPS NS3600 - 3Gbps Software license (Throughput based entitlement)
+,NS3600-5GBPS-S,Trellix IPS NS3600 - 5Gbps Software license (Throughput based entitlement)
+,NS3600-1GBPS FO-S,Trellix IPS NS3600 - 1Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS3600-3GBPS FO-S,Trellix IPS NS3600 - 3Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS3600-5GBPS FO-S,Trellix IPS NS3600 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+,IPS NS3600 SSL,Trellix Network Security IPS NS3600 Appliance - Inbound/Outbound SSL
+,,Network IPS Network I/O Expansion Modules
+,NET-I/O-E-MOD-4P-SR-100G,Trellix Network Security 4-Port 100/40 GigE SR Fiber Network I/O Expansion Module (without Fail-Open)
+,NET-I/O-E-MOD-4P-SRP-100G,Trellix Network Security 4-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4P-BIDI-100,Trellix Network Security 4-Port 100/40 GigE BIDI Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4P-LR-100G,Trellix Network Security 4-Port 100 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4P-LR-40G,Trellix Network Security 4-Port 40 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-2P-SR-100G,Trellix Network Security 2-Port 100/40 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-2PORT-100G,Trellix Network Security 2-Port 100GigE QSFP28 Network I/O Expansion Module (without Built-In Fail-Open)
+,NET-I/O-E-MOD-4PORT-LR,Trellix Network Security 4-Port 10/1 GigE 10GBASE-LR/1000BASE-LX SM Net I/O Exp Mod (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4PORT-SR-62,Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5 MM Net I/O Exp Mod(w/ Built-In FailOpen)
+,NET-I/O-E-MOD-8PORT,Trellix Network Security 8-Port 10/1 GigE SFP+/SFP Network I/O Expansion Module (without Built-In Fail-Open)
+,NET-I/O-E-MOD-6PORT,Trellix Network Security 6-Port 1GigE 1000BASE-T Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4PORT-1,Trellix Network Security 4-Port 40GigE QSFP+ Network I/O Expansion Module (without Built-In Fail-Open)
+,NET-I/O-E-MOD-4PORT,Trellix Network Security 4-Port 10GBASE-T Copper Network I/O Expansion Module (with Build-in Fail-Open)
+,NET-I/O-E-MOD-6P-RJ45-10G,Trellix Network Security 6-Port 10/1 GigE RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-8P-SR-10G,Trellix Network Security 8-Port 10/1 GigE SR Fiber Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-8P-LR-10G,Trellix Network Security 8-Port 10/1 GigE LR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4PORT-SR-50,Trellix Network Security 4-Port 10/1 GigE 10GBASE-SR/1000BASE-SX 50 MM Net I/O Exp Mod (w/ Built-In Fail-Open)
+,NET-I/O-E-MOD-4P-SR-10G,Trellix Network Security 4-Port 10/1 GigE SR Network I/O Expansion Module (with Built-In Fail-Open)
+,NET-I/O-E-MOD-4P-RJ45-1G,Trellix Network Security 4-Port 1G/100M/10M RJ45 Network I/O Expansion Module (with Built-In Fail-Open)
+,,Network IPS Fail-Open Chassis
+,FO-CHASSIS,Trellix Network Security Active 1/10G Fail-Open Chassis
+,FO-CHASSIS-40G,Trellix Network Security Active 40G Fail-Open Chassis
+,FO-CHASSIS-100G,Trellix Network Security Active 100G Fail-Open Chassis
+,,Network IPS Fail-Open Kits/Modules
+,AFO-MOD-2PORT-100G-LR4,Trellix Network Security 100GigE QSFP28 LR4 SM Active Fail-Open Module
+,AFO-MOD-2PORT-100G-SR4,Trellix Network Security 100GigE QSFP28 SR4 MM Active Fail-Open Module
+,AFO-MODULE-2PORT-LR4,Trellix Network Security 40GigE QSFP+ LR4 SM Active Fail-Open Module
+,AFO-MODULE-2PORT-SR4,Trellix Network Security 40GigE QSFP+ SR4 MM Active Fail-Open Module
+,AFO-MODULE-2PORT-BIDI,Trellix Network Security 40GigE QSFP+ BiDi Active Fail-Open Module
+,FO-MODULE-DS-10-LR,Trellix Network Security Dual Segment 10GigE 10GBASE-LR SM Active Fail-Open Module
+,FO-MODULE-DS-10-SR,Trellix Network Security Dual Segment 10GigE 10GBASE-SR MM Active Fail-Open Module
+,FO-MODULE-1-LX,Trellix Network Security 1GigE 1000BASE-LX SM Active Fail-Open Module
+,FO-MODULE-1-SX,Trellix Network Security 1GigE 1000BASE-SX MM Active Fail-Open Module
+,FO-MODULE-1-T,Trellix Network Security 1GigE 1000BASE-T Active Fail-Open Module
+,,Network IPS Transceivers
+,TRANSCEIVER-NS-100-SR4,Trellix Network Security 100GigE QSFP28 100GBASE-SR4 MMF Transceiver
+,TRANSCEIVER-NS-100-LR4,Trellix Network Security 100GigE QSFP28 100GBASE-LR4 SMF Transceiver
+,TRANSCEIVER-NS-40-LR,Trellix Network Security 40GigE QSFP+ 40GBASE-LR4 SM Transceiver
+,TRANSCEIVER-NS-40-SR,Trellix Network Security 40GigE QSFP+ 40GBASE-SR4 MM Transceiver
+,TRANSCEIVER-NS-10-LR,Trellix Network Security 10GigE SFP+ 10GBASE-LR SM Transceiver
+,TRANSCEIVER-NS-10-SR,Trellix Network Security 10GigE SFP+ 10GBASE-SR MM Transceiver
+,TRANSCEIVER-NS-M-1-LX,Trellix Network Security 1GigE SFP 1000BASE-LX SM Transceiver
+,TRANSCEIVER-NS-M-1-SX,Trellix Network Security 1GigE SFP 1000BASE-SX MM Transceiver
+,TRANSCEIVER-NS-M-1-T,Trellix Network Security 1GigE SFP 1000BASE-T Transceiver
+,,Network IPS Cables
+,CABLE-PACK-1,Trellix Network Security 3-Meter QSFP28 Direct Attach Cable Pack for NS9x00
+,,Network IPS Power Supplies
+,POWER-SUPPLY-AC-NS-9X00,Trellix Network Security 1600W AC Spare Power Supply for NS9x00
+,PWR-SPLY-AC-NS-7K-5K-NS95,Trellix Network Security 650W AC Redundant Power Supply for NS7xx0 and NS5x00 and NS9500
+,PWR-SPLY-AC-NS-7600,Trellix Network Security 750W AC Redundant Power Supply for NS7600
+,,Hermes NDR Subscriptions
+,NDRT0-T,Network Detection and Response Essentials Edition
+,NDRT1-T,Network Detection and Response Core Edition
+,NDRT2-T,Network Detection and Response Enterprise Edition
+,,Hermes NDR Virtual Appliance Deployment Options
+,NDRC-VA-T,NDR Console - Virtual Appliance(T)
+,NDRS-VA-T,NDR Sensor - Virtual Appliance(T)
+,,Hermes NDR Hardware Appliance Deployment Options
+,NDRC2600-T,NDR Console 2600 Appliance(T)
+,NDRS8600-T,NDR Sensor 8600 Appliance(T)
+,,Hermes Network NX Subscriptions
+,NWENX-T,Network Security NX Edition (Enterprise)(T)
+,,Hermes Network NX Virtual Appliance Deployment Options
+,NW-VA-T,Network Security Sensor - Virtual Appliance(T)
+,VX12550-BM-VA-T,Network Security 12550 BareMetal - Virtual Appliance(T)
+,NSNW-EC-VA-T,Network Evidence Collector - Virtual Appliance for Network Security(T)
+,,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options
+,VX5600-T,IVX 5600 Enterprise (Formerly SmartGrid) Appliance(T)
+,VX12600-T,IVX 12600 Enterprise (Formerly SmartGrid) Appliance(T)
+,,Hermes Network NX Hardware Appliance Deployment Options
+,NW2600-T,NW 2600 Appliance(T)
+,NW3600-T,NW 3600 Appliance(T)
+,NW4600-T,NW 4600 Appliance(T)
+,NW5600-T,NW 5600 Appliance(T)
+,NW6600-T,NW 6600 Appliance(T)
+,NW8600-T,NW 8600 Appliance(T)
+,,Hermes Forensics IA PX Subscrtiptions
+,NFEIAPX-T,Forensics(T)
+,,Hermes Forensics IA Virtual Appliance Deployment Options
+,NFIA-VA-T,Network Forensics Security IA - Virtual Appliance(T)
+,,Hermes Forensics IA Hardware Appliance Deployment Options
+,NFIA2600-T,NFIA 2600 Appliance(T)
+,,Classic Forensics IA Virtual Appliances
+,IA-VA-T,IA Virtual Appliance(T)
+,,Classic Forensics IA Hardware Appliances
+,2600IA-T,2600 IA Appliance(T)
+,2600IA-SW-T,2600 IA Appliance Software(T)
+,,Hermes Forensics PX Virtual Appliance Deployment Options
+,NFPX-VA-T,Network Forensics Security PX - Virtual Appliance(T)
+,,Hermes Forensics PX Hardware Appliance Deployment Options
+,NFPX5600-T,NFPX 5600 Appliance(T)
+,NFPX7600-T,NFPX 7600 Appliance(T)
+,NFPX7620-T,NFPX 7620 Appliance(T)
+,,Hermes Forensics Storage SX Subscriptions
+,NFE5000SX-T,Network Forensics Storage 704TB(T)
+,,Hermes Forensics Storage Hardware Appliance Deployment Options
+,NFSX5000-T,NFSX 5000 Appliance(T)
+,,Hermes Central Management Virtual Appliance Deployment Options
+,CM-VA-S-T,Central Management - Virtual Appliance Subscription(T)
+,CM-VA-T,Central Management - Virtual Appliance(T)
+,,Central Management  Virtual Appliances
+,2500CM-VA-T,2500 CM Virtual Appliance(T)
+,2500CM-VA-DTI-T,2500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+,4500CM-VA-T,4500 CM Virtual Appliance(T)
+,4500CM-VA-DTI-T,4500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+,7500CM-VA-T,7500 CM Virtual Appliance(T)
+,7500CM-VA-DTI-T,7500 CM Virtual Appliance - Dynamic Threat Intelligence(T)
+,,Central Management Hardware Appliance
+,4600CM-T,4600 CM Appliance(T)
+,4600CM-SW-T,4600 CM Appliance Software(T)
+,4600CM-SW-DTI-T,4600 CM Appliance Software - Dynamic Threat Intelligence(T)
+,7600CM-T,7600 CM Appliance(T)
+,7600CM-SW-T,7600 CM Appliance Software(T)
+,7600CM-SW-DTI-T,7600 CM Appliance Software - Dynamic Threat Intelligence(T)
+,9600CM-T,9600 CM Appliance(T)
+,9600CM-SW-T,9600 CM Appliance Software(T)
+,9600CM-SW-DTI-T,9600 CM Appliance Software - Dynamic Threat Intelligence(T)
+,,
+,Trellix IVX,
+,,Hermes File Protect Subscriptions
+,NWEFX-T,File Security (Enterprise)(T)
+,,Hermes On-Prem File Protect Hardware Deployment Options
+,NWFX6600-T,File Protect 6600 Appliance(T)
+,,IVX File Share Connector Virtual Appliance Deployment Options
+,NWFX-VA-T,IVX File Share Connector(Formerly FX-VA)(T)
+,,IVX Enterprise On-Prem - Hardware Appliances
+,5600IVX-T,5600 IVX Enterprise Appliance(T)
+,5600IVX-S-T,5600 IVX Enterprise SW and DTI - Subscription(T)
+,12600IVX-T,12600 IVX Enterprise Appliance(T)
+,12600IVX-S-T,12600 IVX Enterprise SW and DTI - Subscription(T)
+,,IVX Enterprise Cloud
+,IVX,IVX Enterprise Cloud
+,IVX-BP,IVX Enterprise Cloud -Banded Submission Pack
+,,Hermes IVX Investigator Subscriptions (Formerly AX)
+,NFEAX-T,IVX Investigator (Formerly AX)(T)
+,,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX)
+,NFAX5600-T,IVX Investigator 5600 Appliance  (Formerly AX)(T)
+,,IVX Enterprise - Virtual Appliances
+,IVX-VM300,Trellix Intelligent Virtual Execution VM 300 - 16 Core
+,IVX-VM300-32,Trellix Intelligent Virtual Execution VM 300 - 32 Core
+,IVX-VM300-48,Trellix Intelligent Virtual Execution VM 300 - 48 Core
+,IVX-VM300-64,Trellix Intelligent Virtual Execution VM 300 - 64 Core
+,,Central Management Virtual Appliance Deployment Options - IVX/ATD
+,CM-VA-IVX,Central Management - Virtual Appliance - IVX
+,CM-VA-DTI-IVX,CM Virtual Appliance - Dynamic Threat Intelligence - IVX
+,,
+,Trellix SIEM,
+,,SIEM Combination
+,ENM-ELM-6100,"Trellix Enterprise Security Manager, Log Manager and Event Receiver Combination 6100"
+,ESM-ELM-ERC-VM,"Trellix Virtual Enterprise Security Manager, Log Manager and Event Receiver Combination VM 8 Cores"
+,ESM-ELM-ERC-VM4-CR ADDON,"Trellix Enterprise Security, Enterprise Log Manager and Enterprise Receiver VM (4 Core Add-On)"
+,,Enterprise Security Manager
+,ETM-6100,Trellix Enterprise Security Manager 6100
+,ETM-X10,Trellix Enterprise Security Manager X10
+,ESM-VM,Trellix Virtual Enterprise Security Manager VM 8 Cores
+,ESM-VM-4-CORE-ADDON,Trellix Virtual Enterprise Security Manager VM 4 Core Add-On
+,,Enterprise Log Manager
+,ELM-6100,Trellix Enterprise Log Manager 6100
+,ELM-VM,Trellix Virtual Enterprise Log Manager VM 8 Cores
+,ELM-VM-4-CORE-ADDON,Trellix Virtual Enterprise Log Manager VM 4 Core Add-On
+,,Enterprise Log Search
+,ELS-VM,Trellix Virtual Enterprise Log Search VM 8 Cores
+,ELS-VM-4-CORE-ADDON,Trellix Virtual Enterprise Log Search VM 4 Core Add-On
+,,Event Receiver
+,ERC-3600,Trellix Event Receiver 3600
+,ERC-4800,Trellix Event Receiver 4800
+,ERC-VM,Trellix Virtual Event Receiver VM 8 Cores
+,ERC-VM-4-CORE-ADDON,Trellix Virtual Event Receiver VM 4 Core Add-On
+,,Advanced Correlation Engine
+,ACE-4800,Trellix Advanced Correlation Engine 4800
+,ACE-3600,Trellix Advanced Correlation Engine 3600
+,ACE-VM,Trellix Virtual Advanced Correlation Engine VM 8 Cores
+,ACE-VM-4-CORE-ADDON,Trellix Virtual Advanced Correlation Engine VM 4 Core Add-On
+,,Application Data Monitor
+,APM-3600,Trellix Application Data Monitor 3600
+,ADM-VM,Trellix Virtual Application Data Monitor VM 8 Cores
+,ADM-VM-4-CORE-ADDON,Trellix Virtual Application Data Monitor VM 4 Core Add-On
+,,Global Threat Intelligence Service
+,ENMELM-6100-GTI,Trellix Global Threat Intelligence (Module for ESM) - Combination 6100 Appliance
+,ETM-6100-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM-6100 Appliance
+,ETM-X10-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM X10 Appliance
+,ESM-ELM-ERC-VM12-GTI,Trellix Global Threat Intelligence (Module for  ESM) - Combination VM-12
+,ESM-VM8-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-8
+,ESM-VM12-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-12
+,ESM-VM16-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-16
+,ESM-VM24-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-24
+,ESM-VM32-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-32
+,ESM-VM48-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-48
+,ESM-VM64-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-64
+,ESM-VM72-GTI,Trellix Global Threat Intelligence (Module for  ESM) - ESM-VM-72
+,,SIEM Accessories
+,ESM-10GRJSF-MOD,Trellix 10 Gigabit OCP 4-port network card (2 RJ45 & 2 SFP+ Combo)
+,DAS-120,Trellix Direct Attached Storage 120
+,DAS-250,Trellix Direct Attached Storage 250
+,,Event Reporter
+,EREP-VM-25,Trellix Event Reporter VM 25
+,,
+,Trellix HW Accessories,
+,,"Rails, Kits and Cables"
+,FANOUTCABLE-R1,"CABLE, MTP/MPO FAN-OUT CABLE WITH PUSH/PULL TAB CONNECTORS, MTP/MPO TO 4XLC, 40GBE, 40GBASE-SR4,OM3 PLENUM-RATED - AQUA, 5M REV1"
+,PATCHCABLE-R1,"CABLE, PROLINE 5M MPO (F)/MPO (F) 12-STRAND AQUA OM3 CROSSOVER OFNR PATCH CABLE REV1"
+,,Modules
+,BASECU10G-HW,HW MOD 10G BASE CU SFP+ COPPER
+,BASET10G-HW-R1,HW MOD 10G Base-T Copper SFP+ REV1
+,BASET1G-HW,HW MOD 1G Base-T Copper
+,LXLR1G10G-HW-R1,HW MOD 1G/10G Base LX/LR Fiber SFP+ REV1
+,LXLR1G10G-HW,HW MOD 1G/10G Base LX/LR Fiber SFP+
+,SXSR1G10G-HW-R1,HW MOD 1G/10G Base SX/SR Fiber SFP+ REV1
+,SXSR1G10G-HW,HW MOD 1G/10G Base SX/SR Fiber SFP+
+,SR40G-HW,"40G Base-SR4, 100/150m MMF"
+,QSFP100G-HW,HW MOD 100G Base QSFP+
+,,
+,Trellix Success Services,
+,,Trellix Thrive Success Packages
+,THRIVE-ADV,Thrive Advanced
+,THRIVE-ELITE,Thrive Elite
+,THRIVE-FLEX,Thrive Flex Credits
+,THRIVE-FLEX-ADDON,Thrive Flex Credits Add-On
+,THRIVE-ESS-DG,Thrive Essential Downgrade
+,,Trellix Thrive Success Packages - For Legacy CSP
+,THRIVE-ADV-CSP,Thrive Advanced for Legacy CSP
+,THRIVE-ELITE-CSP,Thrive Elite for Legacy CSP
+,,Consulting Services: Solution Services
+,CONS-DY,Custom Consulting Daily
+,CONS-DY-PP,Custom Consulting Daily - Prepaid
+,ASSESS-HR,Assessment Consulting
+,CONS-HR-MT,Midterm Hourly Consulting
+,TS-ONSITE-DAY,Daily Onsite Assistance
+,TS-REMOTE-COREPP,Remote Assistance Core - Prepaid
+,DEPLOY,Deployment Consulting
+,DEPLOY-PP,Deployment Consulting - Prepaid
+,DEPLOY-REMLOC,Deployment Consulting - Remote Location
+,DEPLOY-REMLOC-PP,Deployment Consulting - Remote Location - Prepaid
+,CONS-HR,Custom Consulting Hourly
+,CONS-HR-PP,Custom Consulting Hourly - Prepaid
+,CONS-VOUCHER,Consulting Voucher
+,CONS-HR-LT,Longterm Hourly Consulting
+,CONS-PM-DY,Program/Project Management Consulting Daily
+,CONS-PM-HR,Program/Project Management Consulting Hourly
+,CONS-SA-DY,Security Architect Consulting Daily
+,CONS-SA-HR,Security Architect Consulting Hourly
+,CONS-SS-DY-CMBO,Solution Services Daily Consulting and Travel Combo
+,RESIDENT1DAY-UB,1 Day/Week Resident - 1 year Subscription Upfront Billing
+,RESIDENT1DAY-MB,1 Day/Week Resident - 1 year Subscription Monthly Billing
+,RESIDENT2DAY-UB,2 Day/Week Resident - 1 year Subscription Upfront Billing
+,RESIDENT2DAY-MB,2 Day/Week Resident - 1 year Subscription Monthly Billing
+,RESIDENT3DAY-UB,3 Day/Week Resident - 1 year Subscription Upfront Billing
+,RESIDENT3DAY-MB,3 Days/Week Resident - 1 year Subscription Monthly Billing
+,RESIDENT4DAY-UB,4 Day/Week Resident - 1 year Subscription Upfront Billing
+,RESIDENT4DAY-MB,4 Day/Week Resident - 1 year Subscription Monthly Billing
+,MAXRESIDENT-UB,Max Resident - 1 year Subscription Upfront Billing
+,MAXRESIDENT-MB,Max Resident - 1 year Subscription Monthly Billing
+,XPERTSVCSL1-UB,Expert Services - 1 year Subscription Upfront Billing
+,XPERTSVCSL1-MB,Expert Services - 1 year Subscription Monthly Billing
+,XPERTCUSTOM-UB,Expert Custom Services - 1 year Upfront Billing
+,XPERTCUSTOM-MB,Expert Custom Services - 1 year Monthly Billing
+,CONS-TRAVEL,Solution Services Travel
+,HWA-OHC-RS1-PP,Health Watch - Onsite Prepaid
+,HWA-QTR-RS4-PP,Health Watch - Quarterly Prepaid
+,HWA-LTE-RS1-PP,Health Watch - Lite Prepaid
+,SPE,Support Escalation Management  - Remote Escalation Mgt for VSE to ENS or MVISION migration assistance only
+,DEPLOY-REMDY-PP,Deployment Consulting - Remote migration assistance for VSE to ENS or MVision Endpoint migrations only
+,,Consulting Services: Foundstone Services
+,FS-CTIA,Context Threat Intell Subscription
+,FS-CTIB,Context Threat Intell Basic Subscription
+,FS-CONS-HR,Foundstone Consulting Hourly
+,FS-CONS-HR-D,Foundstone Consulting Hourly D
+,FS-TRN-HR,Custom Foundstone Training Development Hourly
+,FS-IR-HR-A-PP,Foundstone Consulting Incident Response Hourly A
+,FS-IR-HR,Foundstone Hourly Emergency Incident Response (EIR) Retainers
+,FS-IR-WKSP,IR Readiness Assessment
+,FS-TRAVEL,Foundstone Travel
+,FS-PCI-50,Foundstone Quarterly External PCI Scan less than 50 live hosts
+,,Consulting Services: Mandiant Services
+,IR-MANDIANT-PP,Mandiant Incident Response (IR) Retainer - Prepaid
+,,Private Global Threat Intelligence (pGTI)
+,PGTI,Trellix Private Global Threat Intelligence
+,PGTI-LTE,Trellix Private Global Threat Intelligence Lite
+,,Threat Intelligence
+,TIG-INTAAS-LG,Trellix Threat Intelligence-as-a-Service Large - Upfront Billing
+,TIG-INTAAS-MD,Trellix Threat Intelligence-as-a-Service Medium - Upfront Billing
+,TIG-INTAAS-SM,Trellix Threat Intelligence-as-a-Service Small - Upfront Billing
+,TIG-QTE-UB,Trellix Tailored Threat Intelligence Services Upfront Billing
+,TIG-QTE-MB,Trellix Tailored Threat Intelligence Services Monthly Billing
+,TIG-THREAT-REPORTS,Trellix Threat Reports - Upfront Billing
+,,Advanced Threat Landscape Analysis System (ATLAS)
+,TIG-ATLAS,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Upfront Billing
+,TIG-ATLAS-PH,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Private Hosting - Upfront Billing
+,TIG-ATLAS-OP,Trellix Advanced Threat Landscape Analysis System (ATLAS) - On Premises - Upfont Billing
+,TIG-ATLAS-DO,Trellix Advanced Threat Landscape Analysis System (ATLAS) - Data Only
+,,TIG Resident Analyst
+,TIG-RESIDENT-ANALYST-UB,Trellix Resident Analyst - Upfront Billing
+,TIG-RESIDENT-ANALYST-MB,Trellix Resident Analyst - Monthy Billing
+,,Managed Security Services
+,HWA-MSP-RS4-PP,Health Watch - Managed Security Service Provider Prepaid
+,,Education Services: Instructor-led Training
+,TRN-VOUCHER,"Training Voucher, Prepaid"
+,FS-TRN-OS-4DY,Foundstone 4 day Foundstone PS Onsite Course
+,FS-TRN-OS-4DY-ST,Foundstone 4 day Foundstone PS ADDITIONAL STUDENT
+,FS-TRN-CL-4DY,Foundstone 4 day Foundstone PS PUBLIC COURSE Prepaid
+,TRN-IL-PRI-1DPP,"Instructor-Led Training - 1 Day Private Class, Virtual, Prepaid"
+,TRN-IL-PRI-1D,"Instructor-Led Training - 1 Day Private Class, Virtual, Invoice on delivery"
+,TRN-IL-PUB-1DPP,"Instructor-Led Training - 1 Day Public Class, Virtual, Prepaid"
+,TRN-IL-PRI-1DASPP,"Instructor-Led Training - Additional Student, 1 Day Private Class, Prepaid​"
+,TRN-IL-PRI-2DASPP,"Instructor-Led Training - Additional Student, 2 Days Private Class, Prepaid​"
+,TRN-IL-PRI-3DASPP,"Instructor-Led Training - Additional Student, 3 Days Private Class, Prepaid​"
+,TRN-IL-PRI-4DASPP,"Instructor-Led Training - Additional Student, 4 Days Private Class, Prepaid​"
+,TRN-IL-PRI-5DASPP,"Instructor-Led Training - Additional Student, 5 Days Private Class, Prepaid​"
+,TRN-IL-PRI-1DAS,"Instructor-Led Training - Additional Student, 1 Day Private Class, Invoice on delivery​"
+,TRN-IL-PRI-2DAS,"Instructor-Led Training - Additional Student, 2 Days Private Class, Invoice on delivery​"
+,TRN-IL-PRI-3DAS,"Instructor-Led Training - Additional Student, 3 Days Private Class, Invoice on delivery​"
+,TRN-IL-PRI-4DAS,"Instructor-Led Training - Additional Student, 4 Days Private Class, Invoice on delivery​"
+,TRN-IL-PRI-5DAS,"Instructor-Led Training - Additional Student, 5 Days Private Class, Invoice on delivery​"
+,TRN-TRAVEL,Training Travel
+,,Education Services:  Custom Training
+,TRN-CUSTOM-HRPP,"Custom Training Hourly, Prepaid"
+,TRN-CUSTOM-HR,"Custom Training Hourly, Invoice on delivery"
+,,General Consulting
+,CS-DI-HR-L1,D&I T&M Service - Level1
+,CS-DI-HR-L2,D&I T&M Service - Level2
+,CS-DI-HR-L3,D&I T&M Service - Level3
+,,Packaged Services
+,CS-DI-ABPB-2D,Analysis Best Practices - 2 Days
+,CS-DI-ABPB-3D,Analysis Best Practices - 3 Days
+,CS-DI-ABPB-4D,Analysis Best Practices - 4 Days
+,CS-DI-ABPB-5D,Analysis Best Practices - 5 Days
+,CS-DI-IVB,Install Validation
+,,Deployment Services
+,CS-DI-FIXED,Deployment Fixed Price Service
+,CS-DI-STAFF-L1,D&I Staff Aug Services L1
+,CS-DI-STAFF-L2,D&I Staff Aug Services L2
+,CS-DI-OS-NT,FireEye Remote Deployment Services
+,CS-DI-OS-T,FireEye Remote Deployment Services (Travel Included)
+,,Technical Support
+,COMPLY-NODE,Out of Compliance Charges- Software Node/User
+,COMPLY-HW,Out of Compliance Charges- Hardware Device
+,MEDIA-RET,Single Media Retention Item/Service Fee
+,NRHDDGEN2,Non-returnable HDD Program - GEN2
+,NRSSDGEN2,Non-returnable SSD Program - GEN2
+,,
+,Trellix Legacy,
+,,Legacy - Hermes IVX Enterprise Cloud Subscriptions  (Formerly DOD)
+,DOD-T,IVX Enterprise Cloud (Formely Detection on Demand)(T)
+,DOD-DE-T,IVX Enterprise Cloud (Formely Detection on Demand) (Germany Data Center)(T)
+,,Legacy - IVX Enterprise Cloud
+,IVX-P,IVX Enterprise Cloud -Submission Pack
+,IVX-DE-P,IVX Enterprise Cloud -Submission Pack (Germany Data Center)
+,IVX-JP-P,IVX Enterprise Cloud -Submission Pack (Tokyo Data Center)
+,,Legacy - Premium Support
+,PRS-SAM,Resident Enterprise Support- Support Account Manager
+,,Legacy - Custom Support
+,CUST-SPPT-PSW,Software (Pre-loaded) Custom Support
+,CUST-SPPT-HW,Hardware Custom Support
+,CUST-SPPT-SIEM-PSW,SIEM Appliance (Pre-loaded Software) Custom Support
+,CUST-SPPT-IPS-PSW,Network IPS Appliance (Pre-loaded Software) Custom Support
+,CUST-SPPT-DLP-PSW,DLP Appliance (Pre-loaded Software) Custom Support
+,CUST-SPPT-ATD-PSW,ATD Appliance (Pre-loaded Software) Custom Support
+,CUST-SPPT-SW,Legacy Software Custom Support
+,CUST-SPPT-CP-SW,Legacy Client Protection Software Custom Support
+,CUST-SPPT-EDR-SW,Legacy EDR Software Custom Support
+,CUST-SPPT-DC-SW,Legacy Data Center Software Custom Support
+,,Endpoint Cloud Deploy Options
+,HXCL-OR-T,HX Cloud Hosting Endpoint - Large (Oregon Data Center)(T)
+,HXCM-OR-T,HX Cloud Hosting Endpoint - Medium (Oregon Data Center)(T)
+,,Legacy - Protection and EDR (SaaS & On-Premise)
+,MV7-AU,Trellix Protect Plus and EDR Premium for Endpoint (Australia Data Center)
+,MV7-DE,Trellix Protect Plus and EDR Premium for Endpoint (Germany Data Center)
+,MV7,Trellix Protect Plus and EDR Premium for Endpoint
+,MV7U-AU,Trellix Protect Plus and EDR Premium for Endpoint - Upgrade (Australia Data Center)
+,MV7U-DE,Trellix Protect Plus and EDR Premium for Endpoint - Upgrade (Germany Data Center)
+,MV7U,Trellix Protect Plus and EDR Premium for Endpoint - Upgrade
+,,Legacy - EDR (SaaS & On-Premise)
+,MV5,Trellix EDR Premium
+,MV5U,Trellix EDR Premium - Upgrade
+,MV5-DE,Trellix EDR Premium (Germany Data Center)
+,MV5U-DE,Trellix EDR Premium - Upgrade (Germany Data Center)
+,MV5-AU,Trellix EDR Premium (Australia Data Center)
+,MV5U-AU,Trellix EDR Premium - Upgrade (Australia Data Center)
+,,Legacy - Server Security Solutions
+,GSS,Trellix Security for Email Servers
+,GSS-S,Trellix Security for Email Servers Subscription
+,GSS-U,Trellix Security for Email Servers - Transition Subscription
+,PSM-S,Trellix Security for Microsoft SharePoint Server
+,ESP-S,Trellix ENS Storage Protection - Subscription
+,ESPU-S,Trellix ENS Storage Protection - Transition Subscription
+,ESP-S-DE,Trellix ENS Storage Protection - Subscription (Germany Data Center)
+,ESPU-S-DE,Trellix ENS Storage Protection - Transition Subscription (Germany Data Center)
+,ESP-S-AU,Trellix ENS Storage Protection - Subscription (Australia Data Center)
+,ESPU-S-AU,Trellix ENS Storage Protection - Transition Subscription (Australia Data Center)
+,ESP-S-SG,Trellix ENS Storage Protection - Subscription (Singapore Data Center)
+,ESPU-S-SG,Trellix ENS Storage Protection - Transition Subscription (Singapore Data Center)
+,VMD,Trellix Database Vulnerability Manager
+,,Legacy - Data Loss Prevention Appliances
+,7700DLP-A,Trellix DLP 7700-A Appliance
+,6600DLP-A,DLP 6600-A Appliance
+,CSADLP-A,Trellix DLP Capture Storage Array
+,,Legacy - Helix
+,XDR-EPS-AU,Helix Connect (EPS) (Australia Data Center)(T)
+,XDR-EPS-DE,Helix Connect (EPS) (Germany Data Center)(T)
+,XDR-EPS-SG,Helix Connect (EPS) (Singapore Data Center)(T)
+,XDR-EPS-JP,Helix Connect (EPS) (Tokyo Data Center)(T)
+,XDR-EPS-OR,Helix Connect (EPS) (US Oregon Data Center)(T)
+,XDR-EPS,Helix Connect (EPS)(T)
+,XDRS16-AU,Helix Search 16 (Australia Data Center(T)
+,XDRS16-DE,Helix Search 16 (Germany Data Center(T)
+,XDRS16-SG,Helix Search 16 (Singapore Data Center(T)
+,XDRS16-JP,Helix Search 16 (Tokyo Data Center(T)
+,XDRS16-OR,Helix Search 16 (US Oregon Data Center)(T)
+,XDRS16,Helix Search 16(T)
+,XDRS30-AU,Helix Search 30 (Australia Data Center(T)
+,XDRS30-DE,Helix Search 30 (Germany Data Center(T)
+,XDRS30-SG,Helix Search 30 (Singapore Data Center(T)
+,XDRS30-JP,Helix Search 30 (Tokyo Data Center(T)
+,XDRS30-OR,Helix Search 30 (US Oregon Data Center)(T)
+,XDRS30,Helix Search 30(T)
+,XDRS60-AU,Helix Search 60 (Australia Data Center(T)
+,XDRS60-DE,Helix Search 60 (Germany Data Center(T)
+,XDRS60-SG,Helix Search 60 (Singapore Data Center(T)
+,XDRS60-JP,Helix Search 60 (Tokyo Data Center(T)
+,XDRS60-OR,Helix Search 60 (US Oregon Data Center)(T)
+,XDRS60,Helix Search 60(T)
+,XDRS90-AU,Helix Search 90 (Australia Data Center(T)
+,XDRS90-DE,Helix Search 90 (Germany Data Center(T)
+,XDRS90-SG,Helix Search 90 (Singapore Data Center(T)
+,XDRS90-JP,Helix Search 90 (Tokyo Data Center(T)
+,XDRS90-OR,Helix Search 90 (US Oregon Data Center)(T)
+,XDRS90,Helix Search 90(T)
+,FSO-T,Security Orchestration(T)
+,HE1,Helix Enterprise Edition
+,HE1-DE,Helix Enterprise Edition Germany Data Center
+,HE1-SG,Helix Enterprise Edition Singapore Data Center
+,HE1-AU,Helix Enterprise Edition Australia Data Center
+,,Legacy - Network NS9500 Series IPS Perpetual Software Throughput
+,NS9500-10GBPS,IPS NS9500 - 10Gbps Software license (Throughput based entitlement)
+,NS9500-20GBPS,IPS NS9500 - 20Gbps Software license (Throughput based entitlement)
+,NS9500-30GBPS,IPS NS9500 - 30Gbps Software license (Throughput based entitlement)
+,NS9500-40GBPS,IPS NS9500 - 40Gbps Software license (Throughput based entitlement)
+,NS9500-60GBPS,IPS NS9500 - 60Gbps Software license (Throughput based entitlement)
+,NS9500-100GBPS,IPS NS9500 - 100Gbps Software license (Throughput based entitlement)
+,NS9500-10GBPS FO,IPS NS9500 - 10Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-20GBPS FO,IPS NS9500 - 20Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-30GBPS FO,IPS NS9500 - 30Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-40GBPS FO,IPS NS9500 - 40Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-60GBPS FO,IPS NS9500 - 60Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS9500-100GBPS FO,IPS NS9500 - 100Gbps Failover (HA) Software license (Throughput based entitlement)
+,,Legacy - Network NS9500 Series IPS Perpetual Software Throughput Upgrade
+,NS9500-U-10 TO 20GBPS,Network Security IPS NS9500 Throughput upgrade - 10 to 20 Gbps
+,NS9500-U-10 TO 30GBPS,Network Security IPS NS9500 Throughput upgrade - 10 to 30 Gbps
+,NS9500-U-10 TO 40GBPS,Network Security IPS NS9500 Throughput upgrade - 10 to 40 Gbps
+,NS9500-U-10 TO 60GBPS,Network Security IPS NS9500 Throughput upgrade - 10 to 60 Gbps
+,NS9500-U-10 TO 100GBPS,Network Security IPS NS9500 Throughput upgrade - 10 to 100 Gbps
+,NS9500-U-20 TO 30GBPS,Network Security IPS NS9500 Throughput upgrade - 20 to 30 Gbps
+,NS9500-U-20 TO 40GBPS,Network Security IPS NS9500 Throughput upgrade - 20 to 40 Gbps
+,NS9500-U-20 TO 60GBPS,Network Security IPS NS9500 Throughput upgrade - 20 to 60 Gbps
+,NS9500-U-20 TO 100GBPS,Network Security IPS NS9500 Throughput upgrade - 20 to 100 Gbps
+,NS9500-U-30 TO 40GBPS,Network Security IPS NS9500 Throughput upgrade - 30 to 40 Gbps
+,NS9500-U-30 TO 60GBPS,Network Security IPS NS9500 Throughput upgrade - 30 to 60 Gbps
+,NS9500-U-30 TO 100GBPS,Network Security IPS NS9500 Throughput upgrade - 30 to 100 Gbps
+,NS9500-U-40 TO 60GBPS,Network Security IPS NS9500 Throughput upgrade - 40 to 60 Gbps
+,NS9500-U-40 TO 100GBPS,Network Security IPS NS9500 Throughput upgrade - 40 to 100 Gbps
+,NS9500-U-60 TO 100GBPS,Network Security IPS NS9500 Throughput upgrade - 60 to 100 Gbps
+,NS9500-FO-U-10 TO 20GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 10 to 20 Gbps
+,NS9500-FO-U-10 TO 30GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 10 to 30 Gbps
+,NS9500-FO-U-10 TO 40GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 10 to 40 Gbps
+,NS9500-FO-U-10 TO 60GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 10 to 60 Gbps
+,NS9500-FO-U-10 TO 100GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 10 to 100 Gbps
+,NS9500-FO-U-20 TO 30GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 20 to 30 Gbps
+,NS9500-FO-U-20 TO 40GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 20 to 40 Gbps
+,NS9500-FO-U-20 TO 60GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 20 to 60 Gbps
+,NS9500-FO-U-20 TO 100GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 20 to 100 Gbps
+,NS9500-FO-U-30 TO 40GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 30 to 40 Gbps
+,NS9500-FO-U-30 TO 60GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 30 to 60 Gbps
+,NS9500-FO-U-30 TO 100GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 30 to 100 Gbps
+,NS9500-FO-U-40 TO 60GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 40 to 60 Gbps
+,NS9500-FO-U-40 TO 100GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 40 to 100 Gbps
+,NS9500-FO-U-60 TO 100GBPS,Network Security IPS NS9500 Failover (HA) Throughput upgrade - 60 to 100 Gbps
+,,Legacy - Network NS7500 Series IPS Perpetual Software Throughput
+,NS7500-3GBPS,IPS NS7500 - 3Gbps Software license (Throughput based entitlement)
+,NS7500-5GBPS,IPS NS7500 - 5Gbps Software license (Throughput based entitlement)
+,NS7500-7.5GBPS,IPS NS7500 - 7.5Gbps Software license (Throughput based entitlement)
+,NS7500-3GBPS FO,IPS NS7500 - 3Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7500-5GBPS FO,IPS NS7500 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7500-7.5GBPS FO,IPS NS7500 - 7.5Gbps Failover (HA) Software license (Throughput based entitlement)
+,,Legacy - Network NS7500 Series IPS Perpetual Software Throughput Upgrade
+,NS7500-U-3 TO 5GBPS,Network Security IPS NS7500 Throughput upgrade - 3 to 5 Gbps
+,NS7500-U-3 TO 7.5GBPS,Network Security IPS NS7500 Throughput upgrade - 3 to 7.5 Gbps
+,NS7500-U-5 TO 7.5GBPS,Network Security IPS NS7500 Throughput upgrade - 5 to 7.5 Gbps
+,NS7500-FO-U-3 TO 5GBPS,Network Security IPS NS7500 Failover (HA) Throughput upgrade - 3 to 5 Gbps
+,NS7500-FO-U-3 TO 7.5GBPS,Network Security IPS NS7500 Failover (HA) Throughput upgrade - 3 to 7.5 Gbps
+,NS7500-FO-U-5 TO 7.5GBPS,Network Security IPS NS7500 Failover (HA) Throughput upgrade - 5 to 7.5 Gbps
+,,Legacy - Next Generation Network IPS Appliances
+,IPS NS9300,Network Security IPS NS9300 Appliance
+,IPS NS9300-FO,Network Security IPS NS9300 Appliance - Failover
+,IPS NS9300-FO-UPG,Network Security IPS NS9300 Appliance - FO to PRD Upgrade
+,IPS NS9200,Network Security IPS NS9200 Appliance
+,IPS NS9200-FO,Network Security IPS NS9200 Appliance - Failover
+,IPS NS9200-FO-UPG,Network Security IPS NS9200 Appliance - FO to PRD Upgrade
+,IPS NS9100,Network Security IPS NS9100 Appliance
+,IPS NS9100-FO,Network Security IPS NS9100 Appliance - Failover
+,IPS NS9100-FO-UPG,Network Security IPS NS9100 Appliance - FO to PRD Upgrade
+,IPS NS7500,Trellix Network Security IPS NS7500 Appliance
+,NS7500-3GBPS-S,Trellix IPS NS7500 - 3Gbps Software license (Throughput based entitlement)
+,NS7500-5GBPS-S,Trellix IPS NS7500 - 5Gbps Software license (Throughput based entitlement)
+,NS7500-7.5GBPS-S,Trellix IPS NS7500 - 7.5Gbps Software license (Throughput based entitlement)
+,NS7500-3GBPS FO-S,Trellix IPS NS7500 - 3Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7500-5GBPS FO-S,Trellix IPS NS7500 - 5Gbps Failover (HA) Software license (Throughput based entitlement)
+,NS7500-7.5GBPS FO-S,Trellix IPS NS7500 - 7.5Gbps Failover (HA) Software license (Throughput based entitlement)
+,IPS NS7500 3GB-SSL,Trellix Network Security IPS NS7500 3Gbps Appliance - Inbound/Outbound SSL
+,IPS NS7500 5GB-SSL,Trellix Network Security IPS NS7500 5Gbps Appliance - Inbound/Outbound SSL
+,IPS NS7500 7.5-SSL,Trellix Network Security IPS NS7500 7.5Gbps Appliance - Inbound/Outbound SSL
+,IPS NS7350,Network Security IPS NS7350 Appliance
+,IPS NS7350-FO,Network Security IPS NS7350 Appliance - Failover
+,IPS NS7350-FO-UPG,Network Security IPS NS7350 Appliance - FO to PRD Upgrade
+,IPS NS7250,Network Security IPS NS7250 Appliance
+,IPS NS7250-FO,Network Security IPS NS7250 Appliance - Failover
+,IPS NS7250-FO-UPG,Network Security IPS NS7250 Appliance - FO to PRD Upgrade
+,IPS NS7150,Network Security IPS NS7150 Appliance
+,IPS NS7150-FO,Network Security IPS NS7150 Appliance - Failover
+,IPS NS7150-FO-UPG,Network Security IPS NS7150 Appliance - FO to PRD Upgrade
+,IPS NS5200,Network Security IPS NS5200 Appliance
+,IPS NS5200-FO,Network Security IPS NS5200 Appliance - Failover
+,IPS NS5200-FO-UPG,Network Security IPS NS5200 Appliance - FO to PRD Upgrade
+,IPS NS5100,Network Security IPS NS5100 Appliance
+,IPS NS5100-FO,Network Security IPS NS5100 Appliance - Failover
+,IPS NS5100-FO-UPG,Network Security IPS NS5100 Appliance - FO to PRD Upgrade
+,IPS NS3500,Network Security IPS NS3500 Appliance
+,NS3500-200/750MBPS,IPS NS3500 - 200/750 Mbps Software license (Throughput based entitlement)
+,IPS NS3200-B,Trellix Network Security IPS NS3200-B Appliance
+,NS3200-200/750MBPS-S,Trellix IPS NS3200-B 200/750Mbps Software license (Throughput based entitlement)
+,NS3200-200/750MBPS FO-S,Trellix IPS NS3200-B 200/750Mbps Software license Failover (HA) (Throughput based entitlement)
+,IPS NS3200,Network Security IPS NS3200 Appliance
+,IPS NS3200-FO,Network Security IPS NS3200 Appliance - Failover
+,IPS NS3200-FO-UPG,Network Security IPS NS3200 Appliance - FO to PRD Upgrade
+,IPS NS3100,Network Security IPS NS3100 Appliance
+,IPS NS3100-FO,Network Security IPS NS3100 Appliance - Failover
+,IPS NS3100-FO-UPG,Network Security IPS NS3100 Appliance - FO to PRD Upgrade
+,,Legacy - Network IPS Fail-Open Kits/Modules
+,FO-MODULE-10-LR,Network Security 10GigE 10GBASE-LR SM Active Fail-Open Module
+,FO-MODULE-10-SR,Network Security 10GigE 10GBASE-SR MM Active Fail-Open Module
+,FO-KIT-10-LX,Trellix Network Security 10/1 GigE 10GBASE-LR/1000BASE-LX SM Passive Fail-Open Kit
+,FO-KIT-10-SX-62,Trellix Network Security 10/1 GigE 10GBASE-SR/1000BASE-SX 62.5Âµm MM Passive Fail-Open Kit
+,FO-KIT-10-SX-50,Trellix Network Security 10/1 GigE 10GBASE-SR/1000BASE-SX 50Âµm MM Passive Fail-Open Kit
+,FO-KIT-1-T,Trellix Network Security 1GigE 1000BASE-T Passive Fail-Open Kit
+,,Legacy - Network IPS Power Supplies
+,POWER-SUPPLY-DC-NS-9X00,Network Security 1600W DC Power Supply for NS9x00
+,PWR-SPLY-DC-NS-7K-5K-NS95,Trellix Network Security 650W DC Power Supply for NS7xx0 and NS5x00 and NS9500
+,,Legacy - Advanced Threat Defense
+,ATD-6100-S,Advanced Threat Defense 6100 - Subscription
+,ATD-6100,Advanced Threat Defense 6100
+,ATD-3200,Trellix Intelligent Sandbox 3200
+,ATD-6200,Trellix Intelligent Sandbox 6200
+,ATD-3100-S,Advanced Threat Defense 3100 - Subscription
+,ATD-3100,Advanced Threat Defense 3100
+,,Legacy - Advanced Threat Defense (IVX Transitioned)
+,IVX3100,Trellix Intelligent Sandbox 3100 (IVX Software)
+,IVX3100-DTI,Trellix Intelligent Sandbox 3100 (IVX Software) - Dynamic Threat Intelligence
+,EX3100,Trellix Email Security Server on Trellix Intelligent Sandbox 3100
+,IVX3200,Trellix Intelligent Sandbox 3200 (IVX Software)
+,IVX3200-DTI,Trellix Intelligent Sandbox 3200 (IVX Software) - Dynamic Threat Intelligence
+,EX3200,Trellix Email Security Server on Trellix Intelligent Sandbox 3200
+,IVX6100,Trellix Intelligent Sandbox 6100 (IVX Software)
+,IVX6100-DTI,Trellix Intelligent Sandbox 6100 (IVX Software) - Dynamic Threat Intelligence
+,EX6100,Trellix Email Security Server on Trellix Intelligent Sandbox 6100
+,IVX6200,Trellix Intelligent Sandbox 6200 (IVX Software)
+,IVX6200-DTI,Trellix Intelligent Sandbox 6200 (IVX Software) - Dynamic Threat Intelligence
+,EX6200,Trellix Email Security Server on Trellix Intelligent Sandbox 6200
+,EM-IVX-VA-T,Email Security Sensor Virtual(T) - IVX
+,EM-IVX-VA-DTI-T,Email Security Sensor Virtual(T) - IVX - Dynamic Threat Intelligence(T)
+,,Legacy - Trellix Intelligent Sandbox Virtual Appliances
+,ATD-VM1008-EP,Trellix Virtual Intelligent Sandbox Appliance - Per Endpoint
+,ATD-VM1008,Trellix Virtual Intelligent Sandbox Appliance VM1008
+,,Legacy - SIEM Combination Appliances
+,ESM-ELM-ERC-6075,"Trellix Enterprise Security Manager, Log Manager and Event Receiver Combination 6075"
+,ESM-ELM-ERC-6050,"Enterprise Security, Enterprise Log Manager and Event Receiver 6050 Combination"
+,ESM-ELM-ERC-5775,"Trellix Enterprise Security Manager, Log Manager and Event Receiver Combination 5775"
+,ESM-ELM-ERC-5700,"Enterprise Security, Enterprise Log Manager and Event Receiver 5700 Combination"
+,,Legacy - Enterprise Security Manager Appliances
+,ETM-6075,Trellix Enterprise Security Manager 6075
+,ETM-X9-N,Trellix Enterprise Security Manager X9-N
+,ETM-6050,Enterprise Security Manager 6050
+,ETM-5775,Trellix Enterprise Security Manager 5775
+,ETM-5700,Enterprise Security Manager 5700
+,ETM-X7-N,Trellix Enterprise Security Manager X7-N
+,ETM-X7,Enterprise Security Manager X7
+,ETM-X9,Enterprise Security Manager X9
+,ETM-X11-N,Trellix Enterprise Security Manager X11-N
+,ETM-X11,Enterprise Security Manager X11
+,,Legacy - Enterprise Log Manager Appliances
+,ELM-SSD-6,Trellix Enterprise Log Manager SSD-6
+,ELM-6075,Trellix Enterprise Log Manager 6075
+,ELM-6050,Enterprise Log Manager 6050
+,ELM-5775,Trellix Enterprise Log Manager 5775
+,ELM-5700,Enterprise Log Manager 5700
+,ELM-SSD-5,Enterprise Log Manager SSD5
+,,Legacy - Enterprise Log Search Appliances
+,ELS-SSD-6,Trellix Enterprise Log Search SSD6
+,ELS-6075,Trellix Enterprise Log Search 6075
+,ELS-6050,Enterprise Log Search 6050
+,ELS-5775,Trellix Enterprise Log Search 5775
+,ELS-5700,Enterprise Log Search 5700
+,ELS-SSD-5,Enterprise Log Search SSD Gen 5
+,,Legacy - Event Receiver Appliances
+,ERC-SSD-6,Trellix Event Receiver SSD-6
+,ERC-3575,Trellix Event Receiver 3575
+,ERC-4700,Event Receiver 4700
+,ERC-3500,Event Receiver 3500
+,ERC-2675,Trellix Event Receiver 2675
+,ERC-2650,Event Receiver 2650
+,ERC-1275,Trellix Event Receiver 1275
+,ERC-1270,Event Receiver 1270
+,,Legacy - Advanced Correlation Engine Appliances
+,ACE-SSD-6,Trellix Advanced Correlation Engine SSD-6
+,ACE-4700,Advanced Correlation Engine 4700
+,ACE-2675,Trellix Advanced Correlation Engine 2675
+,ACE-2650,Advanced Correlation Engine 2650
+,,Legacy - Application Data Monitor Appliances
+,APM-3575,Trellix Application Data Monitor 3575
+,APM-3500,Application Data Monitor 3500
+,APM-1275,Trellix Application Data Monitor 1275
+,APM-1270,Application Data Monitor 1270
+,,Legacy - Global Threat Intelligence Service
+,ESM-ELM-ERC-6075-GTI,Trellix Global Threat Intelligence (Module for ESM) - Combination 6075 Appliance
+,ETM-6075-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM-6075 Appliance
+,ETM-X9-N-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM X9-N Appliance
+,ESM-ELM-ERC-6050-GTI,Global Threat Intelligence (Module for  ESM) - Combination 6050 Appliance
+,ESM-ELM-ERC-5775-GTI,Trellix Global Threat Intelligence (Module for ESM) - Combination 5775 Appliance
+,ESM-ELM-ERC-5700-GTI,Global Threat Intelligence (Module for  ESM) - Combination 5700 Appliance
+,ETM-6050-GTI,Global Threat Intelligence (Module for  ESM) - ETM-6050 Appliance
+,ETM-5775-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM-5775 Appliance
+,ETM-5700-GTI,Global Threat Intelligence (Module for  ESM) - ETM-5700 Appliance
+,ETM-X7-GTI,Global Threat Intelligence (Module for  ESM) - ETM X7 Appliance
+,ETM-X7-N-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM X7-N Appliance
+,ETM-X9-GTI,Global Threat Intelligence (Module for  ESM) - ETM-X9 Appliance
+,ETM-X11-GTI,Global Threat Intelligence (Module for  ESM) - ETM-X11 Appliance
+,ETM-X11-N-GTI,Trellix Global Threat Intelligence (Module for ESM) - ETM X11-N Appliance
+,,Legacy - Classic Email Virtual Appliances
+,7700EX-BM-VA-T,7700 EX BareMetal Virtual Appliance(T)
+,7700EX-BM-VA-DTI-T,7700 EX BareMetal Virtual Appliance - Dynamic Threat Intelligence(T)
+,5500EXS-VA-T,5500 EX Virtual Sensor Appliance(T)
+,5500EXS-VA-DTI-T,5500 EX Virtual Sensor Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Classic Email Hardware Appliances
+,3500EX-SW-T,3500 EX Appliance Software(T)
+,3500EX-DTI-T,3500 EX Appliance - Dynamic Threat Intelligence(T)
+,3600EX-T,3600 EX Appliance(T)
+,3600EX-SW-T,3600 EX Appliance Software(T)
+,3600EX-DTI-T,3600 EX Appliance - Dynamic Threat Intelligence(T)
+,5500EX-SW-T,5500 EX Appliance Software(T)
+,5500EX-DTI-T,5500 EX Appliance - Dynamic Threat Intelligence(T)
+,5600EX-T,5600 EX Appliance(T)
+,5600EX-SW-T,5600 EX Appliance Software(T)
+,5600EX-DTI-T,5600 EX Appliance - Dynamic Threat Intelligence(T)
+,8500EX-SW-T,8500 EX Appliance Software(T)
+,8500EX-DTI-T,8500 EX Appliance - Dynamic Threat Intelligence(T)
+,8600EX-T,8600 EX Appliance(T)
+,8600EX-SW-T,8600 EX Appliance Software(T)
+,8600EX-DTI-T,8600 EX Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Email Software Options
+,AURL-T,Attach/URL engine for Email Security(T)
+,,Legacy - Classic Endpoint Virtual Appliances
+,2502HX-VA-T,2502 HX Virtual Appliance(T)
+,2500HX-DMZ-VA-T,2500 HX DMZ Virtual Appliance(T)
+,4500HX-DMZ-VA-T,4500 HX DMZ Virtual Appliance(T)
+,4502HX-VA-T,4502 HX Virtual Appliance(T)
+,4600HX-DMZ-VA-T,4600 HX DMZ Virtual Appliance(T)
+,4600HX-VA-T,4600 HX Virtual Appliance(T)
+,,Legacy - Classic Endpoint Hardware Appliances
+,4502HX-SW-T,4502 HX Appliance Software(T)
+,4502HX-DMZ-SW-T,4502 HX DMZ Appliance Software(T)
+,4600HX-T,4600 HX Appliance(T)
+,4600HX-SW-T,4600 HX Appliance Software(T)
+,4600HX-DMZ-T,4600 HX DMZ Appliance(T)
+,4600HX-DMZ-SW-T,4600 HX DMZ Appliance Software(T)
+,,Legacy - Hermes NDR Subscriptions
+,NDR-T,Network Detection and Response(T)
+,,Legacy - Hermes Network NX Subscriptions
+,NWUNX-T,Network Security NX Edition(T)
+,NWUNS-T,Network Security NX Edition (SMB)(T)
+,,Legacy - Classic Network NX Virtual Appliances
+,12550VX-BM-VA-T,12550 VX BareMetal Virtual Appliance(T)
+,12550VX-BM-VA-DTI-T,12550 VX BareMetal Virtual Appliance - Dynamic Threat Intelligence(T)
+,1500NXS-VA-T,1500 NXS Virtual Sensor (50 Mbps)(T)
+,1500NXS-VA-DTI-T,1500 NXS Virtual Sensor (50 Mbps) - Dynamic Threat Intelligence(T)
+,1500VXSC-DTI-T,1500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(T)
+,2500NXS-VA-T,2500 NXS Virtual Sensor (100 Mbps)(T)
+,2500NXS-VA-DTI-T,2500 NXS Virtual Sensor (100 Mbps) - Dynamic Threat Intelligence(T)
+,2500VXSC-DTI-T,2500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(T)
+,2550NXS-VA-T,2550 NXS Virtual Sensor (250 Mbps)(T)
+,2550NXS-VA-DTI-T,2550 NXS Virtual Sensor (250 Mbps) - Dynamic Threat Intelligence(T)
+,2550VXSC-DTI-T,2550 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(T)
+,4500NXS-VA-T,4500 NXS Virtual Sensor (500 Mbps)(T)
+,4500NXS-VA-DTI-T,4500 NXS Virtual Sensor (500 Mbps) - Dynamic Threat Intelligence(T)
+,4500VXSC-DTI-T,4500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(T)
+,6500NXS-VA-T,6500 NXS Virtual Sensor (1000 Mbps)(T)
+,6500NXS-VA-DTI-T,6500 NXS Virtual Sensor (1000 Mbps) - Dynamic Threat Intelligence(T)
+,6500VXSC-DTI-T,6500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(T)
+,7500NXS-VA-T,7500 NXS Virtual Sensor (2000 Mbps)(T)
+,7500NXS-VA-DTI-T,7500 NXS Virtual Sensor (2000 Mbps) - Dynamic Threat Intelligence(T)
+,8500NXS-VA-T,8500 NXS Virtual Sensor (5000 Mbps)(T)
+,8500NXS-VA-DTI-T,8500 NXS Virtual Sensor (5000 Mbps) - Dynamic Threat Intelligence(T)
+,,Legacy - Classic Network NX Hardware Appliances
+,1500NXS-SW-T,1500 NXS Sensor Appliance (50Mbps) Software(T)
+,1500NXS-DTI-T,1500 NXS Sensor Appliance (50Mbps) - Dynamic Threat Intelligence(T)
+,1500VXSCH-DTI-T,1500 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,2500NX1-SW-T,2500 NX1 Appliance (50Mbps) Software(T)
+,2500NX1-DTI-T,2500 NX1 Appliance (50Mbps) - Dynamic Threat Intelligence(T)
+,2500VXC1-DTI-T,2500 MVX Cloud (50 Mbps) for Appliance - Dynamic Threat Intelligence(T)
+,2500NX2-SW-T,2500 NX2 Appliance (100Mbps) Software(T)
+,2500NX2-DTI-T,2500 NX2 Appliance (100Mbps) - Dynamic Threat Intelligence(T)
+,2500VXC2-DTI-T,2500 MVX Cloud (100 Mbps) for Appliance - Dynamic Threat Intelligence(T)
+,2550NX-SW-T,2550 NX Appliance Software(T)
+,2550NX-DTI-T,2550 NX Appliance - Dynamic Threat Intelligence(T)
+,2550VXC-DTI-T,2550 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,2600NX-T,2600 NX Appliance(T)
+,2600NX-SW-T,2600 NX Appliance Software(T)
+,2600NX-DTI-T,2600 NX Appliance - Dynamic Threat Intelligence(T)
+,3500NX-SW-T,3500 NX Appliance Software(T)
+,3500NX-DTI-T,3500 NX Appliance - Dynamic Threat Intelligence(T)
+,3500VXC-DTI-T,3500 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,3600NX-T,3600 NX Appliance(T)
+,3600NX-SW-T,3600 NX Appliance Software(T)
+,3600NX-DTI-T,3600 NX Appliance - Dynamic Threat Intelligence(T)
+,4500NX-SW-T,4500 NX Appliance Software(T)
+,4500NX-DTI-T,4500 NX Appliance - Dynamic Threat Intelligence(T)
+,4500VXC-DTI-T,4500 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,4600NX-T,4600 NX Appliance(T)
+,4600NX-SW-T,4600 NX Appliance Software(T)
+,4600NX-DTI-T,4600 NX Appliance - Dynamic Threat Intelligence(T)
+,5500NX-SW-T,5500 NX Appliance Software(T)
+,5500NX-DTI-T,5500 NX Appliance - Dynamic Threat Intelligence(T)
+,5500VXC-DTI-T,5500 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,5600NX-T,5600 NX Appliance(T)
+,5600NX-SW-T,5600 NX Appliance Software(T)
+,5600NX-DTI-T,5600 NX Appliance - Dynamic Threat Intelligence(T)
+,6500NX-SW-T,6500 NX Appliance Software(T)
+,6500NX-DTI-T,6500 NX Appliance - Dynamic Threat Intelligence(T)
+,6500VXC-DTI-T,6500 MVX Cloud for Appliance - Dynamic Threat Intelligence(T)
+,6600NX-T,6600 NX Appliance(T)
+,6600NX-SW-T,6600 NX Appliance Software(T)
+,6600NX-DTI-T,6600 NX Appliance - Dynamic Threat Intelligence(T)
+,8600NX-T,8600 NX Appliance(T)
+,8600NX-SW-T,8600 NX Appliance Software(T)
+,8600NX-DTI-T,8600 NX Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Classic IVX Enterprise (Formerly MVX Compute) Hardware Appliances
+,5500MVX-SW-T,5500 MVX Compute Appliance Software(T)
+,5500MVX-DTI-T,5500 MVX Compute - Dynamic Threat Intelligence(T)
+,12550MVX-SW-T,12550 MVX Compute Appliance Software(T)
+,12550MVX-DTI-T,12550 MVX Compute - Dynamic Threat Intelligence(T)
+,5600MVX-T,5600 IVX Enterprise (Formerly MVX Compute) Appliance(T)
+,5600MVX-SW-T,5600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(T)
+,5600MVX-DTI-T,5600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(T)
+,12600MVX-T,12600 IVX Enterprise  (Formerly MVX Compute) Appliance(T)
+,12600MVX-SW-T,12600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(T)
+,12600MVX-DTI-T,12600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Hermes VX ISO Virtual Appliance Deployment Options
+,NWVXISO-1G-VA-S-T,Network Security VXISO-1G - Virtual Appliance Subscription(T)
+,NWVXISO-1G-VA-T,Network Security VXISO-1G - Virtual Appliance(T)
+,NWVXISO-5G-VA-S-T,Network Security VXISO-5G - Virtual Appliance Subscription(T)
+,NWVXISO-5G-VA-T,Network Security VXISO-5G - Virtual Appliance(T)
+,NWVXISO-10G-VA-S-T,Network Security VXISO-10G - Virtual Appliance Subscription(T)
+,NWVXISO-10G-VA-T,Network Security VXISO-10G - Virtual Appliance(T)
+,,Legacy - Classic VX ISO Virtual Appliances
+,VXISO-1G-T,VX Software Image 1G(T)
+,VXISO-1G-DTI-T,VX Software Image 1G - Dynamic Threat Intelligence(T)
+,VXISO-5G-T,VX Software Image 5G(T)
+,VXISO-5G-DTI-T,VX Software Image 5G - Dynamic Threat Intelligence(T)
+,VXISO-10G-T,VX Software Image 10G(T)
+,VXISO-10G-DTI-T,VX Software Image 10G - Dynamic Threat Intelligence(T)
+,,Legacy - Classic IVX Investigator/Malware Analysis AX Hardware Appliances
+,5550AX-SW-T,5550 AX Appliance Software(T)
+,5550AX-DTI-T,5550 AX Appliance - Dynamic Threat Intelligence(T)
+,5600AX-T,5600 IVX Investigator (Formerly AX) Appliance(T)
+,5600AX-SW-T,5600 IVX Investigator (Formerly AX) Appliance Software(T)
+,5600AX-DTI-T,5600 IVX Investigator (Formerly AX) Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Classic Forensics IA Hardware Appliances
+,1000DIA-SW-T,1000D IA Appliance Software(T)
+,2100IA-HN48-SW-T,2100 HN48 IA Appliance Software(T)
+,,Legacy - Central Management Hardware Appliance
+,4500CM-SW-T,4500 CM Appliance Software(T)
+,4500CM-SW-DTI-T,4500 CM Appliance Software - Dynamic Threat Intelligence(T)
+,7500CM-SW-T,7500 CM Appliance Software(T)
+,7500CM-SW-DTI-T,7500 CM Appliance Software - Dynamic Threat Intelligence(T)
+,9500CM-SW-T,9500 CM Appliance Software(T)
+,9500CM-SW-DTI-T,9500 CM Appliance Software - Dynamic Threat Intelligence(T)
+,,Legacy - Central Management Cloud
+,CM2500-CLOUD-AU-T,CM 2500 Cloud (Australia Data Center)(T)
+,CM2500-CLOUD-DE-T,CM 2500 Cloud (Germany Data Center)(T)
+,CM2500-CLOUD-OR-T,CM 2500 Cloud (Oregon Data Center)(T)
+,CM2500-CLOUD-SG-T,CM 2500 Cloud (Singapore Data Center)(T)
+,CM2500-CLOUD-T,CM 2500 Cloud(T)
+,CM2500-CLOUD-DTI-AU-T,CM 2500 Cloud - Dynamic Threat Intelligence (Australia Data Center(T)
+,CM2500-CLOUD-DTI-DE-T,CM 2500 Cloud - Dynamic Threat Intelligence (Germany Data Center(T)
+,CM2500-CLOUD-DTI-OR-T,CM 2500 Cloud - Dynamic Threat Intelligence (Oregon Data Center(T)
+,CM2500-CLOUD-DTI-SG-T,CM 2500 Cloud - Dynamic Threat Intelligence Singapore Data Center(T)
+,CM2500-CLOUD-DTI-T,CM 2500 Cloud - Dynamic Threat Intelligence(T)
+,,Legacy - Classic Forensics PX Virtual Appliances
+,PX-VA-T,PX Virtual Appliance(T)
+,,Legacy - Classic Forensics PX Hardware Appliances
+,1004SPX-SW-T,1004 S PX Appliance Software(T)
+,2060PX-ESS96-SW-T,2060 ESS96 PX  Appliance Software(T)
+,2060PX-ESS120-SW-T,2060 ESS120 PX  Appliance Software(T)
+,2060PX-EXT20-SW-T,2060 EXT 20 PX Appliance Software(T)
+,4000SX-440PX-SW-T,4000 SX 440 PX  Appliance Software(T)
+,5600PX-T,5600 PX Appliance(T)
+,5600PX-SW-T,5600 PX Appliance Software(T)
+,7600PX-T,7600 PX Appliance(T)
+,7600PX-SW-T,7600 PX Appliance Software(T)
+,7620PX-T,7620 PX Appliance(T)
+,7620PX-SW-T,7620 PX Appliance Software(T)
+,,Legacy - Classic Forensics Storage Hardware Appliances
+,5000SX-T,5000 SX Appliance(T)
+,5000SX-SW-T,5000 SX Appliance Software(T)
+,,Legacy - Classic File Security Virtual Appliances
+,2500FX-VA-T,2500 FX Virtual Appliance(T)
+,2500FX-VA-DTI-T,2500 FX Virtual Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - Classic File Security Hardware Appliances
+,6500FX-SW-T,6500 FX Appliance Software(T)
+,6500FX-DTI-T,6500 FX Appliance - Dynamic Threat Intelligence(T)
+,6600FX-T,6600 FX Appliance(T)
+,6600FX-SW-T,6600 FX Appliance Software(T)
+,6600FX-DTI-T,6600 FX Appliance - Dynamic Threat Intelligence(T)
+,,Legacy - APG Intelligence as a Service (INTAAS)
+,APG-THREATRES,APG Advanced Threat Research Unit Prepaid
+,APGTHREATRES-LG,APG Advanced Threat Research Unit Large
+,APGTHREATRES-MD,APG Advanced Threat Research Unit Med
+,APG-THREAT-TA,APG External Target Assess Prepaid
+,APG-QTE,APG Custom Quote Consulting
+,APG-QTE-PP,APG Custom Quote Consulting Prepaid
+,APG-ATLAS,ATLAS - 1 year Upfront Billing
+,,Legacy - Consulting Services:  APG Private GTI (pGTI)
+,ARTGIE-LRG,GTI Private Cloud Large Complex Site
+,ARTGIE-LTE,GTI Private Cloud Lite Complex Site
+,ARTGIE-MASTER,GTI Private Cloud Master Repository
+,ARTGIE-MED,GTI Private Cloud Medium Multi-Site
+,ARTGIE-SML,GTI Private Cloud Small Single Site
+,,
+,Trellix Legacy (former FireEye),
+,,Regional Data Center
+,RDC-US,Data Center - US (ETP)
+,RDC-US-NVIRGINIA,Data Center - US East (N.Virginia)
+,RDC-US-OREGON,Data Center - US West (Oregon)
+,RDC-US-OHIO,Data Center - US East (Ohio)
+,RDC-GOVCLOUD,Data Center - GovCloud
+,RDC-CA-CENTRAL,Data Center - Canada (Central)
+,RDC-BR,Data Center - South America (Sao Paulo)
+,RDC-EU,Data Center - EU (ETP)
+,RDC-IE,Data Center - EU (Ireland)
+,RDC-DE,Data Center - EU (Frankfurt)
+,RDC-UK,Data Center - UK (London)
+,RDC-IT,Data Center - Italy (Milan)
+,RDC-FR,Data Center - France (Paris)
+,RDC-SE,Data Center - Sweden (Stockholm)
+,RDC-BH,Data Center - Middle East (Bahrain)
+,RDC-ZA,Data Center - South Africa (Cape Town)
+,RDC-JP,Data Center - Asia Pacific (Tokyo)
+,RDC-SG,Data Center - Asia Pacific (Singapore)
+,RDC-AU,Data Center - Asia Pacific (Sydney)
+,RDC-IN,Data Center - Asia Pacific (Mumbai)
+,RDC-HK,Data Center - Asia Pacific (Hong Kong)
+,RDC-SKR,Data Center - Asia Pacific (Seoul)
+,,Hermes Email Subscriptions
+,EMUSE,Email Security Server Edition(F)
+,EMUCL,Email Security Cloud Edition(F)
+,EMUCLU,Email Security Cloud Edition - Upgrade(F)
+,EMUCA,Email Security Cloud AntiVirus/AntiSpam Edition(F)
+,EMUCAU,Email Security Cloud AntiVirus/AntiSpam Edition - Upgrade(F)
+,,Hermes Email Virtual Appliance Deployment Options
+,EM-VA,Email Security Sensor Virtual(F)
+,EM7700-BM-VA,Email Security 7700 BareMetal Virtual Appliance(F)
+,,Hermes Email Hardware Appliance Deployment Options
+,EM3600,EM 3600 Appliance(F)
+,EM5600,EM 5600 Appliance(F)
+,EM8600,EM 8600 Appliance(F)
+,,Hermes File Protect Subscriptions
+,NWEFX,File Security (Enterprise)(F)
+,,Hermes On-Prem File Protect Hardware Deployment Options
+,NWFX6600,File Protect 6600 Appliance(F)
+,,IVX File Share Connector Virtual Appliance Deployment Options
+,NWFX-VA,IVX File Share Connector(Formerly FX-VA)(F)
+,,IVX Enterprise On-Prem - Hardware Appliances
+,5600MVX,5600 IVX Enterprise (Formerly MVX Compute) Appliance(F)
+,5600MVX-SW,5600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F)
+,5600MVX-DTI,5600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F)
+,12600MVX,12600 IVX Enterprise  (Formerly MVX Compute) Appliance(F)
+,12600MVX-SW,12600 IVX Enterprise  (Formerly MVX Compute) Appliance Software(F)
+,12600MVX-DTI,12600 IVX Enterprise  (Formerly MVX Compute) Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Hermes IVX Enterprise Cloud Subscriptions  (Formerly DOD)
+,DOD,IVX Enterprise Cloud (Formely Detection on Demand)(F)
+,,Hermes IVX Investigator Subscriptions (Formerly AX)
+,NFEAX,IVX Investigator (Formerly AX)(F)
+,,Hermes IVX Investigator Hardware Appliance Deployment Options (Formerly AX)
+,NFAX5600,IVX Investigator 5600 Appliance  (Formerly AX)(F)
+,,Helix (SaaS)
+,HLXE,Helix Enterprise Edition(F)
+,HLXS16,Helix Search 16(F)
+,HLXS30,Helix Search 30(F)
+,HLXS60,Helix Search 60(F)
+,HLXS90,Helix Search 90(F)
+,XDR-FS,XDR Federated Search across Cloud Instances(F)
+,,Helix (On-Prem)
+,TAR,Trellix Automated Response (TAuR) or Automated Response(F)
+,NW-EC-VA,Network Evidence Collector - Virtual Appliance Add-on for HLXE Helix(F)
+,NW-EC-VA-DTI,Network Evidence Collector - Virtual Appliance for HLXE Helix - DTI(F)
+,,Hermes Endpoint Subscriptions
+,EPEES,Endpoint Security Essentials Edition (Enterprise)(F)
+,EPUES,Endpoint Security Essentials Edition(F)
+,EPEPW,Endpoint Security Power Edition (Enterprise)(F)
+,EPEPWU,Endpoint Security Power Edition (Enterprise) - UPGRADE(F)
+,EPUPW,Endpoint Security Power Edition(F)
+,EPUPWU,Endpoint Security Power Edition - UPGRADE(F)
+,,Hermes Endpoint Virtual Appliance Deployment Options
+,EP-VA,Endpoint Security Virtual(F)
+,EP-DMZ-VA,Endpoint Security DMZ Virtual(F)
+,,Hermes Endpoint Hardware Appliance Deployment Options
+,EP4600,EP 4600 Appliance(F)
+,EP4600-DMZ,EP 4600 DMZ Appliance(F)
+,,Endpoint Cloud Deploy Options
+,HXCL,HX Cloud Hosting Endpoint - Large (F)
+,HXCM,HX Cloud Hosting Endpoint - Medium(F)
+,,Hermes NDR Subscriptions
+,NDR,Network Detection and Response(F)
+,,Hermes Network NX Subscriptions
+,NWENX,Network Security NX Edition (Enterprise)(F)
+,,Hermes Network NX Virtual Appliance Deployment Options
+,NW-VA,Network Security Sensor - Virtual Appliance(F)
+,VX12550-BM-VA,Network Security 12550 BareMetal - Virtual Appliance(F)
+,NSNW-EC-VA,Network Evidence Collector - Virtual Appliance for Network Security(F)
+,,Hermes On-Prem IVX Enterprise Hardware Appliance Deployment Options
+,VX5600,IVX 5600 Enterprise (Formerly SmartGrid) Appliance(F)
+,VX12600,IVX 12600 Enterprise (Formerly SmartGrid) Appliance(F)
+,,Hermes Network NX Hardware Appliance Deployment Options
+,NW2600,NW 2600 Appliance(F)
+,NW3600,NW 3600 Appliance(F)
+,NW4600,NW 4600 Appliance(F)
+,NW5600,NW 5600 Appliance(F)
+,NW6600,NW 6600 Appliance(F)
+,NW8600,NW 8600 Appliance(F)
+,,Hermes Forensics IA PX Subscrtiptions
+,NFEIAPX,Forensics(F)
+,,Hermes Forensics IA Virtual Appliance Deployment Options
+,NFIA-VA,Network Forensics Security IA - Virtual Appliance(F)
+,,Hermes Forensics IA Hardware Appliance Deployment Options
+,NFIA2600,NFIA 2600 Appliance(F)
+,,Hermes Forensics PX Virtual Appliance Deployment Options
+,NFPX-VA,Network Forensics Security PX - Virtual Appliance(F)
+,,Hermes Forensics PX Hardware Appliance Deployment Options
+,NFPX5600,NFPX 5600 Appliance(F)
+,NFPX7600,NFPX 7600 Appliance(F)
+,NFPX7620,NFPX 7620 Appliance(F)
+,,Hermes Forensics Storage SX Subscriptions
+,NFE5000SX,Network Forensics Storage 704TB(F)
+,,Hermes Forensics Storage Hardware Appliance Deployment Options
+,NFSX5000,NFSX 5000 Appliance(F)
+,,Hermes Central Management Virtual Appliance Deployment Options
+,CM-VA-S,Central Management - Virtual Appliance Subscription(F)
+,CM-VA,Central Management - Virtual Appliance(F)
+,,Central Management  Virtual Appliances
+,2500CM-VA,2500 CM Virtual Appliance(F)
+,2500CM-VA-DTI,2500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+,4500CM-VA,4500 CM Virtual Appliance(F)
+,4500CM-VA-DTI,4500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+,7500CM-VA,7500 CM Virtual Appliance(F)
+,7500CM-VA-DTI,7500 CM Virtual Appliance - Dynamic Threat Intelligence(F)
+,,Central Management Hardware Appliance
+,4600CM,4600 CM Appliance(F)
+,4600CM-SW,4600 CM Appliance Software(F)
+,4600CM-SW-DTI,4600 CM Appliance Software - Dynamic Threat Intelligence(F)
+,7600CM,7600 CM Appliance(F)
+,7600CM-SW,7600 CM Appliance Software(F)
+,7600CM-SW-DTI,7600 CM Appliance Software - Dynamic Threat Intelligence(F)
+,9600CM,9600 CM Appliance(F)
+,9600CM-SW,9600 CM Appliance Software(F)
+,9600CM-SW-DTI,9600 CM Appliance Software - Dynamic Threat Intelligence(F)
+,,Legacy - Helix
+,FSO,Security Orchestration(F)
+,,Legacy - Classic Email Virtual Appliances
+,7700EX-BM-VA,7700 EX BareMetal Virtual Appliance(F)
+,7700EX-BM-VA-DTI,7700 EX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F)
+,5500EXS-VA,5500 EX Virtual Sensor Appliance(F)
+,5500EXS-VA-DTI,5500 EX Virtual Sensor Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Classic Email Hardware Appliances
+,3500EX-SW,3500 EX Appliance Software(F)
+,3500EX-DTI,3500 EX Appliance - Dynamic Threat Intelligence(F)
+,3600EX,3600 EX Appliance(F)
+,3600EX-SW,3600 EX Appliance Software(F)
+,3600EX-DTI,3600 EX Appliance - Dynamic Threat Intelligence(F)
+,5500EX-SW,5500 EX Appliance Software(F)
+,5500EX-DTI,5500 EX Appliance - Dynamic Threat Intelligence(F)
+,5600EX,5600 EX Appliance(F)
+,5600EX-SW,5600 EX Appliance Software(F)
+,5600EX-DTI,5600 EX Appliance - Dynamic Threat Intelligence(F)
+,8500EX-SW,8500 EX Appliance Software(F)
+,8500EX-DTI,8500 EX Appliance - Dynamic Threat Intelligence(F)
+,8600EX,8600 EX Appliance(F)
+,8600EX-SW,8600 EX Appliance Software(F)
+,8600EX-DTI,8600 EX Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Email Software Options
+,AURL,Attach/URL engine for Email Security(F)
+,,Legacy - Classic Endpoint Virtual Appliances
+,2502HX-VA,2502 HX Virtual Appliance(F)
+,2500HX-DMZ-VA,2500 HX DMZ Virtual Appliance(F)
+,4500HX-DMZ-VA,4500 HX DMZ Virtual Appliance(F)
+,4502HX-VA,4502 HX Virtual Appliance(F)
+,4600HX-DMZ-VA,4600 HX DMZ Virtual Appliance(F)
+,4600HX-VA,4600 HX Virtual Appliance(F)
+,,Legacy - Classic Endpoint Hardware Appliances
+,4502HX-SW,4502 HX Appliance Software(F)
+,4502HX-DMZ-SW,4502 HX DMZ Appliance Software(F)
+,4600HX,4600 HX Appliance(F)
+,4600HX-SW,4600 HX Appliance Software(F)
+,4600HX-DMZ,4600 HX DMZ Appliance(F)
+,4600HX-DMZ-SW,4600 HX DMZ Appliance Software(F)
+,,Legacy - Hermes Network NX Subscriptions
+,NWUNX,Network Security NX Edition(F)
+,NWUNS,Network Security NX Edition (SMB)(F)
+,,Legacy - Classic Network NX Virtual Appliances
+,12550VX-BM-VA,12550 VX BareMetal Virtual Appliance(F)
+,12550VX-BM-VA-DTI,12550 VX BareMetal Virtual Appliance - Dynamic Threat Intelligence(F)
+,1500NXS-VA,1500 NXS Virtual Sensor (50 Mbps)(F)
+,1500NXS-VA-DTI,1500 NXS Virtual Sensor (50 Mbps) - Dynamic Threat Intelligence(F)
+,1500VXSC-DTI,1500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,2500NXS-VA,2500 NXS Virtual Sensor (100 Mbps)(F)
+,2500NXS-VA-DTI,2500 NXS Virtual Sensor (100 Mbps) - Dynamic Threat Intelligence(F)
+,2500VXSC-DTI,2500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,2550NXS-VA,2550 NXS Virtual Sensor (250 Mbps)(F)
+,2550NXS-VA-DTI,2550 NXS Virtual Sensor (250 Mbps) - Dynamic Threat Intelligence(F)
+,2550VXSC-DTI,2550 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,4500NXS-VA,4500 NXS Virtual Sensor (500 Mbps)(F)
+,4500NXS-VA-DTI,4500 NXS Virtual Sensor (500 Mbps) - Dynamic Threat Intelligence(F)
+,4500VXSC-DTI,4500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,6500NXS-VA,6500 NXS Virtual Sensor (1000 Mbps)(F)
+,6500NXS-VA-DTI,6500 NXS Virtual Sensor (1000 Mbps) - Dynamic Threat Intelligence(F)
+,6500VXSC-DTI,6500 MVX Cloud for Virtual Sensor - Dynamic Threat Intelligence(F)
+,7500NXS-VA,7500 NXS Virtual Sensor (2000 Mbps)(F)
+,7500NXS-VA-DTI,7500 NXS Virtual Sensor (2000 Mbps) - Dynamic Threat Intelligence(F)
+,8500NXS-VA,8500 NXS Virtual Sensor (5000 Mbps)(F)
+,8500NXS-VA-DTI,8500 NXS Virtual Sensor (5000 Mbps) - Dynamic Threat Intelligence(F)
+,,Legacy - Classic Network NX Hardware Appliances
+,1500NXS-SW,1500 NXS Sensor Appliance (50Mbps) Software(F)
+,1500NXS-DTI,1500 NXS Sensor Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+,1500VXSCH-DTI,1500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,2500NX1-SW,2500 NX1 Appliance (50Mbps) Software(F)
+,2500NX1-DTI,2500 NX1 Appliance (50Mbps) - Dynamic Threat Intelligence(F)
+,2500VXC1-DTI,2500 MVX Cloud (50 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+,2500NX2-SW,2500 NX2 Appliance (100Mbps) Software(F)
+,2500NX2-DTI,2500 NX2 Appliance (100Mbps) - Dynamic Threat Intelligence(F)
+,2500VXC2-DTI,2500 MVX Cloud (100 Mbps) for Appliance - Dynamic Threat Intelligence(F)
+,2550NX-SW,2550 NX Appliance Software(F)
+,2550NX-DTI,2550 NX Appliance - Dynamic Threat Intelligence(F)
+,2550VXC-DTI,2550 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,2600NX,2600 NX Appliance(F)
+,2600NX-SW,2600 NX Appliance Software(F)
+,2600NX-DTI,2600 NX Appliance - Dynamic Threat Intelligence(F)
+,3500NX-SW,3500 NX Appliance Software(F)
+,3500NX-DTI,3500 NX Appliance - Dynamic Threat Intelligence(F)
+,3500VXC-DTI,3500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,3600NX,3600 NX Appliance(F)
+,3600NX-SW,3600 NX Appliance Software(F)
+,3600NX-DTI,3600 NX Appliance - Dynamic Threat Intelligence(F)
+,4500NX-SW,4500 NX Appliance Software(F)
+,4500NX-DTI,4500 NX Appliance - Dynamic Threat Intelligence(F)
+,4500VXC-DTI,4500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,4600NX,4600 NX Appliance(F)
+,4600NX-SW,4600 NX Appliance Software(F)
+,4600NX-DTI,4600 NX Appliance - Dynamic Threat Intelligence(F)
+,5500NX-SW,5500 NX Appliance Software(F)
+,5500NX-DTI,5500 NX Appliance - Dynamic Threat Intelligence(F)
+,5500VXC-DTI,5500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,5600NX,5600 NX Appliance(F)
+,5600NX-SW,5600 NX Appliance Software(F)
+,5600NX-DTI,5600 NX Appliance - Dynamic Threat Intelligence(F)
+,6500NX-SW,6500 NX Appliance Software(F)
+,6500NX-DTI,6500 NX Appliance - Dynamic Threat Intelligence(F)
+,6500VXC-DTI,6500 MVX Cloud for Appliance - Dynamic Threat Intelligence(F)
+,6600NX,6600 NX Appliance(F)
+,6600NX-SW,6600 NX Appliance Software(F)
+,6600NX-DTI,6600 NX Appliance - Dynamic Threat Intelligence(F)
+,8600NX,8600 NX Appliance(F)
+,8600NX-SW,8600 NX Appliance Software(F)
+,8600NX-DTI,8600 NX Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Classic IVX Enterprise (Formerly MVX Compute) Hardware Appliances
+,5500MVX-SW,5500 MVX Compute Appliance Software(F)
+,5500MVX-DTI,5500 MVX Compute - Dynamic Threat Intelligence(F)
+,12550MVX-SW,12550 MVX Compute Appliance Software(F)
+,12550MVX-DTI,12550 MVX Compute - Dynamic Threat Intelligence(F)
+,,Legacy - Hermes VX ISO Virtual Appliance Deployment Options
+,NWVXISO-1G-VA-S,Network Security VXISO-1G - Virtual Appliance Subscription(F)
+,NWVXISO-1G-VA,Network Security VXISO-1G - Virtual Appliance(F)
+,NWVXISO-5G-VA-S,Network Security VXISO-5G - Virtual Appliance Subscription(F)
+,NWVXISO-5G-VA,Network Security VXISO-5G - Virtual Appliance(F)
+,NWVXISO-10G-VA-S,Network Security VXISO-10G - Virtual Appliance Subscription(F)
+,NWVXISO-10G-VA,Network Security VXISO-10G - Virtual Appliance(F)
+,,Legacy - Classic VX ISO Virtual Appliances
+,VXISO-1G,VX Software Image 1G(F)
+,VXISO-1G-DTI,VX Software Image 1G - Dynamic Threat Intelligence(F)
+,VXISO-5G,VX Software Image 5G(F)
+,VXISO-5G-DTI,VX Software Image 5G - Dynamic Threat Intelligence(F)
+,VXISO-10G,VX Software Image 10G(F)
+,VXISO-10G-DTI,VX Software Image 10G - Dynamic Threat Intelligence(F)
+,,Legacy - Classic IVX Investigator/Malware Analysis AX Hardware Appliances
+,5550AX-SW,5550 AX Appliance Software(F)
+,5550AX-DTI,5550 AX Appliance - Dynamic Threat Intelligence(F)
+,5600AX,5600 IVX Investigator (Formerly AX) Appliance(F)
+,5600AX-SW,5600 IVX Investigator (Formerly AX) Appliance Software(F)
+,5600AX-DTI,5600 IVX Investigator (Formerly AX) Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Forensics IA Virtual Appliances
+,IA-VA,IA Virtual Appliance(F)
+,,Legacy - Classic Forensics IA Hardware Appliances
+,1000DIA-SW,1000D IA Appliance Software(F)
+,2100IA-HN48-SW,2100 HN48 IA Appliance Software(F)
+,2600IA,2600 IA Appliance(F)
+,2600IA-SW,2600 IA Appliance Software(F)
+,,Legacy - Central Management Hardware Appliance
+,4500CM-SW,4500 CM Appliance Software(F)
+,4500CM-SW-DTI,4500 CM Appliance Software - Dynamic Threat Intelligence(F)
+,7500CM-SW,7500 CM Appliance Software(F)
+,7500CM-SW-DTI,7500 CM Appliance Software - Dynamic Threat Intelligence(F)
+,9500CM-SW,9500 CM Appliance Software(F)
+,9500CM-SW-DTI,9500 CM Appliance Software - Dynamic Threat Intelligence(F)
+,,Legacy - Central Management Cloud
+,CM2500-CLOUD,CM 2500 Cloud(F)
+,CM2500-CLOUD-DTI,CM 2500 Cloud - Dynamic Threat Intelligence(F)
+,,Legacy - Classic Forensics PX Virtual Appliances
+,PX-VA,PX Virtual Appliance(F)
+,,Legacy - Classic Forensics PX Hardware Appliances
+,1004SPX-SW,1004 S PX Appliance Software(F)
+,2060PX-ESS96-SW,2060 ESS96 PX  Appliance Software(F)
+,2060PX-ESS120-SW,2060 ESS120 PX  Appliance Software(F)
+,2060PX-EXT20-SW,2060 EXT 20 PX Appliance Software(F)
+,4000SX-440PX-SW,4000 SX 440 PX  Appliance Software(F)
+,5600PX,5600 PX Appliance(F)
+,5600PX-SW,5600 PX Appliance Software(F)
+,7600PX,7600 PX Appliance(F)
+,7600PX-SW,7600 PX Appliance Software(F)
+,7620PX,7620 PX Appliance(F)
+,7620PX-SW,7620 PX Appliance Software(F)
+,,Legacy - Classic Forensics Storage Hardware Appliances
+,5000SX,5000 SX Appliance(F)
+,5000SX-SW,5000 SX Appliance Software(F)
+,,Legacy - Classic File Security Virtual Appliances
+,2500FX-VA,2500 FX Virtual Appliance(F)
+,2500FX-VA-DTI,2500 FX Virtual Appliance - Dynamic Threat Intelligence(F)
+,,Legacy - Classic File Security Hardware Appliances
+,6500FX-SW,6500 FX Appliance Software(F)
+,6500FX-DTI,6500 FX Appliance - Dynamic Threat Intelligence(F)
+,6600FX,6600 FX Appliance(F)
+,6600FX-SW,6600 FX Appliance Software(F)
+,6600FX-DTI,6600 FX Appliance - Dynamic Threat Intelligence(F)
+,,
+,Skyhigh,
+,,Security Service Edge
+,UCEB,Skyhigh SSE Essential
+,UCEB-U1,Skyhigh SSE - Shadow IT Upgrade
+,UCEB-U2,Skyhigh SSE - Web Hybrid Upgrade
+,UCEB-U3,Skyhigh SSE - Web Gateway Upgrade
+,UCEA,Skyhigh SSE Advanced
+,UCEA-U,Skyhigh SSE Advanced - Upgrade
+,UCEA-U1,Skyhigh CASB SaaS Unlimited - Skyhigh SSE Advanced Upgrade
+,UCEC,Skyhigh SSE Complete
+,SSEFW,Skyhigh SSE Cloud Firewall
+,SSEFWB,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall
+,SSEFWB-U,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall Upgrade
+,,CASB: Shadow IT
+,C02,Skyhigh CASB for Shadow IT
+,,CASB: SaaS
+,C63,Skyhigh CASB for SaaS Unlimited
+,C41,Skyhigh CASB for SaaS Pooled
+,C63-U,Skyhigh CASB SaaS Pooled - Skyhigh CASB SaaS Unlimited Upgrade
+,,CASB: Office 365
+,C09,Skyhigh CASB for Office 365 Mail
+,C10,Skyhigh CASB for Office 365 SharePoint and OneDrive
+,C12,Skyhigh CASB for Microsoft Office O365 Mail / SharePoint and OneDrive
+,C13,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive
+,C50,Skyhigh CASB for Office 365 Teams
+,C51,Skyhigh CASB for Office 365 Mail / SharePoint and OneDrive / Teams
+,C52,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive / Teams
+,,RP-RBI (Managed)
+,RP-RBI-MANAGED,Skyhigh Cloud App Isolation
+,,CASB: Education Institutions
+,C46,Skyhigh CASB for Office 365 Mail Student Use Option
+,C47,Skyhigh CASB for Office 365 SharePoint and OneDrive Student Use Option
+,C48,Skyhigh CASB for Google Drive Student Use Option
+,C49,Skyhigh CASB for Google Mail Student Use Option
+,,Secure Web Gateway
+,MVW,Skyhigh SWG
+,MVW-U,Skyhigh SWG - Upgrade
+,MVW-ADV,Skyhigh SWG Advanced
+,WG5500-F,Skyhigh SWG WG5500-F Appliance
+,WG5000-F,Skyhigh SWG WG5000-F Appliance
+,WSG-S,Skyhigh SWG Software - Subscription
+,GAM,Skyhigh SWG Anti-Malware AddOn
+,WAT,Skyhigh Secure Web Anti-Malware Third-Party AddOn
+,WGI,Skyhigh SWG ICAP Deployment
+,KVM,Skyhigh SWG Software KVM - Add-On
+,SVP,Skyhigh SWG Software VM Deployment Extension - Subscription
+,,Secure Web Gateway Accessories
+,MAP-10G4SR-FBRF,Skyhigh 10 Gigabit Fiber OCP Card - F Model Appliances with Short Range Transceivers
+,MAP-10G4LR-FBRF,Skyhigh 10 Gigabit Fiber OCP Card - F Model Appliances with Long Range Transceivers
+,MAP-10G2-CPRF,Skyhigh 10 Gigabit Copper OCP Card - F Model Appliances
+,,Secure Web Gateway Reverse Proxy Appliances
+,WG5500-F-RP,Skyhigh SWG WG5500-F Reverse Proxy Appliance
+,WG5000-F-RP,Skyhigh SWG WG5000-F Reverse Proxy Appliance
+,,Zero Trust Network Access
+,MPA,Skyhigh Private Access
+,,Skyhigh Private Access Promotion
+,MPA-PROMO,Skyhigh Private Access Promo MPA
+,,Cloud Native Application Protection Platform
+,C42,Skyhigh CNAPP - CSPM Account Pooled
+,C61,Skyhigh CNAPP - CSPM Resource Pooled
+,,Add-Ons
+,SSE-LSA,Skyhigh Log Stream AddOn
+,LFPDLP,Skyhigh Large File Processing Add-On
+,ADVDLP,Skyhigh Advanced DLP AddOn
+,ADVDLP-PROMO,Skyhigh Advanced DLP Promo C64
+,UCEFI,Skyhigh Remote Browser Isolation (RBI) Advanced - AddOn
+,RP-RBI,Skyhigh Cloud App Isolation - Unmanaged AddOn
+,OCRUCE-S,Skyhigh Secure Edge OCR - AddOn
+,C55,Skyhigh CASB SaaS Malware Add On
+,C43,Skyhigh CNAPP - DLP and Malware Pooled
+,C30,Skyhigh CASB Sanctioned Data Retention AddOn
+,UCEDR,Skyhigh SSE Data Retention - AddOn
+,SSE-SWGDT-SILVER,Skyhigh SSE Additional Bandwidth - Add-On Silver for SWG services
+,SSE-SWGDT-GOLD,Skyhigh SSE Additional Bandwidth - Add-On Gold for SWG services
+,SSE-SWGDT-GOLD-UPG,Skyhigh SSE Additional Bandwidth - Addon Silver to Gold Upgrade
+,SSE-DEIP,Skyhigh SSE Dedicated Egress IP - Addon
+,C04,Skyhigh CASB for Salesforce Sales Cloud - Encryption
+,C06,Skyhigh CASB for Salesforce Service Cloud - Encryption
+,C08,Skyhigh CASB for ServiceNow - Encryption
+,UCEMEPO,Trellix ePO-SaaS for SSE - AddOn
+,C65,Skyhigh SaaS Unlimited (Inline) - Addon
+,,Solution Services
+,MSH-CONS-DY,Skyhigh Security Professional Services (POST)
+,MSH-CONS-DYPP,Skyhigh Security Professional Services (Prepaid)
+,SS-TRN-VOUCHER,Skyhigh Security Training Voucher
+,SS-TRVL-VOUCHER,Skyhigh Security Travel Voucher
+,SS-CONS-VOUCHER,Skyhigh Security Consulting Voucher
+,SS-CONS-INREG-DYPP,Skyhigh Security Professional Services - In Region (Prepaid)
+,ES-SS-QUOTEPP,Skyhigh Consulting (Prepaid)
+,,Customer Care Plans
+,SS-PREMIUM-CARE,Premium Care Plan
+,SS-ENTERPRISE-CARE,Enterprise Care Plan
+,SS-ENTERPRISE-CARE-P,Partner Care Plan - Non G2K
+,SS-FED-PREMIUM-CARE,Federal Premium Care Plan
+,SS-PLAN-STACK-ADDON,Skyhigh Care Plans - Stackable Support Add-on
+,,Technical Support
+,WG-MEDIA-RET,Skyhigh Single Media Retention Item/Service Fee
+,SH-CUST-SPPT,Software Custom Support
+,,
+,Skyhigh DE Data Center,
+,,Security Service Edge
+,UCEB-DE,Skyhigh SSE Essential (Germany Data Center)
+,UCEB-U1-DE,Skyhigh SSE - Shadow IT Upgrade (Germany Data Center)
+,UCEB-U2-DE,Skyhigh SSE - Web Hybrid Upgrade (Germany Data Center)
+,UCEB-U3-DE,Skyhigh SSE - Web Gateway Upgrade (Germany Data Center)
+,UCEA-DE,Skyhigh SSE Advanced (Germany Data Center)
+,UCEA-U-DE,Skyhigh SSE Advanced - Upgrade (Germany Data Center)
+,UCEA-U1-DE,Skyhigh CASB SaaS Unlimited - Skyhigh SSE Advanced Upgrade (Germany Data Center)
+,UCEC-DE,Skyhigh SSE Complete (Germany Data Center)
+,SSEFW-DE,Skyhigh SSE Cloud Firewall (Germany Data Center)
+,SSEFWB-DE,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall (Germany Data Center)
+,SSEFWB-U-DE,Skyhigh SSE Essential + Skyhigh SSE Cloud Firewall  (Germany Data Center) Upgrade
+,,CASB: Shadow IT
+,C02-DE,Skyhigh CASB for Shadow IT (Germany Data Center)
+,,CASB: SaaS
+,C63-DE,Skyhigh CASB for SaaS Unlimited (Germany Data Center)
+,C41-DE,Skyhigh CASB for SaaS Pooled (Germany Data Center)
+,C63-U-DE,Skyhigh CASB SaaS Pooled - Skyhigh CASB SaaS Unlimited Upgrade (Germany Data Center)
+,,CASB: Office 365
+,C09-DE,Skyhigh CASB for Office 365 Mail (Germany Data Center)
+,C10-DE,Skyhigh CASB for Office 365 SharePoint and OneDrive (Germany Data Center)
+,C12-DE,Skyhigh CASB for Microsoft Office O365 Mail / SharePoint and OneDrive (Germany Data Center)
+,C13-DE,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive (Germany Data Center)
+,C50-DE,Skyhigh CASB for Office 365 Teams (Germany Data Center)
+,C51-DE,Skyhigh CASB for Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center)
+,C52-DE,Skyhigh CASB for Shadow IT / Office 365 Mail / SharePoint and OneDrive / Teams (Germany Data Center)
+,,RP-RBI (Managed)
+,RP-RBI-MANAGED-DE,Skyhigh Cloud App Isolation (Germany Data Center)
+,,Secure Web Gateway
+,MVW-DE,Skyhigh SWG (Germany Data Center)
+,MVW-U-DE,Skyhigh SWG - Upgrade (Germany Data Center)
+,MVW-ADV-DE,Skyhigh SWG Advanced (Germany Data Center)
+,,Zero Trust Network Access
+,MPA-DE,Skyhigh Private Access (Germany Data Center)
+,,Skyhigh Private Access Promotion
+,MPA-PROMO DE,Skyhigh Private Access Promo MPA  (Germany Data Center)
+,,Cloud Native Application Protection Platform
+,C42-DE,Skyhigh CNAPP - CSPM Account Pooled (Germany Data Center)
+,C61-DE,Skyhigh CNAPP - CSPM Resource Pooled (Germany Data Center)
+,,Add-Ons
+,SSE-LSA-DE,Skyhigh Log Stream AddOn (Germany Data Center)
+,LFPDLP-DE,Skyhigh Large File Processing Add-On (Germany Data Center)
+,ADVDLP-DE,Skyhigh Advanced DLP Add On (Germany Data Center)
+,ADVDLP-PROMO-DE,Skyhigh Advanced DLP Promo C64 (Germany Data Center)
+,UCEMEPO-DE,Trellix ePO-SaaS for SSE - AddOn (Germany Data Center)
+,UCEFI-DE,Skyhigh Remote Browser Isolation (RBI) Advanced - AddOn (Germany Data Center)
+,RP-RBI-DE,Skyhigh Cloud App Isolation - Unmanaged AddOn (Germany Data Center)
+,OCRUCE-S-DE,Skyhigh Secure Edge OCR - AddOn (Germany Data Center)
+,C55-DE,Skyhigh CASB SaaS Malware Add On (Germany Data Center)
+,C43-DE,Skyhigh CNAPP - DLP and Malware Pooled (Germany Data Center)
+,C30-DE,Skyhigh CASB Sanctioned Data Retention AddOn (Germany Data Center)
+,UCEDR-DE,Skyhigh SSE Data Retention - AddOn (Germany Data Center)
+,SSE-SWGDT-SILVER-DE,Skyhigh SSE Additional Bandwidth - Add-On Silver for SWG services (Germany Data Center)
+,SSE-SWGDT-GOLD-DE,Skyhigh SSE Additional Bandwidth - Add-On Gold for SWG services (Germany Data Center)
+,SSE-SWGDT-GOLD-UPG-DE,Skyhigh SSE Additional Bandwidth - Addon Silver to Gold Upgrade (Germany Data Center)
+,SSE-DEIP-DE,Skyhigh SSE Dedicated Egress IP - Addon (Germany Data Center)
+,C04-DE,Skyhigh CASB for Salesforce Sales Cloud - Encryption (Germany Data Center)
+,C06-DE,Skyhigh CASB for Salesforce Service Cloud - Encryption (Germany Data Center)
+,C08-DE,Skyhigh CASB for ServiceNow - Encryption (Germany Data Center)
+,C65-DE,Skyhigh SaaS Unlimited (Inline) - Addon (Germany Data Center)
+,,
+,Skyhigh NON GA QUOTES ONLY,
+,,Add-Ons
+,SEBS,Skyhigh Enterprise Browser Security - AddOn
+,SEBS-DE,Skyhigh Enterprise Browser Security - AddOn (Germany Data Center)
+,,
+,Skyhigh Legacy,
+,,CASB: Custom Apps
+,C28-DE,Skyhigh CASB  for Custom Apps (Germany Data Center)
+,C28,Skyhigh CASB  for Custom Apps
+,,Legacy - CASB: Business Apps
+,C03-DE,Skyhigh CASB for Salesforce Sales Cloud (Germany Data Center)
+,C03,Skyhigh CASB for Salesforce Sales Cloud
+,C05-DE,Skyhigh CASB for Salesforce Service Cloud (Germany Data Center)
+,C05,Skyhigh CASB for Salesforce Service Cloud
+,C07-DE,Skyhigh CASB for ServiceNow (Germany Data Center)
+,C07,Skyhigh CASB for ServiceNow
+,C39-DE,Skyhigh CASB for Workday (Germany Data Center)
+,C39,Skyhigh CASB for Workday
+,,Legacy - CASB: Collaboration Apps
+,C14-DE,Skyhigh CASB for Box (Germany Data Center)
+,C14,Skyhigh CASB for Box
+,C16-DE,Skyhigh CASB for Dropbox (Germany Data Center)
+,C16,Skyhigh CASB for Dropbox
+,C17-DE,Skyhigh CASB for SLACK (Germany Data Center)
+,C17,Skyhigh CASB for SLACK
+,C18-DE,Skyhigh CASB for Google Drive (Germany Data Center)
+,C18,Skyhigh CASB for Google Drive
+,C29-DE,Skyhigh CASB for Google Mail (Germany Data Center)
+,C29,Skyhigh CASB for Google Mail
+,,Legacy - Secure Web Gateway
+,WG5500-E2,Skyhigh SWG WG5500-E2 Appliance
+,WG5000-E2,Skyhigh SWG WG5000-E2 Appliance
+,WG4500-E,Skyhigh SWG WG4500-E Appliance
+,WG5500-E,Skyhigh SWG WG5500-E Appliance
+,WG5500-D,Web Gateway WG5500-D Appliance
+,WG5000-E,Skyhigh SWG WG5000-E Appliance
+,WG5000-D,Web Gateway WG5000-D Appliance
+,WG4500-D,Web Gateway WG4500-D Appliance
+,WSG,Skyhigh SWG Software
+,WPS2,Skyhigh Web Protection Suite 2 - WPS2
+,WPS2-DE,Skyhigh Web Protection Suite 2 - WPS2  (Germany Data Center)
+,,Legacy - Secure Web Gateway Reverse Proxy Appliances
+,WG5500-E-RP,Skyhigh SWG WG5500-E Reverse Proxy Appliance
+,WG5000-E-RP,Skyhigh SWG WG5000-E Reverse Proxy Appliance
+,WG4500-E-RP,Skyhigh SWG WG4500-E Reverse Proxy Appliance
+,WG5500-D-RP,Web Gateway WG5500-D Reverse Proxy Appliance
+,WG5000-D-RP,Web Gateway WG5000-D Reverse Proxy Appliance
+,WG4500-D-RP,Web Gateway WG4500-D Reverse Proxy Appliance
+,,Legacy - Secure Web Gateway Accessories
+,PCIE-10GB-FBR-2-LR,Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Long Range Transceivers
+,PCIE-10GB-FBR-2-SR,Skyhigh 10 Gigabit Fiber PCIe Card - E Model Appliances with Short Range Transceivers
+,PCIE-10GB-FBR-2,10 Gigabit Fiber PCIe Card - E Model Appliances
+,PCIE-10GB-FBR-1,10 Gigabit Fiber PCIe Card - D Model Appliances
+,,Legacy - Customer Care Plans
+,CSPLAN-CLDATC-ADDON,Technical Account Manager (TAM-C) Add on for Skyhigh Care Plans
+,,Legacy - Remote Cloud Success
+,MVC-REMOTE-CSM-CATC,SSE Remote CSM and C-ATC

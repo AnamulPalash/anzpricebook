@@ -1,0 +1,78 @@
+Unnamed: 0,Unnamed: 1
+,
+Price List,
+Version,
+Publication Date,
+Effective Date,
+PriceBookType,
+Currency,
+,
+,
+,
+REGSM,This is the beginning of the Regular Text block
+,
+,価格、SKU、受注可能日、その他は予告なく変更することがあります。
+,
+,価格は消費税を含みません。
+,
+,製品の詳細につきましては、弊社Webにてご確認ください。
+,http://www.mcafee.com/japan/
+,
+,
+,マカフィー株式会社
+,150-0043　東京都渋谷区道玄坂1-12-1　渋谷マークシティウェスト20階
+,
+REGEM,This is the end of the Regular Text block
+,
+RESSM,This is the beginning of the Resell Text block
+,
+,Trellix and Skyhigh Security are the trademark or registered trademark of Musarubra US LLC and their affiliates in the US and /or other countries. Other names and brands are the property of these companies or may be claimed as the property of others. 
+,Non Trellix/Skyhigh Trademark Notice: Other names and brands may be claimed as the property of others.
+,
+RESEM,This is the end of the Resell Text block
+MSPSM,This is the start of the MSP Text Block
+,
+,"Herein, ‘the Company’ will refer to Musarubra US LLC or its subsidiaries in the U.S. and/or other countries under which the Trellix and Skyhigh Security divisional branded products, solutions and programs, and Customer Success Group’s services, are operated."
+,
+,"Prices are subject to change without notice, subject to contractual obligations that may apply. Prices are exclusive of tax, handling and freight. The Company's Resellers should contact their preferred Company authorized Distributor for pricing inquires."
+,"For Service Provider (SP) Pay-go (Monthly Royalty) offerings: The Company Business Support and applicable Advanced RMA's are included in the Service Provider Pay-Go Monthly Offering. No additional support SKUs need to be purchased. When purchasing under the Pay-go pricing model, products can only be licensed to the SP, they are non-transferable and they may be used in both single tenant and shared service environments. The Company can change the MSRP and/or Tier1 price as follows: (i) decrease the price at any time; (ii) increase the price only once each calendar year in Q1; and ; (iii) increase any non-USD prices at any time to offset exchange rate fluctuations. The Company can introduce new product offerings at any time.  Monthly pricing for these SKUs will follow the above for the remainder of the then current calendar year. The “MO” Monthly fee pricing is applicable the first full month of the quarter it is released in. For example, if the Q1 price book is effective January 9th, the pricing will be applicable as of February 1st. "
+,
+,"For Standard Upfront purchase offerings: The Company Business Hardware/Software Support is required and needs to be purchased in addition to the corresponding product. When purchasing under the Standard Upfront pricing model, products can only be purchased in the name of the MSP/OSP, on behalf of a specific named end customer. The products can only be transferred to that named end  customer at the end of the then current support term."
+,
+,Quote Handbook
+,"The Quote Handbook contains the Comapany's standard polices required to accurately build a valid quote and order. The Handbook is comprised of four major categories: Business Policies, Product Policies, Solution Services Policies and Technical Support Policies.  Please refer to this guide when quoting or ordering solutions."
+,Trellix/Skyhigh Sales
+,https://trellix365.sharepoint.com/sites/Pricing/
+,
+,Trellix/Skyhigh Partners:
+,https://partners.trellix.com/
+,
+,Export Compliance
+,"The Company's Products and software are subject to the export control laws and regulations of the United State of America (“US”), and any amendments thereof.  These products must not be exported or re-exported directly or indirectly, to (i) any countries that are subject to US export restrictions (Cuba, Iran, North Korea, Sudan, Syria, and Crimea Region of Ukraine); (ii) any end user that will utilize the products in the design, development or production of nuclear, chemical or biological weapons; or (iii) any end user who has been prohibited from participating in US export transactions by any federal agency of the US government.  You further acknowledge that Products would be subject to the export rules and regulations in the country in which you operate.  Additional information on US requirements can be found on the Company's export compliance page at:"
+,https://www.trellix.com/en-us/about/export-compliance.html
+,
+,Technical Support
+,https://partners.trellix.com/
+,"Log in, then go to [Support] Tab"
+,
+,Electronic Software Distribution
+,"In order to get the latest, up to date products into our Customer's hands quickly and efficiently, the Company supports Electronic Software Delivery for our Enterprise Software Products. In some Regions media kits are available for purchase. Upon receipt of their electronically delivered grant letter, Customers will be able to immediately access, download and install the latest version of their on premise product via the Company's download site. This download site is available at: "
+,https://www.trellix.com/en-us/downloads.html
+,
+,"Confidential and Proprietary – Distribution of this document in part or whole is not permitted without the written consent of the Company. Please note that any information relating to product status changes (e.g. end of life, end of sale, new products, bundles, promotions) that is conveyed as part of the price book, channel webcasts or other forms of communication to distributors or resellers is held to the confidentiality clause contained within your executed partner agreement. The receiver of this information shall exercise a reasonable degree of care to protect the Confidential Information from unauthorized disclosure."
+,
+,"In the course of assisting channel partners in marketing, identifying business opportunities or in any other dealings, the Company sales staff are not permitted or authorized to set fixed or minimum resale prices or influence in any way channel partners' prices to their customers (including any element of resale pricing such as margins, discounts or rebates.)  Any reference to resale prices (and any element of resale prices) by the Company sales staff is a non-binding recommendation only."
+,
+,Trellix and Skyhigh Security are the trademark or registered trademark of Musarubra US LLC and their affiliates in the US and /or other countries. Other names and brands are the property of these companies or may be claimed as the property of others. 
+,Non Trellix/Skyhigh Trademark Notice: Other names and brands may be claimed as the property of others.
+,
+MSPEM,This is the end of the MSP Text Block
+MSSSM,This is the start of the MSP Resell Text Block
+,
+,Trellix and Skyhigh Security are the trademark or registered trademark of Musarubra US LLC and their affiliates in the US and /or other countries. Other names and brands are the property of these companies or may be claimed as the property of others. 
+,Non Trellix/Skyhigh Trademark Notice: Other names and brands may be claimed as the property of others.
+MSSEM,This is the end of the MSP Resell Text Block
+,
+,"Corporate Headquarters
+6000 Headquarters Drive, Suite 600
+Plano, TX 75024 USA"
